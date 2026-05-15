@@ -39,9 +39,9 @@ export function ReviewDetail({ errorData, dict }: { errorData: TErrorWordData[];
         <MdiRobotAngry fontSize={30} className="text-indigo-300 " />
         <blockquote>
           <p className="text-lg font-medium text-gray-600 dark:text-gray-300">
-            我们将使用您在该词典的历史练习数据、错误次数、练习时间来智能生成练习列表
+            この辞書での過去の練習データ、誤答回数、練習時間をもとに復習リストを自動生成します。
             <br />
-            目前该生成方式还处于实验阶段，我们会逐步完善该生成方式
+            この生成方法は現在実験段階で、今後も改善していく予定です。
           </p>
         </blockquote>
       </div>
@@ -63,11 +63,13 @@ export function ReviewDetail({ errorData, dict }: { errorData: TErrorWordData[];
                 {latestReviewRecord.index + 1}/{latestReviewRecord.words.length}
               </span>
             </div>
-            <div className="mt-1 text-sm font-normal text-gray-500">{`( 创建于 ${timeStamp2String(latestReviewRecord.createTime)} )`}</div>
+            <div className="mt-1 text-sm font-normal text-gray-500">{`( 作成日時: ${timeStamp2String(
+              latestReviewRecord.createTime,
+            )} )`}</div>
           </>
         )}
 
-        {!latestReviewRecord && <div>当前词典错词数: {errorData.length}</div>}
+        {!latestReviewRecord && <div>現在の辞書の誤答数: {errorData.length}</div>}
 
         <div className="mt-6 flex gap-10">
           {latestReviewRecord && (

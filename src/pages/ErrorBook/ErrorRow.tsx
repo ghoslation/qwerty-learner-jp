@@ -19,6 +19,7 @@ const ErrorRow: FC<IErrorRowProps> = ({ record, onDelete }) => {
   const setCurrentRowDetail = useSetAtom(currentRowDetailAtom)
   const dictInfo = idDictionaryMap[record.dict]
   const { word, isLoading, hasError } = useGetWord(record.word, dictInfo)
+  const trans = word?.trans.join('；')
 
   const onClick = useCallback(() => {
     setCurrentRowDetail(record)
@@ -32,7 +33,15 @@ const ErrorRow: FC<IErrorRowProps> = ({ record, onDelete }) => {
     >
       <span className="basis-2/12 break-normal">{record.word}</span>
       <span className="basis-6/12 break-normal">
-        {word ? word.trans.join('；') : <LoadingWordUI isLoading={isLoading} hasError={hasError} />}
+        {trans ? (
+          trans.includes('<ruby>') ? (
+            <span dangerouslySetInnerHTML={{ __html: trans }} />
+          ) : (
+            trans
+          )
+        ) : (
+          <LoadingWordUI isLoading={isLoading} hasError={hasError} />
+        )}
       </span>
       <span className="basis-1/12 break-normal pl-8">{record.wrongCount}</span>
       <span className="basis-1/12 break-normal">{dictInfo?.name}</span>
@@ -49,7 +58,7 @@ const ErrorRow: FC<IErrorRowProps> = ({ record, onDelete }) => {
               <DeleteIcon />
             </TooltipTrigger>
             <TooltipContent>
-              <p>Delete Records</p>
+              <p>記録を削除</p>
             </TooltipContent>
           </Tooltip>
         </TooltipProvider>

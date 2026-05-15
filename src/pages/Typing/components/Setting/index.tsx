@@ -86,7 +86,7 @@ export default function Setting() {
                           }
                         >
                           <IconEar className="mr-2 text-neutral-500  dark:text-neutral-300" />
-                          <span className="text-neutral-500 dark:text-neutral-300 ">効果音設定</span>
+                          <span className="whitespace-nowrap text-neutral-500 dark:text-neutral-300 ">サウンド設定</span>
                         </Tab>
                         <Tab
                           className={({ selected }) =>
@@ -97,7 +97,7 @@ export default function Setting() {
                           }
                         >
                           <IconAdjustmentsHorizontal className="mr-2 text-neutral-500  dark:text-neutral-300" />
-                          <span className="text-neutral-500 dark:text-neutral-300">詳細設定</span>
+                          <span className="whitespace-nowrap text-neutral-500 dark:text-neutral-300">詳細設定</span>
                         </Tab>
                         <Tab
                           className={({ selected }) =>
@@ -108,7 +108,7 @@ export default function Setting() {
                           }
                         >
                           <IconEye className="mr-2 text-neutral-500  dark:text-neutral-300" />
-                          <span className="text-neutral-500 dark:text-neutral-300">表示設定</span>
+                          <span className="whitespace-nowrap text-neutral-500 dark:text-neutral-300">表示設定</span>
                         </Tab>
                         <Tab
                           className={({ selected }) =>
@@ -119,7 +119,7 @@ export default function Setting() {
                           }
                         >
                           <IconDatabaseCog className="mr-2 text-neutral-500  dark:text-neutral-300" />
-                          <span className="text-neutral-500 dark:text-neutral-300">データ設定</span>
+                          <span className="whitespace-nowrap text-neutral-500 dark:text-neutral-300">データ管理</span>
                         </Tab>
                       </Tab.List>
 

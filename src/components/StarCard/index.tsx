@@ -66,11 +66,12 @@ export default function StarCard() {
               <div className="flex flex-shrink-0 items-center">
                 <div className="ml-0.5">👈</div>
                 <IconStar className="h-4 w-4 text-indigo-600" />
-                <div className="ml-1 text-gray-600 dark:text-gray-300">点亮它！</div>
+                <div className="ml-1 text-gray-600 dark:text-gray-300">スターを付ける</div>
               </div>
             </div>
             <span className="w-full text-center text-gray-600 dark:text-gray-300">
-              收藏快捷键<span className="ml-2 text-indigo-600 dark:text-indigo-500">{IS_MAC_OS ? '⌘' : 'Ctrl'} + D</span>
+              ブックマークのショートカット
+              <span className="ml-2 text-indigo-600 dark:text-indigo-500">{IS_MAC_OS ? '⌘' : 'Ctrl'} + D</span>
             </span>
           </div>
         ) : (
@@ -79,9 +80,9 @@ export default function StarCard() {
               className="rounded-lg bg-indigo-600 px-6 py-2 text-lg text-white transition-colors duration-300 focus:outline-none"
               type="button"
               onClick={onClickWantStar}
-              title="我想收藏"
+              title="ブックマークする"
             >
-              我想收藏
+              ブックマークする
             </button>
           </div>
         )}
@@ -106,15 +107,16 @@ export default function StarCard() {
           {isCounting && (
             <span className="mx-1.5 dark:text-gray-100">
               <span className="text-indigo-600">{countdown}s </span>
-              后自动关闭
+              後に自動で閉じます
             </span>
           )}
-          <button type="button" onClick={onClickCloseStar} title="关闭提示" aria-label="关闭提示">
+          <button type="button" onClick={onClickCloseStar} title="ヒントを閉じる" aria-label="ヒントを閉じる">
             <IconCircleX className="h-5 w-5 text-indigo-400" />
           </button>
         </div>
         <span className="pb-4 text-xl text-gray-600 dark:text-gray-50">
-          坚持练习，提高语言能力。将 <span className="text-indigo-600">「Qwerty Learner」</span>保存到收藏夹，永不迷失！
+          練習を続けて語学力を伸ばしましょう。<span className="text-indigo-600">「Qwerty Learner」</span>
+          をブックマークしておくと、いつでもすぐに戻ってこられます。
         </span>
         {content}
       </div>

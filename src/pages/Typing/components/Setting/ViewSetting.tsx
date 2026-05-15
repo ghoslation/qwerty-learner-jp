@@ -40,7 +40,7 @@ export default function ViewSetting() {
           <div className={styles.section}>
             <span className={styles.sectionLabel}>フォント設定</span>
             <div className={styles.block}>
-              <span className={styles.blockLabel}>外国語フォント</span>
+              <span className={styles.blockLabel}>単語のフォントサイズ</span>
               <div className="flex h-5 w-full items-center justify-between">
                 <Slider.Root
                   value={[fontSizeConfig.foreignFont]}
@@ -60,7 +60,7 @@ export default function ViewSetting() {
             </div>
 
             <div className={styles.block}>
-              <span className={styles.blockLabel}>中国語フォント</span>
+              <span className={styles.blockLabel}>訳文のフォントサイズ</span>
               <div className="flex h-5 w-full items-center justify-between">
                 <Slider.Root
                   value={[fontSizeConfig.translateFont]}
@@ -79,8 +79,13 @@ export default function ViewSetting() {
               </div>
             </div>
           </div>
-          <button className="my-btn-primary ml-4 disabled:bg-gray-300" type="button" onClick={onResetFontSize} title="フォント設定をリセット">
-            重置字体设置
+          <button
+            className="my-btn-primary ml-4 disabled:bg-gray-300"
+            type="button"
+            onClick={onResetFontSize}
+            title="フォント設定をリセット"
+          >
+            フォント設定をリセット
           </button>
         </div>
       </ScrollArea.Viewport>

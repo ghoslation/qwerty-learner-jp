@@ -54,20 +54,22 @@ export default function AdvancedSetting() {
       <ScrollArea.Viewport className="h-full w-full px-3">
         <div className={styles.tabContent}>
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>章のランダム順</span>
-            <span className={styles.sectionDescription}>オンにすると、毎回の練習で章内の単語がランダムに並べ替えられます。次の章から有効</span>
+            <span className={styles.sectionLabel}>章内の単語をランダムに出題</span>
+            <span className={styles.sectionDescription}>
+              オンにすると、章内の単語が練習ごとにランダムな順番で表示されます。次の章から有効になります。
+            </span>
             <div className={styles.switchBlock}>
               <Switch checked={randomConfig.isOpen} onChange={onToggleRandom} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
               </Switch>
-              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`ランダム${
+              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`ランダム出題${
                 randomConfig.isOpen ? 'オン' : 'オフ'
               }`}</span>
             </div>
           </div>
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>練習中に前後の単語を表示</span>
-            <span className={styles.sectionDescription}>オンにすると、練習中に上部に前後の単語が表示されます</span>
+            <span className={styles.sectionLabel}>前後の単語を表示</span>
+            <span className={styles.sectionDescription}>オンにすると、練習中に画面上部へ前後の単語が表示されます。</span>
             <div className={styles.switchBlock}>
               <Switch checked={isShowPrevAndNextWord} onChange={onToggleLastAndNextWord} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
@@ -78,20 +80,22 @@ export default function AdvancedSetting() {
             </div>
           </div>
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>大文字小文字を区別しない</span>
-            <span className={styles.sectionDescription}>オンにすると、入力時に大文字小文字が区別されなくなります。例: "hello"も"Hello"も正解とみなされます</span>
+            <span className={styles.sectionLabel}>大文字と小文字を区別しない</span>
+            <span className={styles.sectionDescription}>
+              オンにすると、大文字と小文字の違いを無視します。例: "hello" も "Hello" も正解になります。
+            </span>
             <div className={styles.switchBlock}>
               <Switch checked={isIgnoreCase} onChange={onToggleIgnoreCase} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
               </Switch>
-              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`大文字小文字無視${
+              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`大小文字を無視${
                 isIgnoreCase ? 'オン' : 'オフ'
               }`}</span>
             </div>
           </div>
           <div className={styles.section}>
             <span className={styles.sectionLabel}>テキスト選択を許可</span>
-            <span className={styles.sectionDescription}>オンにすると、マウスでテキストを選択できます </span>
+            <span className={styles.sectionDescription}>オンにすると、マウスでテキストを選択できます。</span>
             <div className={styles.switchBlock}>
               <Switch checked={isTextSelectable} onChange={onToggleTextSelectable} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
@@ -102,8 +106,8 @@ export default function AdvancedSetting() {
             </div>
           </div>
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>書き取りモードでヒントを表示</span>
-            <span className={styles.sectionDescription}>オンにすると、単語にマウスホバーで正解が表示されます </span>
+            <span className={styles.sectionLabel}>書き取りモードで正解を表示</span>
+            <span className={styles.sectionDescription}>オンにすると、単語にマウスカーソルを重ねたときに正解が表示されます。</span>
             <div className={styles.switchBlock}>
               <Switch checked={isShowAnswerOnHover} onChange={onToggleShowAnswerOnHover} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />

@@ -13,7 +13,7 @@ export const AuthorButton = () => {
           </Avatar>
         </TooltipTrigger>
         <TooltipContent className="cursor-pointer" onClick={() => window.open('https://kaiyi.cool', '_blank')}>
-          <p>点击了解作者和更多作品 ❤️</p>
+          <p>作者とその他の作品を見る</p>
         </TooltipContent>
       </Tooltip>
     </TooltipProvider>

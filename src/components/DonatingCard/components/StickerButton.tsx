@@ -15,7 +15,7 @@ export const StickerButton = ({ className }: { className?: string }) => {
         ${className}`}
       >
         <SolarStickerSmileSquareOutline className="mb-[2px] mr-2 inline-block text-sm " />
-        查看贴纸
+        ステッカーを見る
       </div>
       <Tooltip
         id="sticker-btn"
@@ -29,7 +29,7 @@ export const StickerButton = ({ className }: { className?: string }) => {
         </div>
         <span className="mt-3 text-xs font-bold text-gray-500">
           <IconInfo className="mb-[3px] mr-1 inline-block" />
-          此贴纸非商品，仅用于感谢您的捐赠，不可用于任何商业用途
+          このステッカーは商品ではありません。ご寄付へのお礼としてのみ提供しており、商用利用はできません。
         </span>
       </Tooltip>
     </>

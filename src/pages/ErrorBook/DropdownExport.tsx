@@ -51,7 +51,7 @@ const DropdownExport: FC<DropdownProps> = ({ renderRecords }) => {
       const dictDataResults = await Promise.all(dictDataPromises)
       const dictDataMap = new Map(dictDataResults.map((result) => [result.url, result.data]))
 
-      const ExportData: Array<{ 单词: string; 释义: string; 错误次数: number; 词典: string }> = []
+      const ExportData: Array<{ 単語: string; 訳: string; 誤答回数: number; 辞書: string }> = []
 
       renderRecords.forEach((item: any) => {
         const dictInfo = idDictionaryMap[item.dict]
@@ -64,17 +64,17 @@ const DropdownExport: FC<DropdownProps> = ({ renderRecords }) => {
         }
 
         ExportData.push({
-          单词: item.word,
-          释义: translation,
-          错误次数: item.wrongCount,
-          词典: dictInfo?.name || item.dict,
+          単語: item.word,
+          訳: translation,
+          誤答回数: item.wrongCount,
+          辞書: dictInfo?.name || item.dict,
         })
       })
 
       let blob: Blob
 
       if (bookType === 'txt') {
-        const content = ExportData.map((item: any) => `${item.单词}: ${item.释义}`).join('\n')
+        const content = ExportData.map((item) => `${item.単語}: ${item.訳}`).join('\n')
         blob = new Blob([content], { type: 'text/plain' })
       } else {
         const worksheet = XLSX.utils.json_to_sheet(ExportData)

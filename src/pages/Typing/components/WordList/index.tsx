@@ -14,7 +14,7 @@ const currentDictTitle = atom((get) => {
   const isReviewMode = get(isReviewModeAtom)
 
   if (isReviewMode) {
-    return `${get(currentDictInfoAtom).name} 错题复习`
+    return `${get(currentDictInfoAtom).name} 誤答復習`
   } else {
     return `${get(currentDictInfoAtom).name} 第 ${get(currentChapterAtom) + 1} 章`
   }
@@ -38,7 +38,7 @@ export default function WordList() {
 
   return (
     <>
-      <Tooltip content="List" placement="top" className="!absolute left-5 top-[50%] z-20">
+      <Tooltip content="単語リスト" placement="top" className="!absolute left-5 top-[50%] z-20">
         <button
           type="button"
           onClick={openModal}

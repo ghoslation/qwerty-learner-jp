@@ -58,12 +58,14 @@ export default function DataSetting() {
       <ScrollArea.Viewport className="h-full w-full px-3">
         <div className={styles.tabContent}>
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>データエクスポート</span>
+            <span className={styles.sectionLabel}>データのエクスポート</span>
             <span className={styles.sectionDescription}>
-              現在、ユーザーの練習データは<strong>ローカルのみに保存</strong>されています。異なるデバイスやブラウザ、または非公式デプロイで Qwerty Learner を使用する場合は、手動でデータの同期と保存を行う必要があります。練習の進捗を保持し、近日公開予定のデータ分析やスマートトレーニング機能を利用するために、定期的なデータのバックアップをお勧めします。
+              現在、練習データは<strong>ローカル環境にのみ保存</strong>されています。別のデバイスやブラウザ、または非公式デプロイ版で Qwerty
+              Learner
+              を使用する場合は、手動でデータを同期または保存する必要があります。練習の進捗を保持し、今後公開予定のデータ分析やスマートトレーニング機能を利用するため、定期的なバックアップをお勧めします。
             </span>
             <span className="pl-4 text-left text-sm font-bold leading-tight text-red-500">
-              データの安全のため、エクスポートしたデータファイルを編集しないでください。
+              データ保護のため、エクスポートしたデータファイルは編集しないでください。
             </span>
             <div className="flex h-3 w-full items-center justify-start px-5">
               <Progress.Root
@@ -85,13 +87,14 @@ export default function DataSetting() {
               disabled={isExporting}
               title="データをエクスポート"
             >
-              导出数据
+              データをエクスポート
             </button>
           </div>
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>データインポート</span>
+            <span className={styles.sectionLabel}>データのインポート</span>
             <span className={styles.sectionDescription}>
-              ご注意：データのインポートは現在のデータを<strong className="text-sm font-bold text-red-500">完全に上書き</strong>します。注意して操作してください。
+              ご注意: データをインポートすると、現在のデータは<strong className="text-sm font-bold text-red-500">完全に上書き</strong>
+              されます。操作は慎重に行ってください。
             </span>
 
             <div className="flex h-3 w-full items-center justify-start px-5">
@@ -114,7 +117,7 @@ export default function DataSetting() {
               disabled={isImporting}
               title="データをインポート"
             >
-              导入数据
+              データをインポート
             </button>
           </div>
         </div>

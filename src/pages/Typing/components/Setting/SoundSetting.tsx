@@ -154,7 +154,7 @@ export default function SoundSetting() {
             </div>
 
             <div className={styles.block}>
-              <span className={styles.blockLabel}>倍速</span>
+              <span className={styles.blockLabel}>再生速度</span>
               <div className="flex h-5 w-full items-center justify-between">
                 <Slider.Root
                   defaultValue={[pronunciationConfig.rate ?? 1]}
@@ -176,12 +176,12 @@ export default function SoundSetting() {
           </div>
           {window.speechSynthesis && (
             <div className={styles.section}>
-              <span className={styles.sectionLabel}>訳発音</span>
+              <span className={styles.sectionLabel}>訳文の読み上げ</span>
               <div className={styles.switchBlock}>
                 <Switch checked={pronunciationConfig.isTransRead} onChange={onTogglePronunciationIsTransRead} className="switch-root">
                   <span aria-hidden="true" className="switch-thumb" />
                 </Switch>
-                <span className="text-right text-xs font-normal leading-tight text-gray-600">{`発音${
+                <span className="text-right text-xs font-normal leading-tight text-gray-600">{`読み上げ${
                   pronunciationConfig.isTransRead ? 'オン' : 'オフ'
                 }`}</span>
               </div>
@@ -209,12 +209,12 @@ export default function SoundSetting() {
           )}
 
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>キー音</span>
+            <span className={styles.sectionLabel}>キー操作音</span>
             <div className={styles.switchBlock}>
               <Switch checked={keySoundsConfig.isOpen} onChange={onToggleKeySounds} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
               </Switch>
-              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`発音${
+              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`操作音${
                 keySoundsConfig.isOpen ? 'オン' : 'オフ'
               }`}</span>
             </div>
@@ -239,7 +239,7 @@ export default function SoundSetting() {
               </div>
             </div>
             <div className={`${styles.block}`}>
-              <span className={styles.blockLabel}>キー音効果</span>
+              <span className={styles.blockLabel}>操作音の種類</span>
               <Listbox value={keySoundsConfig.resource.key} onChange={onChangeKeySoundsResource}>
                 <div className="relative">
                   <Listbox.Button className="listbox-button w-60">
@@ -286,7 +286,7 @@ export default function SoundSetting() {
               <Switch checked={hintSoundsConfig.isOpen} onChange={onToggleHintSounds} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
               </Switch>
-              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`発音${
+              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`効果音${
                 hintSoundsConfig.isOpen ? 'オン' : 'オフ'
               }`}</span>
             </div>

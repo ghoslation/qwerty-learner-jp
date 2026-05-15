@@ -88,18 +88,26 @@ const RowDetail: React.FC<RowDetailProps> = ({ currentRowDetail, allRecords }) =
           </div>
           <div className="flex max-w-[24rem] items-center">
             <span className={`max-w-4xl text-center font-sans transition-colors duration-300 dark:text-white dark:text-opacity-80`}>
-              {word ? word.trans.join('；') : <LoadingWordUI isLoading={isLoading} hasError={hasError} />}
+              {word ? (
+                word.trans.join('；').includes('<ruby>') ? (
+                  <span dangerouslySetInnerHTML={{ __html: word.trans.join('；') }} />
+                ) : (
+                  word.trans.join('；')
+                )
+              ) : (
+                <LoadingWordUI isLoading={isLoading} hasError={hasError} />
+              )}
             </span>
           </div>
         </div>
         <div className="item flex flex-col gap-4">
           <div className="flex gap-6">
-            <DataTag icon={ClockIcon} name="平均用时" data={rowDetailData.time} />
-            <DataTag icon={HashtagIcon} name="练习次数" data={rowDetailData.sumCount} />
+            <DataTag icon={ClockIcon} name="平均時間" data={rowDetailData.time} />
+            <DataTag icon={HashtagIcon} name="練習回数" data={rowDetailData.sumCount} />
           </div>
           <div className="flex gap-6">
-            <DataTag icon={CheckCircle} name="正确次数" data={rowDetailData.correctCount} />
-            <DataTag icon={XCircle} name="错误次数" data={rowDetailData.wrongCount} />
+            <DataTag icon={CheckCircle} name="正解回数" data={rowDetailData.correctCount} />
+            <DataTag icon={XCircle} name="誤答回数" data={rowDetailData.wrongCount} />
           </div>
         </div>
         <RowPagination className="absolute bottom-6 mt-10" allRecords={allRecords} />

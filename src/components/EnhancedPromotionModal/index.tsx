@@ -95,16 +95,16 @@ const EnhancedPromotionModal: React.FC = () => {
                       QwertyLearner.ai を体験
                     </h3>
 
-                    <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">よりパワフルな学習体験をアンロック ✨</p>
+                    <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">より高度な学習体験を利用できます</p>
                   </div>
 
                   {/* Main content */}
                   <div className="space-y-4 py-2 text-sm text-gray-700 dark:text-gray-300">
                     <p className="text-center font-medium text-gray-900 dark:text-white">
-                      プログラミングができなくても大丈夫？自分だけの学習辞書が欲しい？操作は簡単、ワンクリックでアップロード、すぐに使えます
+                      プログラミングができなくても、自分だけの学習辞書を簡単に作成できます。ファイルをアップロードするだけですぐに使えます。
                       <br />
                       <div className="my-2"></div>
-                      英国 DeepLearningAI のプロフェッショナルチームが開発・運営する QwertyLearner.ai をお試しください
+                      英国 DeepLearningAI のチームが開発・運営する QwertyLearner.ai をぜひお試しください。
                     </p>
 
                     <div className="rounded-lg bg-white p-4 shadow-sm dark:bg-gray-800">
@@ -113,25 +113,26 @@ const EnhancedPromotionModal: React.FC = () => {
                         <li className="flex items-start">
                           <span className="mr-2 mt-0.5 text-blue-500">•</span>
                           <span>
-                            <strong>AI スマート辞書</strong> - ワンクリックアップロード、AIが自動で訳と品詞を生成、専用カスタム辞書を作成
+                            <strong>AI スマート辞書</strong> - ファイルをアップロードすると、AI
+                            が訳と品詞を自動生成し、専用のカスタム辞書を作成します
                           </span>
                         </li>
                         <li className="flex items-start">
                           <span className="mr-2 mt-0.5 text-blue-500">•</span>
                           <span>
-                            <strong>文章練習</strong> - 文章内容をカスタマイズして実戦力を向上
+                            <strong>文章練習</strong> - 文章を自由にカスタマイズして、実践的な練習ができます
                           </span>
                         </li>
                         <li className="flex items-start">
                           <span className="mr-2 mt-0.5 text-blue-500">•</span>
                           <span>
-                            <strong>クラウド同期</strong> - 複数デバイスで練習記録・誤答ノートを同期
+                            <strong>クラウド同期</strong> - 複数デバイスで練習記録・復習ノートを同期
                           </span>
                         </li>
                         <li className="flex items-start">
                           <span className="mr-2 mt-0.5 text-blue-500">•</span>
                           <span>
-                            <strong>辞書選択</strong> - より豊富な専門辞書
+                            <strong>辞書選択</strong> - より豊富な専門辞書を利用できます
                           </span>
                         </li>
                       </ul>
@@ -139,8 +140,8 @@ const EnhancedPromotionModal: React.FC = () => {
 
                     <div className="rounded-lg bg-amber-50 p-3 text-xs text-amber-800 dark:bg-amber-900/20 dark:text-amber-200">
                       <p>
-                        <strong>说明：</strong>QwertyLearner.ai 由英国 DeepLearningAI 独立开发运营，为开源版 QwertyLearner
-                        的独立衍生版本，开源版将持续维持开源与开放运营。
+                        <strong>説明: </strong>QwertyLearner.ai は英国 DeepLearningAI が独自に開発・運営する、オープンソース版 QwertyLearner
+                        の派生サービスです。オープンソース版は今後も引き続きオープンに運営されます。
                       </p>
                     </div>
                   </div>

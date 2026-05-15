@@ -10,20 +10,20 @@ export const FriendLinks: React.FC = () => {
       title: 'ez背单词',
       href: 'https://ezbdc.dashu.ai',
       imgSrc: ezbdc,
-      description: '一款极简的英文单词学习应用，可以非常方便高效地学习英文，具有有挑战性的单词背诵模式，无需注册，下载即用',
+      description: 'シンプルで効率よく英単語を学べるアプリです。やりごたえのある単語暗記モードを備え、登録不要ですぐに使えます。',
     },
     {
       title: 'Kai',
       href: 'https://kaiyi.cool/',
       imgSrc: kk,
-      description: 'Kai 的个人博客，记录了一些技术文章，生活感悟，以及一些有趣的小项目',
+      description: 'Kai の個人ブログです。技術記事、日々の気づき、小さなプロジェクトなどを記録しています。',
     },
     {
-      title: 'Web Worker-前端程序员都爱听',
+      title: 'Web Worker - フロントエンド開発者向けポッドキャスト',
       href: 'https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35',
       imgSrc: web_worker,
       description:
-        'Web Worker 播客是几个前端程序员闲聊的前端中文音频播客节目。节目围绕程序员领域瞎聊，聊资讯、聊职场、聊技术选型……只要是和 web 开发有关的都可以聊。',
+        'Web Worker は、フロントエンド開発者たちが Web 開発、技術選定、キャリア、業界ニュースなどについて語る中国語ポッドキャストです。',
     },
   ]
 
@@ -31,7 +31,7 @@ export const FriendLinks: React.FC = () => {
     <Layout>
       <div className="flex w-full flex-1 flex-col items-center px-4 pt-20">
         <div className="flex w-full max-w-md flex-grow flex-col items-center">
-          <div className="mt-5 text-center text-lg font-bold dark:text-gray-50">友情链接</div>
+          <div className="mt-5 text-center text-lg font-bold dark:text-gray-50">相互リンク</div>
           <div className="links flex w-full flex-col items-center gap-y-8 py-5">
             {links.map((link, index) => (
               <a
@@ -54,7 +54,7 @@ export const FriendLinks: React.FC = () => {
           </div>
         </div>
         <div className="mt-auto pb-5 text-center text-sm text-gray-500">
-          想要添加友链？请联系邮箱：
+          相互リンクの追加をご希望の場合は、こちらまでご連絡ください:
           <a href="mailto:me@kaiyi.cool" className="text-blue-500">
             me@kaiyi.cool
           </a>

@@ -111,33 +111,33 @@ export const DonateCard = () => {
             >
               <Dialog.Panel className="relative my-8 w-[37rem] transform select-text overflow-hidden rounded-lg bg-white text-left shadow-xl transition-all">
                 <div className="flex w-full flex-col justify-center gap-4 bg-white px-2 pb-4 pt-5 dark:bg-gray-800 dark:text-gray-300">
-                  <h1 className="gradient-text w-full pt-3 text-center text-[2.4rem] font-bold">{`${chapterNumber} Chapters Achievement !`}</h1>
+                  <h1 className="gradient-text w-full pt-3 text-center text-[2.4rem] font-bold">{`${chapterNumber} 章達成`}</h1>
                   <div className="flex w-full flex-col gap-4 px-4">
                     <p className="mx-auto px-4 indent-4">
-                      Qwerty Learner はあなたとともに
-                      <HighlightedText> {dayFromFirstWord} </HighlightedText>日間、一緒に
-                      <HighlightedText> {wordNumber} </HighlightedText>
-                      語の練習を完了し、 <HighlightedText> {sumWrongCount} </HighlightedText>
-                      回の誤入力を修正しました。毎回の練習が成長の証です
+                      Qwerty Learner での学習開始から
+                      <HighlightedText> {dayFromFirstWord} </HighlightedText>日が経ちました。これまでに
+                      <HighlightedText> {wordNumber} </HighlightedText>語を練習し、
+                      <HighlightedText> {sumWrongCount} </HighlightedText>回の誤入力を修正しています。日々の練習が成長につながっています。
                       <IconParty className="ml-2 inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <br />
                     </p>
                     <p className="mx-auto px-4 indent-4 font-bold">
-                      Qwerty Learner は <span className="font-medium ">オープンソース・広告なし・非商用</span> を
+                      Qwerty Learner は <span className="font-medium ">オープンソース・広告なし・非商用</span> の方針を
                       <HighlightedText className="text-indigo-500"> {dayFromQwerty} </HighlightedText>日間継続しています。
                     </p>
                     <p className="mx-auto px-4 indent-4">
-                      ますます多くの方が参加するにつれ、サーバーとメンテナンスのコストも増加しており、
+                      利用者が増えるにつれて、サーバー費用やメンテナンスの負担も増えています。
                       <span className="font-semibold text-indigo-600 dark:text-indigo-400">
-                        現在もプロジェクトの運営コストは開発者が個人で負担しており、Qwerty の長期運営には皆様の力が必要です
+                        現在もプロジェクトの運営費は開発者が個人で負担しており、Qwerty の長期運営には皆様のご支援が必要です
                       </span>
-                      。Qwerty が学習のお役に立っているなら、ご寄付をご検討ください。一杯のコーヒー代でも、Qwerty がより多くの学習者と共に成長し続ける力になります。
+                      。Qwerty が学習のお役に立っているなら、ご寄付をご検討ください。一杯のコーヒー代でも、Qwerty
+                      がより多くの学習者と共に成長し続ける力になります。
                     </p>
                     <p className="mx-auto px-4 indent-4 ">
-                      ご厚意に感謝して、1回50元以上のご寄付には Qwerty 特製ステッカー5枚をプレゼントいたします
-                      <span className="text-xs">（中国大陸のみ）</span>，ぜひご友人とお楽しみを共有してください
+                      ご厚意へのお礼として、1回50元以上のご寄付には Qwerty 特製ステッカー5枚をお送りします
+                      <span className="text-xs">（中国大陸のみ）</span>。ぜひご友人ともお楽しみください。
                     </p>
                     <div className="flex items-center justify-center">
                       <StickerButton />
