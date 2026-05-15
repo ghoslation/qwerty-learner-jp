@@ -17,7 +17,8 @@ export default function Translation({ trans, showTrans = true, onMouseEnter, onM
   const fontSizeConfig = useAtomValue(fontSizeConfigAtom)
   const isShowTransRead = window.speechSynthesis && pronunciationConfig.isTransRead
   const speechOptions = useMemo(() => ({ volume: pronunciationConfig.transVolume }), [pronunciationConfig.transVolume])
-  const { speak, speaking } = useSpeech(trans, speechOptions)
+  const plainTrans = useMemo(() => trans.replace(/<[^>]+>/g, ''), [trans])
+  const { speak, speaking } = useSpeech(plainTrans, speechOptions)
 
   const handleClickSoundIcon = useCallback(() => {
     speak(true)
@@ -32,10 +33,18 @@ export default function Translation({ trans, showTrans = true, onMouseEnter, onM
         } ${isTextSelectable && 'select-text'}`}
         style={{ fontSize: fontSizeConfig.translateFont.toString() + 'px' }}
       >
-        {showTrans ? trans : '\u00A0'}
+        {showTrans ? (
+          trans.includes('<ruby>') ? (
+            <span dangerouslySetInnerHTML={{ __html: trans }} />
+          ) : (
+            trans
+          )
+        ) : (
+          '\u00A0'
+        )}
       </span>
       {isShowTransRead && showTrans && (
-        <Tooltip content="朗读释义" className="ml-3 h-5 w-5 cursor-pointer leading-7">
+        <Tooltip content="読み上げ" className="ml-3 h-5 w-5 cursor-pointer leading-7">
           <SoundIcon animated={speaking} onClick={handleClickSoundIcon} className="h-5 w-5" />
         </Tooltip>
       )}

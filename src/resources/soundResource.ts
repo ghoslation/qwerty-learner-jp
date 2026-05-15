@@ -42,11 +42,11 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: 'アメリカ発音',
+        name: 'アメリカ英語',
         pron: 'us',
       },
       {
-        name: 'イギリス発音',
+        name: 'イギリス英語',
         pron: 'uk',
       },
     ],
@@ -55,11 +55,11 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: 'アメリカ発音',
+        name: 'アメリカ英語',
         pron: 'us',
       },
       {
-        name: 'イギリス発音',
+        name: 'イギリス英語',
         pron: 'uk',
       },
     ],

@@ -42,18 +42,18 @@ export default function Switcher() {
 
   return (
     <div className="flex items-center justify-center gap-2">
-      <Tooltip content="効果音設定">
+      <Tooltip content="サウンド設定">
         <SoundSwitcher />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content="単語ループ設定">
+      <Tooltip className="h-7 w-7" content="リピート設定">
         <LoopWordSwitcher />
       </Tooltip>
 
       <Tooltip className="h-7 w-7" content={`書き取りモード切替（${CTRL} + V）`}>
         <WordDictationSwitcher />
       </Tooltip>
-      <Tooltip className="h-7 w-7" content={`訳表示切替（${CTRL} + Shift + V）`}>
+      <Tooltip className="h-7 w-7" content={`翻訳表示（${CTRL} + Shift + V）`}>
         <button
           className={`p-[2px] ${state?.isTransVisible ? 'text-indigo-500' : 'text-gray-500'} text-lg focus:outline-none`}
           type="button"
@@ -61,21 +61,21 @@ export default function Switcher() {
             changeTransVisibleState()
             e.currentTarget.blur()
           }}
-          aria-label={`訳表示切替（${CTRL} + Shift + V）`}
+          aria-label={`翻訳表示（${CTRL} + Shift + V）`}
         >
           {state?.isTransVisible ? <IconLanguage /> : <IconLanguageOff />}
         </button>
       </Tooltip>
 
-      <Tooltip content="誤答ノート">
+      <Tooltip content="復習ノート">
         <ErrorBookButton />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content="データ統計を見る">
+      <Tooltip className="h-7 w-7" content="統計">
         <AnalysisButton />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content="ダークモード切替">
+      <Tooltip className="h-7 w-7" content="ダークモードを切り替え">
         <button
           className={`p-[2px] text-lg text-indigo-500 focus:outline-none`}
           type="button"
@@ -83,12 +83,12 @@ export default function Switcher() {
             changeDarkModeState()
             e.currentTarget.blur()
           }}
-          aria-label="ダークモード切替"
+          aria-label="ダークモード"
         >
           {isOpenDarkMode ? <IconMoon className="icon" /> : <IconSun className="icon" />}
         </button>
       </Tooltip>
-      <Tooltip className="h-7 w-7" content="運指ガイド">
+      <Tooltip className="h-7 w-7" content="おすすめの指使い">
         <HandPositionIllustration></HandPositionIllustration>
       </Tooltip>
       <Tooltip content="設定">
