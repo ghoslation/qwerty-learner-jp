@@ -1,7 +1,7 @@
 [
     {
         "name": "remain",
-        "trans": ["v. 保持"]
+        "trans": ["v. 維持"]
     },
     {
         "name": "detailed",
@@ -21,7 +21,7 @@
     },
     {
         "name": "arrange",
-        "trans": ["v. 安排"]
+        "trans": ["v. 手配"]
     },
     {
         "name": "artist",
@@ -37,7 +37,7 @@
     },
     {
         "name": "occupation",
-        "trans": ["n. 职业"]
+        "trans": ["n. 職業"]
     },
     {
         "name": "audience",
@@ -97,7 +97,7 @@
     },
     {
         "name": "protection",
-        "trans": ["n. 保护"]
+        "trans": ["n. 保護"]
     },
     {
         "name": "model",
@@ -117,7 +117,7 @@
     },
     {
         "name": "race",
-        "trans": ["n. 比赛"]
+        "trans": ["n. 試合"]
     },
     {
         "name": "concert",
@@ -157,7 +157,7 @@
     },
     {
         "name": "control",
-        "trans": ["n. 控制"]
+        "trans": ["n. 制御"]
     },
     {
         "name": "handle",
@@ -209,7 +209,7 @@
     },
     {
         "name": "available",
-        "trans": ["adj. 可获得的"]
+        "trans": ["adj. 可得る的"]
     },
     {
         "name": "vacuum",
@@ -261,11 +261,11 @@
     },
     {
         "name": "consult",
-        "trans": ["v. 请教：咨询"]
+        "trans": ["v. 请教: 咨询"]
     },
     {
         "name": "alarm",
-        "trans": ["n. 闹钟：警报"]
+        "trans": ["n. 闹钟: 警报"]
     },
     {
         "name": "driving license",
@@ -281,7 +281,7 @@
     },
     {
         "name": "loss",
-        "trans": ["n. 减少"]
+        "trans": ["n. 減らす"]
     },
     {
         "name": "technician",

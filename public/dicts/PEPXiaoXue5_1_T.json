@@ -146,7 +146,7 @@
     {
         "name": "finish",
         "trans": [
-            "完成"
+            "完了"
         ],
         "usphone": "'fɪnɪʃ",
         "ukphone": "'fɪnɪʃ"
@@ -330,7 +330,7 @@
     {
         "name": "sport",
         "trans": [
-            "体育运动"
+            "体育運動"
         ],
         "usphone": "spɔrt",
         "ukphone": "spɔːt"
@@ -338,7 +338,7 @@
     {
         "name": "play sports",
         "trans": [
-            "做体育运动"
+            "做体育運動"
         ],
         "usphone": "",
         "ukphone": ""
@@ -370,7 +370,7 @@
     {
         "name": "schedule",
         "trans": [
-            "工作计划"
+            "仕事計画"
         ],
         "usphone": "ˈskedʒʊl; skɛdʒʊl",
         "ukphone": "ˈʃedju:l"
@@ -658,7 +658,7 @@
     {
         "name": "wonderful",
         "trans": [
-            "极好的"
+            "素晴らしい"
         ],
         "usphone": "ˈwʌndɚfəl",
         "ukphone": "ˈwʌndə(r)fl"
@@ -826,7 +826,7 @@
     {
         "name": "there",
         "trans": [
-            "（存在或发生）"
+            "（存在或発生）"
         ],
         "usphone": "ðɛr",
         "ukphone": "ðeə; ðə"
@@ -916,8 +916,8 @@
         "trans": [
             "住"
         ],
-        "usphone": "laɪv；lɪv",
-        "ukphone": "laɪv；lɪv"
+        "usphone": "laɪv; lɪv",
+        "ukphone": "laɪv; lɪv"
     },
     {
         "name": "nature",

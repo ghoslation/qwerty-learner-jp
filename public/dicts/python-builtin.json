@@ -5,7 +5,7 @@
     "trans": ["如果 iterable对象 的所有元素均为真值则返回 True"]
   },
   { "name": "any", "trans": ["如果 iterable对象 的任一元素为真值则返回 True"] },
-  { "name": "ascii", "trans": ["返回一个包含对象的可打印表示形式的字符串"] },
+  { "name": "ascii", "trans": ["返回一个含む对象的可打印表す形式的字符串"] },
   { "name": "bin", "trans": ["将一个整数转变为二进制字符串"] },
   { "name": "bool", "trans": ["布尔"] },
   { "name": "breakpoint", "trans": ["此函数会在调用时将你陷入调试器中"] },
@@ -13,19 +13,19 @@
   { "name": "bytes", "trans": ["返回一个新的 bytes 对象"] },
   { "name": "callable", "trans": ["检测对象是否可调用"] },
   { "name": "chr", "trans": ["返回 Unicode 码位为整数 i 的字符的字符串格式"] },
-  { "name": "complex", "trans": ["返回值为 real + imag*1j 的复数"] },
+  { "name": "complex", "trans": ["返回值为 real + imag*1j の複数形"] },
   { "name": "delattr", "trans": ["删除对象指定的属性"] },
   { "name": "dict", "trans": ["创建一个新的字典"] },
   {
     "name": "dir",
     "trans": [
-      "如果没有实参，则返回当前本地作用域中的名称列表。如果有实参，它会尝试返回该对象的有效属性列表。"
+      "如果没有实参、则返回当前本地作用域中的名称列表。如果有实参、它会試み返回该对象的有效属性列表。"
     ]
   },
-  { "name": "divmod", "trans": ["执行整数除法时返回一对商和余数"] },
+  { "name": "divmod", "trans": ["実行整数除法时返回一对商和余数"] },
   { "name": "enumerate", "trans": ["返回一个枚举对象"] },
-  { "name": "eval", "trans": ["解析并求值一个 Python 表达式"] },
-  { "name": "exec", "trans": ["执行 Python 代码"] },
+  { "name": "eval", "trans": ["解析并求值一个 Python 表現式"] },
+  { "name": "exec", "trans": ["実行 Python 代码"] },
   {
     "name": "filter",
     "trans": ["用 iterable 中函数 function 返回真的那些元素"]
@@ -33,14 +33,14 @@
   { "name": "float", "trans": ["返回从数字或字符串 x 生成的浮点数"] },
   {
     "name": "format",
-    "trans": ["将 value 转换为 format_spec 控制的 格式化 表示"]
+    "trans": ["将 value 转换为 format_spec 制御的 格式化 表す"]
   },
   { "name": "frozenset", "trans": ["返回一个新的 不可变集合 对象"] },
   { "name": "getattr", "trans": ["返回对象命名属性的值"] },
-  { "name": "globals", "trans": ["返回表示当前全局符号表的字典"] },
+  { "name": "globals", "trans": ["返回表す当前全局符号表的字典"] },
   { "name": "hasattr", "trans": ["检测对象是否含有指定属性"] },
   { "name": "hash", "trans": ["返回该对象的哈希值"] },
-  { "name": "help", "trans": ["启动内置的帮助系统"] },
+  { "name": "help", "trans": ["启动内置的助ける系统"] },
   { "name": "hex", "trans": ["将整数转换为以 0x 为前缀的小写十六进制字符串"] },
   { "name": "id", "trans": ["返回对象的 标识值 "] },
   { "name": "input", "trans": ["从输入中读取一行"] },
@@ -50,11 +50,11 @@
   { "name": "iter", "trans": ["返回一个 iterable 对象"] },
   { "name": "len", "trans": ["返回对象的长度（元素个数）"] },
   { "name": "list", "trans": ["创建一个新的列表"] },
-  { "name": "locals", "trans": ["更新并返回表示当前本地符号表的字典"] },
+  { "name": "locals", "trans": ["更新并返回表す当前本地符号表的字典"] },
   {
     "name": "map",
     "trans": [
-      "返回一个将 function 应用于 iterable 中每一项并输出其结果的迭代器"
+      "返回一个将 function 应用于 iterable 中每一项并输出其結果的迭代器"
     ]
   },
   { "name": "max", "trans": ["返回可迭代对象中最大的元素"] },
@@ -62,17 +62,17 @@
   { "name": "min", "trans": ["返回可迭代对象中最小的元素"] },
   {
     "name": "next",
-    "trans": ["通过调用 iterator 的 __next__() 方法获取下一个元素"]
+    "trans": ["通過调用 iterator 的 __next__() 方法获取下一个元素"]
   },
   { "name": "object", "trans": ["返回一个没有特征的新对象"] },
   { "name": "oct", "trans": ["将一个整数转变为一个前缀为 0o 的八进制字符串"] },
   { "name": "open", "trans": ["打开 file 并返回对应的 file object"] },
-  { "name": "ord", "trans": ["对表示单个 Unicode 字符的字符串"] },
+  { "name": "ord", "trans": ["对表す单个 Unicode 字符的字符串"] },
   { "name": "pow", "trans": ["返回 base 的 exp 次幂"] },
   { "name": "print", "trans": ["将 objects 打印到 file 指定的文本流"] },
   { "name": "property", "trans": ["返回 property 属性"] },
   { "name": "range", "trans": ["创建一个整数列表"] },
-  { "name": "repr", "trans": ["返回包含一个对象的可打印表示形式的字符串"] },
+  { "name": "repr", "trans": ["返回含む一个对象的可打印表す形式的字符串"] },
   { "name": "reversed", "trans": ["返回一个反向的 iterator"] },
   { "name": "round", "trans": ["回 number 舍入到小数点后 ndigits 位精度的值"] },
   { "name": "set", "trans": ["返回一个新的 set 对象"] },

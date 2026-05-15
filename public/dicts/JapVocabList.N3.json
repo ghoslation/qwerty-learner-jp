@@ -2657,7 +2657,7 @@
         "trans": [
             "(1) complete,completion,(2) perfection,accomplishment"
         ],
-        "notation": "完成(かんせい)"
+        "notation": "完了(かんせい)"
     },
     {
         "name": "nani",
@@ -4694,7 +4694,7 @@
         "trans": [
             "presentation,submission,filing"
         ],
-        "notation": "提出(ていしゅつ)"
+        "notation": "提案(ていしゅつ)"
     },
     {
         "name": "shinpai",
@@ -5037,7 +5037,7 @@
         "trans": [
             "demand,request"
         ],
-        "notation": "需要(じゅよう)"
+        "notation": "必要(じゅよう)"
     },
     {
         "name": "oyogi",
@@ -10952,7 +10952,7 @@
         "trans": [
             "emergency,extraordinary,unusual"
         ],
-        "notation": "非常(ひじょう)"
+        "notation": "非常に(ひじょう)"
     },
     {
         "name": "aisukuriimu",

@@ -2,7 +2,7 @@
     {
         "name": "flight",
         "trans": [
-            "航班；飞行"
+            "航班; 飞行"
         ],
         "usphone": "flaɪt",
         "ukphone": "flaɪt"
@@ -10,7 +10,7 @@
     {
         "name": "because of",
         "trans": [
-            "因为；由于"
+            "因为; 由于"
         ],
         "usphone": "",
         "ukphone": ""
@@ -18,7 +18,7 @@
     {
         "name": "direct",
         "trans": [
-            "径直地；直接地"
+            "径直地; 直接地"
         ],
         "usphone": "dəˈrekt; daɪˈrekt",
         "ukphone": "dɪˈrekt ; daɪ-"
@@ -34,7 +34,7 @@
     {
         "name": "succeed",
         "trans": [
-            "成功；做成"
+            "成功; 做成"
         ],
         "usphone": "sək'sid",
         "ukphone": "sək'siːd"
@@ -58,7 +58,7 @@
     {
         "name": "exactly",
         "trans": [
-            "确切地；完全；[口]（表示赞同）确实如此"
+            "确切地; 完全; [口]（表す赞同）确实如此"
         ],
         "usphone": "ɪɡ'zæktli",
         "ukphone": "ɪg'zæk(t)lɪ"
@@ -74,7 +74,7 @@
     {
         "name": "sir",
         "trans": [
-            "先生；长官"
+            "先生; 长官"
         ],
         "usphone": "sɝ",
         "ukphone": "sɜː"
@@ -82,7 +82,7 @@
     {
         "name": "officer",
         "trans": [
-            "军官；官员；警察"
+            "军官; 官员; 警察"
         ],
         "usphone": "'ɔfɪsɚ",
         "ukphone": "'ɒfɪsə"
@@ -90,7 +90,7 @@
     {
         "name": "stupid",
         "trans": [
-            "笨的；糊涂的"
+            "笨的; 糊涂的"
         ],
         "usphone": "'stupɪd",
         "ukphone": "'stjuːpɪd"
@@ -106,7 +106,7 @@
     {
         "name": "jacket",
         "trans": [
-            "短上衣；夹克"
+            "短上衣; 夹克"
         ],
         "usphone": "'dʒækɪt",
         "ukphone": "'dʒækɪt"
@@ -130,7 +130,7 @@
     {
         "name": "row",
         "trans": [
-            "一排；一行；一列"
+            "一排; 一行; 一列"
         ],
         "usphone": "ro",
         "ukphone": "rəʊ"
@@ -138,7 +138,7 @@
     {
         "name": "pool",
         "trans": [
-            "水池；游泳池"
+            "水池; 游泳池"
         ],
         "usphone": "pul",
         "ukphone": "puːl"
@@ -146,7 +146,7 @@
     {
         "name": "pass",
         "trans": [
-            "及格；通过（考试或检查）"
+            "及格; 通過（考试或検査）"
         ],
         "usphone": "pæs",
         "ukphone": "pɑːs"
@@ -154,7 +154,7 @@
     {
         "name": "secondary",
         "trans": [
-            "（教育）中等的；次要的；间接的"
+            "（教育）中等的; 次要的; 间接的"
         ],
         "usphone": "'sɛkəndɛri",
         "ukphone": "'sek(ə)nd(ə)rɪ"
@@ -170,7 +170,7 @@
     {
         "name": "absent",
         "trans": [
-            "缺席的；不在的"
+            "缺席的; 不在的"
         ],
         "usphone": "ˈæbsnt;(for v.)əbˈsɛnt",
         "ukphone": "ˈæbsənt;(for v.)əbˈsent"
@@ -178,7 +178,7 @@
     {
         "name": "bell",
         "trans": [
-            "钟；铃"
+            "钟; 铃"
         ],
         "usphone": "bɛl",
         "ukphone": "bel"
@@ -186,7 +186,7 @@
     {
         "name": "wealthy",
         "trans": [
-            "富有的；富裕的"
+            "富有的; 富裕的"
         ],
         "usphone": "'wɛlθi",
         "ukphone": "'welθɪ"
@@ -194,7 +194,7 @@
     {
         "name": "fear",
         "trans": [
-            "担心；害怕"
+            "担心; 害怕"
         ],
         "usphone": "fɪr",
         "ukphone": "fɪə"
@@ -202,7 +202,7 @@
     {
         "name": "used to",
         "trans": [
-            "（用于表示过去真实或经常性的行为，特别强调现在不那样了）过去"
+            "（用于表す过去真实或经常性的行為、特别強調现在不那样了）过去"
         ],
         "usphone": "",
         "ukphone": ""
@@ -210,7 +210,7 @@
     {
         "name": "wealth",
         "trans": [
-            "财富；财产"
+            "财富; 财产"
         ],
         "usphone": "wɛlθ",
         "ukphone": "welθ"
@@ -218,8 +218,8 @@
     {
         "name": "double",
         "trans": [
-            "使加倍；把⋯⋯增加一倍",
-            "（成）双的；两个⋯⋯"
+            "使加倍; 把⋯⋯増加一倍",
+            "（成）双的; 两个⋯⋯"
         ],
         "usphone": "'dʌbl",
         "ukphone": "'dʌb(ə)l"
@@ -227,7 +227,7 @@
     {
         "name": "seldom",
         "trans": [
-            "很少地；不常"
+            "很少地; 不常"
         ],
         "usphone": "'sɛldəm",
         "ukphone": "'seldəm"
@@ -235,7 +235,7 @@
     {
         "name": "spare",
         "trans": [
-            "空余的；备用的"
+            "空余的; 备用的"
         ],
         "usphone": "spɛr",
         "ukphone": "speə"
@@ -243,7 +243,7 @@
     {
         "name": "spare time",
         "trans": [
-            "业余时间；闲暇"
+            "业余時間; 闲暇"
         ],
         "usphone": "",
         "ukphone": ""
@@ -267,7 +267,7 @@
     {
         "name": "tiny",
         "trans": [
-            "微小的；极小的"
+            "微小的; 极小的"
         ],
         "usphone": "'taɪni",
         "ukphone": "'taɪnɪ"
@@ -275,7 +275,7 @@
     {
         "name": "electric",
         "trans": [
-            "用电的；电动的"
+            "用电的; 电动的"
         ],
         "usphone": "ɪ'lɛktrɪk",
         "ukphone": "ɪ'lektrɪk"
@@ -307,7 +307,7 @@
     {
         "name": "cold",
         "trans": [
-            "寒冷；冷空气"
+            "寒冷; 冷空气"
         ],
         "usphone": "kold",
         "ukphone": "kəʊld"
@@ -315,7 +315,7 @@
     {
         "name": "heat",
         "trans": [
-            "高温；热度"
+            "高温; 热度"
         ],
         "usphone": "hit",
         "ukphone": "hiːt"
@@ -323,7 +323,7 @@
     {
         "name": "full-time",
         "trans": [
-            "专职的；全日制的"
+            "专职的; 全日制的"
         ],
         "usphone": ",ful'taɪm",
         "ukphone": ",fʊl'taɪm"
@@ -331,7 +331,7 @@
     {
         "name": "role",
         "trans": [
-            "作用；职责；角色"
+            "作用; 职责; 角色"
         ],
         "usphone": "rol",
         "ukphone": "rəʊl"
@@ -339,7 +339,7 @@
     {
         "name": "education",
         "trans": [
-            "（个人的）教育；学业"
+            "（个人的）教育; 学业"
         ],
         "usphone": ",ɛdʒu'keʃən",
         "ukphone": "ˌedʒʊˈkeɪʃn"
@@ -347,7 +347,7 @@
     {
         "name": "transport",
         "trans": [
-            "运输业；交通"
+            "运输业; 交通"
         ],
         "usphone": "'trænspɔrt",
         "ukphone": "træn'spɔːt; trɑːn-"
@@ -355,7 +355,7 @@
     {
         "name": "set off",
         "trans": [
-            "动身；出发"
+            "动身; 出发"
         ],
         "usphone": ",set 'ɔf",
         "ukphone": ",set 'ɔf"
@@ -371,7 +371,7 @@
     {
         "name": "whenever",
         "trans": [
-            "每当；无论什么时候"
+            "每当; 无论什么时候"
         ],
         "usphone": "wɛn'ɛvɚ",
         "ukphone": "wen'evə"
@@ -379,7 +379,7 @@
     {
         "name": "proper",
         "trans": [
-            "合适的；恰当的"
+            "合适的; 恰当的"
         ],
         "usphone": "'prɑpɚ",
         "ukphone": "'prɒpə"
@@ -387,7 +387,7 @@
     {
         "name": "edge",
         "trans": [
-            "边；边缘"
+            "边; 边缘"
         ],
         "usphone": "ɛdʒ",
         "ukphone": "edʒ"
@@ -403,7 +403,7 @@
     {
         "name": "go off",
         "trans": [
-            "离开"
+            "離れる"
         ],
         "usphone": "",
         "ukphone": ""
@@ -411,7 +411,7 @@
     {
         "name": "starve",
         "trans": [
-            "挨饿；饿死"
+            "挨饿; 饿死"
         ],
         "usphone": "stɑrv",
         "ukphone": "stɑːv"
@@ -419,7 +419,7 @@
     {
         "name": "go",
         "trans": [
-            "尝试；努力"
+            "試み; 努力"
         ],
         "usphone": "go",
         "ukphone": "gəʊ"
@@ -427,7 +427,7 @@
     {
         "name": "in one go",
         "trans": [
-            "一口气；一下子"
+            "一口气; 一下子"
         ],
         "usphone": "",
         "ukphone": ""
@@ -435,7 +435,7 @@
     {
         "name": "rock",
         "trans": [
-            "岩；岩石"
+            "岩; 岩石"
         ],
         "usphone": "rɑk",
         "ukphone": "rɒk"
@@ -459,7 +459,7 @@
     {
         "name": "fairly",
         "trans": [
-            "相当；还算"
+            "相当; 还算"
         ],
         "usphone": "'fɛrli",
         "ukphone": "'feəlɪ"
@@ -467,7 +467,7 @@
     {
         "name": "smooth",
         "trans": [
-            "无困难的；顺利的；光滑的；平坦的"
+            "无困难的; 顺利的; 光滑的; 平坦的"
         ],
         "usphone": "smʊð",
         "ukphone": "smuːð"
@@ -475,7 +475,7 @@
     {
         "name": "straight",
         "trans": [
-            "直的；笔直的"
+            "直的; 笔直的"
         ],
         "usphone": "stret",
         "ukphone": "streɪt"
@@ -491,7 +491,7 @@
     {
         "name": "fall",
         "trans": [
-            "变成，进入（某种状态）"
+            "变成、入る（某种状态）"
         ],
         "usphone": "fɔl",
         "ukphone": "fɔːl"
@@ -499,7 +499,7 @@
     {
         "name": "fall asleep",
         "trans": [
-            "入睡；睡着"
+            "入睡; 睡着"
         ],
         "usphone": "",
         "ukphone": ""
@@ -507,7 +507,7 @@
     {
         "name": "hang",
         "trans": [
-            "(hung, hung) 悬挂；吊"
+            "(hung, hung) 悬挂; 吊"
         ],
         "usphone": "hæŋ",
         "ukphone": "hæŋ"
@@ -515,7 +515,7 @@
     {
         "name": "sudden",
         "trans": [
-            "突然的；急剧的"
+            "突然的; 急剧的"
         ],
         "usphone": "'sʌdn",
         "ukphone": "'sʌd(ə)n"
@@ -531,7 +531,7 @@
     {
         "name": "soft",
         "trans": [
-            "软的；柔软的"
+            "软的; 柔软的"
         ],
         "usphone": "sɔft",
         "ukphone": "sɒft"
@@ -539,7 +539,7 @@
     {
         "name": "still",
         "trans": [
-            "静止的；不动的"
+            "静止的; 不动的"
         ],
         "usphone": "stɪl",
         "ukphone": "stɪl"
@@ -547,7 +547,7 @@
     {
         "name": "wood",
         "trans": [
-            "（小）树林；林地"
+            "（小）树林; 林地"
         ],
         "usphone": "wʊd",
         "ukphone": "wʊd"
@@ -555,7 +555,7 @@
     {
         "name": "blood",
         "trans": [
-            "血；血液"
+            "血; 血液"
         ],
         "usphone": "blʌd",
         "ukphone": "blʌd"
@@ -571,7 +571,7 @@
     {
         "name": "agreement",
         "trans": [
-            "协议；协定"
+            "协议; 协定"
         ],
         "usphone": "ə'grimənt",
         "ukphone": "ə'griːm(ə)nt"
@@ -579,7 +579,7 @@
     {
         "name": "blind",
         "trans": [
-            "失明的；瞎的"
+            "失明的; 瞎的"
         ],
         "usphone": "blaɪnd",
         "ukphone": "blaɪnd"
@@ -587,7 +587,7 @@
     {
         "name": "ouch",
         "trans": [
-            "哎哟（用于表示突然的疼痛）"
+            "哎哟（用于表す突然的疼痛）"
         ],
         "usphone": "aʊtʃ",
         "ukphone": "aʊtʃ"
@@ -595,7 +595,7 @@
     {
         "name": "call off",
         "trans": [
-            "取消；决定终止"
+            "キャンセル; 決定终止"
         ],
         "usphone": "",
         "ukphone": ""
@@ -603,7 +603,7 @@
     {
         "name": "thanks to",
         "trans": [
-            "多亏；归功于"
+            "多亏; 归功于"
         ],
         "usphone": "",
         "ukphone": ""
@@ -619,7 +619,7 @@
     {
         "name": "expect",
         "trans": [
-            "预料；预计"
+            "预料; 预计"
         ],
         "usphone": "ɪk'spɛkt",
         "ukphone": "ɪkˈspekt"
@@ -627,7 +627,7 @@
     {
         "name": "require",
         "trans": [
-            "需要"
+            "必要"
         ],
         "usphone": "rɪ'kwaɪr",
         "ukphone": "rɪ'kwaɪə"
@@ -635,7 +635,7 @@
     {
         "name": "physical",
         "trans": [
-            "身体的；体力的"
+            "身体的; 体力的"
         ],
         "usphone": "'fɪzɪkl",
         "ukphone": "'fɪzɪk(ə)l"
@@ -643,7 +643,7 @@
     {
         "name": "effort",
         "trans": [
-            "力气；精力"
+            "力气; 精力"
         ],
         "usphone": "'ɛfɚt",
         "ukphone": "'efət"
@@ -651,7 +651,7 @@
     {
         "name": "once in a while",
         "trans": [
-            "偶尔；有时；间或"
+            "偶尔; 有时; 间或"
         ],
         "usphone": "",
         "ukphone": ""
@@ -659,7 +659,7 @@
     {
         "name": "harm",
         "trans": [
-            "损害；伤害"
+            "損害; 傷つける"
         ],
         "usphone": "hɑrm",
         "ukphone": "hɑːm"
@@ -667,7 +667,7 @@
     {
         "name": "invitation",
         "trans": [
-            "邀请；请柬"
+            "邀请; 请柬"
         ],
         "usphone": "ˌɪnvɪˈteɪʃn",
         "ukphone": "ɪnvɪ'teɪʃ(ə)n"
@@ -675,7 +675,7 @@
     {
         "name": "calendar",
         "trans": [
-            "日历；历书"
+            "日历; 历书"
         ],
         "usphone": "'kæləndɚ",
         "ukphone": "'kælɪndə"
@@ -699,7 +699,7 @@
     {
         "name": "Heat",
         "trans": [
-            "使变热；给⋯⋯加热"
+            "使变热; 给⋯⋯加热"
         ],
         "usphone": "hit",
         "ukphone": "hiːt"
@@ -707,7 +707,7 @@
     {
         "name": "heat up",
         "trans": [
-            "使变热；给⋯⋯加热"
+            "使变热; 给⋯⋯加热"
         ],
         "usphone": "",
         "ukphone": ""
@@ -715,7 +715,7 @@
     {
         "name": "knife",
         "trans": [
-            "(pl knives) 餐刀；刀具"
+            "(pl knives) 餐刀; 刀具"
         ],
         "usphone": "naɪf",
         "ukphone": "naɪf"
@@ -731,7 +731,7 @@
     {
         "name": "spoon",
         "trans": [
-            "匙；勺子"
+            "匙; 勺子"
         ],
         "usphone": "spun",
         "ukphone": "spuːn"
@@ -747,8 +747,8 @@
     {
         "name": "Italian",
         "trans": [
-            "意大利的；意大利语的；意大利人的",
-            "意大利语；意大利人"
+            "意大利的; 意大利语的; 意大利人的",
+            "意大利语; 意大利人"
         ],
         "usphone": "ɪˈtæljən",
         "ukphone": "ɪˈtælɪən"
@@ -772,7 +772,7 @@
     {
         "name": "serve",
         "trans": [
-            "端上（食物和饮料）；服侍⋯⋯进餐"
+            "端上（食物和饮料）; 服侍⋯⋯进餐"
         ],
         "usphone": "sɝv",
         "ukphone": "sɜːv"
@@ -788,7 +788,7 @@
     {
         "name": "wing",
         "trans": [
-            "翅膀；翼"
+            "翅膀; 翼"
         ],
         "usphone": "wɪŋ",
         "ukphone": "wɪŋ"
@@ -796,7 +796,7 @@
     {
         "name": "lady",
         "trans": [
-            "女士；夫人；小姐"
+            "女士; 夫人; 小姐"
         ],
         "usphone": "'ledi",
         "ukphone": "'leɪdɪ"
@@ -804,7 +804,7 @@
     {
         "name": "gentleman",
         "trans": [
-            "先生；男士"
+            "先生; 男士"
         ],
         "usphone": "'dʒɛntlmən",
         "ukphone": "'dʒent(ə)lmən"
@@ -812,7 +812,7 @@
     {
         "name": "help yourself",
         "trans": [
-            "随便做（或用）吧；请自便"
+            "随便做（或用）吧; 请自便"
         ],
         "usphone": "",
         "ukphone": ""
@@ -828,7 +828,7 @@
     {
         "name": "achieve",
         "trans": [
-            "成功；实现"
+            "成功; 实现"
         ],
         "usphone": "ə'tʃiv",
         "ukphone": "ə'tʃiːv"
@@ -836,7 +836,7 @@
     {
         "name": "including",
         "trans": [
-            "包括；包含"
+            "包括; 含む"
         ],
         "usphone": "ɪn'klʊdɪŋ",
         "ukphone": "ɪn'kluːdɪŋ"
@@ -852,7 +852,7 @@
     {
         "name": "boss",
         "trans": [
-            "老板；上司"
+            "老板; 上司"
         ],
         "usphone": "bɔs",
         "ukphone": "bɒs"
@@ -876,7 +876,7 @@
     {
         "name": "industry",
         "trans": [
-            "制造业；工业"
+            "制造业; 工业"
         ],
         "usphone": "'ɪndəstri",
         "ukphone": "'ɪndəstrɪ"
@@ -893,7 +893,7 @@
         "name": "Indian",
         "trans": [
             "印度人",
-            "印度的；印度文化的"
+            "印度的; 印度文化的"
         ],
         "usphone": "'ɪndɪən",
         "ukphone": "'ɪndɪən"
@@ -901,7 +901,7 @@
     {
         "name": "type",
         "trans": [
-            "种；类；类型"
+            "种; 类; 类型"
         ],
         "usphone": "taɪp",
         "ukphone": "taɪp"
@@ -917,7 +917,7 @@
     {
         "name": "beat",
         "trans": [
-            "节拍；拍子"
+            "节拍; 拍子"
         ],
         "usphone": "bit",
         "ukphone": "biːt"
@@ -925,7 +925,7 @@
     {
         "name": "pardon",
         "trans": [
-            "[口] 对不起，请原谅（用于礼貌地请求别人重复自己没听清或不理解的话）"
+            "[口] 对不起、请原谅（用于礼貌地要求别人重复自己没听清或不理解的话）"
         ],
         "usphone": "'pɑrdn",
         "ukphone": "ˈpɑːdn"
@@ -933,7 +933,7 @@
     {
         "name": "intend",
         "trans": [
-            "计划；打算"
+            "計画; 意図"
         ],
         "usphone": "ɪn'tɛnd",
         "ukphone": "ɪn'tend"
@@ -941,7 +941,7 @@
     {
         "name": "fetch",
         "trans": [
-            "（去）取来；拿来"
+            "（去）取来; 拿来"
         ],
         "usphone": "fɛtʃ",
         "ukphone": "fetʃ"
@@ -949,7 +949,7 @@
     {
         "name": "pancake",
         "trans": [
-            "薄烤饼；薄煎饼"
+            "薄烤饼; 薄煎饼"
         ],
         "usphone": "'pænkek",
         "ukphone": "'pænkeɪk"
@@ -957,7 +957,7 @@
     {
         "name": "rose",
         "trans": [
-            "玫瑰；蔷薇"
+            "玫瑰; 蔷薇"
         ],
         "usphone": "roz",
         "ukphone": "rəʊz"
@@ -965,7 +965,7 @@
     {
         "name": "laugh at",
         "trans": [
-            "嘲笑；对⋯⋯一笑置之"
+            "嘲笑; 对⋯⋯一笑置之"
         ],
         "usphone": "",
         "ukphone": ""
@@ -973,7 +973,7 @@
     {
         "name": "kindness",
         "trans": [
-            "善举；好意"
+            "善举; 好意"
         ],
         "usphone": "'kaɪndnəs",
         "ukphone": "'kaɪn(d)nɪs"
@@ -981,7 +981,7 @@
     {
         "name": "give up",
         "trans": [
-            "放弃（努力）"
+            "放棄（努力）"
         ],
         "usphone": "",
         "ukphone": ""
@@ -989,7 +989,7 @@
     {
         "name": "try one's best",
         "trans": [
-            "尽某人最大的努力"
+            "尽誰か最大的努力"
         ],
         "usphone": "",
         "ukphone": ""
@@ -997,7 +997,7 @@
     {
         "name": "disappointed",
         "trans": [
-            "失望的；沮丧的"
+            "失望的; 沮丧的"
         ],
         "usphone": "'dɪsə'pɔɪntɪd",
         "ukphone": "dɪsə'pɒɪntɪd"
@@ -1005,7 +1005,7 @@
     {
         "name": "bedside",
         "trans": [
-            "床边；床头"
+            "床边; 床头"
         ],
         "usphone": "'bɛd'saɪd",
         "ukphone": "'bedsaɪd"
@@ -1013,7 +1013,7 @@
     {
         "name": "note",
         "trans": [
-            "短笺；便条"
+            "短笺; 便条"
         ],
         "usphone": "not",
         "ukphone": "nəʊt"
@@ -1021,7 +1021,7 @@
     {
         "name": "whom",
         "trans": [
-            "⋯⋯的人，那个人，那些人（用于提供关于正在谈论的某人的信息或补充信息）"
+            "⋯⋯的人、那个人、那些人（用于提供关于正在谈论的誰か的信息或补充信息）"
         ],
         "usphone": "hum",
         "ukphone": "huːm"

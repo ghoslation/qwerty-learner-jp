@@ -283,7 +283,7 @@
 {
     "name": "time",
     "trans": [
-        "时间"
+        "時間"
     ],
     "usphone": "taɪm",
     "ukphone": "taɪm"
@@ -291,8 +291,8 @@
 {
     "name": "playtime",
     "trans": [
-        "游戏时间",
-        "课间休息时间"
+        "游戏時間",
+        "课间休息時間"
     ],
     "usphone": "pleɪtaɪm",
     "ukphone": "pleɪtaɪm"

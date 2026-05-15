@@ -61,7 +61,7 @@
 },
 {
   "name": "dear",
-  "trans": ["亲爱的（用于书信中，表示客气）"],
+  "trans": ["亲爱的（用于书信中、表す客气）"],
   "usphone": "dɪr",
   "ukphone": "dɪər"
 },
@@ -121,7 +121,7 @@
 },
 {
   "name": "help",
-  "trans": ["帮助"],
+  "trans": ["助ける"],
   "usphone": "hɛlp",
   "ukphone": "hɛlp"
 },

@@ -50,7 +50,7 @@
   {
     "name": "INSERT SELECT",
     "trans": [
-      "INSERT SELECT 用来将 SELECT 的结果插入到表中。"
+      "INSERT SELECT 用来将 SELECT 的結果插入到表中。"
     ]
   },
   {

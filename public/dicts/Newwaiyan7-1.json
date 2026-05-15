@@ -254,7 +254,7 @@
     {
         "name": "need",
         "trans": [
-            "需要"
+            "必要"
         ],
         "usphone": "niːd",
         "ukphone": "niːd"
@@ -270,7 +270,7 @@
     {
         "name": "decoration",
         "trans": [
-            "装饰物"
+            "装飾物"
         ],
         "usphone": "dɛkəˈreɪʃən",
         "ukphone": "dɛkəˈreɪʃən"
@@ -278,7 +278,7 @@
     {
         "name": "without",
         "trans": [
-            "缺乏",
+            "欠如",
             "没有"
         ],
         "usphone": "wɪˈðaʊt",
@@ -295,7 +295,7 @@
     {
         "name": "start",
         "trans": [
-            "开始（做某事）"
+            "始める（做某事）"
         ],
         "usphone": "stɑːrt",
         "ukphone": "stɑːt"
@@ -382,7 +382,7 @@
     {
         "name": "important",
         "trans": [
-            "重要的",
+            "重要な",
             "重大的"
         ],
         "usphone": "ɪmˈpɔːrtənt",
@@ -419,8 +419,8 @@
     {
         "name": "advice",
         "trans": [
-            "意见",
-            "建议",
+            "意見",
+            "提案",
             "忠告"
         ],
         "usphone": "ədˈvaɪs",
@@ -438,7 +438,7 @@
     {
         "name": "task",
         "trans": [
-            "工作",
+            "仕事",
             "任务"
         ],
         "usphone": "tæsk",
@@ -499,7 +499,7 @@
     {
         "name": "thought",
         "trans": [
-            "意见",
+            "意見",
             "主意",
             "观点"
         ],
@@ -525,7 +525,7 @@
     {
         "name": "protect",
         "trans": [
-            "保护",
+            "保護",
             "防护"
         ],
         "usphone": "prəˈtɛkt",
@@ -571,7 +571,7 @@
         "name": "through",
         "trans": [
             "穿过",
-            "通过"
+            "通過"
         ],
         "usphone": "θruː",
         "ukphone": "θruː"
@@ -665,7 +665,7 @@
     {
         "name": "hit",
         "trans": [
-            "使（某人）突然意识到"
+            "使（誰か）突然意识到"
         ],
         "usphone": "hɪt",
         "ukphone": "hɪt"
@@ -673,7 +673,7 @@
     {
         "name": "check",
         "trans": [
-            "检查",
+            "検査",
             "核查"
         ],
         "usphone": "tʃɛk",
@@ -751,7 +751,7 @@
     {
         "name": "volleyball",
         "trans": [
-            "排球（运动）"
+            "排球（運動）"
         ],
         "usphone": "vɒlibɔːl",
         "ukphone": "vɒlibɔːl"
@@ -844,7 +844,7 @@
     {
         "name": "appear",
         "trans": [
-            "（尤指突然）出现",
+            "（尤指突然）現れる",
             "呈现"
         ],
         "usphone": "əˈpɪər",
@@ -942,7 +942,7 @@
     {
         "name": "leave",
         "trans": [
-            "离开"
+            "離れる"
         ],
         "usphone": "liːv",
         "ukphone": "liːv"
@@ -1057,7 +1057,7 @@
     {
         "name": "serve",
         "trans": [
-            "为...工作",
+            "为...仕事",
             "供职"
         ],
         "usphone": "sɜːrv",
@@ -1112,7 +1112,7 @@
     {
         "name": "carry",
         "trans": [
-            "把（某物或某人）带至（新的地点或位置）"
+            "把（某物或誰か）带至（新的地点或位置）"
         ],
         "usphone": "kæri",
         "ukphone": "kæri"
@@ -1129,7 +1129,7 @@
     {
         "name": "memory",
         "trans": [
-            "记忆",
+            "記憶",
             "回忆"
         ],
         "usphone": "mɛməri",
@@ -1147,7 +1147,7 @@
     {
         "name": "growth",
         "trans": [
-            "(性格、智力或情感的) 发展",
+            "(性格、智力或情感的) 発展",
             "成长"
         ],
         "usphone": "ɡroʊθ",
@@ -1217,7 +1217,7 @@
     {
         "name": "solve",
         "trans": [
-            "解决（问题）"
+            "解決（问题）"
         ],
         "usphone": "sɒlv",
         "ukphone": "sɒlv"
@@ -1242,7 +1242,7 @@
     {
         "name": "race",
         "trans": [
-            "比赛",
+            "試合",
             "赛车"
         ],
         "usphone": "reɪs",
@@ -1251,7 +1251,7 @@
     {
         "name": "finish",
         "trans": [
-            "完成",
+            "完了",
             "做完"
         ],
         "usphone": "fɪnɪʃ",
@@ -1296,7 +1296,7 @@
     {
         "name": "refuse",
         "trans": [
-            "拒绝",
+            "拒否",
             "回绝"
         ],
         "usphone": "rɪˈfjuz",
@@ -1305,7 +1305,7 @@
     {
         "name": "result",
         "trans": [
-            "结果",
+            "結果",
             "后果"
         ],
         "usphone": "rɪˈzʌlt",
@@ -1314,7 +1314,7 @@
     {
         "name": "matter",
         "trans": [
-            "(尤指对某人自己或对发生之事) 重要",
+            "(尤指对誰か自己或对発生之事) 重要",
             "要紧",
             "有关系"
         ],
@@ -1710,7 +1710,7 @@
     {
         "name": "decision",
         "trans": [
-            "决定",
+            "決定",
             "抉择"
         ],
         "usphone": "dɪˈsɪʒən",
@@ -1719,7 +1719,7 @@
     {
         "name": "support",
         "trans": [
-            "支持"
+            "支援"
         ],
         "usphone": "səˈpɔːrt",
         "ukphone": "səˈpɔːt"
@@ -1764,7 +1764,7 @@
         "name": "view",
         "trans": [
             "观点",
-            "意见"
+            "意見"
         ],
         "usphone": "vjuː",
         "ukphone": "vjuː"
@@ -1825,7 +1825,7 @@
         "name": "madly",
         "trans": [
             "发狂地",
-            "无法控制地"
+            "无法制御地"
         ],
         "usphone": "mædli",
         "ukphone": "mædli"
@@ -1833,7 +1833,7 @@
     {
         "name": "scary",
         "trans": [
-            "可怕的",
+            "恐ろしい",
             "骇人的",
             "恐怖的"
         ],
@@ -1891,7 +1891,7 @@
         "trans": [
             "也许",
             "大概",
-            "可能（表示不肯定）"
+            "可能（表す不肯定）"
         ],
         "usphone": "meɪbi",
         "ukphone": "meɪbi"
@@ -1954,8 +1954,8 @@
     {
         "name": "change",
         "trans": [
-            "变化",
-            "改变"
+            "変化",
+            "変える"
         ],
         "usphone": "ʧeɪndʒ",
         "ukphone": "ʧeɪndʒ"
@@ -1989,7 +1989,7 @@
         "name": "engineer",
         "trans": [
             "工程师",
-            "设计师"
+            "設計师"
         ],
         "usphone": "ɛndʒɪˈnɪər",
         "ukphone": "ɛn.dʒɪˈnɪə"
@@ -2140,7 +2140,7 @@
     {
         "name": "die out",
         "trans": [
-            "消失",
+            "消える",
             "绝迹",
             "灭绝"
         ],
@@ -2159,8 +2159,8 @@
     {
         "name": "fantastic",
         "trans": [
-            "极好的",
-            "吸引人的",
+            "素晴らしい",
+            "引き付ける人的",
             "有趣的"
         ],
         "usphone": "fænˈtæstɪk",
@@ -2169,8 +2169,8 @@
     {
         "name": "as happy as a clam",
         "trans": [
-            "非常高兴的",
-            "相当满足的"
+            "非常に高兴的",
+            "相当満たす的"
         ],
         "usphone": null,
         "ukphone": null
@@ -2249,7 +2249,7 @@
         "name": "rise",
         "trans": [
             "升高",
-            "上升"
+            "上昇"
         ],
         "usphone": "raɪz",
         "ukphone": "raɪz"
@@ -2277,7 +2277,7 @@
         "name": "produce",
         "trans": [
             "（自然地）生产",
-            "产生",
+            "生み出す",
             "出产"
         ],
         "usphone": "prəˈdjuːs",
@@ -2337,7 +2337,7 @@
     {
         "name": "rest",
         "trans": [
-            "休息（时间）"
+            "休息（時間）"
         ],
         "usphone": "rɛst",
         "ukphone": "rɛst"
@@ -2354,7 +2354,7 @@
     {
         "name": "enter",
         "trans": [
-            "进入"
+            "入る"
         ],
         "usphone": "ɛntər",
         "ukphone": "ɛntə"
@@ -2395,7 +2395,7 @@
     {
         "name": "influence",
         "trans": [
-            "影响",
+            "影響",
             "对…起作用"
         ],
         "usphone": "ɪnfluəns",
@@ -2463,7 +2463,7 @@
     {
         "name": "key",
         "trans": [
-            "至关重要的",
+            "至关重要な",
             "必不可少的",
             "关键的"
         ],
@@ -2568,7 +2568,7 @@
         "name": "connect",
         "trans": [
             "联结",
-            "连接"
+            "接続"
         ],
         "usphone": "kəˈnɛkt",
         "ukphone": "kəˈnɛkt"

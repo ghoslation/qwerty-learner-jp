@@ -2,7 +2,7 @@
     {
         "name": "offerLast()",
         "trans": [
-            "public boolean offerLast(E e):尾部插入元素，返回是否成功，成功为 true，失败为 false。"
+            "public boolean offerLast(E e):尾部插入元素、返回是否成功、成功为 true、失敗为 false。"
         ]
     },
     {
@@ -26,7 +26,7 @@
     {
         "name": "remove()",
         "trans": [
-            "public boolean remove(Object o):删除某一元素，返回是否成功，成功为 true，失败为 false。"
+            "public boolean remove(Object o):删除某一元素、返回是否成功、成功为 true、失敗为 false。"
         ]
     },
     {
@@ -74,13 +74,13 @@
     {
         "name": "indexOf()",
         "trans": [
-            "public int indexOf(Object o):查找指定元素从前往后第一次出现的索引。"
+            "public int indexOf(Object o):查找指定元素从前往后第一次現れる的索引。"
         ]
     },
     {
         "name": "lastIndexOf()",
         "trans": [
-            "public int lastIndexOf(Object o):查找指定元素最后一次出现的索引。"
+            "public int lastIndexOf(Object o):查找指定元素最后一次現れる的索引。"
         ]
     },
     {
@@ -134,7 +134,7 @@
     {
         "name": "listIterator()",
         "trans": [
-            "public ListIterator listIterator(int index):返回从指定位置开始到末尾的迭代器。"
+            "public ListIterator listIterator(int index):返回从指定位置始める到末尾的迭代器。"
         ]
     },
     {

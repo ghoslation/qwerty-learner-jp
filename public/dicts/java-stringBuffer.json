@@ -20,7 +20,7 @@
     {
         "name": "insert()",
         "trans": [
-            "public insert(int offset, int i):将 int 参数的字符串表示形式插入此序列中。"
+            "public insert(int offset, int i):将 int 参数的字符串表す形式插入此序列中。"
         ]
     },
     {
@@ -44,37 +44,37 @@
     {
         "name": "ensureCapacity()",
         "trans": [
-            "void ensureCapacity(int minimumCapacity):确保容量至少等于指定的最小值。"
+            "void ensureCapacity(int minimumCapacity):确保容量至少に等しい指定的最小值。"
         ]
     },
     {
         "name": "getChars()",
         "trans": [
-            "void getChars(int srcBegin, int srcEnd, char[] dst, int dstBegin):将字符从此序列复制到目标字符数组 dst。"
+            "void getChars(int srcBegin, int srcEnd, char[] dst, int dstBegin):将字符从此序列复制到目標字符数组 dst。"
         ]
     },
     {
         "name": "indexOf()",
         "trans": [
-            "int indexOf(String str):返回第一次出现的指定子字符串在该字符串中的索引。"
+            "int indexOf(String str):返回第一次現れる的指定子字符串在该字符串中的索引。"
         ]
     },
     {
         "name": "indexOf()",
         "trans": [
-            "int indexOf(String str, int fromIndex):从指定的索引处开始，返回第一次出现的指定子字符串在该字符串中的索引。"
+            "int indexOf(String str, int fromIndex):从指定的索引处始める、返回第一次現れる的指定子字符串在该字符串中的索引。"
         ]
     },
     {
         "name": "lastIndexOf()",
         "trans": [
-            "int lastIndexOf(String str):返回最右边出现的指定子字符串在此字符串中的索引。"
+            "int lastIndexOf(String str):返回最右边現れる的指定子字符串在此字符串中的索引。"
         ]
     },
     {
         "name": "lastIndexOf()",
         "trans": [
-            "int lastIndexOf(String str, int fromIndex):返回 String 对象中子字符串最后出现的位置。"
+            "int lastIndexOf(String str, int fromIndex):返回 String 对象中子字符串最后現れる的位置。"
         ]
     },
     {
@@ -98,25 +98,25 @@
     {
         "name": "subSequence()",
         "trans": [
-            "CharSequence subSequence(int start, int end):返回一个新的字符序列，该字符序列是此序列的子序列。"
+            "CharSequence subSequence(int start, int end):返回一个新的字符序列、该字符序列是此序列的子序列。"
         ]
     },
     {
         "name": "substring()",
         "trans": [
-            "String substring(int start):返回一个新的 String，它包含此字符序列当前所包含的字符子序列。"
+            "String substring(int start):返回一个新的 String、它含む此字符序列当前所含む的字符子序列。"
         ]
     },
     {
         "name": "substring()",
         "trans": [
-            "String substring(int start, int end):返回一个新的 String，它包含此序列当前所包含的字符子序列。"
+            "String substring(int start, int end):返回一个新的 String、它含む此序列当前所含む的字符子序列。"
         ]
     },
     {
         "name": "toString()",
         "trans": [
-            "String toString():返回此序列中数据的字符串表示形式。"
+            "String toString():返回此序列中数据的字符串表す形式。"
         ]
     }
 ]

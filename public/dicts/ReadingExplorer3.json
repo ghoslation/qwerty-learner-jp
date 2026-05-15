@@ -2,7 +2,7 @@
     {
         "name": "competitor",
         "trans": [
-            "竞争者"
+            "競争者"
         ],
         "usphone": "kəm'pɛtɪtɚ",
         "ukphone": "kəm'petɪtə"
@@ -18,7 +18,7 @@
     {
         "name": "establish",
         "trans": [
-            "建立"
+            "確立"
         ],
         "usphone": "ɪˈstæblɪʃ",
         "ukphone": "ɪ'stæblɪʃ"
@@ -90,7 +90,7 @@
     {
         "name": "automatic",
         "trans": [
-            "自动的"
+            "自動詞的"
         ],
         "usphone": "'ɔtə'mætɪk",
         "ukphone": "ˌɔːtə'mætɪk"
@@ -296,7 +296,7 @@
     {
         "name": "protective",
         "trans": [
-            "保护的"
+            "保護的"
         ],
         "usphone": "prə'tɛktɪv",
         "ukphone": "prə'tektɪv"
@@ -336,7 +336,7 @@
     {
         "name": "grasp",
         "trans": [
-            "抓住"
+            "掴む"
         ],
         "usphone": "ɡræsp",
         "ukphone": "græsp"
@@ -352,7 +352,7 @@
     {
         "name": "primary",
         "trans": [
-            "主要的"
+            "主要な"
         ],
         "usphone": "'praɪmɛri",
         "ukphone": "'praɪm(ə)rɪ"
@@ -384,7 +384,7 @@
     {
         "name": "tend to",
         "trans": [
-            "倾向于"
+            "傾向于"
         ]
     },
     {
@@ -406,7 +406,7 @@
     {
         "name": "conflict",
         "trans": [
-            "冲突"
+            "衝突"
         ],
         "usphone": "'kɑnflɪkt",
         "ukphone": "'kɒnflɪkt"
@@ -430,7 +430,7 @@
     {
         "name": "enforce",
         "trans": [
-            "执行"
+            "実行"
         ],
         "usphone": "ɪn'fɔrs",
         "ukphone": "ɪn'fɔːrs"
@@ -486,7 +486,7 @@
     {
         "name": "destruction",
         "trans": [
-            "破坏"
+            "破壊"
         ],
         "usphone": "dɪ'strʌkʃən",
         "ukphone": "dɪ'strʌkʃn"
@@ -582,7 +582,7 @@
     {
         "name": "massive",
         "trans": [
-            "巨大的"
+            "巨大な"
         ],
         "usphone": "'mæsɪv",
         "ukphone": "'mæsɪv"
@@ -606,7 +606,7 @@
     {
         "name": "schedule",
         "trans": [
-            "时间表"
+            "時間表"
         ],
         "usphone": "ˈskedʒʊl; skɛdʒʊl",
         "ukphone": "'skedʒuːl"
@@ -726,7 +726,7 @@
     {
         "name": "eager",
         "trans": [
-            "渴望的"
+            "切望的"
         ],
         "usphone": "'igɚ",
         "ukphone": "'iːgər"
@@ -766,7 +766,7 @@
     {
         "name": "spoil",
         "trans": [
-            "破坏"
+            "破壊"
         ],
         "usphone": "spɔɪl",
         "ukphone": "spɔɪl"
@@ -814,7 +814,7 @@
     {
         "name": "facilitate",
         "trans": [
-            "促进"
+            "促進"
         ],
         "usphone": "fə'sɪlə'tet",
         "ukphone": "fə'sɪlɪteɪt"
@@ -916,7 +916,7 @@
     {
         "name": "surroundings",
         "trans": [
-            "周围环境"
+            "周围環境"
         ],
         "usphone": "sə'raʊndɪŋz",
         "ukphone": "sə'raundɪŋz"
@@ -988,7 +988,7 @@
     {
         "name": "guarantee",
         "trans": [
-            "保证"
+            "保証"
         ],
         "usphone": ",ɡærən'ti",
         "ukphone": "ˌgærən'tiː"
@@ -1066,7 +1066,7 @@
     {
         "name": "regulation",
         "trans": [
-            "规定"
+            "規定"
         ],
         "usphone": "ˌrɛɡjəˈleʃən",
         "ukphone": "regjʊ'leɪʃ(ə)n"
@@ -1106,7 +1106,7 @@
     {
         "name": "acquire",
         "trans": [
-            "获得"
+            "得る"
         ],
         "usphone": "ə'kwaɪr",
         "ukphone": "ə'kwaɪər"
@@ -1210,7 +1210,7 @@
     {
         "name": "enormous",
         "trans": [
-            "巨大的"
+            "巨大な"
         ],
         "usphone": "ɪ'nɔrməs",
         "ukphone": "ɪ'nɔːrməs"
@@ -1218,7 +1218,7 @@
     {
         "name": "illustrate",
         "trans": [
-            "说明"
+            "説明"
         ],
         "usphone": "'ɪləstret",
         "ukphone": "'ɪləstreɪt"
@@ -1226,7 +1226,7 @@
     {
         "name": "impact",
         "trans": [
-            "影响"
+            "影響"
         ],
         "usphone": "ɪm'pækt",
         "ukphone": "'ɪmpækt"
@@ -1234,7 +1234,7 @@
     {
         "name": "occur",
         "trans": [
-            "发生"
+            "発生"
         ],
         "usphone": "ə'kɝ",
         "ukphone": "ə'kɜːr"
@@ -1274,7 +1274,7 @@
     {
         "name": "alter",
         "trans": [
-            "改变"
+            "変える"
         ],
         "usphone": "'ɔltɚ",
         "ukphone": "'ɔːltər"
@@ -1414,7 +1414,7 @@
     {
         "name": "survey",
         "trans": [
-            "调查"
+            "調査"
         ],
         "usphone": "ˈsɝˌve; (for v.) sɝˈve",
         "ukphone": "ˈsəːveɪ; (for v.) səˈveɪ"
@@ -1462,7 +1462,7 @@
     {
         "name": "reinforce",
         "trans": [
-            "加强"
+            "強化"
         ],
         "usphone": ",riɪn'fɔrs",
         "ukphone": "ˌriːɪn'fɔːrs"
@@ -1486,7 +1486,7 @@
     {
         "name": "vast",
         "trans": [
-            "巨大的"
+            "巨大な"
         ],
         "usphone": "væst",
         "ukphone": "væst"
@@ -1510,7 +1510,7 @@
     {
         "name": "acknowledge",
         "trans": [
-            "承认"
+            "認める"
         ],
         "usphone": "ək'nɑlɪdʒ",
         "ukphone": "ək'nɑːlɪdʒ"
@@ -1622,7 +1622,7 @@
     {
         "name": "recovery",
         "trans": [
-            "恢复"
+            "回復"
         ],
         "usphone": "rɪ'kʌvəri",
         "ukphone": "rɪ'kʌv(ə)rɪ"
@@ -1678,7 +1678,7 @@
     {
         "name": "influence",
         "trans": [
-            "影响"
+            "影響"
         ],
         "usphone": "'ɪnfluəns",
         "ukphone": "'ɪnflʊəns"
@@ -1702,7 +1702,7 @@
     {
         "name": "selection",
         "trans": [
-            "选择"
+            "選択"
         ],
         "usphone": "sɪ'lɛkʃən",
         "ukphone": "sɪ'lekʃn"
@@ -1822,7 +1822,7 @@
     {
         "name": "backing",
         "trans": [
-            "支持"
+            "支援"
         ],
         "usphone": "'bækɪŋ",
         "ukphone": "'bækiŋ"
@@ -1862,7 +1862,7 @@
     {
         "name": "launch",
         "trans": [
-            "发射"
+            "発射"
         ],
         "usphone": "lɔntʃ",
         "ukphone": "lɔːntʃ"

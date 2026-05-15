@@ -10,7 +10,7 @@
     {
         "name": "abandon",
         "trans": [
-            "放弃, 抛弃, 弃, 摒弃 (verb.)"
+            "放棄, 抛弃, 弃, 摒弃 (verb.)"
         ],
         "usphone": "ə'bændən",
         "ukphone": "ə'bændən"
@@ -58,7 +58,7 @@
     {
         "name": "absence",
         "trans": [
-            "缺席, 缺失, 缺位, 缺乏 (noun.)"
+            "缺席, 缺失, 缺位, 欠如 (noun.)"
         ],
         "usphone": "'æbsns",
         "ukphone": "'æbsəns"
@@ -160,7 +160,7 @@
     {
         "name": "account",
         "trans": [
-            "帐户, 账户, 帐号, 账号 (noun.); 占, 解释 (verb.)"
+            "帐户, 账户, 帐号, 账号 (noun.); 占, 解釈 (verb.)"
         ],
         "usphone": "ə'kaʊnt",
         "ukphone": "ə'kaunt"
@@ -176,7 +176,7 @@
     {
         "name": "accuse",
         "trans": [
-            "指责, 控告, 指控, 告 (verb.)"
+            "指责, 告訴, 指控, 告 (verb.)"
         ],
         "usphone": "ə'kjuz",
         "ukphone": "ə'kjuːz"
@@ -208,7 +208,7 @@
     {
         "name": "acknowledge",
         "trans": [
-            "承认, 答谢, 认 (verb.)"
+            "認める, 答谢, 认 (verb.)"
         ],
         "usphone": "ək'nɑlɪdʒ",
         "ukphone": "ək'nɑːlɪdʒ"
@@ -216,7 +216,7 @@
     {
         "name": "acquire",
         "trans": [
-            "获得, 获取, 收购, 取得 (verb.)"
+            "得る, 获取, 收购, 取得 (verb.)"
         ],
         "usphone": "ə'kwaɪr",
         "ukphone": "ə'kwaɪər"
@@ -232,7 +232,7 @@
     {
         "name": "act",
         "trans": [
-            "行为, 法案, 法, 幕 (noun.); 行动, 采取行动, 行事, 表现 (verb.)"
+            "行為, 法案, 法, 幕 (noun.); 行动, 采取行动, 行事, 表現 (verb.)"
         ],
         "usphone": "ækt",
         "ukphone": "ækt"
@@ -264,7 +264,7 @@
     {
         "name": "activity",
         "trans": [
-            "活动, 活性, 活力, 行为 (noun.)"
+            "活动, 活性, 活力, 行為 (noun.)"
         ],
         "usphone": "ækˈtɪvətɪ",
         "ukphone": "ækˈtɪvətɪ"
@@ -312,7 +312,7 @@
     {
         "name": "add",
         "trans": [
-            "添加, 加, 增加, 补充 (verb.)"
+            "添加, 加, 増加, 补充 (verb.)"
         ],
         "usphone": "æd",
         "ukphone": "æd"
@@ -336,7 +336,7 @@
     {
         "name": "address",
         "trans": [
-            "地址, 住址, 报告 (noun.); 解决 (verb.)"
+            "地址, 住址, 报告 (noun.); 解決 (verb.)"
         ],
         "usphone": "əˈdrɛs;(for n)ˈædres; ædrɛs",
         "ukphone": "ə'dres"
@@ -392,7 +392,7 @@
     {
         "name": "admit",
         "trans": [
-            "承认, 认错, 接纳, 录取 (verb.)"
+            "認める, 认错, 接纳, 录取 (verb.)"
         ],
         "usphone": "əd'mɪt",
         "ukphone": "əd'mɪt"
@@ -416,7 +416,7 @@
     {
         "name": "advance",
         "trans": [
-            "提前, 进展, 推进, 事先 (noun.); 促进, 推动 (verb.)"
+            "提前, 进展, 推进, 事先 (noun.); 促進, 推动 (verb.)"
         ],
         "usphone": "əd'væns",
         "ukphone": "əd'væns"
@@ -472,7 +472,7 @@
     {
         "name": "advice",
         "trans": [
-            "建议, 忠告, 意见, 劝告 (noun.)"
+            "提案, 忠告, 意見, 劝告 (noun.)"
         ],
         "usphone": "ədˈvaɪs",
         "ukphone": "əd'vaɪs"
@@ -480,7 +480,7 @@
     {
         "name": "advise",
         "trans": [
-            "建议, 劝, 奉劝, 告知 (verb.)"
+            "提案, 劝, 奉劝, 告知 (verb.)"
         ],
         "usphone": "əd'vaɪz",
         "ukphone": "əd'vaɪz"
@@ -504,7 +504,7 @@
     {
         "name": "affect",
         "trans": [
-            "影响 (verb.)"
+            "影響 (verb.)"
         ],
         "usphone": "ə'fɛkt",
         "ukphone": "ə'fekt"
@@ -560,7 +560,7 @@
     {
         "name": "against",
         "trans": [
-            "反对, 对 (prep.)"
+            "反対, 对 (prep.)"
         ],
         "usphone": "əˈɡɛnst;əˈɡenst",
         "ukphone": "ə'genst; ə'geɪnst"
@@ -616,7 +616,7 @@
     {
         "name": "agree",
         "trans": [
-            "同意, 达成一致, 认同, 赞成 (verb.)"
+            "同意, 达成一致, 认同, 賛成 (verb.)"
         ],
         "usphone": "ə'ɡri",
         "ukphone": "ə'griː"
@@ -656,7 +656,7 @@
     {
         "name": "aim",
         "trans": [
-            "目的, 目标, 宗旨, 旨在 (noun.); 瞄准 (verb.)"
+            "目的, 目標, 宗旨, 旨在 (noun.); 瞄准 (verb.)"
         ],
         "usphone": "em",
         "ukphone": "eɪm"
@@ -806,7 +806,7 @@
     {
         "name": "alter",
         "trans": [
-            "改变, 更改, 涂改, 改动 (verb.); 圣坛 (noun.)"
+            "変える, 更改, 涂改, 改动 (verb.); 圣坛 (noun.)"
         ],
         "usphone": "'ɔltɚ",
         "ukphone": "'ɔːltər"
@@ -814,7 +814,7 @@
     {
         "name": "alternative",
         "trans": [
-            "替代, 另类, 备选, 可供选择 (adj.); 替代品, 选择 (noun.)"
+            "替代, 另类, 备选, 可供選択 (adj.); 替代品, 選択 (noun.)"
         ],
         "usphone": "ɔl'tɝnətɪv",
         "ukphone": "ɔːl'tɜːrnətɪv"
@@ -1094,7 +1094,7 @@
     {
         "name": "apart",
         "trans": [
-            "分开, 拆开, 拆散, 相隔 (adv.)"
+            "分ける, 拆开, 拆散, 相隔 (adv.)"
         ],
         "usphone": "ə'pɑrt",
         "ukphone": "ə'pɑːt"
@@ -1110,7 +1110,7 @@
     {
         "name": "apologize",
         "trans": [
-            "道歉, 表示歉意, 致歉, 深表歉意 (verb.)"
+            "道歉, 表す歉意, 致歉, 深表歉意 (verb.)"
         ],
         "usphone": "ə'pɑlədʒaɪz",
         "ukphone": "ə'pɑːlədʒaɪz"
@@ -1142,7 +1142,7 @@
     {
         "name": "appeal",
         "trans": [
-            "上诉, 吸引力, 呼吁, 感染力 (noun.); 提出上诉, 吸引 (verb.)"
+            "上诉, 引き付ける力, 呼吁, 感染力 (noun.); 提案上诉, 引き付ける (verb.)"
         ],
         "usphone": "ə'pil",
         "ukphone": "ə'piːl"
@@ -1150,7 +1150,7 @@
     {
         "name": "appear",
         "trans": [
-            "出现, 显得, 显现, 显示 (verb.)"
+            "現れる, 显得, 显现, 表す (verb.)"
         ],
         "usphone": "ə'pɪr",
         "ukphone": "ə'pɪə"
@@ -1158,7 +1158,7 @@
     {
         "name": "appearance",
         "trans": [
-            "外观, 外表, 外貌, 出现 (noun.)"
+            "外观, 外表, 外貌, 現れる (noun.)"
         ],
         "usphone": "ə'pɪrəns",
         "ukphone": "ə'pɪər(ə)ns"
@@ -1214,7 +1214,7 @@
     {
         "name": "approach",
         "trans": [
-            "方法, 途径, 做法, 方针 (noun.); 接近 (verb.)"
+            "方法, 途径, 做法, 方针 (noun.); 近づく (verb.)"
         ],
         "usphone": "ə'protʃ",
         "ukphone": "ə'proutʃ"
@@ -1230,7 +1230,7 @@
     {
         "name": "approval",
         "trans": [
-            "批准, 审批, 核准, 认可 (noun.)"
+            "承認, 审批, 核准, 认可 (noun.)"
         ],
         "usphone": "əˈpruvl",
         "ukphone": "ə'pruːv(ə)l"
@@ -1238,7 +1238,7 @@
     {
         "name": "approve",
         "trans": [
-            "批准, 赞成, 赞同, 同意 (verb.)"
+            "承認, 賛成, 赞同, 同意 (verb.)"
         ],
         "usphone": "ə'prʊv",
         "ukphone": "ə'pruːv"
@@ -1254,7 +1254,7 @@
     {
         "name": "architect",
         "trans": [
-            "建筑师, 架构师, 构架师, 设计师 (noun.)"
+            "建筑师, 架构师, 构架师, 設計师 (noun.)"
         ],
         "usphone": "'ɑrkɪtɛkt",
         "ukphone": "'ɑːrkɪtekt"
@@ -1278,7 +1278,7 @@
     {
         "name": "argue",
         "trans": [
-            "争辩, 争论, 辩, 争吵 (verb.)"
+            "争辩, 議論, 辩, 争吵 (verb.)"
         ],
         "usphone": "'ɑrgjʊ",
         "ukphone": "'ɑːrgjuː"
@@ -1286,7 +1286,7 @@
     {
         "name": "argument",
         "trans": [
-            "论点, 论据, 争论, 参数 (noun.)"
+            "论点, 论据, 議論, 参数 (noun.)"
         ],
         "usphone": "'ɑrɡjumənt",
         "ukphone": "'ɑːgjʊm(ə)nt"
@@ -1294,7 +1294,7 @@
     {
         "name": "arise",
         "trans": [
-            "出现, 升起 (verb.)"
+            "現れる, 升起 (verb.)"
         ],
         "usphone": "ə'raɪz",
         "ukphone": "ə'raɪz"
@@ -1332,7 +1332,7 @@
     {
         "name": "arrange",
         "trans": [
-            "安排, 排列, 整理, 布置 (verb.)"
+            "手配, 排列, 整理, 布置 (verb.)"
         ],
         "usphone": "ə'rendʒ",
         "ukphone": "ə'reɪndʒ"
@@ -1340,7 +1340,7 @@
     {
         "name": "arrangement",
         "trans": [
-            "安排, 布置, 排列, 编排 (noun.)"
+            "手配, 布置, 排列, 编排 (noun.)"
         ],
         "usphone": "ə'rendʒmənt",
         "ukphone": "ə'reɪn(d)ʒm(ə)nt"
@@ -1452,7 +1452,7 @@
     {
         "name": "assess",
         "trans": [
-            "评估, 评价, 评定, 考核 (verb.)"
+            "评估, 評価, 评定, 考核 (verb.)"
         ],
         "usphone": "ə'sɛs",
         "ukphone": "ə'ses"
@@ -1460,7 +1460,7 @@
     {
         "name": "assessment",
         "trans": [
-            "评估, 评价, 评定, 考核 (noun.)"
+            "评估, 評価, 评定, 考核 (noun.)"
         ],
         "usphone": "ə'sɛsmənt",
         "ukphone": "ə'sesmənt"
@@ -1476,7 +1476,7 @@
     {
         "name": "assist",
         "trans": [
-            "协助, 帮助, 辅助 (verb.)"
+            "协助, 助ける, 辅助 (verb.)"
         ],
         "usphone": "ə'sɪst",
         "ukphone": "ə'sɪst"
@@ -1484,7 +1484,7 @@
     {
         "name": "assistance",
         "trans": [
-            "援助, 协助, 帮助, 救助 (noun.)"
+            "援助, 协助, 助ける, 救助 (noun.)"
         ],
         "usphone": "ə'sɪstəns",
         "ukphone": "ə'sɪstəns"
@@ -1532,7 +1532,7 @@
     {
         "name": "assure",
         "trans": [
-            "保证, 确保 (verb.)"
+            "保証, 确保 (verb.)"
         ],
         "usphone": "ə'ʃʊr",
         "ukphone": "ə'ʃur"
@@ -1572,7 +1572,7 @@
     {
         "name": "attempt",
         "trans": [
-            "尝试, 企图, 试图, 试 (noun.)"
+            "試み, 企图, 试图, 试 (noun.)"
         ],
         "usphone": "ə'tɛmpt",
         "ukphone": "ə'tempt"
@@ -1612,7 +1612,7 @@
     {
         "name": "attract",
         "trans": [
-            "吸引, 招揽, 吸纳, 引来 (verb.)"
+            "引き付ける, 招揽, 吸纳, 引来 (verb.)"
         ],
         "usphone": "ə'trækt",
         "ukphone": "ə'trækt"
@@ -1620,7 +1620,7 @@
     {
         "name": "attraction",
         "trans": [
-            "吸引力, 吸引, 景点, 胜地 (noun.)"
+            "引き付ける力, 引き付ける, 景点, 胜地 (noun.)"
         ],
         "usphone": "ə'trækʃən",
         "ukphone": "ə'trækʃ(ə)n"
@@ -1628,7 +1628,7 @@
     {
         "name": "attractive",
         "trans": [
-            "具吸引力, 吸引力, 诱人, 迷人 (adj.)"
+            "具引き付ける力, 引き付ける力, 诱人, 迷人 (adj.)"
         ],
         "usphone": "ə'træktɪv",
         "ukphone": "ə'træktɪv"
@@ -1668,7 +1668,7 @@
     {
         "name": "automatic",
         "trans": [
-            "自动, 全自动, 自动化 (adj.)"
+            "自動詞, 全自動詞, 自動詞化 (adj.)"
         ],
         "usphone": "'ɔtə'mætɪk",
         "ukphone": "ˌɔːtə'mætɪk"
@@ -1676,7 +1676,7 @@
     {
         "name": "automatically",
         "trans": [
-            "自动 (adv.)"
+            "自動詞 (adv.)"
         ],
         "usphone": ",ɔ:tə'mætikəli",
         "ukphone": "ɔːtə'mætɪklɪ"
@@ -1748,7 +1748,7 @@
     {
         "name": "away",
         "trans": [
-            "走, 带走, 离开, 远离 (adv.)"
+            "走, 带走, 離れる, 远离 (adv.)"
         ],
         "usphone": "əˈwe",
         "ukphone": "ə'weɪ"
@@ -2020,7 +2020,7 @@
     {
         "name": "bear",
         "trans": [
-            "熊, 贝尔斯登 (noun.); 承担, 承受, 忍受, 背负 (verb.)"
+            "熊, 贝尔斯登 (noun.); 承担, 承受, 耐える, 背负 (verb.)"
         ],
         "usphone": "bɛr",
         "ukphone": "beə"
@@ -2124,7 +2124,7 @@
     {
         "name": "begin",
         "trans": [
-            "开始, 首先, 开头, 展开 (verb.)"
+            "始める, 首先, 开头, 展开 (verb.)"
         ],
         "usphone": "bɪ'ɡɪn",
         "ukphone": "bɪ'gɪn"
@@ -2132,7 +2132,7 @@
     {
         "name": "beginning",
         "trans": [
-            "开始, 开端, 开头, 初 (noun.)"
+            "始める, 开端, 开头, 初 (noun.)"
         ],
         "usphone": "bɪ'ɡɪnɪŋ",
         "ukphone": "bɪ'gɪnɪŋ"
@@ -2148,7 +2148,7 @@
     {
         "name": "behave",
         "trans": [
-            "行为, 表现, 做人, 行为举止 (verb.)"
+            "行為, 表現, 做人, 行為举止 (verb.)"
         ],
         "usphone": "bɪ'hev",
         "ukphone": "bɪ'heɪv"
@@ -2156,7 +2156,7 @@
     {
         "name": "behaviour",
         "trans": [
-            "行为, 举止, 举动 (noun.)"
+            "行為, 举止, 举动 (noun.)"
         ],
         "usphone": "bɪ'hevjər",
         "ukphone": "bɪ'heɪvjə"
@@ -2188,7 +2188,7 @@
     {
         "name": "believe",
         "trans": [
-            "相信, 认为, 信, 坚信 (verb.)"
+            "相信, 考える, 信, 坚信 (verb.)"
         ],
         "usphone": "bɪ'liv",
         "ukphone": "bɪ'liːv"
@@ -2460,7 +2460,7 @@
     {
         "name": "block",
         "trans": [
-            "块, 砌块, 阻滞, 街区 (noun.); 阻止, 阻塞, 阻碍 (verb.)"
+            "块, 砌块, 阻滞, 街区 (noun.); 阻止, 阻塞, 妨害 (verb.)"
         ],
         "usphone": "blɑk",
         "ukphone": "blɑːk"
@@ -2928,7 +2928,7 @@
     {
         "name": "build",
         "trans": [
-            "建立, 构建, 建造, 打造 (verb.)"
+            "確立, 构建, 建造, 打造 (verb.)"
         ],
         "usphone": "bɪld",
         "ukphone": "bɪld"
@@ -2944,7 +2944,7 @@
     {
         "name": "building",
         "trans": [
-            "建筑, 建设, 大楼, 建筑物 (noun.); 构建, 建立, 建造, 建 (verb.)"
+            "建筑, 建设, 大楼, 建筑物 (noun.); 构建, 確立, 建造, 建 (verb.)"
         ],
         "usphone": "'bɪldɪŋ",
         "ukphone": "'bɪldɪŋ"
@@ -3064,7 +3064,7 @@
     {
         "name": "by",
         "trans": [
-            "由, 通过, 的 (prep.)"
+            "由, 通過, 的 (prep.)"
         ],
         "usphone": "baɪ",
         "ukphone": "baɪ"
@@ -3112,7 +3112,7 @@
     {
         "name": "calculate",
         "trans": [
-            "计算, 算, 测算 (verb.); 算了 (noun.)"
+            "計算, 算, 测算 (verb.); 算了 (noun.)"
         ],
         "usphone": "'kælkjulet",
         "ukphone": "'kælkjuleɪt"
@@ -3120,7 +3120,7 @@
     {
         "name": "calculation",
         "trans": [
-            "计算, 测算, 核算, 运算 (noun.)"
+            "計算, 测算, 核算, 运算 (noun.)"
         ],
         "usphone": ",kælkju'leʃən",
         "ukphone": "kælkjʊ'leɪʃ(ə)n"
@@ -3128,7 +3128,7 @@
     {
         "name": "calculator",
         "trans": [
-            "计算器 (noun.)"
+            "計算器 (noun.)"
         ],
         "usphone": "'kælkjuletɚ",
         "ukphone": "'kælkjʊleɪtə"
@@ -3176,7 +3176,7 @@
     {
         "name": "campaign",
         "trans": [
-            "竞选, 运动, 战役, 竞选活动 (noun.)"
+            "竞选, 運動, 战役, 竞选活动 (noun.)"
         ],
         "usphone": "kæm'pen",
         "ukphone": "kæm'peɪn"
@@ -3200,7 +3200,7 @@
     {
         "name": "cancel",
         "trans": [
-            "取消, 撤销, 注销, 抵消 (verb.)"
+            "キャンセル, 撤销, 注销, 抵消 (verb.)"
         ],
         "usphone": "'kænsl",
         "ukphone": "'kænsl"
@@ -3280,7 +3280,7 @@
     {
         "name": "capture",
         "trans": [
-            "捕获, 俘获, 采集 (noun.); 捕捉, 抓住, 获取, 占领 (verb.)"
+            "捕获, 俘获, 采集 (noun.); 捕捉, 掴む, 获取, 占领 (verb.)"
         ],
         "usphone": "'kæptʃɚ",
         "ukphone": "'kæptʃə"
@@ -3312,7 +3312,7 @@
     {
         "name": "career",
         "trans": [
-            "职业生涯, 事业, 职业, 生涯 (noun.)"
+            "職業生涯, 事业, 職業, 生涯 (noun.)"
         ],
         "usphone": "kə'rɪr",
         "ukphone": "kə'rɪr"
@@ -3416,7 +3416,7 @@
     {
         "name": "catch",
         "trans": [
-            "赶上, 抓住, 抓, 抓到 (verb.)"
+            "赶上, 掴む, 抓, 抓到 (verb.)"
         ],
         "usphone": "kætʃ",
         "ukphone": "kætʃ"
@@ -3432,7 +3432,7 @@
     {
         "name": "cause",
         "trans": [
-            "原因, 事业, 成因, 病因 (noun.); 引起, 导致, 造成, 因为 (verb.)"
+            "原因, 事业, 成因, 病因 (noun.); 引き起こす, 导致, 造成, 因为 (verb.)"
         ],
         "usphone": "kɔz",
         "ukphone": "kɔːz"
@@ -3446,7 +3446,7 @@
     {
         "name": "cease",
         "trans": [
-            "停止, 不再, 停息, 止息 (verb.)"
+            "止める, 不再, 停息, 止息 (verb.)"
         ],
         "usphone": "sis",
         "ukphone": "siːs"
@@ -3556,7 +3556,7 @@
     {
         "name": "certificate",
         "trans": [
-            "证书, 证明书, 证, 合格证书 (noun.)"
+            "证书, 証明书, 证, 合格证书 (noun.)"
         ],
         "usphone": "sɚˈtɪfɪkɪt; (for v.,) sɚˈtɪfɪˌket",
         "ukphone": "sər'tɪfɪkət"
@@ -3620,7 +3620,7 @@
     {
         "name": "change",
         "trans": [
-            "改变, 更改, 换, 修改 (verb.); 变化, 变更, 变革, 转变 (noun.)"
+            "変える, 更改, 换, 修改 (verb.); 変化, 变更, 变革, 转变 (noun.)"
         ],
         "usphone": "tʃendʒ",
         "ukphone": "tʃeɪn(d)ʒ"
@@ -3724,7 +3724,7 @@
     {
         "name": "cheat",
         "trans": [
-            "作弊, 欺骗, 骗, 骗人 (verb.); 骗子, 备忘, 欺诈 (noun.)"
+            "作弊, 欺く, 骗, 骗人 (verb.); 骗子, 备忘, 欺诈 (noun.)"
         ],
         "usphone": "tʃit",
         "ukphone": "tʃiːt"
@@ -3732,7 +3732,7 @@
     {
         "name": "check",
         "trans": [
-            "检查, 核对, 查, 查看 (verb.); 支票, 复选 (noun.)"
+            "検査, 核对, 查, 查看 (verb.); 支票, 复选 (noun.)"
         ],
         "usphone": "tʃɛk",
         "ukphone": "tʃek"
@@ -3852,7 +3852,7 @@
     {
         "name": "choice",
         "trans": [
-            "选择, 抉择, 选, 首选 (noun.)"
+            "選択, 抉择, 选, 首选 (noun.)"
         ],
         "usphone": "tʃɔɪs",
         "ukphone": "tʃɒɪs"
@@ -3860,7 +3860,7 @@
     {
         "name": "choose",
         "trans": [
-            "选择, 选, 挑选, 选用 (verb.)"
+            "選択, 选, 挑选, 选用 (verb.)"
         ],
         "usphone": "tʃuz",
         "ukphone": "tʃuːz"
@@ -3903,7 +3903,7 @@
             "电影院, 影院, 电影, 电影院看电影 (noun.)"
         ],
         "usphone": "'sɪnəmə",
-        "ukphone": "ˈsɪnəmə；ˈsɪnɪmə"
+        "ukphone": "ˈsɪnəmə; ˈsɪnɪmə"
     },
     {
         "name": "circle",
@@ -3924,7 +3924,7 @@
     {
         "name": "circumstance",
         "trans": [
-            "情况, 情况下, 环境, 形势下 (noun.)"
+            "情况, 情况下, 環境, 形势下 (noun.)"
         ],
         "usphone": "ˈsɝ​kəmˌstəns",
         "ukphone": "'sɜːrkəmstæns"
@@ -4084,7 +4084,7 @@
     {
         "name": "close",
         "trans": [
-            "密切, 接近, 亲密, 紧密 (adj.); 关闭, 闭, 关, 结束 (verb.); 靠近 (adv.)"
+            "密切, 近づく, 亲密, 紧密 (adj.); 关闭, 闭, 关, 終わる (verb.); 靠近 (adv.)"
         ],
         "usphone": "kloz",
         "ukphone": "kləʊs"
@@ -4130,7 +4130,7 @@
     {
         "name": "cloud",
         "trans": [
-            "云, 朵云, 云计算, 云端 (noun.)"
+            "云, 朵云, 云計算, 云端 (noun.)"
         ],
         "usphone": "klaʊd",
         "ukphone": "klaʊd"
@@ -4282,7 +4282,7 @@
     {
         "name": "combination",
         "trans": [
-            "组合, 结合, 相结合, 联合 (noun.)"
+            "组合, 結合, 相結合, 連合 (noun.)"
         ],
         "usphone": ",kɑmbɪ'neʃən",
         "ukphone": "ˌkɑːmbɪ'neɪʃn"
@@ -4290,7 +4290,7 @@
     {
         "name": "combine",
         "trans": [
-            "结合, 相结合, 组合, 合并 (verb.); 联合收割机 (noun.)"
+            "結合, 相結合, 组合, 合并 (verb.); 連合收割机 (noun.)"
         ],
         "usphone": "kəm'baɪn",
         "ukphone": "kəm'baɪn"
@@ -4330,7 +4330,7 @@
     {
         "name": "comment",
         "trans": [
-            "评论, 注释, 意见, 评述 (noun.); 发表评论, 置评, 发表意见, 述评 (verb.)"
+            "コメント, 注释, 意見, 评述 (noun.); 发表コメント, 置评, 发表意見, 述评 (verb.)"
         ],
         "usphone": "'kɑmɛnt",
         "ukphone": "'kɑːment"
@@ -4434,7 +4434,7 @@
     {
         "name": "compete",
         "trans": [
-            "竞争, 竞相, 争, 比赛 (verb.)"
+            "競争, 竞相, 争, 試合 (verb.)"
         ],
         "usphone": "kəm'pit",
         "ukphone": "kəm'piːt"
@@ -4442,7 +4442,7 @@
     {
         "name": "competition",
         "trans": [
-            "竞争, 比赛, 竞赛, 大赛 (noun.)"
+            "競争, 試合, 竞赛, 大赛 (noun.)"
         ],
         "usphone": ",kɑmpə'tɪʃən",
         "ukphone": "ˌkɒmpəˈtɪʃn"
@@ -4450,7 +4450,7 @@
     {
         "name": "competitive",
         "trans": [
-            "竞争, 竞争力, 竞争性, 具竞争力 (adj.)"
+            "競争, 競争力, 競争性, 具競争力 (adj.)"
         ],
         "usphone": "kəm'pɛtətɪv",
         "ukphone": "kəm'petɪtɪv"
@@ -4474,7 +4474,7 @@
     {
         "name": "complete",
         "trans": [
-            "完整, 齐全, 完全, 完备 (adj.); 完成, 填写 (verb.)"
+            "完整, 齐全, 完全, 完备 (adj.); 完了, 填写 (verb.)"
         ],
         "usphone": "kəm'plit",
         "ukphone": "kəm'pliːt"
@@ -4530,7 +4530,7 @@
     {
         "name": "computer",
         "trans": [
-            "计算机, 电脑, 台电脑, 台计算机 (noun.)"
+            "コンピュータ, 电脑, 台电脑, 台コンピュータ (noun.)"
         ],
         "usphone": "kəm'pjutɚ",
         "ukphone": "kəm'pjuːtə"
@@ -4594,7 +4594,7 @@
     {
         "name": "conclude",
         "trans": [
-            "得出结论, 总结, 缔结, 结束 (verb.)"
+            "得出结论, 总结, 缔结, 終わる (verb.)"
         ],
         "usphone": "kən'klud",
         "ukphone": "kən'kluːd"
@@ -4618,7 +4618,7 @@
     {
         "name": "conduct",
         "trans": [
-            "进行, 开展 (verb.); 行为, 操守, 品行 (noun.)"
+            "进行, 开展 (verb.); 行為, 操守, 品行 (noun.)"
         ],
         "usphone": "kən'dʌkt",
         "ukphone": "'kɒndʌkt"
@@ -4650,7 +4650,7 @@
     {
         "name": "confine",
         "trans": [
-            "局限, 限制, 限于, 局限于 (verb.)"
+            "局限, 制限, 限于, 局限于 (verb.)"
         ],
         "usphone": "kən'faɪn",
         "ukphone": "kən'faɪn"
@@ -4666,7 +4666,7 @@
     {
         "name": "conflict",
         "trans": [
-            "冲突, 矛盾, 抵触, 争端 (noun.)"
+            "衝突, 矛盾, 抵触, 争端 (noun.)"
         ],
         "usphone": "'kɑnflɪkt",
         "ukphone": "'kɒnflɪkt"
@@ -4702,7 +4702,7 @@
     {
         "name": "connect",
         "trans": [
-            "连接, 联系, 连, 接通 (verb.)"
+            "接続, 連絡, 连, 接通 (verb.)"
         ],
         "usphone": "kə'nɛkt",
         "ukphone": "kə'nekt"
@@ -4710,7 +4710,7 @@
     {
         "name": "connection",
         "trans": [
-            "连接, 联系, 接线, 涉嫌 (noun.)"
+            "接続, 連絡, 接线, 涉嫌 (noun.)"
         ],
         "usphone": "kə'nɛkʃən",
         "ukphone": "kəˈnekʃn"
@@ -4742,7 +4742,7 @@
     {
         "name": "consequence",
         "trans": [
-            "后果, 结果, 推论 (noun.)"
+            "后果, 結果, 推论 (noun.)"
         ],
         "usphone": "'kɑnsəkwɛns",
         "ukphone": "'kɑːnsəkwens"
@@ -4750,7 +4750,7 @@
     {
         "name": "consider",
         "trans": [
-            "考虑, 否考虑, 认为, 思考 (verb.)"
+            "検討, 否検討, 考える, 思考 (verb.)"
         ],
         "usphone": "kən'sɪdɚ",
         "ukphone": "kən'sɪdə"
@@ -4774,7 +4774,7 @@
     {
         "name": "consideration",
         "trans": [
-            "考虑, 思考, 审议, 考量 (noun.)"
+            "検討, 思考, 审议, 考量 (noun.)"
         ],
         "usphone": "kən,sɪdə'reʃən",
         "ukphone": "kənˌsɪdə'reɪʃn"
@@ -4782,7 +4782,7 @@
     {
         "name": "consist",
         "trans": [
-            "由, 组成, 包含 (verb.)"
+            "由, 组成, 含む (verb.)"
         ],
         "usphone": "kən'sɪst",
         "ukphone": "kən'sɪst"
@@ -4814,7 +4814,7 @@
     {
         "name": "constitute",
         "trans": [
-            "构成, 组成 (verb.)"
+            "構成, 组成 (verb.)"
         ],
         "usphone": "'kɑnstətut",
         "ukphone": "'kɑːnstətjuːt"
@@ -4862,7 +4862,7 @@
     {
         "name": "contact",
         "trans": [
-            "接触, 联络, 联系人, 触头 (noun.); 联系 (verb.)"
+            "接触, 联络, 連絡人, 触头 (noun.); 連絡 (verb.)"
         ],
         "usphone": "'kɑntækt",
         "ukphone": "'kɒntækt"
@@ -4870,7 +4870,7 @@
     {
         "name": "contain",
         "trans": [
-            "包含, 含有, 含, 遏制 (verb.)"
+            "含む, 含有, 含, 遏制 (verb.)"
         ],
         "usphone": "kən'ten",
         "ukphone": "kən'teɪn"
@@ -4886,7 +4886,7 @@
     {
         "name": "content",
         "trans": [
-            "内容, 含量, 内涵, 量 (noun.); 满足 (adj.)"
+            "内容, 含量, 内涵, 量 (noun.); 満たす (adj.)"
         ],
         "usphone": "'kɑntɛnt",
         "ukphone": "kən'tent"
@@ -4894,7 +4894,7 @@
     {
         "name": "contest",
         "trans": [
-            "竞赛, 大赛, 比赛, 较量 (noun.)"
+            "竞赛, 大赛, 試合, 较量 (noun.)"
         ],
         "usphone": "kən'tɛst",
         "ukphone": "'kɒntest"
@@ -4958,7 +4958,7 @@
     {
         "name": "control",
         "trans": [
-            "控制, 控件, 管制, 控 (noun.)"
+            "制御, 控件, 管制, 控 (noun.)"
         ],
         "usphone": "kən'trol",
         "ukphone": "kən'trəʊl"
@@ -5332,7 +5332,7 @@
     {
         "name": "crew",
         "trans": [
-            "船员, 机组人员, 乘员组, 工作人员 (noun.)"
+            "船员, 机组人员, 乘员组, 仕事人员 (noun.)"
         ],
         "usphone": "krʊ",
         "ukphone": "kruː"
@@ -5372,7 +5372,7 @@
     {
         "name": "critic",
         "trans": [
-            "评论家, 批评家, 批评, 批判 (noun.)"
+            "コメント家, 批评家, 批评, 批判 (noun.)"
         ],
         "usphone": "'krɪtɪk",
         "ukphone": "'krɪtɪk"
@@ -5388,7 +5388,7 @@
     {
         "name": "criticism",
         "trans": [
-            "批评, 批判, 非议, 评论 (noun.)"
+            "批评, 批判, 非议, コメント (noun.)"
         ],
         "usphone": "'krɪtə'sɪzəm",
         "ukphone": "'krɪtɪsɪz(ə)m"
@@ -5468,7 +5468,7 @@
     {
         "name": "culture",
         "trans": [
-            "文化, 培养, 栽培, 养殖 (noun.)"
+            "文化, 育成, 栽培, 养殖 (noun.)"
         ],
         "usphone": "'kʌltʃɚ",
         "ukphone": "'kʌltʃə"
@@ -5620,7 +5620,7 @@
     {
         "name": "damage",
         "trans": [
-            "损伤, 损害, 损坏, 破坏 (noun.)"
+            "损伤, 損害, 损坏, 破壊 (noun.)"
         ],
         "usphone": "'dæmɪdʒ",
         "ukphone": "'dæmɪdʒ"
@@ -5738,7 +5738,7 @@
     {
         "name": "deal",
         "trans": [
-            "交易, 笔交易, 协议, 大不了 (noun.); 打交道, 处理, 解决 (verb.)"
+            "取引, 笔取引, 协议, 大不了 (noun.); 打交道, 処理, 解決 (verb.)"
         ],
         "usphone": "dil",
         "ukphone": "diːl"
@@ -5746,7 +5746,7 @@
     {
         "name": "dealer",
         "trans": [
-            "经销商, 交易商, 贩子, 庄家 (noun.)"
+            "经销商, 取引商, 贩子, 庄家 (noun.)"
         ],
         "usphone": "'dilɚ",
         "ukphone": "'diːlə"
@@ -5778,7 +5778,7 @@
     {
         "name": "debate",
         "trans": [
-            "辩论, 争论, 论战, 讨论 (noun.)"
+            "辩论, 議論, 论战, 讨论 (noun.)"
         ],
         "usphone": "dɪ'bet",
         "ukphone": "dɪ'beɪt"
@@ -5810,7 +5810,7 @@
     {
         "name": "decide",
         "trans": [
-            "决定, 确定, 判定, 判断 (verb.)"
+            "決定, 确定, 判定, 判断 (verb.)"
         ],
         "usphone": "dɪ'saɪd",
         "ukphone": "dɪ'saɪd"
@@ -5818,7 +5818,7 @@
     {
         "name": "decision",
         "trans": [
-            "决策, 决定, 判决, 裁决 (noun.)"
+            "决策, 決定, 判决, 裁决 (noun.)"
         ],
         "usphone": "dɪ'sɪʒn",
         "ukphone": "dɪ'sɪʒ(ə)n"
@@ -5834,7 +5834,7 @@
     {
         "name": "decline",
         "trans": [
-            "下降, 衰落, 下滑, 衰退 (noun.); 拒绝 (verb.)"
+            "下降, 衰落, 下滑, 衰退 (noun.); 拒否 (verb.)"
         ],
         "usphone": "dɪ'klaɪn",
         "ukphone": "dɪ'klaɪn"
@@ -5858,7 +5858,7 @@
     {
         "name": "defeat",
         "trans": [
-            "打败, 击败, 战胜 (verb.); 失败, 战败, 失利, 挫败 (noun.)"
+            "打败, 击败, 战胜 (verb.); 失敗, 战败, 失利, 挫败 (noun.)"
         ],
         "usphone": "dɪ'fit",
         "ukphone": "dɪ'fiːt"
@@ -5874,7 +5874,7 @@
     {
         "name": "defend",
         "trans": [
-            "捍卫, 保卫, 辩护, 保护 (verb.)"
+            "捍卫, 保卫, 辩护, 保護 (verb.)"
         ],
         "usphone": "dɪ'fɛnd",
         "ukphone": "dɪ'fend"
@@ -5976,7 +5976,7 @@
     {
         "name": "demonstrate",
         "trans": [
-            "演示, 展示, 证明, 表明 (verb.)"
+            "演示, 展示, 証明, 表明 (verb.)"
         ],
         "usphone": "'dɛmən'stret",
         "ukphone": "'demənstreɪt"
@@ -6000,7 +6000,7 @@
     {
         "name": "deny",
         "trans": [
-            "否认, 否定, 拒绝, 抵赖 (verb.)"
+            "否认, 否定, 拒否, 抵赖 (verb.)"
         ],
         "usphone": "dɪ'nai",
         "ukphone": "dɪ'naɪ"
@@ -6080,7 +6080,7 @@
     {
         "name": "description",
         "trans": [
-            "描述, 说明, 描写, 著录 (noun.)"
+            "描述, 説明, 描写, 著录 (noun.)"
         ],
         "usphone": "dɪ'skrɪpʃən",
         "ukphone": "dɪ'skrɪpʃ(ə)n"
@@ -6104,7 +6104,7 @@
     {
         "name": "design",
         "trans": [
-            "设计, 工程设计 (noun.)"
+            "設計, 工程設計 (noun.)"
         ],
         "usphone": "dɪ'zaɪn",
         "ukphone": "dɪ'zaɪn"
@@ -6112,7 +6112,7 @@
     {
         "name": "designer",
         "trans": [
-            "设计师, 设计者, 名牌 (noun.)"
+            "設計师, 設計者, 名牌 (noun.)"
         ],
         "usphone": "dɪ'zaɪnɚ",
         "ukphone": "dɪ'zaɪnə"
@@ -6120,7 +6120,7 @@
     {
         "name": "desire",
         "trans": [
-            "欲望, 愿望, 渴望, 欲 (noun.)"
+            "欲望, 愿望, 切望, 欲 (noun.)"
         ],
         "usphone": "dɪ'zaɪɚ",
         "ukphone": "dɪ'zaɪə"
@@ -6152,7 +6152,7 @@
     {
         "name": "destroy",
         "trans": [
-            "摧毁, 毁掉, 破坏, 毁灭 (verb.)"
+            "摧毁, 毁掉, 破壊, 毁灭 (verb.)"
         ],
         "usphone": "dɪ'strɔɪ",
         "ukphone": "dɪ'strɒɪ"
@@ -6160,7 +6160,7 @@
     {
         "name": "destruction",
         "trans": [
-            "破坏, 毁灭, 杀伤性, 销毁 (noun.)"
+            "破壊, 毁灭, 杀伤性, 销毁 (noun.)"
         ],
         "usphone": "dɪ'strʌkʃən",
         "ukphone": "dɪ'strʌkʃn"
@@ -6200,7 +6200,7 @@
     {
         "name": "determine",
         "trans": [
-            "确定, 决定, 判断, 测定 (verb.)"
+            "确定, 決定, 判断, 测定 (verb.)"
         ],
         "usphone": "dɪ'tɝmɪn",
         "ukphone": "dɪ'tɜːrmɪn"
@@ -6208,7 +6208,7 @@
     {
         "name": "determined",
         "trans": [
-            "决心, 确定, 下定决心, 决定 (verb.); 坚定 (adj.)"
+            "决心, 确定, 下定决心, 決定 (verb.); 坚定 (adj.)"
         ],
         "usphone": "dɪ'tɝmɪnd",
         "ukphone": "dɪ'tɜːmɪnd"
@@ -6216,7 +6216,7 @@
     {
         "name": "develop",
         "trans": [
-            "发展, 开发, 制定, 培养 (verb.)"
+            "発展, 开发, 制定, 育成 (verb.)"
         ],
         "usphone": "dɪ'vɛləp",
         "ukphone": "dɪ'veləp"
@@ -6224,7 +6224,7 @@
     {
         "name": "development",
         "trans": [
-            "发展, 开发, 研制, 发育 (noun.)"
+            "発展, 开发, 研制, 发育 (noun.)"
         ],
         "usphone": "dɪ'vɛləpmənt",
         "ukphone": "dɪ'veləpm(ə)nt"
@@ -6360,7 +6360,7 @@
     {
         "name": "direction",
         "trans": [
-            "方向, 方向前进, 指示, 路向 (noun.)"
+            "方向, 方向前進, 指示, 路向 (noun.)"
         ],
         "usphone": "dəˈrɛkʃən; (also) daɪˈrɛkʃən",
         "ukphone": "dɪˈrekʃn, daɪ-;"
@@ -6416,7 +6416,7 @@
     {
         "name": "disagree",
         "trans": [
-            "不以为然, 意见不一, 意见不一致, 反对 (verb.)"
+            "不以为然, 意見不一, 意見不一致, 反対 (verb.)"
         ],
         "usphone": ",dɪsə'ɡri",
         "ukphone": "dɪsə'griː"
@@ -6424,7 +6424,7 @@
     {
         "name": "disappear",
         "trans": [
-            "消失, 消失不见, 不见, 消 (verb.)"
+            "消える, 消える不见, 不见, 消 (verb.)"
         ],
         "usphone": "'dɪsə'pɪr",
         "ukphone": "dɪsə'pɪə"
@@ -6480,7 +6480,7 @@
     {
         "name": "discover",
         "trans": [
-            "发现, 发掘, 探索, 找出 (verb.)"
+            "発見, 发掘, 探索, 找出 (verb.)"
         ],
         "usphone": "dɪ'skʌvɚ",
         "ukphone": "dɪ'skʌvə"
@@ -6488,7 +6488,7 @@
     {
         "name": "discovery",
         "trans": [
-            "发现, 探索, 发掘 (noun.)"
+            "発見, 探索, 发掘 (noun.)"
         ],
         "usphone": "dɪ'skʌvəri",
         "ukphone": "dɪ'skʌv(ə)rɪ"
@@ -6552,7 +6552,7 @@
     {
         "name": "display",
         "trans": [
-            "显示, 展示, 显示器, 陈列 (noun.)"
+            "表す, 展示, 表す器, 陈列 (noun.)"
         ],
         "usphone": "dɪ'sple",
         "ukphone": "dɪ'spleɪ"
@@ -6680,7 +6680,7 @@
     {
         "name": "document",
         "trans": [
-            "文档, 文件, 文献, 单据 (noun.); 记录 (verb.)"
+            "文档, 文件, 文献, 单据 (noun.); 記録 (verb.)"
         ],
         "usphone": "dɑkjəmənt",
         "ukphone": "'dɒkjʊm(ə)nt"
@@ -6752,7 +6752,7 @@
     {
         "name": "doubt",
         "trans": [
-            "怀疑 (verb.); 疑问, 疑惑, 质疑, 疑虑 (noun.)"
+            "疑う (verb.); 疑问, 疑惑, 质疑, 疑虑 (noun.)"
         ],
         "usphone": "daʊt",
         "ukphone": "daʊt"
@@ -6888,7 +6888,7 @@
     {
         "name": "drop",
         "trans": [
-            "滴, 下降, 降, 下跌 (noun.); 放下, 放弃, 掉, 删除 (verb.)"
+            "滴, 下降, 降, 下跌 (noun.); 放下, 放棄, 掉, 删除 (verb.)"
         ],
         "usphone": "drɑp",
         "ukphone": "drɒp"
@@ -7042,7 +7042,7 @@
     {
         "name": "ease",
         "trans": [
-            "缓解, 减轻, 缓和, 纾缓 (verb.); 轻松, 易于, 便于, 方便 (noun.)"
+            "缓解, 軽減, 缓和, 纾缓 (verb.); 轻松, 易于, 便于, 方便 (noun.)"
         ],
         "usphone": "iz",
         "ukphone": "iːz"
@@ -7154,7 +7154,7 @@
     {
         "name": "efficiency",
         "trans": [
-            "效率, 工作效率, 效能, 效益 (noun.)"
+            "效率, 仕事效率, 效能, 效益 (noun.)"
         ],
         "usphone": "ɪˈfɪʃənsɪ",
         "ukphone": "ɪ'fɪʃnsi"
@@ -7170,7 +7170,7 @@
     {
         "name": "effect",
         "trans": [
-            "影响, 效果, 效应, 作用 (noun.)"
+            "影響, 效果, 效应, 作用 (noun.)"
         ],
         "usphone": "ɪ'fɛkt",
         "ukphone": "ɪ'fekt"
@@ -7194,7 +7194,7 @@
     {
         "name": "effort",
         "trans": [
-            "努力, 精力, 力气, 工作量 (noun.)"
+            "努力, 精力, 力气, 仕事量 (noun.)"
         ],
         "usphone": "'ɛfɚt",
         "ukphone": "'efət"
@@ -7322,7 +7322,7 @@
     {
         "name": "emerge",
         "trans": [
-            "出现, 浮现, 涌现, 显现 (verb.)"
+            "現れる, 浮现, 涌现, 显现 (verb.)"
         ],
         "usphone": "ɪ'mɝdʒ",
         "ukphone": "i'mɜːrdʒ"
@@ -7354,7 +7354,7 @@
     {
         "name": "emphasis",
         "trans": [
-            "重点, 强调, 重视, 侧重点 (noun.)"
+            "重点, 強調, 重视, 侧重点 (noun.)"
         ],
         "usphone": "'ɛmfəsɪs",
         "ukphone": "'emfəsɪs"
@@ -7362,7 +7362,7 @@
     {
         "name": "emphasize",
         "trans": [
-            "强调, 注重, 着重 (verb.)"
+            "強調, 注重, 着重 (verb.)"
         ],
         "usphone": "'ɛmfəsaɪz",
         "ukphone": "'emfəsaɪz"
@@ -7434,7 +7434,7 @@
     {
         "name": "encourage",
         "trans": [
-            "鼓励, 激励, 助长, 鼓舞 (verb.)"
+            "励ます, 激励, 助长, 鼓舞 (verb.)"
         ],
         "usphone": "ɪn'kɝrɪdʒ",
         "ukphone": "ɪn'kʌrɪdʒ; en-"
@@ -7442,13 +7442,13 @@
     {
         "name": "encouraging",
         "trans": [
-            "鼓励 (verb.); 令人鼓舞, 鼓舞人心, 激励, 鼓舞 (adj.)"
+            "励ます (verb.); 令人鼓舞, 鼓舞人心, 激励, 鼓舞 (adj.)"
         ]
     },
     {
         "name": "end",
         "trans": [
-            "结束, 端, 终结, 尽头 (noun.)"
+            "終わる, 端, 终结, 尽头 (noun.)"
         ],
         "usphone": "ɛnd",
         "ukphone": "end"
@@ -7496,7 +7496,7 @@
     {
         "name": "engineering",
         "trans": [
-            "工程, 工程学, 工科, 工程设计 (noun.)"
+            "工程, 工程学, 工科, 工程設計 (noun.)"
         ],
         "usphone": "'ɛndʒə'nɪrɪŋ",
         "ukphone": "ˌendʒɪ'nɪrɪŋ"
@@ -7504,7 +7504,7 @@
     {
         "name": "enhance",
         "trans": [
-            "提高, 增强, 加强, 提升 (verb.)"
+            "向上, 增强, 強化, 提升 (verb.)"
         ],
         "usphone": "ɪn'hæns",
         "ukphone": "ɪn'hæns"
@@ -7552,7 +7552,7 @@
     {
         "name": "ensure",
         "trans": [
-            "确保, 保证, 保障 (verb.)"
+            "确保, 保証, 保障 (verb.)"
         ],
         "usphone": "ɪn'ʃʊr",
         "ukphone": "ɪn'ʃur"
@@ -7560,7 +7560,7 @@
     {
         "name": "enter",
         "trans": [
-            "进入, 输入, 进, 进军 (verb.)"
+            "入る, 输入, 进, 进军 (verb.)"
         ],
         "usphone": "'ɛntɚ",
         "ukphone": "'entə"
@@ -7646,7 +7646,7 @@
     {
         "name": "environment",
         "trans": [
-            "环境, 环保 (noun.)"
+            "環境, 环保 (noun.)"
         ],
         "usphone": "ɪn'vaɪrənmənt",
         "ukphone": "ɪnˈvaɪrənmənt"
@@ -7654,7 +7654,7 @@
     {
         "name": "environmental",
         "trans": [
-            "环境, 环保, 环境保护 (adj.)"
+            "環境, 环保, 環境保護 (adj.)"
         ],
         "usphone": "ɪn,vaɪrən'mɛntl",
         "ukphone": "ɪnˌvaɪrən'mentl"
@@ -7662,7 +7662,7 @@
     {
         "name": "equal",
         "trans": [
-            "平等, 相等, 同等, 等于 (adj.)"
+            "平等, 相等, 同等, に等しい (adj.)"
         ],
         "usphone": "'ikwəl",
         "ukphone": "'iːkwəl"
@@ -7750,7 +7750,7 @@
     {
         "name": "establish",
         "trans": [
-            "建立, 树立, 确立, 设立 (verb.)"
+            "確立, 树立, 确立, 设立 (verb.)"
         ],
         "usphone": "ɪˈstæblɪʃ",
         "ukphone": "ɪ'stæblɪʃ"
@@ -7758,7 +7758,7 @@
     {
         "name": "establishment",
         "trans": [
-            "建立, 成立, 确立, 设立 (noun.)"
+            "確立, 成立, 确立, 设立 (noun.)"
         ],
         "usphone": "ɪ'stæblɪʃmənt",
         "ukphone": "ɪ'stæblɪʃm(ə)nt; e-"
@@ -7774,7 +7774,7 @@
     {
         "name": "estimate",
         "trans": [
-            "估计, 估算, 评估, 预估 (noun.)"
+            "推定, 估算, 评估, 预估 (noun.)"
         ],
         "usphone": "'ɛstə,met",
         "ukphone": "'estɪmeɪt"
@@ -7870,7 +7870,7 @@
     {
         "name": "evidence",
         "trans": [
-            "证据, 证物, 证据证明, 证供 (noun.)"
+            "证据, 证物, 证据証明, 证供 (noun.)"
         ],
         "usphone": "'ɛvɪdəns",
         "ukphone": "'evɪdəns"
@@ -7910,7 +7910,7 @@
     {
         "name": "examination",
         "trans": [
-            "考试, 检查, 检验, 考核 (noun.)"
+            "考试, 検査, 检验, 考核 (noun.)"
         ],
         "usphone": "ɪg'zæmə'neʃən",
         "ukphone": "ɪg,zæmɪ'neɪʃ(ə)n; eg-"
@@ -7918,7 +7918,7 @@
     {
         "name": "examine",
         "trans": [
-            "检查, 审视, 审查, 检验 (verb.)"
+            "検査, 审视, 审查, 检验 (verb.)"
         ],
         "usphone": "ɪg'zæmɪn",
         "ukphone": "ɪg'zæmɪn; eg-"
@@ -7958,7 +7958,7 @@
     {
         "name": "exchange",
         "trans": [
-            "交换, 交易所, 交流, 外汇 (noun.)"
+            "交换, 取引所, 交流, 外汇 (noun.)"
         ],
         "usphone": "ɪks'tʃendʒ",
         "ukphone": "ɪks'tʃeɪndʒ"
@@ -7998,7 +7998,7 @@
     {
         "name": "executive",
         "trans": [
-            "行政, 执行, 高管, 常务 (noun.)"
+            "行政, 実行, 高管, 常务 (noun.)"
         ],
         "usphone": "ɪɡ'zɛkjətɪv",
         "ukphone": "ɪg'zekjətɪv"
@@ -8006,7 +8006,7 @@
     {
         "name": "exercise",
         "trans": [
-            "锻炼, 运动, 行使, 练习 (noun.)"
+            "锻炼, 運動, 行使, 练习 (noun.)"
         ],
         "usphone": "'ɛksɚsaɪz",
         "ukphone": "'eksəsaɪz"
@@ -8124,7 +8124,7 @@
     {
         "name": "experiment",
         "trans": [
-            "实验, 试验, 尝试 (noun.)"
+            "实验, 試験, 試み (noun.)"
         ],
         "usphone": "ekˈspɪrəment; ɪkˈspɪrəment; ekˈsperəmənt; ɪkˈsperəmənt",
         "ukphone": "ɪk'sperɪm(ə)nt; ek-"
@@ -8132,7 +8132,7 @@
     {
         "name": "experimental",
         "trans": [
-            "实验, 试验 (adj.)"
+            "实验, 試験 (adj.)"
         ],
         "usphone": "ɛk'spɛrɪ'mɛntəl",
         "ukphone": "ɪkˌsperɪ'mentl"
@@ -8148,7 +8148,7 @@
     {
         "name": "explain",
         "trans": [
-            "解释, 说明, 讲解, 阐释 (verb.)"
+            "解釈, 説明, 讲解, 阐释 (verb.)"
         ],
         "usphone": "ɪk'splen",
         "ukphone": "ɪk'spleɪn"
@@ -8156,7 +8156,7 @@
     {
         "name": "explanation",
         "trans": [
-            "解释, 阐释, 说明, 解说 (noun.)"
+            "解釈, 阐释, 説明, 解说 (noun.)"
         ],
         "usphone": ",ɛksplə'neʃən",
         "ukphone": "eksplə'neɪʃ(ə)n"
@@ -8182,21 +8182,21 @@
         "trans": [
             "出口, 导出, 外销, 输出 (noun.)"
         ],
-        "usphone": "ˈekspɔːrt；ɪkˈ-",
-        "ukphone": "ˈekspɔːt；ɪkˈ-"
+        "usphone": "ˈekspɔːrt; ɪkˈ-",
+        "ukphone": "ˈekspɔːt; ɪkˈ-"
     },
     {
         "name": "expose",
         "trans": [
             "揭露, 暴露, 揭发, 公开 (verb.)"
         ],
-        "usphone": "ɪk'spoz；ek-",
+        "usphone": "ɪk'spoz; ek-",
         "ukphone": "ɪk'spouz"
     },
     {
         "name": "express",
         "trans": [
-            "表达, 表示, 表现, 发表 (verb.); 快递, 快车, 运通, 特快 (noun.)"
+            "表現, 表す, 表現, 发表 (verb.); 快递, 快车, 运通, 特快 (noun.)"
         ],
         "usphone": "ɪk'sprɛs",
         "ukphone": "ɪk'spres; ek-"
@@ -8204,7 +8204,7 @@
     {
         "name": "expression",
         "trans": [
-            "表达, 表达式, 表情, 表现 (noun.)"
+            "表現, 表現式, 表情, 表現 (noun.)"
         ],
         "usphone": "ɪk'sprɛʃən",
         "ukphone": "ɪkˈspreʃn"
@@ -8236,7 +8236,7 @@
     {
         "name": "extent",
         "trans": [
-            "程度, 种程度上, 范围, 种程度上讲 (noun.)"
+            "程度, 种程度上, 範囲, 种程度上讲 (noun.)"
         ],
         "usphone": "ɪk'stɛnt",
         "ukphone": "ɪk'stent"
@@ -8276,7 +8276,7 @@
     {
         "name": "extremely",
         "trans": [
-            "极其, 极, 极为, 非常 (adv.)"
+            "极其, 极, 极为, 非常に (adv.)"
         ],
         "usphone": "ɪk'strimli",
         "ukphone": "ɪk'striːmlɪ; ek-"
@@ -8332,7 +8332,7 @@
     {
         "name": "fail",
         "trans": [
-            "失败, 倒闭, 失效, 故障 (verb.)"
+            "失敗, 倒闭, 失效, 故障 (verb.)"
         ],
         "usphone": "fel",
         "ukphone": "feɪl"
@@ -8340,7 +8340,7 @@
     {
         "name": "failure",
         "trans": [
-            "失败, 衰竭, 失效, 故障 (noun.)"
+            "失敗, 衰竭, 失效, 故障 (noun.)"
         ],
         "usphone": "'feljɚ",
         "ukphone": "'feɪljə"
@@ -8348,7 +8348,7 @@
     {
         "name": "fair",
         "trans": [
-            "公平, 公允, 公正, 公道 (adj.); 博览会, 交易会, 展览会, 集市 (noun.)"
+            "公平, 公允, 公正, 公道 (adj.); 博览会, 取引会, 展览会, 集市 (noun.)"
         ],
         "usphone": "fɛr",
         "ukphone": "feə"
@@ -8508,7 +8508,7 @@
     {
         "name": "favour",
         "trans": [
-            "赞成, 青睐, 忙, 有利于 (noun.)"
+            "賛成, 青睐, 忙, 有利于 (noun.)"
         ],
         "usphone": "ˈfevɚ",
         "ukphone": "'feɪvə"
@@ -8564,7 +8564,7 @@
     {
         "name": "feedback",
         "trans": [
-            "反馈, 反馈意见, 回馈, 信息反馈 (noun.)"
+            "反馈, 反馈意見, 回馈, 信息反馈 (noun.)"
         ],
         "usphone": "'fidbæk",
         "ukphone": "'fiːdbæk"
@@ -8572,7 +8572,7 @@
     {
         "name": "feel",
         "trans": [
-            "感觉, 感到, 觉得, 感受 (verb.)"
+            "感覚, 感到, 觉得, 感受 (verb.)"
         ],
         "usphone": "fil",
         "ukphone": "fiːl"
@@ -8580,7 +8580,7 @@
     {
         "name": "feeling",
         "trans": [
-            "感觉, 感受, 感, 感情 (noun.); 感到, 觉得 (verb.)"
+            "感覚, 感受, 感, 感情 (noun.); 感到, 觉得 (verb.)"
         ],
         "usphone": "'filɪŋ",
         "ukphone": "'fiːlɪŋ"
@@ -8636,7 +8636,7 @@
     {
         "name": "field",
         "trans": [
-            "场, 领域, 字段, 现场 (noun.)"
+            "场, 領域, 字段, 现场 (noun.)"
         ],
         "usphone": "fild",
         "ukphone": "fiːld"
@@ -8724,7 +8724,7 @@
     {
         "name": "find",
         "trans": [
-            "找到, 找, 发现, 寻找 (verb.)"
+            "找到, 找, 発見, 寻找 (verb.)"
         ],
         "usphone": "faɪnd",
         "ukphone": "faɪnd"
@@ -8732,7 +8732,7 @@
     {
         "name": "finding",
         "trans": [
-            "寻找, 找到, 发现, 查找 (verb.)"
+            "寻找, 找到, 発見, 查找 (verb.)"
         ],
         "usphone": "'faɪndɪŋ",
         "ukphone": "'faɪndɪŋ"
@@ -8756,7 +8756,7 @@
     {
         "name": "finish",
         "trans": [
-            "完成, 完, 做完, 按时完成 (verb.); 终点, 整理 (noun.)"
+            "完了, 完, 做完, 按时完了 (verb.); 终点, 整理 (noun.)"
         ],
         "usphone": "'fɪnɪʃ",
         "ukphone": "'fɪnɪʃ"
@@ -8780,7 +8780,7 @@
     {
         "name": "first",
         "trans": [
-            "第一, 第一次, 首次, 首 (adj.); 首先, 先, 开始 (adv.)"
+            "第一, 第一次, 首次, 首 (adj.); 首先, 先, 始める (adv.)"
         ],
         "usphone": "fɝst",
         "ukphone": "fɜːst"
@@ -9042,7 +9042,7 @@
     {
         "name": "form",
         "trans": [
-            "形式, 表单, 表格, 形态 (noun.); 形成, 构成, 组成 (verb.)"
+            "形式, 表单, 表格, 形态 (noun.); 形成, 構成, 组成 (verb.)"
         ],
         "usphone": "fɔrm",
         "ukphone": "fɔːm"
@@ -9082,7 +9082,7 @@
     {
         "name": "formula",
         "trans": [
-            "公式, 配方, 计算公式, 配方奶粉 (noun.)"
+            "公式, 配方, 計算公式, 配方奶粉 (noun.)"
         ],
         "usphone": "'fɔrmjələ",
         "ukphone": "'fɔːrmjələ"
@@ -9090,7 +9090,7 @@
     {
         "name": "forth",
         "trans": [
-            "来回, 提出, 向前, 反复 (adv.); 第四 (adj.)"
+            "来回, 提案, 向前, 反复 (adv.); 第四 (adj.)"
         ],
         "usphone": "fɔrθ",
         "ukphone": "fɔːθ"
@@ -9122,7 +9122,7 @@
     {
         "name": "forward",
         "trans": [
-            "向前, 前进, 转发, 前锋 (adv.); 远期 (adj.)"
+            "向前, 前進, 转发, 前锋 (adv.); 远期 (adj.)"
         ],
         "usphone": "'fɔrwɚd",
         "ukphone": "'fɔːwəd"
@@ -9394,7 +9394,7 @@
     {
         "name": "gain",
         "trans": [
-            "增益, 收获, 收益, 增加 (noun.); 获得, 获取, 得到, 赢得 (verb.)"
+            "增益, 收获, 收益, 増加 (noun.); 得る, 获取, 得到, 赢得 (verb.)"
         ],
         "usphone": "ɡen",
         "ukphone": "geɪn"
@@ -9410,7 +9410,7 @@
     {
         "name": "game",
         "trans": [
-            "游戏, 博弈, 比赛, 场比赛 (noun.)"
+            "游戏, 博弈, 試合, 场試合 (noun.)"
         ],
         "usphone": "ɡem",
         "ukphone": "geɪm"
@@ -9490,7 +9490,7 @@
     {
         "name": "gather",
         "trans": [
-            "收集, 聚集, 搜集, 聚 (verb.); 集聚 (noun.)"
+            "收集, 集まる, 搜集, 聚 (verb.); 集聚 (noun.)"
         ],
         "usphone": "'ɡæðɚ",
         "ukphone": "'gæðə"
@@ -9538,7 +9538,7 @@
     {
         "name": "generate",
         "trans": [
-            "生成, 产生, 创造, 带来 (verb.)"
+            "生成, 生み出す, 创造, 带来 (verb.)"
         ],
         "usphone": "'dʒɛnəret",
         "ukphone": "'dʒenəreɪt"
@@ -9594,7 +9594,7 @@
     {
         "name": "get",
         "trans": [
-            "得到, 获得, 拿, 让 (verb.)"
+            "得到, 得る, 拿, 让 (verb.)"
         ],
         "usphone": "ɡɛt",
         "ukphone": "get"
@@ -9634,7 +9634,7 @@
     {
         "name": "give",
         "trans": [
-            "给, 给予, 放弃, 让 (verb.)"
+            "给, 与える, 放棄, 让 (verb.)"
         ],
         "usphone": "ɡɪv",
         "ukphone": "gɪv"
@@ -9682,7 +9682,7 @@
     {
         "name": "go",
         "trans": [
-            "去, 走, 离开, 转 (verb.)"
+            "去, 走, 離れる, 转 (verb.)"
         ],
         "usphone": "go",
         "ukphone": "gəʊ"
@@ -9690,7 +9690,7 @@
     {
         "name": "goal",
         "trans": [
-            "目标, 目的, 进球, 球门 (noun.)"
+            "目標, 目的, 进球, 球门 (noun.)"
         ],
         "usphone": "ɡol",
         "ukphone": "gəʊl"
@@ -9788,7 +9788,7 @@
     {
         "name": "govern",
         "trans": [
-            "治理, 支配, 执政, 统治 (verb.)"
+            "治理, 支配, 执政, 統治 (verb.)"
         ],
         "usphone": "'ɡʌvɚn",
         "ukphone": "'gʌvərn"
@@ -9812,7 +9812,7 @@
     {
         "name": "grab",
         "trans": [
-            "抓住, 抢, 抓, 攫取 (verb.); 抓斗 (noun.)"
+            "掴む, 抢, 抓, 攫取 (verb.); 抓斗 (noun.)"
         ],
         "usphone": "ɡræb",
         "ukphone": "græb"
@@ -9906,7 +9906,7 @@
     {
         "name": "grant",
         "trans": [
-            "格兰特, 补助金, 批予, 批出 (noun.); 授予, 给予, 批准 (verb.)"
+            "格兰特, 补助金, 批予, 批出 (noun.); 授予, 与える, 承認 (verb.)"
         ],
         "usphone": "ɡrænt",
         "ukphone": "grænt"
@@ -10018,7 +10018,7 @@
     {
         "name": "guarantee",
         "trans": [
-            "保证, 保障, 担保 (noun.); 确保 (verb.)"
+            "保証, 保障, 担保 (noun.); 确保 (verb.)"
         ],
         "usphone": ",ɡærən'ti",
         "ukphone": "ˌgærən'tiː"
@@ -10162,7 +10162,7 @@
     {
         "name": "handle",
         "trans": [
-            "处理, 应付, 办理, 搞定 (verb.); 手柄, 句柄, 柄, 把手 (noun.)"
+            "処理, 应付, 办理, 搞定 (verb.); 手柄, 句柄, 柄, 把手 (noun.)"
         ],
         "usphone": "'hændl",
         "ukphone": "'hændl"
@@ -10186,7 +10186,7 @@
     {
         "name": "happen",
         "trans": [
-            "发生, 正好 (verb.)"
+            "発生, 正好 (verb.)"
         ],
         "usphone": "'hæpən",
         "ukphone": "'hæp(ə)n"
@@ -10218,7 +10218,7 @@
     {
         "name": "harm",
         "trans": [
-            "危害, 伤害, 损害, 害处 (noun.); 伤 (verb.)"
+            "危害, 傷つける, 損害, 害处 (noun.); 伤 (verb.)"
         ],
         "usphone": "hɑrm",
         "ukphone": "hɑːm"
@@ -10386,7 +10386,7 @@
     {
         "name": "help",
         "trans": [
-            "帮助, 帮, 帮忙, 有助于 (verb.)"
+            "助ける, 帮, 帮忙, 有助于 (verb.)"
         ],
         "usphone": "hɛlp",
         "ukphone": "help"
@@ -10482,7 +10482,7 @@
     {
         "name": "highlight",
         "trans": [
-            "突出, 凸显, 强调, 彰显 (verb.); 亮点, 高亮 (noun.)"
+            "突出, 凸显, 強調, 彰显 (verb.); 亮点, 高亮 (noun.)"
         ],
         "usphone": "'haɪlaɪt",
         "ukphone": "'haɪlaɪt"
@@ -10490,7 +10490,7 @@
     {
         "name": "highly",
         "trans": [
-            "高度, 高, 极, 非常 (adv.)"
+            "高度, 高, 极, 非常に (adv.)"
         ],
         "usphone": "'haɪli",
         "ukphone": "'haɪlɪ"
@@ -10848,7 +10848,7 @@
     {
         "name": "hurt",
         "trans": [
-            "伤害, 伤, 受伤, 疼 (verb.)"
+            "傷つける, 伤, 受伤, 疼 (verb.)"
         ],
         "usphone": "hɝ​t",
         "ukphone": "hɜːt"
@@ -10974,7 +10974,7 @@
     {
         "name": "illustrate",
         "trans": [
-            "说明, 举例说明, 阐明, 演示 (verb.)"
+            "説明, 举例説明, 阐明, 演示 (verb.)"
         ],
         "usphone": "'ɪləstret",
         "ukphone": "'ɪləstreɪt"
@@ -11022,7 +11022,7 @@
     {
         "name": "impact",
         "trans": [
-            "影响, 冲击, 撞击, 冲击力 (noun.)"
+            "影響, 冲击, 撞击, 冲击力 (noun.)"
         ],
         "usphone": "ɪm'pækt",
         "ukphone": "'ɪmpækt"
@@ -11046,7 +11046,7 @@
     {
         "name": "imply",
         "trans": [
-            "暗示, 意味着, 隐含, 意味著 (verb.); 意味 (noun.)"
+            "示唆, 意味着, 隐含, 意味著 (verb.); 意味 (noun.)"
         ],
         "usphone": "ɪm'plai",
         "ukphone": "ɪm'plaɪ"
@@ -11118,7 +11118,7 @@
     {
         "name": "improve",
         "trans": [
-            "提高, 改善, 改进, 完善 (verb.)"
+            "向上, 改善, 改进, 完善 (verb.)"
         ],
         "usphone": "ɪm'pruv",
         "ukphone": "ɪm'pruːv"
@@ -11126,7 +11126,7 @@
     {
         "name": "improvement",
         "trans": [
-            "改进, 改善, 改良, 提高 (noun.)"
+            "改进, 改善, 改良, 向上 (noun.)"
         ],
         "usphone": "ɪm'prʊvmənt",
         "ukphone": "ɪm'pruːvm(ə)nt"
@@ -11158,7 +11158,7 @@
     {
         "name": "include",
         "trans": [
-            "包括, 包含 (verb.)"
+            "包括, 含む (verb.)"
         ],
         "usphone": "ɪn'klud",
         "ukphone": "ɪn'kluːd"
@@ -11166,7 +11166,7 @@
     {
         "name": "including",
         "trans": [
-            "包括, 其中, 含, 包含 (verb.)"
+            "包括, 其中, 含, 含む (verb.)"
         ],
         "usphone": "ɪn'klʊdɪŋ",
         "ukphone": "ɪn'kluːdɪŋ"
@@ -11188,7 +11188,7 @@
     {
         "name": "increase",
         "trans": [
-            "增加, 提高, 加大, 增强 (verb.); 增长, 增大, 增幅, 增 (noun.)"
+            "増加, 向上, 加大, 增强 (verb.); 增长, 增大, 增幅, 增 (noun.)"
         ],
         "usphone": "ɪnˈkris; ˈɪnˌkris",
         "ukphone": "ɪn'kriːs"
@@ -11252,7 +11252,7 @@
     {
         "name": "indicate",
         "trans": [
-            "表明, 指示, 注明, 显示 (verb.)"
+            "表明, 指示, 注明, 表す (verb.)"
         ],
         "usphone": "'ɪndɪket",
         "ukphone": "'ɪndɪkeɪt"
@@ -11332,7 +11332,7 @@
     {
         "name": "influence",
         "trans": [
-            "影响, 影响力 (noun.)"
+            "影響, 影響力 (noun.)"
         ],
         "usphone": "'ɪnfluəns",
         "ukphone": "'ɪnflʊəns"
@@ -11348,7 +11348,7 @@
     {
         "name": "informal",
         "trans": [
-            "非正式, 非正规, 不拘, 正规 (adj.)"
+            "非公式, 非正规, 不拘, 正规 (adj.)"
         ],
         "usphone": "ɪn'fɔrml",
         "ukphone": "ɪn'fɔːm(ə)l"
@@ -11388,7 +11388,7 @@
     {
         "name": "injure",
         "trans": [
-            "伤害, 中伤, 弄伤 (verb.); 虐 (noun.)"
+            "傷つける, 中伤, 弄伤 (verb.); 虐 (noun.)"
         ],
         "usphone": "'ɪndʒɚ",
         "ukphone": "'ɪndʒə"
@@ -11396,7 +11396,7 @@
     {
         "name": "injury",
         "trans": [
-            "损伤, 伤, 伤害, 受伤 (noun.)"
+            "损伤, 伤, 傷つける, 受伤 (noun.)"
         ],
         "usphone": "'ɪndʒəri",
         "ukphone": "'ɪn(d)ʒ(ə)rɪ"
@@ -11460,7 +11460,7 @@
     {
         "name": "insist",
         "trans": [
-            "坚持, 坚称, 强求, 对峙 (verb.)"
+            "堅持, 坚称, 强求, 对峙 (verb.)"
         ],
         "usphone": "ɪn'sɪst",
         "ukphone": "ɪn'sɪst"
@@ -11468,7 +11468,7 @@
     {
         "name": "inspection",
         "trans": [
-            "检验, 检查, 检测, 查阅 (noun.)"
+            "检验, 検査, 检测, 查阅 (noun.)"
         ],
         "usphone": "ɪn'spɛkʃən",
         "ukphone": "ɪn'spekʃn"
@@ -11580,7 +11580,7 @@
     {
         "name": "intend",
         "trans": [
-            "意愿, 打算, 拟, 有意 (verb.)"
+            "意愿, 意図, 拟, 有意 (verb.)"
         ],
         "usphone": "ɪn'tɛnd",
         "ukphone": "ɪn'tend"
@@ -11596,7 +11596,7 @@
     {
         "name": "intention",
         "trans": [
-            "意图, 意向, 用意, 打算 (noun.)"
+            "意图, 意向, 用意, 意図 (noun.)"
         ],
         "usphone": "ɪn'tɛnʃən",
         "ukphone": "ɪn'tenʃ(ə)n"
@@ -11658,7 +11658,7 @@
     {
         "name": "interpret",
         "trans": [
-            "解释, 解读, 诠释, 口译 (verb.)"
+            "解釈, 解读, 诠释, 口译 (verb.)"
         ],
         "usphone": "ɪn'tɝprɪt",
         "ukphone": "ɪn'tɜːrprɪt"
@@ -11666,7 +11666,7 @@
     {
         "name": "interpretation",
         "trans": [
-            "解释, 释义, 诠释, 解读 (noun.)"
+            "解釈, 释义, 诠释, 解读 (noun.)"
         ],
         "usphone": "ɪn'tɝprɪ'teʃən",
         "ukphone": "ɪntɜːprɪ'teɪʃ(ə)n"
@@ -11674,7 +11674,7 @@
     {
         "name": "interval",
         "trans": [
-            "区间, 间隔, 时间间隔, 间距 (noun.); 间歇 (adj.)"
+            "区间, 间隔, 時間间隔, 间距 (noun.); 间歇 (adj.)"
         ],
         "usphone": "'ɪntɚvl",
         "ukphone": "'ɪntərvl"
@@ -11698,7 +11698,7 @@
     {
         "name": "into",
         "trans": [
-            "成, 进, 入, 进入 (prep.)"
+            "成, 进, 入, 入る (prep.)"
         ],
         "usphone": "ˈɪntu",
         "ukphone": "'ɪntʊ; 'ɪntə"
@@ -11730,7 +11730,7 @@
     {
         "name": "investigate",
         "trans": [
-            "探讨, 调查, 观察, 考察 (verb.)"
+            "探讨, 調査, 观察, 考察 (verb.)"
         ],
         "usphone": "ɪn'vɛstɪɡet",
         "ukphone": "ɪn'vestɪgeɪt"
@@ -11738,7 +11738,7 @@
     {
         "name": "investigation",
         "trans": [
-            "调查, 侦查, 调查研究, 研究 (noun.)"
+            "調査, 侦查, 調査研究, 研究 (noun.)"
         ],
         "usphone": "ɪn,vɛstɪ'ɡeʃən",
         "ukphone": "ɪn,vestɪ'geɪʃ(ə)n"
@@ -11858,13 +11858,13 @@
     {
         "name": "job",
         "trans": [
-            "工作, 作业, 职位, 就业 (noun.)"
+            "仕事, 作业, 职位, 就业 (noun.)"
         ]
     },
     {
         "name": "join",
         "trans": [
-            "加入, 加盟, 参加, 连接 (verb.); 联接 (noun.)"
+            "加入, 加盟, 参加, 接続 (verb.); 联接 (noun.)"
         ],
         "usphone": "dʒɔɪn",
         "ukphone": "dʒɒɪn"
@@ -11872,7 +11872,7 @@
     {
         "name": "joint",
         "trans": [
-            "联合, 关节, 共同, 接缝 (adj.); 接头, 缝, 节点, 节 (noun.)"
+            "連合, 关节, 共同, 接缝 (adj.); 接头, 缝, 节点, 节 (noun.)"
         ],
         "usphone": "dʒɔɪnt",
         "ukphone": "dʒɔɪnt"
@@ -11888,7 +11888,7 @@
     {
         "name": "journalist",
         "trans": [
-            "记者, 新闻记者, 新闻工作者 (noun.)"
+            "记者, 新闻记者, 新闻仕事者 (noun.)"
         ],
         "usphone": "'dʒɝnəlɪst",
         "ukphone": "'dʒɜːn(ə)lɪst"
@@ -11936,7 +11936,7 @@
     {
         "name": "jump",
         "trans": [
-            "跳, 跳转, 跳下去, 跳出 (verb.); 跳跃, 跃, 跳伞, 跃迁 (noun.)"
+            "跳, 跳转, 跳下去, 跳出 (verb.); 跳躍, 跃, 跳伞, 跃迁 (noun.)"
         ],
         "usphone": "dʒʌmp",
         "ukphone": "dʒʌmp"
@@ -11982,7 +11982,7 @@
     {
         "name": "justify",
         "trans": [
-            "证明, 辩解, 理由, 辩护 (verb.)"
+            "証明, 辩解, 理由, 辩护 (verb.)"
         ],
         "usphone": "'dʒʌstə'fai",
         "ukphone": "'dʒʌstɪfaɪ"
@@ -11998,7 +11998,7 @@
     {
         "name": "keep",
         "trans": [
-            "保持, 继续, 保留, 一直 (verb.)"
+            "維持, 继续, 保留, 一直 (verb.)"
         ],
         "usphone": "kip",
         "ukphone": "kiːp"
@@ -12180,7 +12180,7 @@
     {
         "name": "lack",
         "trans": [
-            "缺乏, 缺少, 缺失, 不足 (noun.)"
+            "欠如, 缺少, 缺失, 不足 (noun.)"
         ],
         "usphone": "læk",
         "ukphone": "læk"
@@ -12332,7 +12332,7 @@
     {
         "name": "launch",
         "trans": [
-            "发射, 发布 (noun.); 推出, 启动, 发动, 发起 (verb.)"
+            "発射, 发布 (noun.); 推出, 启动, 发动, 发起 (verb.)"
         ],
         "usphone": "lɔntʃ",
         "ukphone": "lɔːntʃ"
@@ -12460,7 +12460,7 @@
     {
         "name": "leave",
         "trans": [
-            "离开, 留下, 走, 留 (verb.)"
+            "離れる, 留下, 走, 留 (verb.)"
         ],
         "usphone": "liv",
         "ukphone": "liːv"
@@ -12476,7 +12476,7 @@
     {
         "name": "left",
         "trans": [
-            "左 (adj.); 离开, 留下, 剩下, 留 (verb.); 左边, 左侧 (noun.)"
+            "左 (adj.); 離れる, 留下, 剩下, 留 (verb.); 左边, 左侧 (noun.)"
         ],
         "usphone": "lɛft",
         "ukphone": "left"
@@ -12532,7 +12532,7 @@
     {
         "name": "less",
         "trans": [
-            "少, 较少, 减少, 较小 (adj.); 那么, 降低 (adv.)"
+            "少, 较少, 減らす, 较小 (adj.); 那么, 降低 (adv.)"
         ],
         "usphone": "lɛs",
         "ukphone": "les"
@@ -12658,7 +12658,7 @@
     {
         "name": "likely",
         "trans": [
-            "可能, 可能性, 容易, 倾向 (adj.)"
+            "可能, 可能性, 容易, 傾向 (adj.)"
         ],
         "usphone": "'laɪkli",
         "ukphone": "'laɪklɪ"
@@ -12666,7 +12666,7 @@
     {
         "name": "limit",
         "trans": [
-            "限制, 极限, 限, 限度 (noun.)"
+            "制限, 极限, 限, 限度 (noun.)"
         ],
         "usphone": "'lɪmɪt",
         "ukphone": "'lɪmɪt"
@@ -12674,7 +12674,7 @@
     {
         "name": "limitation",
         "trans": [
-            "局限性, 限制, 局限, 限度 (noun.)"
+            "局限性, 制限, 局限, 限度 (noun.)"
         ],
         "usphone": ",lɪmɪ'teʃən",
         "ukphone": "ˌlɪmɪ'teɪʃn"
@@ -12682,7 +12682,7 @@
     {
         "name": "limited",
         "trans": [
-            "有限, 限量, 限, 受限 (adj.); 有限公司 (noun.); 限制, 局限, 局限于, 限于 (verb.)"
+            "有限, 限量, 限, 受限 (adj.); 有限公司 (noun.); 制限, 局限, 局限于, 限于 (verb.)"
         ],
         "usphone": "'lɪmɪtɪd",
         "ukphone": "'lɪmɪtɪd"
@@ -12772,8 +12772,8 @@
         "trans": [
             "住, 活, 生活, 居住 (verb.); 直播, 现场, 实时 (adj.)"
         ],
-        "usphone": "laɪv；lɪv",
-        "ukphone": "laɪv；lɪv"
+        "usphone": "laɪv; lɪv",
+        "ukphone": "laɪv; lɪv"
     },
     {
         "name": "lively",
@@ -12842,7 +12842,7 @@
     {
         "name": "log",
         "trans": [
-            "日志, 测井, 原木, 对数 (noun.); 登录, 记录, 登陆, 登 (verb.)"
+            "日志, 测井, 原木, 对数 (noun.); 登录, 記録, 登陆, 登 (verb.)"
         ],
         "usphone": "lɔɡ",
         "ukphone": "lɔːg"
@@ -13116,7 +13116,7 @@
     {
         "name": "maintain",
         "trans": [
-            "保持, 维持, 维护, 维系 (verb.)"
+            "維持, 维持, 维护, 维系 (verb.)"
         ],
         "usphone": "men'ten",
         "ukphone": "meɪn'teɪn"
@@ -13252,7 +13252,7 @@
     {
         "name": "margin",
         "trans": [
-            "边缘, 保证金, 缘, 裕度 (noun.)"
+            "边缘, 保証金, 缘, 裕度 (noun.)"
         ],
         "usphone": "'mɑrdʒən",
         "ukphone": "'mɑːrdʒən"
@@ -13338,7 +13338,7 @@
     {
         "name": "match",
         "trans": [
-            "比赛, 赛, 火柴, 场比赛 (noun.); 匹配, 搭配, 配合, 符合 (verb.)"
+            "試合, 赛, 火柴, 场試合 (noun.); 匹配, コロケーション, 配合, 符合 (verb.)"
         ],
         "usphone": "mætʃ",
         "ukphone": "mætʃ"
@@ -13442,7 +13442,7 @@
     {
         "name": "means",
         "trans": [
-            "意味着, 指, 意思, 表示 (verb.); 手段, 方式, 方法, 途径 (noun.)"
+            "意味着, 指, 意思, 表す (verb.); 手段, 方式, 方法, 途径 (noun.)"
         ],
         "usphone": "minz",
         "ukphone": "miːnz"
@@ -13520,7 +13520,7 @@
     {
         "name": "medium",
         "trans": [
-            "介质, 中等, 媒介, 培养基 (noun.)"
+            "介质, 中等, 媒介, 育成基 (noun.)"
         ],
         "usphone": "'midɪəm",
         "ukphone": "'miːdiəm"
@@ -13528,7 +13528,7 @@
     {
         "name": "meet",
         "trans": [
-            "满足, 见面, 见到, 见 (verb.)"
+            "満たす, 见面, 见到, 见 (verb.)"
         ],
         "usphone": "mit",
         "ukphone": "miːt"
@@ -13536,7 +13536,7 @@
     {
         "name": "meeting",
         "trans": [
-            "会议, 开会, 会面, 会晤 (noun.); 满足, 见, 见到 (verb.)"
+            "会议, 开会, 会面, 会晤 (noun.); 満たす, 见, 见到 (verb.)"
         ],
         "usphone": "'mitɪŋ",
         "ukphone": "'miːtɪŋ"
@@ -13560,7 +13560,7 @@
     {
         "name": "memory",
         "trans": [
-            "记忆, 内存, 存储器, 记忆力 (noun.)"
+            "記憶, 内存, 存储器, 記憶力 (noun.)"
         ],
         "usphone": "'mɛməri",
         "ukphone": "'mem(ə)rɪ"
@@ -13844,7 +13844,7 @@
     {
         "name": "mobile",
         "trans": [
-            "移动, 手机, 流动, 机动 (adj.)"
+            "移動, 手机, 流动, 机动 (adj.)"
         ],
         "usphone": "ˈməʊbl;mobil",
         "ukphone": "'moubl"
@@ -13914,7 +13914,7 @@
     {
         "name": "monitor",
         "trans": [
-            "监控, 监测, 监视, 监察 (verb.); 监视器, 班长, 显示器, 监测仪 (noun.)"
+            "监控, 监测, 监视, 监察 (verb.); 监视器, 班长, 表す器, 监测仪 (noun.)"
         ],
         "usphone": "'mɔnɪtɚ",
         "ukphone": "'mɒnɪtə"
@@ -14010,7 +14010,7 @@
     {
         "name": "motion",
         "trans": [
-            "议案, 运动, 动议, 项议案 (noun.)"
+            "议案, 運動, 动议, 项议案 (noun.)"
         ],
         "usphone": "'moʃən",
         "ukphone": "'mouʃn"
@@ -14058,7 +14058,7 @@
     {
         "name": "move",
         "trans": [
-            "移动, 搬, 动, 动议 (verb.); 举动, 行动 (noun.)"
+            "移動, 搬, 动, 动议 (verb.); 举动, 行动 (noun.)"
         ],
         "usphone": "muv",
         "ukphone": "muːv"
@@ -14066,7 +14066,7 @@
     {
         "name": "movement",
         "trans": [
-            "运动, 动作, 移动, 机芯 (noun.)"
+            "運動, 动作, 移動, 机芯 (noun.)"
         ],
         "usphone": "'muvmənt",
         "ukphone": "'muːvm(ə)nt"
@@ -14082,7 +14082,7 @@
     {
         "name": "much",
         "trans": [
-            "多, 很多, 多少, 大部分 (adj.); 更, 非常, 太 (adv.)"
+            "多, 很多, 多少, 大部分 (adj.); 更, 非常に, 太 (adv.)"
         ],
         "usphone": "mʌtʃ",
         "ukphone": "mʌtʃ"
@@ -14330,7 +14330,7 @@
     {
         "name": "necessary",
         "trans": [
-            "必要, 必需, 所需, 需要 (adj.)"
+            "必要, 必需, 所需, 必要 (adj.)"
         ],
         "usphone": "ˈnɛsəˌsɛri",
         "ukphone": "ˈnesɪsərɪ"
@@ -14346,7 +14346,7 @@
     {
         "name": "need",
         "trans": [
-            "需要, 要, 需, 必须 (verb.); 必要, 需求 (noun.)"
+            "必要, 要, 需, 必须 (verb.); 必要, 需求 (noun.)"
         ],
         "usphone": "nid",
         "ukphone": "niːd"
@@ -14676,7 +14676,7 @@
     {
         "name": "notice",
         "trans": [
-            "通知, 通知书, 公告, 通告 (noun.); 注意, 发现, 留意, 察觉 (verb.)"
+            "通知, 通知书, 公告, 通告 (noun.); 注意, 発見, 留意, 察觉 (verb.)"
         ],
         "usphone": "'notɪs",
         "ukphone": "'nəʊtɪs"
@@ -14778,7 +14778,7 @@
     {
         "name": "object",
         "trans": [
-            "对象, 物体, 客体, 物件 (noun.); 反对 (verb.)"
+            "对象, 物体, 客体, 物件 (noun.); 反対 (verb.)"
         ],
         "usphone": "'ɑbdʒɛkt",
         "ukphone": "'ɔbdʒikt"
@@ -14786,7 +14786,7 @@
     {
         "name": "objection",
         "trans": [
-            "异议, 反对, 反对通知书, 提出异议 (noun.)"
+            "异议, 反対, 反対通知书, 提案异议 (noun.)"
         ],
         "usphone": "əb'dʒɛkʃən",
         "ukphone": "əb'dʒekʃ(ə)n"
@@ -14794,7 +14794,7 @@
     {
         "name": "objective",
         "trans": [
-            "目的, 目标, 前言, 宗旨 (noun.); 客观 (adj.)"
+            "目的, 目標, 前言, 宗旨 (noun.); 客观 (adj.)"
         ],
         "usphone": "əb'dʒɛktɪv",
         "ukphone": "əb'dʒektɪv"
@@ -14826,7 +14826,7 @@
     {
         "name": "obtain",
         "trans": [
-            "获得, 获取, 取得, 得到 (verb.)"
+            "得る, 获取, 取得, 得到 (verb.)"
         ],
         "usphone": "əb'ten",
         "ukphone": "əb'teɪn"
@@ -14874,7 +14874,7 @@
     {
         "name": "occupation",
         "trans": [
-            "职业, 占领, 占用, 入伙 (noun.)"
+            "職業, 占领, 占用, 入伙 (noun.)"
         ],
         "usphone": ",ɑkju'peʃən",
         "ukphone": "ɒkjʊ'peɪʃ(ə)n"
@@ -14890,7 +14890,7 @@
     {
         "name": "occur",
         "trans": [
-            "发生, 出现 (verb.)"
+            "発生, 現れる (verb.)"
         ],
         "usphone": "ə'kɝ",
         "ukphone": "ə'kɜːr"
@@ -14944,7 +14944,7 @@
     {
         "name": "offence",
         "trans": [
-            "罪行, 犯罪, 违法行为, 冒犯 (noun.)"
+            "罪行, 犯罪, 违法行為, 冒犯 (noun.)"
         ],
         "usphone": "ə'fɛns",
         "ukphone": "ə'fens"
@@ -14952,7 +14952,7 @@
     {
         "name": "offer",
         "trans": [
-            "提供, 给予 (verb.); 报价, 提议, 报盘, 要约 (noun.)"
+            "提供, 与える (verb.); 报价, 提议, 报盘, 要约 (noun.)"
         ],
         "usphone": "'ɔfɚ",
         "ukphone": "'ɒfə"
@@ -15114,7 +15114,7 @@
     {
         "name": "opinion",
         "trans": [
-            "意见, 看来, 观点, 看法 (noun.)"
+            "意見, 看来, 观点, 看法 (noun.)"
         ],
         "usphone": "ə'pɪnjən",
         "ukphone": "ə'pɪnjən"
@@ -15138,7 +15138,7 @@
     {
         "name": "oppose",
         "trans": [
-            "反对, 作对 (verb.)"
+            "反対, 作对 (verb.)"
         ],
         "usphone": "ə'poz",
         "ukphone": "ə'pouz"
@@ -15154,7 +15154,7 @@
     {
         "name": "opposition",
         "trans": [
-            "反对派, 反对党, 反对, 对立 (noun.)"
+            "反対派, 反対党, 反対, 对立 (noun.)"
         ],
         "usphone": "'ɑpə'zɪʃən",
         "ukphone": "ɒpə'zɪʃ(ə)n"
@@ -15162,7 +15162,7 @@
     {
         "name": "option",
         "trans": [
-            "选项, 期权, 选择 (noun.)"
+            "选项, 期权, 選択 (noun.)"
         ],
         "usphone": "'ɑpʃən",
         "ukphone": "'ɒpʃ(ə)n"
@@ -15218,7 +15218,7 @@
     {
         "name": "organization",
         "trans": [
-            "组织, 机构, 组织形式, 团体 (noun.)"
+            "組織, 机构, 組織形式, 团体 (noun.)"
         ],
         "usphone": ",ɔrɡənə'zeʃən",
         "ukphone": "ˌɔːɡənaɪ'zeɪʃn"
@@ -15226,7 +15226,7 @@
     {
         "name": "organize",
         "trans": [
-            "组织, 整理, 举办, 筹办 (verb.)"
+            "組織, 整理, 举办, 筹办 (verb.)"
         ],
         "usphone": "ɔrɡənˌaɪz",
         "ukphone": "ˈɔ:gənaɪz"
@@ -15234,7 +15234,7 @@
     {
         "name": "organized",
         "trans": [
-            "组织, 举办, 井井有条, 筹办 (verb.)"
+            "組織, 举办, 井井有条, 筹办 (verb.)"
         ]
     },
     {
@@ -15326,7 +15326,7 @@
     {
         "name": "outcome",
         "trans": [
-            "结果, 结局, 产物, 成果 (noun.)"
+            "結果, 结局, 产物, 成果 (noun.)"
         ],
         "usphone": "'aʊt'kʌm",
         "ukphone": "'autkʌm"
@@ -15684,7 +15684,7 @@
     {
         "name": "pass",
         "trans": [
-            "通过, 传递, 递给, 及格 (verb.); 通, 通行证, 传球 (noun.)"
+            "通過, 传递, 递给, 及格 (verb.); 通, 通行证, 传球 (noun.)"
         ],
         "usphone": "pæs",
         "ukphone": "pɑːs"
@@ -15692,7 +15692,7 @@
     {
         "name": "passage",
         "trans": [
-            "通道, 推移, 通过, 通行 (noun.)"
+            "通道, 推移, 通過, 通行 (noun.)"
         ],
         "usphone": "'pæsɪdʒ",
         "ukphone": "'pæsɪdʒ"
@@ -15916,7 +15916,7 @@
     {
         "name": "perform",
         "trans": [
-            "执行, 履行, 表演, 演出 (verb.)"
+            "実行, 履行, 表演, 演出 (verb.)"
         ],
         "usphone": "pɚ'fɔrm",
         "ukphone": "pər'fɔːrm"
@@ -15924,7 +15924,7 @@
     {
         "name": "performance",
         "trans": [
-            "性能, 绩效, 表现, 业绩 (noun.)"
+            "性能, 绩效, 表現, 业绩 (noun.)"
         ],
         "usphone": "pɚ'fɔrməns",
         "ukphone": "pə'fɔːm(ə)ns"
@@ -16260,7 +16260,7 @@
     {
         "name": "plan",
         "trans": [
-            "计划, 规划, 方案, 策划 (noun.)"
+            "計画, 规划, 方案, 策划 (noun.)"
         ],
         "usphone": "plæn",
         "ukphone": "plæn"
@@ -16324,7 +16324,7 @@
     {
         "name": "player",
         "trans": [
-            "球员, 玩家, 播放器, 运动员 (noun.)"
+            "球员, 玩家, 播放器, 運動员 (noun.)"
         ],
         "usphone": "'pleɚ",
         "ukphone": "'pleɪə"
@@ -16508,7 +16508,7 @@
     {
         "name": "poll",
         "trans": [
-            "民意调查, 民调, 民意测验, 轮询 (noun.)"
+            "民意調査, 民调, 民意测验, 轮询 (noun.)"
         ],
         "usphone": "pol",
         "ukphone": "pəʊl"
@@ -16516,7 +16516,7 @@
     {
         "name": "pollution",
         "trans": [
-            "污染, 环境污染, 污, 污染物 (noun.)"
+            "污染, 環境污染, 污, 污染物 (noun.)"
         ],
         "usphone": "pə'luʃən",
         "ukphone": "pə'luːʃ(ə)n"
@@ -16580,7 +16580,7 @@
     {
         "name": "pose",
         "trans": [
-            "姿势, 位姿, 体式, 姿态 (noun.); 构成, 摆姿势 (verb.)"
+            "姿势, 位姿, 体式, 姿态 (noun.); 構成, 摆姿势 (verb.)"
         ],
         "usphone": "poz",
         "ukphone": "pouz"
@@ -16874,7 +16874,7 @@
     {
         "name": "present",
         "trans": [
-            "礼物 (noun.); 目前, 当前, 现行, 现在 (adj.); 呈现, 提出 (verb.)"
+            "礼物 (noun.); 目前, 当前, 现行, 现在 (adj.); 呈现, 提案 (verb.)"
         ],
         "usphone": "prɪˈzɛnt;(for n.)ˈprɛznt",
         "ukphone": "prɪˈzent;(for n.)ˈpreznt"
@@ -16890,7 +16890,7 @@
     {
         "name": "preserve",
         "trans": [
-            "保存, 保留, 保持, 保护 (verb.); 保护区 (noun.)"
+            "保存, 保留, 維持, 保護 (verb.); 保護区 (noun.)"
         ],
         "usphone": "prɪ'zɝv",
         "ukphone": "prɪ'zɜːrv"
@@ -16938,7 +16938,7 @@
     {
         "name": "pretend",
         "trans": [
-            "假装, 装作, 装, 伪装 (verb.); 假扮 (adj.)"
+            "ふりをする, 装作, 装, 伪装 (verb.); 假扮 (adj.)"
         ],
         "usphone": "prɪ'tɛnd",
         "ukphone": "prɪ'tend"
@@ -16946,7 +16946,7 @@
     {
         "name": "pretty",
         "trans": [
-            "漂亮, 相当, 很, 非常 (adv.)"
+            "漂亮, 相当, 很, 非常に (adv.)"
         ],
         "usphone": "ˈprɪtɪ",
         "ukphone": "'prɪtɪ"
@@ -17074,7 +17074,7 @@
     {
         "name": "priority",
         "trans": [
-            "优先, 优先级, 优先权, 优先考虑 (noun.)"
+            "优先, 优先级, 优先权, 优先検討 (noun.)"
         ],
         "usphone": "praɪ'ɔrəti",
         "ukphone": "praɪ'ɔːrəti"
@@ -17170,7 +17170,7 @@
     {
         "name": "produce",
         "trans": [
-            "产生, 生产, 出示, 生成 (verb.); 农产品 (noun.)"
+            "生み出す, 生产, 出示, 生成 (verb.); 农产品 (noun.)"
         ],
         "usphone": "prəˈdus;(for n.)ˈprɒdus; prɑdus",
         "ukphone": "prəˈdju:s;(for n.)ˈprɒdju:s"
@@ -17202,7 +17202,7 @@
     {
         "name": "profession",
         "trans": [
-            "职业, 行业, 专业, 界 (noun.)"
+            "職業, 行业, 专业, 界 (noun.)"
         ],
         "usphone": "prə'fɛʃən",
         "ukphone": "prə'feʃn"
@@ -17210,7 +17210,7 @@
     {
         "name": "professional",
         "trans": [
-            "专业, 职业, 专业化, 专业人士 (adj.)"
+            "专业, 職業, 专业化, 专业人士 (adj.)"
         ],
         "usphone": "prə'fɛʃənl",
         "ukphone": "prə'feʃ(ə)n(ə)l"
@@ -17242,7 +17242,7 @@
     {
         "name": "program",
         "trans": [
-            "程序, 节目, 计划, 方案 (noun.)"
+            "程序, 节目, 計画, 方案 (noun.)"
         ],
         "usphone": "'proɡræm",
         "ukphone": "'prəʊɡræm"
@@ -17250,7 +17250,7 @@
     {
         "name": "programme",
         "trans": [
-            "计划, 方案, 节目, 纲领 (noun.)"
+            "計画, 方案, 节目, 纲领 (noun.)"
         ],
         "usphone": "proɡrəm",
         "ukphone": "'prəʊgræm"
@@ -17274,7 +17274,7 @@
     {
         "name": "promise",
         "trans": [
-            "承诺, 诺言, 许诺, 应许 (noun.); 答应, 保证, 发誓 (verb.)"
+            "承诺, 诺言, 许诺, 应许 (noun.); 答应, 保証, 发誓 (verb.)"
         ],
         "usphone": "'prɑmɪs",
         "ukphone": "'prɒmɪs"
@@ -17282,7 +17282,7 @@
     {
         "name": "promote",
         "trans": [
-            "促进, 推动, 推广, 推进 (verb.)"
+            "促進, 推动, 推广, 推进 (verb.)"
         ],
         "usphone": "prə'mot",
         "ukphone": "prə'mout"
@@ -17290,7 +17290,7 @@
     {
         "name": "promotion",
         "trans": [
-            "推广, 晋升, 促进, 促销 (noun.)"
+            "推广, 晋升, 促進, 促销 (noun.)"
         ],
         "usphone": "prə'moʃən",
         "ukphone": "prə'məʊʃn"
@@ -17306,7 +17306,7 @@
     {
         "name": "proof",
         "trans": [
-            "证明, 证据, 举证, 论证 (noun.)"
+            "証明, 证据, 举证, 论证 (noun.)"
         ],
         "usphone": "pruf",
         "ukphone": "pruːf"
@@ -17346,7 +17346,7 @@
     {
         "name": "proposal",
         "trans": [
-            "建议, 提案, 提议, 方案 (noun.)"
+            "提案, 提案, 提议, 方案 (noun.)"
         ],
         "usphone": "prə'pozl",
         "ukphone": "prə'pouzl"
@@ -17354,7 +17354,7 @@
     {
         "name": "propose",
         "trans": [
-            "提出, 求婚, 建议, 提议 (verb.)"
+            "提案, 求婚, 提案, 提议 (verb.)"
         ],
         "usphone": "prə'poz",
         "ukphone": "prə'pouz"
@@ -17362,13 +17362,13 @@
     {
         "name": "proposed",
         "trans": [
-            "提出, 拟议, 建议, 提议 (verb.)"
+            "提案, 拟议, 提案, 提议 (verb.)"
         ]
     },
     {
         "name": "prosecution",
         "trans": [
-            "检控, 起诉, 检察机关, 提出检控 (noun.)"
+            "检控, 起诉, 检察机关, 提案检控 (noun.)"
         ],
         "usphone": ",prɑsɪ'kjuʃən",
         "ukphone": "prɒsɪ'kjuːʃ(ə)n"
@@ -17384,7 +17384,7 @@
     {
         "name": "protect",
         "trans": [
-            "保护, 保障, 保卫, 守护 (verb.)"
+            "保護, 保障, 保卫, 守护 (verb.)"
         ],
         "usphone": "prə'tɛkt",
         "ukphone": "prə'tekt"
@@ -17392,7 +17392,7 @@
     {
         "name": "protection",
         "trans": [
-            "保护, 防护, 保障 (noun.)"
+            "保護, 防护, 保障 (noun.)"
         ],
         "usphone": "prə'tɛkʃən",
         "ukphone": "prə'tekʃ(ə)n"
@@ -17416,7 +17416,7 @@
     {
         "name": "prove",
         "trans": [
-            "证明, 证实, 验证, 论证 (verb.)"
+            "証明, 证实, 验证, 论证 (verb.)"
         ],
         "usphone": "pruv",
         "ukphone": "pruːv"
@@ -17432,7 +17432,7 @@
     {
         "name": "provided",
         "trans": [
-            "提供, 规定, 只要, 设置 (verb.)"
+            "提供, 規定, 只要, 设置 (verb.)"
         ],
         "usphone": "prə'vaɪdɪd",
         "ukphone": "prə'vaɪdɪd"
@@ -17448,7 +17448,7 @@
     {
         "name": "provision",
         "trans": [
-            "条文, 提供, 规定, 条款 (noun.)"
+            "条文, 提供, 規定, 条款 (noun.)"
         ],
         "usphone": "prə'vɪʒn",
         "ukphone": "prə'vɪʒn"
@@ -17590,7 +17590,7 @@
     {
         "name": "purpose",
         "trans": [
-            "宗旨, 目的, 用途, 目标 (noun.)"
+            "宗旨, 目的, 用途, 目標 (noun.)"
         ],
         "usphone": "'pɝpəs",
         "ukphone": "'pɜːpəs"
@@ -17678,7 +17678,7 @@
     {
         "name": "question",
         "trans": [
-            "问题, 质询, 项质询, 提问 (noun.); 质疑, 怀疑 (verb.)"
+            "问题, 质询, 项质询, 提问 (noun.); 质疑, 疑う (verb.)"
         ],
         "usphone": "'kwɛstʃən",
         "ukphone": "'kwestʃ(ə)n"
@@ -17732,7 +17732,7 @@
     {
         "name": "quit",
         "trans": [
-            "退出, 辞职, 辞掉, 放弃 (verb.)"
+            "退出, 辞职, 辞掉, 放棄 (verb.)"
         ],
         "usphone": "kwɪt",
         "ukphone": "kwɪt"
@@ -17740,7 +17740,7 @@
     {
         "name": "quite",
         "trans": [
-            "相当, 很, 颇, 非常 (adv.)"
+            "相当, 很, 颇, 非常に (adv.)"
         ],
         "usphone": "kwaɪt",
         "ukphone": "kwaɪt"
@@ -17756,7 +17756,7 @@
     {
         "name": "race",
         "trans": [
-            "种族, 比赛, 赛跑, 竞赛 (noun.)"
+            "种族, 試合, 赛跑, 竞赛 (noun.)"
         ],
         "usphone": "res",
         "ukphone": "reɪs"
@@ -17764,7 +17764,7 @@
     {
         "name": "racing",
         "trans": [
-            "赛车, 赛跑, 竞速, 比赛 (noun.); 竞相 (verb.)"
+            "赛车, 赛跑, 竞速, 試合 (noun.); 竞相 (verb.)"
         ],
         "usphone": "'resɪŋ",
         "ukphone": "'reɪsɪŋ"
@@ -17812,7 +17812,7 @@
     {
         "name": "raise",
         "trans": [
-            "提高, 筹集, 筹, 抚养 (verb.)"
+            "向上, 筹集, 筹, 抚养 (verb.)"
         ],
         "usphone": "rez",
         "ukphone": "reɪz"
@@ -17820,7 +17820,7 @@
     {
         "name": "range",
         "trans": [
-            "范围, 范围内, 射程, 距离 (noun.)"
+            "範囲, 範囲内, 射程, 距离 (noun.)"
         ],
         "usphone": "rendʒ",
         "ukphone": "reɪndʒ"
@@ -18044,7 +18044,7 @@
     {
         "name": "receive",
         "trans": [
-            "收到, 接收, 接受, 获得 (verb.)"
+            "收到, 接收, 接受, 得る (verb.)"
         ],
         "usphone": "rɪ'siv",
         "ukphone": "rɪ'siːv"
@@ -18084,7 +18084,7 @@
     {
         "name": "reckon",
         "trans": [
-            "估计 (verb.)"
+            "推定 (verb.)"
         ],
         "usphone": "'rɛkən",
         "ukphone": "'rek(ə)n"
@@ -18092,7 +18092,7 @@
     {
         "name": "recognition",
         "trans": [
-            "识别, 认可, 承认, 认同 (noun.)"
+            "识别, 认可, 認める, 认同 (noun.)"
         ],
         "usphone": ",rɛkəɡ'nɪʃən",
         "ukphone": "ˌrekəg'nɪʃn"
@@ -18100,7 +18100,7 @@
     {
         "name": "recognize",
         "trans": [
-            "认出, 认识, 认得, 承认 (verb.)"
+            "认出, 认识, 认得, 認める (verb.)"
         ],
         "usphone": "ˈrɛkəɡˌnaɪz",
         "ukphone": "'rekəgnaɪz"
@@ -18108,7 +18108,7 @@
     {
         "name": "recommend",
         "trans": [
-            "推荐, 建议 (verb.)"
+            "推荐, 提案 (verb.)"
         ],
         "usphone": "'rɛkə'mɛnd",
         "ukphone": "ˌrekə'mend"
@@ -18116,7 +18116,7 @@
     {
         "name": "recommendation",
         "trans": [
-            "推荐, 推荐信, 建议, 推介 (noun.)"
+            "推荐, 推荐信, 提案, 推介 (noun.)"
         ],
         "usphone": ",rɛkəmɛn'deʃən",
         "ukphone": ",rekəmen'deɪʃ(ə)n"
@@ -18124,7 +18124,7 @@
     {
         "name": "record",
         "trans": [
-            "记录, 纪录, 创纪录, 唱片 (noun.)"
+            "記録, 纪录, 创纪录, 唱片 (noun.)"
         ],
         "usphone": "(for v.) rɪˈkɔrd; (for n.) ˈrekərd;ˈrɛkɚd",
         "ukphone": "(for v.)rɪˈkɔːd; (for n.) ˈrekɔːd"
@@ -18132,7 +18132,7 @@
     {
         "name": "recording",
         "trans": [
-            "录音, 记录, 唱片, 录像 (noun.); 录制, 录 (verb.)"
+            "录音, 記録, 唱片, 录像 (noun.); 录制, 录 (verb.)"
         ],
         "usphone": "rɪ'kɔrdɪŋ",
         "ukphone": "rɪ'kɔːdɪŋ"
@@ -18140,7 +18140,7 @@
     {
         "name": "recover",
         "trans": [
-            "恢复, 收回, 复苏, 复原 (verb.)"
+            "回復, 收回, 复苏, 复原 (verb.)"
         ],
         "usphone": "rɪ'kʌvɚ",
         "ukphone": "rɪ'kʌvər"
@@ -18148,7 +18148,7 @@
     {
         "name": "recovery",
         "trans": [
-            "恢复, 复苏, 回收, 经济复苏 (noun.)"
+            "回復, 复苏, 回收, 经济复苏 (noun.)"
         ],
         "usphone": "rɪ'kʌvəri",
         "ukphone": "rɪ'kʌv(ə)rɪ"
@@ -18164,7 +18164,7 @@
     {
         "name": "reduce",
         "trans": [
-            "减少, 降低, 减轻, 减低 (verb.)"
+            "減らす, 降低, 軽減, 减低 (verb.)"
         ],
         "usphone": "rɪ'dʊs",
         "ukphone": "rɪ'djuːs"
@@ -18172,7 +18172,7 @@
     {
         "name": "reduction",
         "trans": [
-            "还原, 约简, 减少, 复位 (noun.)"
+            "还原, 约简, 減らす, 复位 (noun.)"
         ],
         "usphone": "rɪ'dʌkʃən",
         "ukphone": "rɪ'dʌkʃ(ə)n"
@@ -18228,7 +18228,7 @@
     {
         "name": "refuse",
         "trans": [
-            "拒绝, 拒, 不肯 (verb.); 垃圾 (noun.)"
+            "拒否, 拒, 不肯 (verb.); 垃圾 (noun.)"
         ],
         "usphone": "ri'fjʊz",
         "ukphone": "rɪ'fjuːz"
@@ -18316,7 +18316,7 @@
     {
         "name": "reinforce",
         "trans": [
-            "加强, 加固, 强化, 巩固 (verb.)"
+            "強化, 加固, 强化, 巩固 (verb.)"
         ],
         "usphone": ",riɪn'fɔrs",
         "ukphone": "ˌriːɪn'fɔːrs"
@@ -18324,7 +18324,7 @@
     {
         "name": "reject",
         "trans": [
-            "拒绝, 拒收, 否决, 排斥 (verb.); 废弃物 (noun.)"
+            "拒否, 拒收, 否决, 排斥 (verb.); 废弃物 (noun.)"
         ],
         "usphone": "rɪ'dʒɛkt",
         "ukphone": "rɪ'dʒekt"
@@ -18346,7 +18346,7 @@
     {
         "name": "relation",
         "trans": [
-            "关系, 关联, 联系, 而言 (noun.)"
+            "关系, 关联, 連絡, 而言 (noun.)"
         ],
         "usphone": "rɪ'leʃən",
         "ukphone": "rɪ'leɪʃ(ə)n"
@@ -18410,7 +18410,7 @@
     {
         "name": "relieve",
         "trans": [
-            "缓解, 减轻, 纾缓, 解除 (verb.)"
+            "缓解, 軽減, 纾缓, 解除 (verb.)"
         ],
         "usphone": "rɪ'liv",
         "ukphone": "rɪ'liːv"
@@ -18442,7 +18442,7 @@
     {
         "name": "remain",
         "trans": [
-            "保持, 仍然, 留, 仍 (verb.)"
+            "維持, 仍然, 留, 仍 (verb.)"
         ],
         "usphone": "rɪ'men",
         "ukphone": "rɪ'meɪn"
@@ -18578,7 +18578,7 @@
     {
         "name": "represent",
         "trans": [
-            "代表, 表示, 占 (verb.)"
+            "代表, 表す, 占 (verb.)"
         ],
         "usphone": ",rɛprɪ'zɛnt",
         "ukphone": "ˌreprɪ'zent"
@@ -18586,7 +18586,7 @@
     {
         "name": "representation",
         "trans": [
-            "表示, 代表性, 表征, 代表 (noun.)"
+            "表す, 代表性, 表征, 代表 (noun.)"
         ],
         "usphone": "'rɛprɪzɛn'teʃən",
         "ukphone": ",reprɪzen'teɪʃ(ə)n"
@@ -18618,7 +18618,7 @@
     {
         "name": "request",
         "trans": [
-            "请求, 要求, 申请 (noun.)"
+            "要求, 要求, 申请 (noun.)"
         ],
         "usphone": "rɪ'kwɛst",
         "ukphone": "rɪ'kwest"
@@ -18626,7 +18626,7 @@
     {
         "name": "require",
         "trans": [
-            "需要, 要求, 规定, 需 (verb.)"
+            "必要, 要求, 規定, 需 (verb.)"
         ],
         "usphone": "rɪ'kwaɪr",
         "ukphone": "rɪ'kwaɪə"
@@ -18634,7 +18634,7 @@
     {
         "name": "requirement",
         "trans": [
-            "要求, 需求, 规定, 需 (noun.)"
+            "要求, 需求, 規定, 需 (noun.)"
         ],
         "usphone": "rɪ'kwaɪɚmənt",
         "ukphone": "rɪ'kwaɪəm(ə)nt"
@@ -18722,7 +18722,7 @@
     {
         "name": "resolve",
         "trans": [
-            "解决, 化解, 解析 (verb.); 决心 (noun.)"
+            "解決, 化解, 解析 (verb.); 决心 (noun.)"
         ],
         "usphone": "rɪ'zɑlv",
         "ukphone": "rɪ'zɑːlv"
@@ -18810,7 +18810,7 @@
     {
         "name": "restore",
         "trans": [
-            "恢复, 还原, 挽回, 重建 (verb.)"
+            "回復, 还原, 挽回, 重建 (verb.)"
         ],
         "usphone": "rɪ'stɔr",
         "ukphone": "rɪ'stɔːr"
@@ -18818,7 +18818,7 @@
     {
         "name": "restrict",
         "trans": [
-            "限制, 制约, 限定 (verb.)"
+            "制限, 制约, 限定 (verb.)"
         ],
         "usphone": "rɪ'strɪkt",
         "ukphone": "rɪ'strɪkt"
@@ -18826,7 +18826,7 @@
     {
         "name": "restriction",
         "trans": [
-            "限制, 制约, 约束, 限制性 (noun.)"
+            "制限, 制约, 约束, 制限性 (noun.)"
         ],
         "usphone": "rɪ'strɪkʃən",
         "ukphone": "rɪ'strɪkʃ(ə)n"
@@ -18834,7 +18834,7 @@
     {
         "name": "result",
         "trans": [
-            "结果, 效果, 因此, 成绩 (noun.); 导致, 造成 (verb.)"
+            "結果, 效果, 因此, 成绩 (noun.); 导致, 造成 (verb.)"
         ],
         "usphone": "rɪ'zʌlt",
         "ukphone": "rɪ'zʌlt"
@@ -18842,7 +18842,7 @@
     {
         "name": "retain",
         "trans": [
-            "保留, 留住, 挽留, 保持 (verb.)"
+            "保留, 留住, 挽留, 維持 (verb.)"
         ],
         "usphone": "rɪ'ten",
         "ukphone": "rɪ'teɪn"
@@ -19002,7 +19002,7 @@
     {
         "name": "rise",
         "trans": [
-            "上升, 崛起, 兴起, 上涨 (noun.); 升起 (verb.)"
+            "上昇, 崛起, 兴起, 上涨 (noun.); 升起 (verb.)"
         ],
         "usphone": "raɪz",
         "ukphone": "raɪz"
@@ -19018,7 +19018,7 @@
     {
         "name": "rival",
         "trans": [
-            "对手, 竞争对手, 情敌, 劲敌 (noun.); 敌对, 对立 (adj.); 媲美 (verb.)"
+            "对手, 競争对手, 情敌, 劲敌 (noun.); 敌对, 对立 (adj.); 媲美 (verb.)"
         ],
         "usphone": "'raɪvl",
         "ukphone": "'raɪvl"
@@ -19138,7 +19138,7 @@
     {
         "name": "routine",
         "trans": [
-            "常规, 例行, 日常, 套路 (adj.); 例程, 例行程序, 日常工作, 惯例 (noun.)"
+            "常规, 例行, 日常, 套路 (adj.); 例程, 例行程序, 日常仕事, 惯例 (noun.)"
         ],
         "usphone": "rʊ'tin",
         "ukphone": "ruː'tiːn"
@@ -19194,7 +19194,7 @@
     {
         "name": "ruin",
         "trans": [
-            "毁掉, 毁, 破坏, 断送 (verb.); 废墟, 毁灭, 破产 (noun.)"
+            "毁掉, 毁, 破壊, 断送 (verb.); 废墟, 毁灭, 破产 (noun.)"
         ],
         "usphone": "'ruɪn",
         "ukphone": "'ruːɪn"
@@ -19202,7 +19202,7 @@
     {
         "name": "rule",
         "trans": [
-            "规则, 统治, 规律, 法则 (noun.); 排除 (verb.)"
+            "规则, 統治, 规律, 法则 (noun.); 排除 (verb.)"
         ],
         "usphone": "rul",
         "ukphone": "ruːl"
@@ -19354,7 +19354,7 @@
     {
         "name": "satisfaction",
         "trans": [
-            "满意, 满意度, 满足感, 满足 (noun.)"
+            "满意, 满意度, 満たす感, 満たす (noun.)"
         ],
         "usphone": ",sætɪs'fækʃən",
         "ukphone": "sætɪs'fækʃ(ə)n"
@@ -19362,7 +19362,7 @@
     {
         "name": "satisfied",
         "trans": [
-            "满意, 满足, 信纳, 心满意足 (adj.)"
+            "满意, 満たす, 信纳, 心满意足 (adj.)"
         ],
         "usphone": "'sætɪs'faɪd",
         "ukphone": "'sætɪsfaɪd"
@@ -19370,7 +19370,7 @@
     {
         "name": "satisfy",
         "trans": [
-            "满足, 满意 (verb.)"
+            "満たす, 满意 (verb.)"
         ],
         "usphone": "'sætɪsfaɪ",
         "ukphone": "'sætɪsfaɪ"
@@ -19410,7 +19410,7 @@
     {
         "name": "say",
         "trans": [
-            "说, 说出, 称, 表示 (verb.)"
+            "说, 说出, 称, 表す (verb.)"
         ],
         "usphone": "se",
         "ukphone": "seɪ"
@@ -19442,7 +19442,7 @@
     {
         "name": "schedule",
         "trans": [
-            "附表, 时间表, 进度, 日程安排 (noun.)"
+            "附表, 時間表, 进度, 日程手配 (noun.)"
         ],
         "usphone": "ˈskedʒʊl; skɛdʒʊl",
         "ukphone": "'skedʒuːl"
@@ -19450,7 +19450,7 @@
     {
         "name": "scheme",
         "trans": [
-            "方案, 计划, 格式 (noun.)"
+            "方案, 計画, 格式 (noun.)"
         ],
         "usphone": "skim",
         "ukphone": "skiːm"
@@ -19490,7 +19490,7 @@
     {
         "name": "scope",
         "trans": [
-            "范围, 适用范围, 范围内, 范畴 (noun.)"
+            "範囲, 适用範囲, 範囲内, 范畴 (noun.)"
         ],
         "usphone": "skop",
         "ukphone": "skoup"
@@ -19642,7 +19642,7 @@
     {
         "name": "secure",
         "trans": [
-            "安全, 保密, 安心, 保障 (adj.); 确保, 保护 (verb.)"
+            "安全, 保密, 安心, 保障 (adj.); 确保, 保護 (verb.)"
         ],
         "usphone": "sə'kjʊr",
         "ukphone": "sə'kjur"
@@ -19690,7 +19690,7 @@
     {
         "name": "seize",
         "trans": [
-            "抓住, 抢占, 检取, 把握 (verb.)"
+            "掴む, 抢占, 检取, 把握 (verb.)"
         ],
         "usphone": "siz",
         "ukphone": "siːz"
@@ -19698,7 +19698,7 @@
     {
         "name": "select",
         "trans": [
-            "选择, 选取, 选中, 挑选 (verb.); 专责 (noun.)"
+            "選択, 选取, 选中, 挑选 (verb.); 专责 (noun.)"
         ],
         "usphone": "sə'lɛkt",
         "ukphone": "sɪ'lekt"
@@ -19706,7 +19706,7 @@
     {
         "name": "selection",
         "trans": [
-            "选择, 选型, 选用, 选取 (noun.)"
+            "選択, 选型, 选用, 选取 (noun.)"
         ],
         "usphone": "sɪ'lɛkʃən",
         "ukphone": "sɪ'lekʃn"
@@ -19744,7 +19744,7 @@
     {
         "name": "sense",
         "trans": [
-            "感, 意识, 感觉, 意义 (noun.)"
+            "感, 意识, 感覚, 意义 (noun.)"
         ],
         "usphone": "sɛns",
         "ukphone": "sens"
@@ -19776,7 +19776,7 @@
     {
         "name": "separate",
         "trans": [
-            "单独, 分开, 独立, 分离 (adj.); 分隔 (verb.)"
+            "单独, 分ける, 独立, 分离 (adj.); 分隔 (verb.)"
         ],
         "usphone": "(for v.) sɛpəˌret; (for adj.) sɛprɪt",
         "ukphone": "(for v.) ˈsepəreɪt; (for adj.) ˈseprət"
@@ -19864,7 +19864,7 @@
     {
         "name": "settle",
         "trans": [
-            "定居, 解决, 安顿, 和解 (verb.)"
+            "定居, 解決, 安顿, 和解 (verb.)"
         ],
         "usphone": "'sɛtl",
         "ukphone": "'setl"
@@ -19904,7 +19904,7 @@
     {
         "name": "sex",
         "trans": [
-            "性别, 性, 性爱, 性行为 (noun.)"
+            "性别, 性, 性爱, 性行為 (noun.)"
         ]
     },
     {
@@ -20046,7 +20046,7 @@
     {
         "name": "shift",
         "trans": [
-            "转变, 移, 转移, 轮班 (noun.); 改变 (verb.)"
+            "转变, 移, 移転, 轮班 (noun.); 変える (verb.)"
         ],
         "usphone": "ʃɪft",
         "ukphone": "ʃɪft"
@@ -20188,7 +20188,7 @@
     {
         "name": "show",
         "trans": [
-            "显示, 表明, 展示, 告诉 (verb.); 秀, 节目, 表演, 演出 (noun.)"
+            "表す, 表明, 展示, 告诉 (verb.); 秀, 节目, 表演, 演出 (noun.)"
         ],
         "usphone": "ʃo",
         "ukphone": "ʃəʊ"
@@ -20740,7 +20740,7 @@
     {
         "name": "solution",
         "trans": [
-            "解决方案, 溶液, 解, 解决办法 (noun.)"
+            "解決方案, 溶液, 解, 解決办法 (noun.)"
         ],
         "usphone": "sə'luʃən",
         "ukphone": "sə'luːʃn"
@@ -20748,7 +20748,7 @@
     {
         "name": "solve",
         "trans": [
-            "解决, 求解, 解, 解答 (verb.)"
+            "解決, 求解, 解, 解答 (verb.)"
         ],
         "usphone": "sɑlv",
         "ukphone": "sɒlv"
@@ -20764,7 +20764,7 @@
     {
         "name": "somebody",
         "trans": [
-            "有人, 某人, 别人, 来人 (noun.)"
+            "有人, 誰か, 别人, 来人 (noun.)"
         ],
         "usphone": "'sʌmbədi",
         "ukphone": "'sʌmbədɪ"
@@ -20780,7 +20780,7 @@
     {
         "name": "someone",
         "trans": [
-            "有人, 某人, 别人, 人 (noun.)"
+            "有人, 誰か, 别人, 人 (noun.)"
         ],
         "usphone": "'sʌmwʌn",
         "ukphone": "'sʌmwʌn"
@@ -20964,7 +20964,7 @@
     {
         "name": "species",
         "trans": [
-            "物种, 种, 种类, 品种 (noun.)"
+            "物种, 种, 種類, 品种 (noun.)"
         ],
         "usphone": "'spiʃiz",
         "ukphone": "'spiːsiːz"
@@ -21044,7 +21044,7 @@
     {
         "name": "spin",
         "trans": [
-            "自旋, 旋转, 旋, 自转 (noun.); 转动, 剥离 (verb.)"
+            "自旋, 回転, 旋, 自转 (noun.); 转动, 剥离 (verb.)"
         ],
         "usphone": "spɪn",
         "ukphone": "spɪn"
@@ -21076,7 +21076,7 @@
     {
         "name": "split",
         "trans": [
-            "分裂, 拆分, 分割, 劈裂 (noun.); 分手, 分开, 分解 (verb.)"
+            "分裂, 拆分, 分割, 劈裂 (noun.); 分手, 分ける, 分解 (verb.)"
         ],
         "usphone": "splɪt",
         "ukphone": "splɪt"
@@ -21084,7 +21084,7 @@
     {
         "name": "spoil",
         "trans": [
-            "破坏, 宠坏, 宠, 溺爱 (verb.)"
+            "破壊, 宠坏, 宠, 溺爱 (verb.)"
         ],
         "usphone": "spɔɪl",
         "ukphone": "spɔɪl"
@@ -21106,7 +21106,7 @@
     {
         "name": "sport",
         "trans": [
-            "体育, 运动, 体育运动, 竞技 (noun.)"
+            "体育, 運動, 体育運動, 竞技 (noun.)"
         ],
         "usphone": "spɔrt",
         "ukphone": "spɔːt"
@@ -21130,7 +21130,7 @@
     {
         "name": "spread",
         "trans": [
-            "传播, 蔓延, 扩散, 扩 (noun.); 散布, 散播, 分散, 展开 (verb.)"
+            "伝播, 蔓延, 扩散, 扩 (noun.); 散布, 散播, 分散, 展开 (verb.)"
         ],
         "usphone": "sprɛd",
         "ukphone": "spred"
@@ -21178,7 +21178,7 @@
     {
         "name": "staff",
         "trans": [
-            "员工, 工作人员, 人员, 职员 (noun.)"
+            "员工, 仕事人员, 人员, 职员 (noun.)"
         ],
         "usphone": "stæf",
         "ukphone": "stæf"
@@ -21226,7 +21226,7 @@
     {
         "name": "stand",
         "trans": [
-            "站, 忍受, 站立, 受不了 (verb.); 立场, 架, 台 (noun.)"
+            "站, 耐える, 站立, 受不了 (verb.); 立场, 架, 台 (noun.)"
         ],
         "usphone": "stænd",
         "ukphone": "stænd"
@@ -21258,7 +21258,7 @@
     {
         "name": "start",
         "trans": [
-            "开始, 启动, 出发, 展开 (verb.); 开端, 起步, 起动 (noun.)"
+            "始める, 启动, 出发, 展开 (verb.); 开端, 起步, 起动 (noun.)"
         ],
         "usphone": "stɑrt",
         "ukphone": "stɑːt"
@@ -21362,7 +21362,7 @@
     {
         "name": "steep",
         "trans": [
-            "陡峭, 陡, 险峻, 急倾斜 (adj.)"
+            "陡峭, 陡, 险峻, 急傾斜 (adj.)"
         ],
         "usphone": "stip",
         "ukphone": "stiːp"
@@ -21370,7 +21370,7 @@
     {
         "name": "step",
         "trans": [
-            "步, 步骤, 步进, 台阶 (noun.); 踩, 加强 (verb.)"
+            "步, 步骤, 步进, 台阶 (noun.); 踩, 強化 (verb.)"
         ],
         "usphone": "stɛp",
         "ukphone": "step"
@@ -21378,7 +21378,7 @@
     {
         "name": "stick",
         "trans": [
-            "坚持, 粘, 棍, 贴 (verb.); 棍子, 根棍子, 棒, 杆 (noun.)"
+            "堅持, 粘, 棍, 贴 (verb.); 棍子, 根棍子, 棒, 杆 (noun.)"
         ],
         "usphone": "stɪk",
         "ukphone": "stɪk"
@@ -21434,7 +21434,7 @@
     {
         "name": "stop",
         "trans": [
-            "停止, 阻止, 停下来, 停下 (verb.); 站 (noun.)"
+            "止める, 阻止, 停下来, 停下 (verb.); 站 (noun.)"
         ],
         "usphone": "stɑp",
         "ukphone": "stɒp"
@@ -21570,7 +21570,7 @@
     {
         "name": "strengthen",
         "trans": [
-            "加强, 强化, 增强, 巩固 (verb.)"
+            "強化, 强化, 增强, 巩固 (verb.)"
         ],
         "usphone": "'strɛŋθn",
         "ukphone": "'streŋθ(ə)n; -ŋkθ(ə)n"
@@ -21578,7 +21578,7 @@
     {
         "name": "stress",
         "trans": [
-            "应力, 压力, 应激, 胁迫 (noun.); 强调 (verb.)"
+            "应力, 压力, 应激, 胁迫 (noun.); 強調 (verb.)"
         ],
         "usphone": "strɛs",
         "ukphone": "stres"
@@ -21650,7 +21650,7 @@
     {
         "name": "structure",
         "trans": [
-            "结构, 构造, 架构, 构成 (noun.)"
+            "结构, 构造, 架构, 構成 (noun.)"
         ],
         "usphone": "'strʌktʃɚ",
         "ukphone": "'strʌktʃə"
@@ -21848,7 +21848,7 @@
     {
         "name": "suggest",
         "trans": [
-            "建议, 表明, 暗示, 显示 (verb.)"
+            "提案, 表明, 示唆, 表す (verb.)"
         ],
         "usphone": "sə'dʒɛst",
         "ukphone": "sə'dʒest"
@@ -21856,7 +21856,7 @@
     {
         "name": "suggestion",
         "trans": [
-            "建议, 提议, 暗示, 意见 (noun.)"
+            "提案, 提议, 示唆, 意見 (noun.)"
         ],
         "usphone": "sə'dʒɛstʃən",
         "ukphone": "sə'dʒestʃ(ə)n"
@@ -21864,7 +21864,7 @@
     {
         "name": "suit",
         "trans": [
-            "西装, 西服, 套装, 衣服 (noun.); 适合, 适应, 满足, 合适 (verb.)"
+            "西装, 西服, 套装, 衣服 (noun.); 适合, 适应, 満たす, 合适 (verb.)"
         ],
         "usphone": "sut",
         "ukphone": "sju:t; su:t"
@@ -21936,7 +21936,7 @@
     {
         "name": "support",
         "trans": [
-            "支持, 支援, 支撑, 支护 (noun.)"
+            "支援, 支援, 支撑, 支护 (noun.)"
         ],
         "usphone": "sə'pɔrt",
         "ukphone": "sə'pɔːt"
@@ -21944,7 +21944,7 @@
     {
         "name": "supporter",
         "trans": [
-            "支持者, 拥护者 (noun.)"
+            "支援者, 拥护者 (noun.)"
         ],
         "usphone": "sə'pɔrtɚ",
         "ukphone": "sə'pɔːtə"
@@ -22028,7 +22028,7 @@
     {
         "name": "survey",
         "trans": [
-            "调查, 测量, 概况, 综述 (noun.)"
+            "調査, 测量, 概况, 综述 (noun.)"
         ],
         "usphone": "ˈsɝˌve; (for v.) sɝˈve",
         "ukphone": "ˈsəːveɪ; (for v.) səˈveɪ"
@@ -22052,7 +22052,7 @@
     {
         "name": "suspect",
         "trans": [
-            "怀疑, 疑心, 猜想, 猜 (verb.); 嫌疑犯, 嫌犯, 疑犯, 嫌疑人 (noun.); 可疑 (adj.)"
+            "疑う, 疑心, 猜想, 猜 (verb.); 嫌疑犯, 嫌犯, 疑犯, 嫌疑人 (noun.); 可疑 (adj.)"
         ],
         "usphone": "sʌspɛkt; (for v.) səˈspɛkt",
         "ukphone": "ˈsʌspekt; (for v.) səˈspekt"
@@ -22060,7 +22060,7 @@
     {
         "name": "suspicion",
         "trans": [
-            "怀疑, 猜疑, 嫌疑, 疑心 (noun.)"
+            "疑う, 猜疑, 嫌疑, 疑心 (noun.)"
         ],
         "usphone": "sə'spɪʃən",
         "ukphone": "sə'spɪʃ(ə)n"
@@ -22068,7 +22068,7 @@
     {
         "name": "suspicious",
         "trans": [
-            "可疑, 疑心, 怀疑, 多疑 (adj.)"
+            "可疑, 疑心, 疑う, 多疑 (adj.)"
         ],
         "usphone": "sə'spɪʃəs",
         "ukphone": "sə'spɪʃəs"
@@ -22188,7 +22188,7 @@
     {
         "name": "tackle",
         "trans": [
-            "解决, 对付, 应对, 应付 (verb.); 铲球, 钓具 (noun.)"
+            "解決, 对付, 应对, 应付 (verb.); 铲球, 钓具 (noun.)"
         ],
         "usphone": "'tækl",
         "ukphone": "'tækl"
@@ -22268,7 +22268,7 @@
     {
         "name": "target",
         "trans": [
-            "目标, 靶, 靶子, 指标 (noun.); 瞄准, 针对 (verb.)"
+            "目標, 靶, 靶子, 指标 (noun.); 瞄准, 针对 (verb.)"
         ],
         "usphone": "'tɑrɡɪt",
         "ukphone": "'tɑːrgɪt"
@@ -22276,7 +22276,7 @@
     {
         "name": "task",
         "trans": [
-            "任务, 课题, 工作 (noun.)"
+            "任务, 课题, 仕事 (noun.)"
         ],
         "usphone": "tæsk",
         "ukphone": "tɑːsk"
@@ -22422,7 +22422,7 @@
     {
         "name": "tend",
         "trans": [
-            "往往, 倾向, 趋向, 常常 (verb.)"
+            "往往, 傾向, 趋向, 常常 (verb.)"
         ],
         "usphone": "tɛnd",
         "ukphone": "tend"
@@ -22430,7 +22430,7 @@
     {
         "name": "tendency",
         "trans": [
-            "趋势, 倾向, 趋向, 倾向性 (noun.)"
+            "趋势, 傾向, 趋向, 傾向性 (noun.)"
         ],
         "usphone": "'tɛndənsi",
         "ukphone": "'tend(ə)nsɪ"
@@ -22478,7 +22478,7 @@
     {
         "name": "terribly",
         "trans": [
-            "可怕, 非常, 极度 (adv.)"
+            "可怕, 非常に, 极度 (adv.)"
         ],
         "usphone": "'tɛrəbli",
         "ukphone": "'terəbli"
@@ -22510,7 +22510,7 @@
     {
         "name": "test",
         "trans": [
-            "测试, 试验, 考验, 考试 (noun.)"
+            "测试, 試験, 考验, 考试 (noun.)"
         ],
         "usphone": "tɛst",
         "ukphone": "test"
@@ -22694,7 +22694,7 @@
     {
         "name": "think",
         "trans": [
-            "认为, 觉得, 想, 以为 (verb.)"
+            "考える, 觉得, 想, 以为 (verb.)"
         ],
         "usphone": "θɪŋk",
         "ukphone": "θɪŋk"
@@ -22718,7 +22718,7 @@
     {
         "name": "thought",
         "trans": [
-            "以为, 想, 认为, 想到 (verb.); 思想, 思维, 思考, 想法 (noun.)"
+            "以为, 想, 考える, 想到 (verb.); 思想, 思维, 思考, 想法 (noun.)"
         ],
         "usphone": "θɔt",
         "ukphone": "θɔːt"
@@ -22726,7 +22726,7 @@
     {
         "name": "threat",
         "trans": [
-            "威胁, 构成威胁, 恐吓 (noun.)"
+            "威胁, 構成威胁, 恐吓 (noun.)"
         ],
         "usphone": "θrɛt",
         "ukphone": "θret"
@@ -22734,7 +22734,7 @@
     {
         "name": "threaten",
         "trans": [
-            "威胁, 恐吓, 危及, 构成威胁 (verb.)"
+            "威胁, 恐吓, 危及, 構成威胁 (verb.)"
         ],
         "usphone": "'θrɛtn",
         "ukphone": "'θret(ə)n"
@@ -22758,7 +22758,7 @@
     {
         "name": "through",
         "trans": [
-            "通过, 透过 (prep.)"
+            "通過, 透过 (prep.)"
         ],
         "usphone": "θru",
         "ukphone": "θruː"
@@ -22838,7 +22838,7 @@
     {
         "name": "time",
         "trans": [
-            "时间, 时候, 时光, 一次 (noun.)"
+            "時間, 时候, 时光, 一次 (noun.)"
         ],
         "usphone": "taɪm",
         "ukphone": "taɪm"
@@ -23038,7 +23038,7 @@
     {
         "name": "touch",
         "trans": [
-            "触摸, 接触, 联系, 触 (noun.); 碰, 摸, 触碰, 抚摸 (verb.)"
+            "触摸, 接触, 連絡, 触 (noun.); 碰, 摸, 触碰, 抚摸 (verb.)"
         ],
         "usphone": "tʌtʃ",
         "ukphone": "tʌtʃ"
@@ -23118,7 +23118,7 @@
     {
         "name": "trade",
         "trans": [
-            "贸易, 交易, 贸, 行业 (noun.)"
+            "贸易, 取引, 贸, 行业 (noun.)"
         ],
         "usphone": "tred",
         "ukphone": "treɪd"
@@ -23158,7 +23158,7 @@
     {
         "name": "train",
         "trans": [
-            "火车, 列车, 列火车, 班火车 (noun.); 训练, 培养, 培训 (verb.)"
+            "火车, 列车, 列火车, 班火车 (noun.); 訓練, 育成, 培训 (verb.)"
         ],
         "usphone": "tren",
         "ukphone": "treɪn"
@@ -23174,7 +23174,7 @@
     {
         "name": "training",
         "trans": [
-            "培训, 训练, 培养, 训 (noun.)"
+            "培训, 訓練, 育成, 训 (noun.)"
         ],
         "usphone": "'trenɪŋ",
         "ukphone": "'treɪnɪŋ"
@@ -23182,7 +23182,7 @@
     {
         "name": "transaction",
         "trans": [
-            "事务, 交易, 笔交易, 成交 (noun.)"
+            "事务, 取引, 笔取引, 成交 (noun.)"
         ],
         "usphone": "træn'zækʃən",
         "ukphone": "træn'zækʃn"
@@ -23190,7 +23190,7 @@
     {
         "name": "transfer",
         "trans": [
-            "转移, 转让, 传递, 传输 (noun.); 转 (verb.)"
+            "移転, 转让, 传递, 传输 (noun.); 转 (verb.)"
         ],
         "usphone": "træns'fɝ",
         "ukphone": "'trænsˌfɜːr"
@@ -23198,7 +23198,7 @@
     {
         "name": "transform",
         "trans": [
-            "变换, 转换, 变革 (noun.); 转化, 转变, 改造, 改变 (verb.)"
+            "变换, 转换, 变革 (noun.); 转化, 转变, 改造, 変える (verb.)"
         ],
         "usphone": "træns'fɔrm",
         "ukphone": "træns'fɔːrm"
@@ -23270,7 +23270,7 @@
     {
         "name": "treatment",
         "trans": [
-            "治疗, 处理, 待遇, 治理 (noun.)"
+            "治疗, 処理, 待遇, 治理 (noun.)"
         ],
         "usphone": "'tritmənt",
         "ukphone": "'triːtm(ə)nt"
@@ -23310,7 +23310,7 @@
     {
         "name": "trial",
         "trans": [
-            "审判, 审讯, 试验, 试用 (noun.)"
+            "审判, 审讯, 試験, 试用 (noun.)"
         ],
         "usphone": "'traɪəl",
         "ukphone": "'traɪəl"
@@ -23318,7 +23318,7 @@
     {
         "name": "trick",
         "trans": [
-            "把戏, 伎俩, 诀窍, 戏法 (noun.); 欺骗, 骗 (verb.)"
+            "把戏, 伎俩, 诀窍, 戏法 (noun.); 欺く, 骗 (verb.)"
         ],
         "usphone": "trɪk",
         "ukphone": "trɪk"
@@ -23390,7 +23390,7 @@
     {
         "name": "trust",
         "trans": [
-            "信任, 信托, 信赖, 信得过 (noun.); 相信, 信, 放心 (verb.)"
+            "信頼, 信托, 信赖, 信得过 (noun.); 相信, 信, 放心 (verb.)"
         ],
         "usphone": "trʌst",
         "ukphone": "trʌst"
@@ -23406,7 +23406,7 @@
     {
         "name": "try",
         "trans": [
-            "尝试, 试试, 试, 尽量 (verb.)"
+            "試み, 试试, 试, 尽量 (verb.)"
         ],
         "usphone": "traɪ",
         "ukphone": "traɪ"
@@ -23630,7 +23630,7 @@
     {
         "name": "union",
         "trans": [
-            "工会, 联盟, 联合, 联合会 (noun.)"
+            "工会, 联盟, 連合, 連合会 (noun.)"
         ],
         "usphone": "'junɪən",
         "ukphone": "'juːnjən; -ɪən"
@@ -23654,7 +23654,7 @@
     {
         "name": "united",
         "trans": [
-            "曼联, 团结, 联合, 统一 (noun.)"
+            "曼联, 团结, 連合, 统一 (noun.)"
         ],
         "usphone": "jʊ'naɪtɪd",
         "ukphone": "jʊ'naɪtɪd"
@@ -23916,7 +23916,7 @@
     {
         "name": "variation",
         "trans": [
-            "变异, 变化, 变体, 变动 (noun.)"
+            "变异, 変化, 变体, 变动 (noun.)"
         ],
         "usphone": ",vɛrɪ'eʃən",
         "ukphone": "veərɪ'eɪʃ(ə)n"
@@ -23980,7 +23980,7 @@
     {
         "name": "very",
         "trans": [
-            "非常, 很, 十分, 极 (adv.)"
+            "非常に, 很, 十分, 极 (adv.)"
         ],
         "usphone": "ˈvɛrɪ",
         "ukphone": "'verɪ"
@@ -23988,7 +23988,7 @@
     {
         "name": "vet",
         "trans": [
-            "兽医, 老兵, 职业教育, 职教 (noun.)"
+            "兽医, 老兵, 職業教育, 职教 (noun.)"
         ],
         "usphone": "vɛt",
         "ukphone": "vet"
@@ -23996,10 +23996,10 @@
     {
         "name": "via",
         "trans": [
-            "通过 (prep.)"
+            "通過 (prep.)"
         ],
         "usphone": "ˈvaɪə, ˈviə",
-        "ukphone": "ˈvaɪə，ˈviːə"
+        "ukphone": "ˈvaɪə、ˈviːə"
     },
     {
         "name": "victim",
@@ -24044,7 +24044,7 @@
     {
         "name": "violence",
         "trans": [
-            "暴力, 暴力事件, 暴力行为, 暴力冲突 (noun.)"
+            "暴力, 暴力事件, 暴力行為, 暴力衝突 (noun.)"
         ],
         "usphone": "'vaɪələns",
         "ukphone": "'vaɪəl(ə)ns"
@@ -24052,7 +24052,7 @@
     {
         "name": "violent",
         "trans": [
-            "暴力, 猛烈, 暴力倾向, 剧烈 (adj.)"
+            "暴力, 猛烈, 暴力傾向, 剧烈 (adj.)"
         ],
         "usphone": "'vaɪələnt",
         "ukphone": "'vaɪələnt"
@@ -24164,7 +24164,7 @@
     {
         "name": "vulnerable",
         "trans": [
-            "脆弱, 弱势, 易受伤害, 易受攻击 (adj.)"
+            "脆弱, 弱势, 易受傷つける, 易受攻击 (adj.)"
         ],
         "usphone": "'vʌlnərəbl",
         "ukphone": "'vʌlnərəbl"
@@ -24898,7 +24898,7 @@
     {
         "name": "wonder",
         "trans": [
-            "奇迹, 难怪, 奇怪, 惊奇 (noun.); 怀疑, 纳闷, 想, 好奇 (verb.)"
+            "奇迹, 难怪, 奇怪, 惊奇 (noun.); 疑う, 纳闷, 想, 好奇 (verb.)"
         ],
         "usphone": "'wʌndɚ",
         "ukphone": "'wʌndə"
@@ -24946,7 +24946,7 @@
     {
         "name": "work",
         "trans": [
-            "工作, 作品, 作业, 劳动 (noun.); 上班, 干活, 努力, 合作 (verb.)"
+            "仕事, 作品, 作业, 劳动 (noun.); 上班, 干活, 努力, 合作 (verb.)"
         ],
         "usphone": "wɝk",
         "ukphone": "wɜːk"
@@ -24954,7 +24954,7 @@
     {
         "name": "worker",
         "trans": [
-            "工人, 工作者, 工, 职工 (noun.)"
+            "工人, 仕事者, 工, 职工 (noun.)"
         ],
         "usphone": "'wɝkɚ",
         "ukphone": "'wɜːkə"
@@ -24962,7 +24962,7 @@
     {
         "name": "working",
         "trans": [
-            "工作, 上班, 努力, 合作 (verb.)"
+            "仕事, 上班, 努力, 合作 (verb.)"
         ],
         "usphone": "'wɝkɪŋ",
         "ukphone": "'wɜːkɪŋ"

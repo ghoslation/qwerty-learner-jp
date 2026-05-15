@@ -14,13 +14,13 @@
     {
         "name": "forward",
         "trans": [
-            "向当前画笔方向移动dist像素长，简化为fd(dist)"
+            "向当前画笔方向移動dist像素长、简化为fd(dist)"
         ]
     },
     {
         "name": "backward",
         "trans": [
-            "向当前画笔相反方向移动dist像素长度，简化为bk(dist)"
+            "向当前画笔相反方向移動dist像素长度、简化为bk(dist)"
         ]
     },
     {
@@ -50,49 +50,49 @@
     {
         "name": "speed",
         "trans": [
-            "画笔绘制的速度，s为0-10的整数(1-10越来越快,0表示最快)"
+            "画笔绘制的速度、s为0-10的整数(1-10越来越快,0表す最快)"
         ]
     },
     {
         "name": "pendown",
         "trans": [
-            "移动时绘制图形，缺省时也为绘制，简化为down()"
+            "移動时绘制图形、缺省时也为绘制、简化为down()"
         ]
     },
     {
         "name": "penup",
         "trans": [
-            "移动时不绘制图形，提起笔，用于另起一个地方绘制时用，简化为up()"
+            "移動时不绘制图形、提起笔、用于另起一个地方绘制时用、简化为up()"
         ]
     },
     {
         "name": "goto",
         "trans": [
-            "将画笔移动到坐标为x,y的位置"
+            "将画笔移動到坐标为x,y的位置"
         ]
     },
     {
         "name": "setx",
         "trans": [
-            "将当前x轴移动到指定位置"
+            "将当前x轴移動到指定位置"
         ]
     },
     {
         "name": "sety",
         "trans": [
-            "将当前y轴移动到指定位置"
+            "将当前y轴移動到指定位置"
         ]
     },
     {
         "name": "setheading",
         "trans": [
-            "设置当前朝向为angle角度，简化为seth(angle)"
+            "设置当前朝向为angle角度、简化为seth(angle)"
         ]
     },
     {
         "name": "home",
         "trans": [
-            "设置当前画笔位置为原点(0,0)，并恢复默认朝向为向东(0)"
+            "设置当前画笔位置为原点(0,0)、并回復默认朝向为向东(0)"
         ]
     },
     {
@@ -110,7 +110,7 @@
     {
         "name": "shape",
         "trans": [
-            "画笔外观形状，可选classic/arrow/turtle/circle/square/triangle"
+            "画笔外观形状、可选classic/arrow/turtle/circle/square/triangle"
         ]
     },
     {
@@ -128,37 +128,37 @@
     {
         "name": "begin_fill",
         "trans": [
-            "准备开始填充图形"
+            "准备始める填充图形"
         ]
     },
     {
         "name": "end_fill",
         "trans": [
-            "填充完成"
+            "填充完了"
         ]
     },
     {
         "name": "hideturtle",
         "trans": [
-            "隐藏箭头显示，简化为ht()"
+            "隐藏箭头表す、简化为ht()"
         ]
     },
     {
         "name": "showturtle",
         "trans": [
-            "与hideturtle()函数对应，简化为st()"
+            "与hideturtle()函数对应、简化为st()"
         ]
     },
     {
         "name": "clear",
         "trans": [
-            "清空turtle窗口，但是turtle的位置和状态不会改变"
+            "清空turtle窗口、但是turtle的位置和状态不会変える"
         ]
     },
     {
         "name": "reset",
         "trans": [
-            "清空窗口，重置turtle状态为起始状态"
+            "清空窗口、重置turtle状态为起始状态"
         ]
     }
 ]

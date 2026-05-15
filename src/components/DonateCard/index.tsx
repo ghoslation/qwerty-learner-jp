@@ -114,31 +114,30 @@ export const DonateCard = () => {
                   <h1 className="gradient-text w-full pt-3 text-center text-[2.4rem] font-bold">{`${chapterNumber} Chapters Achievement !`}</h1>
                   <div className="flex w-full flex-col gap-4 px-4">
                     <p className="mx-auto px-4 indent-4">
-                      Qwerty Learner 已经陪伴您走过
-                      <HighlightedText> {dayFromFirstWord} </HighlightedText>天，一起完成了
+                      Qwerty Learner はあなたとともに
+                      <HighlightedText> {dayFromFirstWord} </HighlightedText>日間、一緒に
                       <HighlightedText> {wordNumber} </HighlightedText>
-                      个词的练习，帮您纠正了 <HighlightedText> {sumWrongCount} </HighlightedText>
-                      次错误输入。每一次练习，都是您在变得更好的证明
+                      語の練習を完了し、 <HighlightedText> {sumWrongCount} </HighlightedText>
+                      回の誤入力を修正しました。毎回の練習が成長の証です
                       <IconParty className="ml-2 inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <br />
                     </p>
                     <p className="mx-auto px-4 indent-4 font-bold">
-                      Qwerty Learner 坚持 <span className="font-medium ">开源、无广告、无商业化</span> 已经
-                      <HighlightedText className="text-indigo-500"> {dayFromQwerty} </HighlightedText>天。
+                      Qwerty Learner は <span className="font-medium ">オープンソース・広告なし・非商用</span> を
+                      <HighlightedText className="text-indigo-500"> {dayFromQwerty} </HighlightedText>日間継続しています。
                     </p>
                     <p className="mx-auto px-4 indent-4">
-                      随着越来越多的同学加入，服务器和维护成本也在不断增长，
+                      ますます多くの方が参加するにつれ、サーバーとメンテナンスのコストも増加しており、
                       <span className="font-semibold text-indigo-600 dark:text-indigo-400">
-                        目前项目的运营成本仍由开发者个人承担，Qwerty 的长期运营需要您的一份力量
+                        現在もプロジェクトの運営コストは開発者が個人で負担しており、Qwerty の長期運営には皆様の力が必要です
                       </span>
-                      。如果 Qwerty 对您的学习有所帮助，希望您能考虑捐赠支持我们——哪怕是一杯咖啡的金额，都能帮助 Qwerty
-                      继续陪伴更多学习者成长。
+                      。Qwerty が学習のお役に立っているなら、ご寄付をご検討ください。一杯のコーヒー代でも、Qwerty がより多くの学習者と共に成長し続ける力になります。
                     </p>
                     <p className="mx-auto px-4 indent-4 ">
-                      为了感谢您的慷慨，单次 50 rmb 及以上的捐赠， 我们将回赠 Qwerty 的定制贴纸 5 枚
-                      <span className="text-xs">（仅限大陆地区）</span>，希望您可以跟朋友分享您的快乐
+                      ご厚意に感謝して、1回50元以上のご寄付には Qwerty 特製ステッカー5枚をプレゼントいたします
+                      <span className="text-xs">（中国大陸のみ）</span>，ぜひご友人とお楽しみを共有してください
                     </p>
                     <div className="flex items-center justify-center">
                       <StickerButton />
@@ -152,10 +151,10 @@ export const DonateCard = () => {
                       className={`my-btn-primary ${!amount && 'invisible'} w-36 bg-amber-500 font-medium transition-all`}
                       onClick={onClickHasDonated}
                     >
-                      我已捐赠
+                      寄付しました
                     </button>
                     <button type="button" className="my-btn-primary w-36 font-medium" onClick={onClickRemindMeLater}>
-                      下次再说
+                      また今度
                     </button>
                   </div>
                 </div>

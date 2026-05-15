@@ -3,7 +3,7 @@
         "name": "abandon",
         "trans": [
             "vt.丢弃",
-            "放弃",
+            "放棄",
             "抛弃"
         ],
         "pron": "[ә'bæ ndәn]"
@@ -22,7 +22,7 @@
         "trans": [
             "n.流产",
             "堕胎",
-            "失败"
+            "失敗"
         ],
         "pron": "[ә'bɔ:ʃәn]"
     },
@@ -39,7 +39,7 @@
         "trans": [
             "n.缺席",
             "不在场",
-            "缺乏"
+            "欠如"
         ],
         "pron": "['æ bsәns]"
     },
@@ -62,14 +62,14 @@
     {
         "name": "acceptable",
         "trans": [
-            "a.可接受的，值得接受的，合意的"
+            "a.可接受的、值得接受的、合意的"
         ],
         "pron": "[әk'septәbl]"
     },
     {
         "name": "access",
         "trans": [
-            "n.接近",
+            "n.近づく",
             "通道",
             "入口"
         ],
@@ -111,7 +111,7 @@
     {
         "name": "acknowledge",
         "trans": [
-            "vt.承认",
+            "vt.認める",
             "感谢"
         ],
         "pron": "[әk'nɔlidʒ]"
@@ -120,7 +120,7 @@
         "name": "acquire",
         "trans": [
             "vt.取得",
-            "获得",
+            "得る",
             "学到"
         ],
         "pron": "[ә'kwaiә]"
@@ -128,7 +128,7 @@
     {
         "name": "acquisition",
         "trans": [
-            "n. 获得",
+            "n. 得る",
             "添加的物品"
         ],
         "pron": "['æ kwi'ziʃәn]"
@@ -215,7 +215,7 @@
         "name": "advise",
         "trans": [
             "vt.劝告",
-            "建议",
+            "提案",
             "通知"
         ],
         "pron": "[әd'vaiz]"
@@ -223,7 +223,7 @@
     {
         "name": "adviser",
         "trans": [
-            "n.顾问；指导教师"
+            "n.顾问; 指导教师"
         ],
         "pron": "[әd'vaizә]"
     },
@@ -254,7 +254,7 @@
     {
         "name": "afterwards",
         "trans": [
-            "ad.以后，后来"
+            "ad.以后、后来"
         ],
         "pron": "['a:ftәwәdz]"
     },
@@ -348,14 +348,14 @@
         "name": "alliance",
         "trans": [
             "n. 联盟",
-            "联合"
+            "連合"
         ],
         "pron": "[ә'laiәns]"
     },
     {
         "name": "allied",
         "trans": [
-            "a.联合的"
+            "a.連合的"
         ],
         "pron": "[ә'laid, 'æ laid]"
     },
@@ -369,7 +369,7 @@
     {
         "name": "alter",
         "trans": [
-            "vt.改变",
+            "vt.変える",
             "变更",
             "改做"
         ],
@@ -417,7 +417,7 @@
     {
         "name": "amendment",
         "trans": [
-            "n. 改正，修正"
+            "n. 改正、修正"
         ],
         "pron": "[ә'mendmәnt]"
     },
@@ -479,7 +479,7 @@
     {
         "name": "announcement",
         "trans": [
-            "n.宣布，宣告"
+            "n.宣布、宣告"
         ],
         "pron": "[ә'naunsmәnt]"
     },
@@ -495,7 +495,7 @@
         "trans": [
             "n.焦虑",
             "忧虑",
-            "渴望"
+            "切望"
         ],
         "pron": "[æŋg'zaiәti]"
     },
@@ -503,7 +503,7 @@
         "name": "anxious",
         "trans": [
             "a.忧虑的",
-            "渴望的"
+            "切望的"
         ],
         "pron": "['æŋkʃәs]"
     },
@@ -525,7 +525,7 @@
         "name": "apart",
         "trans": [
             "ad.相隔",
-            "分开",
+            "分ける",
             "除去"
         ],
         "pron": "[ә'pa:t]"
@@ -540,7 +540,7 @@
     {
         "name": "appal",
         "trans": [
-            "v. 使惊骇，使恐怖"
+            "v. 使惊骇、使恐怖"
         ],
         "pron": "[ә'pɔ:l]"
     },
@@ -548,7 +548,7 @@
         "name": "apparent",
         "trans": [
             "a.表面上的",
-            "明显的"
+            "明らかな"
         ],
         "pron": "[ә'pæ rәnt]"
     },
@@ -562,7 +562,7 @@
     {
         "name": "application",
         "trans": [
-            "n.请求",
+            "n.要求",
             "申请",
             "施用"
         ],
@@ -604,16 +604,16 @@
     {
         "name": "approval",
         "trans": [
-            "n.赞成",
-            "批准"
+            "n.賛成",
+            "承認"
         ],
         "pron": "[ә'pru:vәl]"
     },
     {
         "name": "arise",
         "trans": [
-            "vi.出现",
-            "由…引起"
+            "vi.現れる",
+            "由…引き起こす"
         ],
         "pron": "[ә'raiz]"
     },
@@ -629,7 +629,7 @@
         "trans": [
             "n.整理",
             "排列",
-            "安排"
+            "手配"
         ],
         "pron": "[ә'reindʒmәnt]"
     },
@@ -670,7 +670,7 @@
         "name": "assist",
         "trans": [
             "vt.援助",
-            "帮助"
+            "助ける"
         ],
         "pron": "[ә'sist]"
     },
@@ -694,14 +694,14 @@
         "name": "associate",
         "trans": [
             "vi.交往",
-            "联系 n.关联"
+            "連絡 n.关联"
         ],
         "pron": "[ә'sәuʃieit]"
     },
     {
         "name": "associated",
         "trans": [
-            "a. 联合的",
+            "a. 連合的",
             "关联的"
         ],
         "pron": "[]"
@@ -717,14 +717,14 @@
     {
         "name": "assured",
         "trans": [
-            "adj. 自信的，确定的"
+            "adj. 自信的、确定的"
         ],
         "pron": "[ә'ʃuәd]"
     },
     {
         "name": "athlete",
         "trans": [
-            "n.运动员"
+            "n.運動员"
         ],
         "pron": "['æθli:t]"
     },
@@ -757,7 +757,7 @@
     {
         "name": "attractive",
         "trans": [
-            "a.有吸引力的"
+            "a.有引き付ける力的"
         ],
         "pron": "[ә'træ ktiv]"
     },
@@ -778,7 +778,7 @@
     {
         "name": "automatic",
         "trans": [
-            "a.自动的"
+            "a.自動詞的"
         ],
         "pron": "[ɔ:tә'mæ tik]"
     },
@@ -817,7 +817,7 @@
         "trans": [
             "n. 衬背",
             "后援",
-            "支持者"
+            "支援者"
         ],
         "pron": "['bækiŋ]"
     },
@@ -871,14 +871,14 @@
     {
         "name": "barely",
         "trans": [
-            "adv.仅仅；只"
+            "adv.仅仅; 只"
         ],
         "pron": "['bɛәli]"
     },
     {
         "name": "bargain",
         "trans": [
-            "n.交易 vi.议价",
+            "n.取引 vi.议价",
             "成交"
         ],
         "pron": "['ba:gin]"
@@ -905,7 +905,7 @@
         "name": "baseball",
         "trans": [
             "n. 棒球",
-            "棒球运动"
+            "棒球運動"
         ],
         "pron": "['beisbɔ:l]"
     },
@@ -1000,7 +1000,7 @@
     {
         "name": "beginning",
         "trans": [
-            "n.开始",
+            "n.始める",
             "开端",
             "起源"
         ],
@@ -1011,14 +1011,14 @@
         "trans": [
             "n.利益",
             "维护",
-            "支持"
+            "支援"
         ],
         "pron": "[bi'ha:f]"
     },
     {
         "name": "behave",
         "trans": [
-            "vi.表现",
+            "vi.表現",
             "举止"
         ],
         "pron": "[bi'heiv]"
@@ -1035,7 +1035,7 @@
     {
         "name": "belief",
         "trans": [
-            "n.信任",
+            "n.信頼",
             "相信",
             "信念"
         ],
@@ -1395,7 +1395,7 @@
     {
         "name": "businessman",
         "trans": [
-            "n.生意人，商人"
+            "n.生意人、商人"
         ],
         "pron": "['biznismæ n]"
     },
@@ -1448,10 +1448,10 @@
     {
         "name": "calculated",
         "trans": [
-            "a. 有计划的",
+            "a. 有計画的",
             "适当的",
             "适合的",
-            "计算 出的"
+            "計算 出的"
         ],
         "pron": "['kæ lkjuleitid]"
     },
@@ -1465,7 +1465,7 @@
     {
         "name": "cancel",
         "trans": [
-            "vt.取消",
+            "vt.キャンセル",
             "撤消",
             "删去"
         ],
@@ -1551,7 +1551,7 @@
     {
         "name": "category",
         "trans": [
-            "n.种类",
+            "n.種類",
             "类目",
             "范畴"
         ],
@@ -1591,7 +1591,7 @@
     {
         "name": "cease",
         "trans": [
-            "vi.vi.n.停止",
+            "vi.vi.n.止める",
             "停息"
         ],
         "pron": "[si:s]"
@@ -1616,7 +1616,7 @@
     {
         "name": "celebration",
         "trans": [
-            "n.庆祝，祝贺"
+            "n.庆祝、祝贺"
         ],
         "pron": "[seli'breiʃәn]"
     },
@@ -1835,7 +1835,7 @@
         "trans": [
             "n.碰撞声",
             "抵触",
-            "冲突"
+            "衝突"
         ],
         "pron": "[klæ ʃ]"
     },
@@ -1898,7 +1898,7 @@
         "name": "close",
         "trans": [
             "vt.关闭",
-            "结束"
+            "終わる"
         ],
         "pron": "[klәuz, klәus]"
     },
@@ -1927,8 +1927,8 @@
     {
         "name": "coalition",
         "trans": [
-            "n.结合",
-            "联合"
+            "n.結合",
+            "連合"
         ],
         "pron": "[kәuә'liʃәn]"
     },
@@ -1960,7 +1960,7 @@
         "name": "collective",
         "trans": [
             "a.集体的",
-            "聚集的",
+            "集まる的",
             "共同的"
         ],
         "pron": "[kә'lektiv]"
@@ -1975,7 +1975,7 @@
     {
         "name": "coloured",
         "trans": [
-            "a.有色的，着色的"
+            "a.有色的、着色的"
         ],
         "pron": "['kʌlәd]"
     },
@@ -1998,8 +1998,8 @@
     {
         "name": "combination",
         "trans": [
-            "n.结合",
-            "联合",
+            "n.結合",
+            "連合",
             "化合"
         ],
         "pron": "[kɔmbi'neiʃәn]"
@@ -2007,7 +2007,7 @@
     {
         "name": "combine",
         "trans": [
-            "vt.使结合",
+            "vt.使結合",
             "兼有"
         ],
         "pron": "[kәm'bain]"
@@ -2041,7 +2041,7 @@
         "trans": [
             "vt.命令",
             "指挥",
-            "控制"
+            "制御"
         ],
         "pron": "[kә'ma:nd]"
     },
@@ -2056,7 +2056,7 @@
     {
         "name": "commentator",
         "trans": [
-            "n. 注解者；时事评论家;实况报导者"
+            "n. 注解者; 时事コメント家;实况报导者"
         ],
         "pron": "['kɔmenteitә,-mәn-]"
     },
@@ -2071,7 +2071,7 @@
     {
         "name": "commissioner",
         "trans": [
-            "n.专员，委员，政府特派员；地方长官，官员"
+            "n.专员、委员、政府特派员; 地方长官、官员"
         ],
         "pron": "[kә'miʃәnә]"
     },
@@ -2080,7 +2080,7 @@
         "trans": [
             "vi.通讯",
             "传达",
-            "传播"
+            "伝播"
         ],
         "pron": "[kә'mju:nikeit]"
     },
@@ -2120,8 +2120,8 @@
     {
         "name": "compete",
         "trans": [
-            "vi.比赛",
-            "竞争",
+            "vi.試合",
+            "競争",
             "对抗"
         ],
         "pron": "[kәm'pi:t]"
@@ -2129,15 +2129,15 @@
     {
         "name": "competitive",
         "trans": [
-            "a.竞争的",
-            "比赛的"
+            "a.競争的",
+            "試合的"
         ],
         "pron": "[kәm'petitiv]"
     },
     {
         "name": "competitor",
         "trans": [
-            "n.竞争对手；敌手"
+            "n.競争对手; 敌手"
         ],
         "pron": "[kәm'petitә]"
     },
@@ -2145,7 +2145,7 @@
         "name": "complaint",
         "trans": [
             "n.抱怨",
-            "控告"
+            "告訴"
         ],
         "pron": "[kәm'pleint]"
     },
@@ -2169,7 +2169,7 @@
         "name": "compose",
         "trans": [
             "vt.组成",
-            "构成",
+            "構成",
             "创作"
         ],
         "pron": "[kәm'pәuz]"
@@ -2193,7 +2193,7 @@
     {
         "name": "concede",
         "trans": [
-            "vt. 承认",
+            "vt. 認める",
             "退让 vi. 让步"
         ],
         "pron": "[kәn'si:d]"
@@ -2202,7 +2202,7 @@
         "name": "concentrate",
         "trans": [
             "vt.集中",
-            "聚集",
+            "集まる",
             "浓缩"
         ],
         "pron": "['kɔnsәntreit]"
@@ -2228,7 +2228,7 @@
     {
         "name": "concerned",
         "trans": [
-            "a.有关的，有牵连的"
+            "a.有关的、有牵连的"
         ],
         "pron": "[kәn'sә:nd]"
     },
@@ -2252,7 +2252,7 @@
         "name": "conclude",
         "trans": [
             "vt.推断出",
-            "结束"
+            "終わる"
         ],
         "pron": "[kәn'klu:d]"
     },
@@ -2315,8 +2315,8 @@
     {
         "name": "connection",
         "trans": [
-            "n.连接",
-            "联系",
+            "n.接続",
+            "連絡",
             "连贯性"
         ],
         "pron": "[kә'nekʃәn]"
@@ -2339,7 +2339,7 @@
     {
         "name": "consequence",
         "trans": [
-            "n.结果",
+            "n.結果",
             "后果"
         ],
         "pron": "['kɔnsikwәns]"
@@ -2347,7 +2347,7 @@
     {
         "name": "considering",
         "trans": [
-            "prep.考虑到"
+            "prep.検討到"
         ],
         "pron": "[]"
     },
@@ -2361,7 +2361,7 @@
     {
         "name": "consistent",
         "trans": [
-            "a.坚持的",
+            "a.堅持的",
             "一贯的"
         ],
         "pron": "[kәn'sistәnt]"
@@ -2369,7 +2369,7 @@
     {
         "name": "constitution",
         "trans": [
-            "n.组织",
+            "n.組織",
             "宪法",
             "构造"
         ],
@@ -2420,7 +2420,7 @@
         "name": "content",
         "trans": [
             "a.满意的",
-            "满足的"
+            "満たす的"
         ],
         "pron": "['kɔntent, kәn'tent]"
     },
@@ -2436,7 +2436,7 @@
     {
         "name": "context",
         "trans": [
-            "n.语境，背景"
+            "n.语境、背景"
         ],
         "pron": "['kɔntekst]"
     },
@@ -2468,7 +2468,7 @@
     {
         "name": "controversial",
         "trans": [
-            "a. 争论的",
+            "a. 議論的",
             "争议的"
         ],
         "pron": "[kɔntrә'vә:ʃәl]"
@@ -2476,7 +2476,7 @@
     {
         "name": "controversy",
         "trans": [
-            "n.争论",
+            "n.議論",
             "辩论",
             "争吵"
         ],
@@ -2503,7 +2503,7 @@
         "name": "conversation",
         "trans": [
             "n.会话",
-            "非正式会谈"
+            "非公式会谈"
         ],
         "pron": "[kɔnvә'seiʃәn]"
     },
@@ -2511,7 +2511,7 @@
         "name": "convert",
         "trans": [
             "vt.使转变",
-            "使改变"
+            "使変える"
         ],
         "pron": "[kәn'vә:t, 'kɔnvә:t]"
     },
@@ -2548,7 +2548,7 @@
     {
         "name": "co-operate",
         "trans": [
-            "vi.合作，协作"
+            "vi.合作、协作"
         ],
         "pron": "[]"
     },
@@ -2571,7 +2571,7 @@
     {
         "name": "corporate",
         "trans": [
-            "n.组织"
+            "n.組織"
         ],
         "pron": "['kɔ:pәrit]"
     },
@@ -2587,7 +2587,7 @@
     {
         "name": "corruption",
         "trans": [
-            "n.腐烂；败坏"
+            "n.腐烂; 败坏"
         ],
         "pron": "[kә'rʌpʃәn]"
     },
@@ -2650,7 +2650,7 @@
     {
         "name": "coup",
         "trans": [
-            "n. 出乎意料的成功行动，政变"
+            "n. 出乎意料的成功行动、政变"
         ],
         "pron": "['ku:]"
     },
@@ -2726,7 +2726,7 @@
     {
         "name": "cricket",
         "trans": [
-            "n.蟋蟀；板球"
+            "n.蟋蟀; 板球"
         ],
         "pron": "['krikit]"
     },
@@ -2734,7 +2734,7 @@
         "name": "criticize",
         "trans": [
             "vt.批评",
-            "评论",
+            "コメント",
             "非难"
         ],
         "pron": "['kritisaiz]"
@@ -2757,8 +2757,8 @@
     {
         "name": "crucial",
         "trans": [
-            "a. 决定性的",
-            "重要的",
+            "a. 決定性的",
+            "重要な",
             "严厉的"
         ],
         "pron": "['kru:ʃiәl]"
@@ -2790,7 +2790,7 @@
     {
         "name": "cultural",
         "trans": [
-            "adj.文化的；文明的"
+            "adj.文化的; 文明的"
         ],
         "pron": "['kʌltʃәrәl]"
     },
@@ -2821,7 +2821,7 @@
     {
         "name": "cutting",
         "trans": [
-            "n.开凿出来的公路，铁路；剪报 a.锋利的"
+            "n.开凿出来的公路、铁路; 剪报 a.锋利的"
         ],
         "pron": "['kʌtiŋ]"
     },
@@ -2857,14 +2857,14 @@
     {
         "name": "deal",
         "trans": [
-            "n.交易 vi.处理"
+            "n.取引 vi.処理"
         ],
         "pron": "[di:l]"
     },
     {
         "name": "dealer",
         "trans": [
-            "n.商人，贩子"
+            "n.商人、贩子"
         ],
         "pron": "['di:lә]"
     },
@@ -2878,7 +2878,7 @@
     {
         "name": "debut",
         "trans": [
-            "n. 初次登台，初次露面"
+            "n. 初次登台、初次露面"
         ],
         "pron": "['deibju:]"
     },
@@ -2902,7 +2902,7 @@
     {
         "name": "decorate",
         "trans": [
-            "vt.装饰"
+            "vt.装飾"
         ],
         "pron": "['dekәreit]"
     },
@@ -2965,7 +2965,7 @@
     {
         "name": "delighted",
         "trans": [
-            "a.愉快的，欣喜的"
+            "a.愉快的、欣喜的"
         ],
         "pron": "[di'laitid]"
     },
@@ -2980,7 +2980,7 @@
     {
         "name": "demonstrate",
         "trans": [
-            "vt.说明",
+            "vt.説明",
             "论证",
             "示威"
         ],
@@ -2989,7 +2989,7 @@
     {
         "name": "demonstration",
         "trans": [
-            "n.示范，示威"
+            "n.示范、示威"
         ],
         "pron": "[demәn'streiʃәn]"
     },
@@ -3020,7 +3020,7 @@
     {
         "name": "description",
         "trans": [
-            "n.描述；形容"
+            "n.描述; 形容"
         ],
         "pron": "[dis'kripʃәn]"
     },
@@ -3043,7 +3043,7 @@
     {
         "name": "designer",
         "trans": [
-            "n.设计师，设计者"
+            "n.設計师、設計者"
         ],
         "pron": "[di'zainә]"
     },
@@ -3073,7 +3073,7 @@
     {
         "name": "determined",
         "trans": [
-            "adj.决定性的"
+            "adj.決定性的"
         ],
         "pron": "[di'tә:mind]"
     },
@@ -3082,7 +3082,7 @@
         "trans": [
             "n.器械",
             "装置",
-            "设计"
+            "設計"
         ],
         "pron": "[di'vais]"
     },
@@ -3137,7 +3137,7 @@
         "trans": [
             "vi.不见",
             "失踪",
-            "消失"
+            "消える"
         ],
         "pron": "[disә'piә]"
     },
@@ -3159,7 +3159,7 @@
         "name": "discipline",
         "trans": [
             "n.纪律",
-            "训练 vt.训练"
+            "訓練 vt.訓練"
         ],
         "pron": "['disiplin]"
     },
@@ -3182,8 +3182,8 @@
     {
         "name": "discovery",
         "trans": [
-            "n.发现",
-            "被发现的事物"
+            "n.発見",
+            "被発見的事物"
         ],
         "pron": "[dis'kʌvәri]"
     },
@@ -3230,7 +3230,7 @@
     {
         "name": "done",
         "trans": [
-            "a. 完成了",
+            "a. 完了了",
             "好了"
         ],
         "pron": "[dʌn]"
@@ -3299,7 +3299,7 @@
     {
         "name": "eager",
         "trans": [
-            "a.渴望的",
+            "a.切望的",
             "热切的"
         ],
         "pron": "['i:gә]"
@@ -3455,7 +3455,7 @@
     {
         "name": "emphasis",
         "trans": [
-            "n.强调",
+            "n.強調",
             "重点",
             "重要性"
         ],
@@ -3464,7 +3464,7 @@
     {
         "name": "emphasize",
         "trans": [
-            "vt.强调",
+            "vt.強調",
             "着重"
         ],
         "pron": "['emfәsaiz]"
@@ -3494,7 +3494,7 @@
         "name": "employment",
         "trans": [
             "n.雇用",
-            "职业"
+            "職業"
         ],
         "pron": "[im'plɔimәnt]"
     },
@@ -3554,8 +3554,8 @@
     {
         "name": "enhance",
         "trans": [
-            "vt.提高",
-            "增加",
+            "vt.向上",
+            "増加",
             "夸张"
         ],
         "pron": "[in'ha:ns]"
@@ -3563,7 +3563,7 @@
     {
         "name": "enormous",
         "trans": [
-            "a.巨大的",
+            "a.巨大な",
             "庞大的"
         ],
         "pron": "[i'nɔ:mәs]"
@@ -3606,7 +3606,7 @@
     {
         "name": "entirely",
         "trans": [
-            "ad.完全地"
+            "ad.完全に"
         ],
         "pron": "[in'taiәli]"
     },
@@ -3621,7 +3621,7 @@
         "name": "entrance",
         "trans": [
             "n.入口",
-            "进入"
+            "入る"
         ],
         "pron": "['entrәns]"
     },
@@ -3661,14 +3661,14 @@
     {
         "name": "essentially",
         "trans": [
-            "ad.基本上，本质上"
+            "ad.基本上、本质上"
         ],
         "pron": "[i'senʃәli]"
     },
     {
         "name": "establishment",
         "trans": [
-            "n.建立",
+            "n.確立",
             "设立",
             "确立"
         ],
@@ -3677,7 +3677,7 @@
     {
         "name": "etc.",
         "trans": [
-            "=et cetera ad.等等；诸如此类"
+            "=et cetera ad.等等; 诸如此类"
         ],
         "pron": "[it'setrә]"
     },
@@ -3715,7 +3715,7 @@
         "name": "examination",
         "trans": [
             "n.考试",
-            "检查",
+            "検査",
             "细查"
         ],
         "pron": "[igzæ mi'neiʃәn]"
@@ -3801,7 +3801,7 @@
     {
         "name": "existing",
         "trans": [
-            "a.现存的，目前的"
+            "a.现存的、目前的"
         ],
         "pron": "[]"
     },
@@ -3835,15 +3835,15 @@
         "name": "experiment",
         "trans": [
             "n.实验",
-            "试验"
+            "試験"
         ],
         "pron": "[iks'perimәnt]"
     },
     {
         "name": "explanation",
         "trans": [
-            "n.解释",
-            "说明",
+            "n.解釈",
+            "説明",
             "辩解"
         ],
         "pron": "[eksplә'neiʃәn]"
@@ -3900,7 +3900,7 @@
         "name": "expression",
         "trans": [
             "n.词句",
-            "表达",
+            "表現",
             "表情"
         ],
         "pron": "[iks'preʃәn]"
@@ -3917,7 +3917,7 @@
         "name": "extent",
         "trans": [
             "n.广度",
-            "范围",
+            "範囲",
             "程度"
         ],
         "pron": "[iks'tent]"
@@ -3950,7 +3950,7 @@
     {
         "name": "faction",
         "trans": [
-            "n.派系；党内斗争"
+            "n.派系; 党内斗争"
         ],
         "pron": "['fæ kʃәn]"
     },
@@ -3958,7 +3958,7 @@
         "name": "fade",
         "trans": [
             "vi.褪色",
-            "逐渐消失"
+            "逐渐消える"
         ],
         "pron": "[feid]"
     },
@@ -3973,7 +3973,7 @@
     {
         "name": "faith",
         "trans": [
-            "n.信任",
+            "n.信頼",
             "信心",
             "信仰"
         ],
@@ -4041,7 +4041,7 @@
         "name": "federation",
         "trans": [
             "n.联邦",
-            "联合",
+            "連合",
             "联盟"
         ],
         "pron": "[fedә'reiʃәn]"
@@ -4132,7 +4132,7 @@
     {
         "name": "flavour",
         "trans": [
-            "n.味，滋味"
+            "n.味、滋味"
         ],
         "pron": "['fleivә]"
     },
@@ -4193,7 +4193,7 @@
     {
         "name": "fool",
         "trans": [
-            "n.傻子 vt.欺骗",
+            "n.傻子 vt.欺く",
             "愚弄"
         ],
         "pron": "[fu:l]"
@@ -4273,7 +4273,7 @@
         "name": "fraud",
         "trans": [
             "n.骗子",
-            "欺骗",
+            "欺く",
             "欺诈",
             "诡计"
         ],
@@ -4323,8 +4323,8 @@
         "name": "fulfil",
         "trans": [
             "vt.履行",
-            "满足",
-            "完成"
+            "満たす",
+            "完了"
         ],
         "pron": "[ful'fil]"
     },
@@ -4332,7 +4332,7 @@
         "name": "fundamental",
         "trans": [
             "a.基础的",
-            "基本的"
+            "基本的な"
         ],
         "pron": "[fʌndә'mentl]"
     },
@@ -4421,8 +4421,8 @@
     {
         "name": "generate",
         "trans": [
-            "vt.发生",
-            "引起",
+            "vt.発生",
+            "引き起こす",
             "生殖"
         ],
         "pron": "['dʒenәreit]"
@@ -4536,7 +4536,7 @@
     {
         "name": "govern",
         "trans": [
-            "vt.统治",
+            "vt.統治",
             "治理",
             "支配"
         ],
@@ -4654,7 +4654,7 @@
     {
         "name": "halt",
         "trans": [
-            "vi.停止",
+            "vi.止める",
             "立定 n.停住"
         ],
         "pron": "[hɔ:lt]"
@@ -4676,8 +4676,8 @@
     {
         "name": "harm",
         "trans": [
-            "n.伤害",
-            "损害 vt.损害"
+            "n.傷つける",
+            "損害 vt.損害"
         ],
         "pron": "[ha:m]"
     },
@@ -4792,7 +4792,7 @@
     {
         "name": "hi",
         "trans": [
-            "ini.嗨(表示问候等)"
+            "ini.嗨(表す问候等)"
         ],
         "pron": "[hai]"
     },
@@ -4825,7 +4825,7 @@
     {
         "name": "hint",
         "trans": [
-            "n.暗示"
+            "n.示唆"
         ],
         "pron": "[hint]"
     },
@@ -4878,7 +4878,7 @@
     {
         "name": "homosexual",
         "trans": [
-            "n.&a.同性恋的，同性恋 者"
+            "n.&a.同性恋的、同性恋 者"
         ],
         "pron": "[7hәumәu'seksjuәl]"
     },
@@ -4925,7 +4925,7 @@
     {
         "name": "humour",
         "trans": [
-            "v. 纵容，迁就"
+            "v. 纵容、迁就"
         ],
         "pron": "['hju:mә]"
     },
@@ -4969,7 +4969,7 @@
     {
         "name": "illustrate",
         "trans": [
-            "vt.(用图等)说明"
+            "vt.(用图等)説明"
         ],
         "pron": "['ilәstreit]"
     },
@@ -4992,7 +4992,7 @@
     {
         "name": "immigration",
         "trans": [
-            "n.移入，移民"
+            "n.移入、移民"
         ],
         "pron": "[imi'greiʃәn]"
     },
@@ -5001,7 +5001,7 @@
         "trans": [
             "a.免疫的",
             "免除的",
-            "不受影响的"
+            "不受影響的"
         ],
         "pron": "[i'mjun]"
     },
@@ -5010,7 +5010,7 @@
         "trans": [
             "n.工具 vt. 实现",
             "使生效",
-            "执行"
+            "実行"
         ],
         "pron": "['implimәnt]"
     },
@@ -5018,7 +5018,7 @@
         "name": "implication",
         "trans": [
             "n.含义",
-            "暗示",
+            "示唆",
             "暗指"
         ],
         "pron": "[impli'keiʃәn]"
@@ -5026,7 +5026,7 @@
     {
         "name": "imply",
         "trans": [
-            "vt.暗示",
+            "vt.示唆",
             "意指"
         ],
         "pron": "[im'plai]"
@@ -5057,7 +5057,7 @@
         "name": "improvement",
         "trans": [
             "n.改进",
-            "提高"
+            "向上"
         ],
         "pron": "[im'pru:vmәnt]"
     },
@@ -5134,7 +5134,7 @@
     {
         "name": "initially",
         "trans": [
-            "ad.最初，开始"
+            "ad.最初、始める"
         ],
         "pron": "[i'niʃәli]"
     },
@@ -5174,14 +5174,14 @@
         "trans": [
             "n.询问",
             "打听",
-            "调查"
+            "調査"
         ],
         "pron": "[in'kwaiәri]"
     },
     {
         "name": "inspect",
         "trans": [
-            "vt.检查",
+            "vt.検査",
             "审查",
             "检阅"
         ],
@@ -5353,14 +5353,14 @@
     {
         "name": "Islam",
         "trans": [
-            "n.伊斯兰教；伊斯兰教信徒；伊斯兰世界"
+            "n.伊斯兰教; 伊斯兰教信徒; 伊斯兰世界"
         ],
         "pron": "['izla:m]"
     },
     {
         "name": "Islamic",
         "trans": [
-            "a.伊斯兰教的，伊斯兰的"
+            "a.伊斯兰教的、伊斯兰的"
         ],
         "pron": "[iz'læ mik, is'l-]"
     },
@@ -5397,7 +5397,7 @@
     {
         "name": "jersey",
         "trans": [
-            "n. 运动衫"
+            "n. 運動衫"
         ],
         "pron": "['dʒ:zI]"
     },
@@ -5442,7 +5442,7 @@
     {
         "name": "judgment",
         "trans": [
-            "n.审判；判决"
+            "n.审判; 判决"
         ],
         "pron": "['dʒʌdʒmәnt]"
     },
@@ -5473,7 +5473,7 @@
     {
         "name": "justify",
         "trans": [
-            "vt.证明…是正当的"
+            "vt.証明…是正当的"
         ],
         "pron": "['dʒʌstifai]"
     },
@@ -5488,7 +5488,7 @@
     {
         "name": "killer",
         "trans": [
-            "n.杀人者，杀人犯，杀手；屠杀者"
+            "n.杀人者、杀人犯、杀手; 屠杀者"
         ],
         "pron": "[]"
     },
@@ -5503,35 +5503,35 @@
     {
         "name": "kilometre",
         "trans": [
-            "n.千米，公里"
+            "n.千米、公里"
         ],
         "pron": "[kilә'mi:tә]"
     },
     {
         "name": "kiss",
         "trans": [
-            "n.&v.吻，接吻"
+            "n.&v.吻、接吻"
         ],
         "pron": "[kis]"
     },
     {
         "name": "knee",
         "trans": [
-            "n.膝，膝盖"
+            "n.膝、膝盖"
         ],
         "pron": "[ni:]"
     },
     {
         "name": "knife",
         "trans": [
-            "n.小刀，餐刀 v.用刀刺(切)"
+            "n.小刀、餐刀 v.用刀刺(切)"
         ],
         "pron": "[naif]"
     },
     {
         "name": "knock",
         "trans": [
-            "n.敲，敲打；碰撞 v.敲，打；碰，撞击"
+            "n.敲、敲打; 碰撞 v.敲、打; 碰、撞击"
         ],
         "pron": "[nɔk]"
     },
@@ -5563,7 +5563,7 @@
     {
         "name": "lad",
         "trans": [
-            "n.少年；青年"
+            "n.少年; 青年"
         ],
         "pron": "[læ d]"
     },
@@ -5643,7 +5643,7 @@
     {
         "name": "lean",
         "trans": [
-            "vi.倾斜;靠"
+            "vi.傾斜;靠"
         ],
         "pron": "[li:n]"
     },
@@ -5651,7 +5651,7 @@
         "name": "leap",
         "trans": [
             "vi.跳",
-            "跃 n.跳跃;跃进"
+            "跃 n.跳躍;跃进"
         ],
         "pron": "[li:p]"
     },
@@ -5680,7 +5680,7 @@
     {
         "name": "left",
         "trans": [
-            "a.左边的ad.在左边n.左边，左侧"
+            "a.左边的ad.在左边n.左边、左侧"
         ],
         "pron": "[left]"
     },
@@ -5711,7 +5711,7 @@
         "name": "lesson",
         "trans": [
             "n.功课",
-            "课程；教训"
+            "课程; 教训"
         ],
         "pron": "['lesn]"
     },
@@ -5740,7 +5740,7 @@
     {
         "name": "licence",
         "trans": [
-            "n.许可，特许，执照；放纵"
+            "n.许可、特许、执照; 放纵"
         ],
         "pron": "['laisәns]"
     },
@@ -5798,14 +5798,14 @@
     {
         "name": "live-in",
         "trans": [
-            "adj. 寄宿于工作处的"
+            "adj. 寄宿于仕事处的"
         ],
         "pron": "[]"
     },
     {
         "name": "living",
         "trans": [
-            "a.活的;逼真的；活泼的n.生活；生计"
+            "a.活的;逼真的; 活泼的n.生活; 生计"
         ],
         "pron": "['liviŋ]"
     },
@@ -5865,7 +5865,7 @@
     {
         "name": "loose",
         "trans": [
-            "a.宽松的；自由的"
+            "a.宽松的; 自由的"
         ],
         "pron": "[lu:s]"
     },
@@ -5965,7 +5965,7 @@
     {
         "name": "make-up",
         "trans": [
-            "n.组成，构造；化妆品；气质，天性，性格"
+            "n.组成、构造; 化妆品; 气质、天性、性格"
         ],
         "pron": "['meikʌp]"
     },
@@ -5973,14 +5973,14 @@
         "name": "manner",
         "trans": [
             "n.方式",
-            "态度；礼貌"
+            "态度; 礼貌"
         ],
         "pron": "['mæ nә]"
     },
     {
         "name": "manufacture",
         "trans": [
-            "vt.制造 n.制造；产品"
+            "vt.制造 n.制造; 产品"
         ],
         "pron": "[mæ nju'fæ ktʃә]"
     },
@@ -6015,7 +6015,7 @@
     {
         "name": "marine",
         "trans": [
-            "a.海上的，海产的n.海军",
+            "a.海上的、海产的n.海军",
             "舰队"
         ],
         "pron": "[mә'ri:n]"
@@ -6024,7 +6024,7 @@
         "name": "marked",
         "trans": [
             "a. 有记号的",
-            "显著的",
+            "顕著な",
             "醒目的"
         ],
         "pron": "[ma:kt]"
@@ -6039,14 +6039,14 @@
     {
         "name": "mask",
         "trans": [
-            "n.面具;伪装vt.掩饰，掩盖"
+            "n.面具;伪装vt.掩饰、掩盖"
         ],
         "pron": "[ma:sk]"
     },
     {
         "name": "massive",
         "trans": [
-            "a.大规模的，大量的"
+            "a.大规模的、大量の"
         ],
         "pron": "['mæ siv]"
     },
@@ -6135,7 +6135,7 @@
     {
         "name": "mental",
         "trans": [
-            "a.智力的；精神的"
+            "a.智力的; 精神的"
         ],
         "pron": "['mentl]"
     },
@@ -6149,7 +6149,7 @@
     {
         "name": "mere",
         "trans": [
-            "a.仅仅的；纯粹的"
+            "a.仅仅的; 纯粹的"
         ],
         "pron": "[miә]"
     },
@@ -6171,7 +6171,7 @@
     {
         "name": "mess",
         "trans": [
-            "n.混乱；杂乱 v.弄脏；弄乱"
+            "n.混乱; 杂乱 v.弄脏; 弄乱"
         ],
         "pron": "[mes]"
     },
@@ -6208,14 +6208,14 @@
     {
         "name": "mild",
         "trans": [
-            "a.温柔的；温暖的"
+            "a.温柔的; 温暖的"
         ],
         "pron": "[maild]"
     },
     {
         "name": "militant",
         "trans": [
-            "a.好战的，激进的"
+            "a.好战的、激进的"
         ],
         "pron": "['militәnt]"
     },
@@ -6229,7 +6229,7 @@
     {
         "name": "mill",
         "trans": [
-            "n.磨坊；制造厂"
+            "n.磨坊; 制造厂"
         ],
         "pron": "[mil]"
     },
@@ -6239,7 +6239,7 @@
             "n.头脑",
             "理智vt.注意",
             "留心;介意",
-            "反对"
+            "反対"
         ],
         "pron": "[maind]"
     },
@@ -6305,15 +6305,15 @@
     {
         "name": "mobile",
         "trans": [
-            "a.运动的",
-            "移动的"
+            "a.運動的",
+            "移動的"
         ],
         "pron": "['mәubail]"
     },
     {
         "name": "moderate",
         "trans": [
-            "a.温和的；适度的"
+            "a.温和的; 适度的"
         ],
         "pron": "['mɔdәrit]"
     },
@@ -6387,7 +6387,7 @@
     {
         "name": "mostly",
         "trans": [
-            "ad.主要的",
+            "ad.主要な",
             "大部分"
         ],
         "pron": "['mәustli]"
@@ -6395,7 +6395,7 @@
     {
         "name": "motion",
         "trans": [
-            "n.运动；动作；动机vi.打手势vt.示意"
+            "n.運動; 动作; 动机vi.打手势vt.示意"
         ],
         "pron": "['mәuʃәn]"
     },
@@ -6425,7 +6425,7 @@
     {
         "name": "muscle",
         "trans": [
-            "n.肌肉；力量"
+            "n.肌肉; 力量"
         ],
         "pron": "['mʌsl]"
     },
@@ -6477,7 +6477,7 @@
     {
         "name": "naturally",
         "trans": [
-            "ad.自然地；天然地"
+            "ad.自然地; 天然地"
         ],
         "pron": "['næ tʃәrәli]"
     },
@@ -6505,7 +6505,7 @@
     {
         "name": "neat",
         "trans": [
-            "a.整洁的；简洁的"
+            "a.整洁的; 简洁的"
         ],
         "pron": "[ni:t]"
     },
@@ -6527,7 +6527,7 @@
     {
         "name": "negative",
         "trans": [
-            "a.否定的；消极的；负的n.负数;底片"
+            "a.否定的; 消极的; 负的n.负数;底片"
         ],
         "pron": "['negәtiv]"
     },
@@ -6556,7 +6556,7 @@
     {
         "name": "net",
         "trans": [
-            "a.净的，纯的n.网",
+            "a.净的、纯的n.网",
             "网状物"
         ],
         "pron": "[net]"
@@ -6578,7 +6578,7 @@
     {
         "name": "nightmare",
         "trans": [
-            "n.恶梦；可怕的事物"
+            "n.恶梦; 恐ろしい事物"
         ],
         "pron": "['naItmeә(r)]"
     },
@@ -6621,8 +6621,8 @@
     {
         "name": "notion",
         "trans": [
-            "n.打算",
-            "意图；看法"
+            "n.意図",
+            "意图; 看法"
         ],
         "pron": "['nәuʃәn]"
     },
@@ -6643,14 +6643,14 @@
     {
         "name": "nurse",
         "trans": [
-            "n.护士 vt.看护，照料"
+            "n.护士 vt.看护、照料"
         ],
         "pron": "[nә:s]"
     },
     {
         "name": "objective",
         "trans": [
-            "a.客观的n.目的，目标"
+            "a.客观的n.目的、目標"
         ],
         "pron": "[ɔb'dʒektiv]"
     },
@@ -6672,7 +6672,7 @@
     {
         "name": "obtain",
         "trans": [
-            "vt.获得"
+            "vt.得る"
         ],
         "pron": "[әb'tein]"
     },
@@ -6687,7 +6687,7 @@
         "name": "occupation",
         "trans": [
             "n.占领",
-            "占据;职业，工作"
+            "占据;職業、仕事"
         ],
         "pron": "[ɔkju'peiʃәnl]"
     },
@@ -6708,7 +6708,7 @@
     {
         "name": "offence",
         "trans": [
-            "n.犯罪，犯规；冒犯"
+            "n.犯罪、犯规; 冒犯"
         ],
         "pron": "[ә'fens]"
     },
@@ -6745,7 +6745,7 @@
     {
         "name": "opening",
         "trans": [
-            "a.开始的 n.开始"
+            "a.始める的 n.始める"
         ],
         "pron": "['әupәniŋ]"
     },
@@ -6774,7 +6774,7 @@
     {
         "name": "oppose",
         "trans": [
-            "vt.反对",
+            "vt.反対",
             "反抗"
         ],
         "pron": "[ә'pәuz]"
@@ -6782,7 +6782,7 @@
     {
         "name": "opposed",
         "trans": [
-            "a.相对的，相反的"
+            "a.相对的、相反的"
         ],
         "pron": "[ә'pәuzd]"
     },
@@ -6796,7 +6796,7 @@
     {
         "name": "opt",
         "trans": [
-            "vi.挑选，选择"
+            "vi.挑选、選択"
         ],
         "pron": "[Cpt]"
     },
@@ -6818,9 +6818,9 @@
     {
         "name": "organized",
         "trans": [
-            "adj. 1> [常构成复合字]有组织的",
+            "adj. 1> [常構成复合字]有組織的",
             "编组的",
-            "组织性的;有计划的"
+            "組織性的;有計画的"
         ],
         "pron": "[]"
     },
@@ -6828,7 +6828,7 @@
         "name": "origin",
         "trans": [
             "n.起源",
-            "由来;出身，血统"
+            "由来;出身、血统"
         ],
         "pron": "['ɔridʒin]"
     },
@@ -6856,7 +6856,7 @@
     {
         "name": "outcome",
         "trans": [
-            "n.结果",
+            "n.結果",
             "后果;成果"
         ],
         "pron": "['autkәm]"
@@ -6864,14 +6864,14 @@
     {
         "name": "outline",
         "trans": [
-            "n.轮廓；大纲"
+            "n.轮廓; 大纲"
         ],
         "pron": "['aut-lain]"
     },
     {
         "name": "output",
         "trans": [
-            "n.产量；输出"
+            "n.产量; 输出"
         ],
         "pron": "['autput]"
     },
@@ -6990,14 +6990,14 @@
     {
         "name": "parliamentary",
         "trans": [
-            "a.国会的，议会的"
+            "a.国会的、议会的"
         ],
         "pron": "[pa:lә'mentәri]"
     },
     {
         "name": "part",
         "trans": [
-            "vt.分开，拆散n.一部分;零件；角色"
+            "vt.分ける、拆散n.一部分;零件; 角色"
         ],
         "pron": "[pa:t]"
     },
@@ -7019,14 +7019,14 @@
     {
         "name": "partnership",
         "trans": [
-            "n.合伙；合股"
+            "n.合伙; 合股"
         ],
         "pron": "['pa:tnәʃip]"
     },
     {
         "name": "passage",
         "trans": [
-            "n.通道；段落"
+            "n.通道; 段落"
         ],
         "pron": "['pæ sidʒ]"
     },
@@ -7065,7 +7065,7 @@
     {
         "name": "peaceful",
         "trans": [
-            "a.和平的；平静的"
+            "a.和平的; 平静的"
         ],
         "pron": "['pi:sful]"
     },
@@ -7109,7 +7109,7 @@
     {
         "name": "penny",
         "trans": [
-            "n.便士；分"
+            "n.便士; 分"
         ],
         "pron": "['peni]"
     },
@@ -7138,14 +7138,14 @@
     {
         "name": "perfectly",
         "trans": [
-            "ad.完全地；绝对地"
+            "ad.完全に; 绝对地"
         ],
         "pron": "['pә:fiktli]"
     },
     {
         "name": "permanent",
         "trans": [
-            "a.持久的；固定的"
+            "a.持久的; 固定的"
         ],
         "pron": "['pә:mәnәnt]"
     },
@@ -7160,7 +7160,7 @@
     {
         "name": "permit",
         "trans": [
-            "vt.允许 n.执照，许可证"
+            "vt.允许 n.执照、许可证"
         ],
         "pron": "[pә:'mit, 'pә:mit]"
     },
@@ -7168,14 +7168,14 @@
         "name": "personality",
         "trans": [
             "n.个性",
-            "人格；名人"
+            "人格; 名人"
         ],
         "pron": "[pә:sә'næ liti]"
     },
     {
         "name": "personally",
         "trans": [
-            "ad.亲自地，由本人"
+            "ad.亲自地、由本人"
         ],
         "pron": "['pә:sәnәuli]"
     },
@@ -7210,7 +7210,7 @@
     {
         "name": "phase",
         "trans": [
-            "n.阶段；方面"
+            "n.阶段; 方面"
         ],
         "pron": "[feiz]"
     },
@@ -7261,7 +7261,7 @@
     {
         "name": "pin",
         "trans": [
-            "n.别针，钉子vt.钉住"
+            "n.别针、钉子vt.钉住"
         ],
         "pron": "[pin]"
     },
@@ -7297,7 +7297,7 @@
     {
         "name": "plain",
         "trans": [
-            "n.平原 a.平坦的;朴素的；平常的"
+            "n.平原 a.平坦的;朴素的; 平常的"
         ],
         "pron": "[plein]"
     },
@@ -7311,14 +7311,14 @@
     {
         "name": "planning",
         "trans": [
-            "n.规划，设计，策划"
+            "n.规划、設計、策划"
         ],
         "pron": "[]"
     },
     {
         "name": "plastic",
         "trans": [
-            "a.塑料的n.塑料，塑料制品"
+            "a.塑料的n.塑料、塑料制品"
         ],
         "pron": "['plæ stik]"
     },
@@ -7362,7 +7362,7 @@
     {
         "name": "pledge",
         "trans": [
-            "n.誓言vt.保证",
+            "n.誓言vt.保証",
             "发誓"
         ],
         "pron": "[pledʒ]"
@@ -7378,7 +7378,7 @@
     {
         "name": "plot",
         "trans": [
-            "n.小块土地；计划，密谋；情节vt.密谋"
+            "n.小块土地; 計画、密谋; 情节vt.密谋"
         ],
         "pron": "[plɔt]"
     },
@@ -7487,7 +7487,7 @@
     {
         "name": "pose",
         "trans": [
-            "vt.陈述，提出；摆好位置vi.假装；摆姿势n.  姿势"
+            "vt.陈述、提案; 摆好位置vi.ふりをする; 摆姿势n.  姿势"
         ],
         "pron": "[pәuz]"
     },
@@ -7561,7 +7561,7 @@
     {
         "name": "premier",
         "trans": [
-            "a.首要的n.总理，首相"
+            "a.首要的n.总理、首相"
         ],
         "pron": "['premjә]"
     },
@@ -7591,7 +7591,7 @@
     {
         "name": "presidency",
         "trans": [
-            "n.总统(校长，总经理)的职位(任 期)"
+            "n.总统(校长、总经理)的职位(任 期)"
         ],
         "pron": "['prezidәnsi]"
     },
@@ -7605,7 +7605,7 @@
     {
         "name": "previously",
         "trans": [
-            "adv.在以前，预先"
+            "adv.在以前、预先"
         ],
         "pron": "['pri:vjәsli]"
     },
@@ -7642,14 +7642,14 @@
     {
         "name": "principal",
         "trans": [
-            "a.主要的n.校长；资本"
+            "a.主要なn.校长; 资本"
         ],
         "pron": "['prinsәpәl]"
     },
     {
         "name": "prior",
         "trans": [
-            "a.在先的；优先的"
+            "a.在先的; 优先的"
         ],
         "pron": "['praiә]"
     },
@@ -7685,7 +7685,7 @@
     {
         "name": "profession",
         "trans": [
-            "n.职业"
+            "n.職業"
         ],
         "pron": "[prә'feʃәn]"
     },
@@ -7700,7 +7700,7 @@
     {
         "name": "prominent",
         "trans": [
-            "a.突起的；杰出的"
+            "a.突起的; 杰出的"
         ],
         "pron": "['prɔminәnt]"
     },
@@ -7744,7 +7744,7 @@
     {
         "name": "proud",
         "trans": [
-            "a.骄傲的；自豪的"
+            "a.骄傲的; 自豪的"
         ],
         "pron": "[praud]"
     },
@@ -7758,7 +7758,7 @@
     {
         "name": "provision",
         "trans": [
-            "n.供应；条款"
+            "n.供应; 条款"
         ],
         "pron": "[prә'viʒәn]"
     },
@@ -7808,7 +7808,7 @@
     {
         "name": "publisher",
         "trans": [
-            "n.出版商，发行人"
+            "n.出版商、发行人"
         ],
         "pron": "['pʌbliʃә]"
     },
@@ -7822,14 +7822,14 @@
     {
         "name": "pump",
         "trans": [
-            "n.泵vt.用泵抽，打气"
+            "n.泵vt.用泵抽、打气"
         ],
         "pron": "[pʌmp]"
     },
     {
         "name": "punch",
         "trans": [
-            "vt.猛击 n.拳打，猛击"
+            "vt.猛击 n.拳打、猛击"
         ],
         "pron": "[pʌntʃ]"
     },
@@ -7850,7 +7850,7 @@
     {
         "name": "pursue",
         "trans": [
-            "vt.追赶，追踪；追求"
+            "vt.追赶、追踪; 追求"
         ],
         "pron": "[pә'sju:]"
     },
@@ -7871,7 +7871,7 @@
     {
         "name": "quantity",
         "trans": [
-            "n.数量；大量"
+            "n.数量; 大量"
         ],
         "pron": "['kwɔntiti]"
     },
@@ -7886,28 +7886,28 @@
     {
         "name": "racing",
         "trans": [
-            "n.竞赛，赛马 a.竞赛用的，赛马用的"
+            "n.竞赛、赛马 a.竞赛用的、赛马用的"
         ],
         "pron": "['reisiŋ]"
     },
     {
         "name": "rage",
         "trans": [
-            "n.狂怒，强烈欲望"
+            "n.狂怒、强烈欲望"
         ],
         "pron": "[reidʒ]"
     },
     {
         "name": "raid",
         "trans": [
-            "n.突袭；搜查"
+            "n.突袭; 搜查"
         ],
         "pron": "[reid]"
     },
     {
         "name": "rail",
         "trans": [
-            "n.铁路，铁轨"
+            "n.铁路、铁轨"
         ],
         "pron": "[reil]"
     },
@@ -7966,7 +7966,7 @@
     {
         "name": "raw",
         "trans": [
-            "a.生的；未加工的"
+            "a.生的; 未加工的"
         ],
         "pron": "[rɔ:]"
     },
@@ -7987,7 +7987,7 @@
     {
         "name": "reading",
         "trans": [
-            "n.阅读；读物"
+            "n.阅读; 读物"
         ],
         "pron": "['ri:diŋ]"
     },
@@ -8010,7 +8010,7 @@
     {
         "name": "reckon",
         "trans": [
-            "vi.估计;猜想vt.认为"
+            "vi.推定;猜想vt.考える"
         ],
         "pron": "['rekәn]"
     },
@@ -8032,7 +8032,7 @@
     {
         "name": "recover",
         "trans": [
-            "vt.恢复，痊愈"
+            "vt.回復、痊愈"
         ],
         "pron": "[ri'kʌvә]"
     },
@@ -8040,14 +8040,14 @@
         "name": "recovery",
         "trans": [
             "n.痊愈",
-            "恢复"
+            "回復"
         ],
         "pron": "[ri'kʌvәri]"
     },
     {
         "name": "recruit",
         "trans": [
-            "vi.招收，聘用 n. 新兵",
+            "vi.招收、聘用 n. 新兵",
             "新成员"
         ],
         "pron": "[ri'kru:t]"
@@ -8055,7 +8055,7 @@
     {
         "name": "reduction",
         "trans": [
-            "n.减少",
+            "n.減らす",
             "缩减"
         ],
         "pron": "[ri'dʌkʃәn]"
@@ -8063,14 +8063,14 @@
     {
         "name": "reel",
         "trans": [
-            "n.卷轴;旋转"
+            "n.卷轴;回転"
         ],
         "pron": "[ri:l]"
     },
     {
         "name": "reference",
         "trans": [
-            "n.参考;提及；推荐人（信）"
+            "n.参考;提及; 推荐人（信）"
         ],
         "pron": "['refәrәns]"
     },
@@ -8124,7 +8124,7 @@
     {
         "name": "relate",
         "trans": [
-            "vt.联系"
+            "vt.連絡"
         ],
         "pron": "[ri'leit]"
     },
@@ -8138,14 +8138,14 @@
     {
         "name": "relative",
         "trans": [
-            "a.有关系的；相对的n.亲戚，亲属"
+            "a.有关系的; 相对的n.亲戚、亲属"
         ],
         "pron": "['relәtiv]"
     },
     {
         "name": "relax",
         "trans": [
-            "vt.使松弛vi.松弛；松懈"
+            "vt.使松弛vi.松弛; 松懈"
         ],
         "pron": "[ri'læ ks]"
     },
@@ -8181,7 +8181,7 @@
         "name": "rely",
         "trans": [
             "vi.依赖",
-            "依靠；信赖"
+            "依靠; 信赖"
         ],
         "pron": "[ri'lai]"
     },
@@ -8195,7 +8195,7 @@
     {
         "name": "remark",
         "trans": [
-            "vi.评论n.评论;备注"
+            "vi.コメントn.コメント;备注"
         ],
         "pron": "[ri'ma:k]"
     },
@@ -8255,7 +8255,7 @@
     {
         "name": "requirement",
         "trans": [
-            "n.需要",
+            "n.必要",
             "要求"
         ],
         "pron": "[ri'kwaiәmәnt]"
@@ -8271,14 +8271,14 @@
     {
         "name": "resign",
         "trans": [
-            "vt.放弃 vi.辞职"
+            "vt.放棄 vi.辞职"
         ],
         "pron": "[ri'zain]"
     },
     {
         "name": "resignation",
         "trans": [
-            "n.辞职；放弃"
+            "n.辞职; 放棄"
         ],
         "pron": "[rezig'neiʃәn]"
     },
@@ -8301,7 +8301,7 @@
     {
         "name": "resolve",
         "trans": [
-            "vt.解决;决心 n.决心"
+            "vt.解決;决心 n.决心"
         ],
         "pron": "[ri'zɔlv]"
     },
@@ -8309,22 +8309,22 @@
         "name": "resort",
         "trans": [
             "vi.求助",
-            "诉诸n.凭借，手段;胜地"
+            "诉诸n.凭借、手段;胜地"
         ],
         "pron": "[ri'zɔ:t]"
     },
     {
         "name": "restore",
         "trans": [
-            "vt.恢复",
-            "归还;修补，重建"
+            "vt.回復",
+            "归还;修补、重建"
         ],
         "pron": "[ris'tɔ:]"
     },
     {
         "name": "resume",
         "trans": [
-            "vt.重新开始"
+            "vt.重新始める"
         ],
         "pron": "[ri'zju:m]"
     },
@@ -8338,7 +8338,7 @@
     {
         "name": "retain",
         "trans": [
-            "vt.保持",
+            "vt.維持",
             "保留"
         ],
         "pron": "[ri'tein]"
@@ -8368,7 +8368,7 @@
     {
         "name": "revenue",
         "trans": [
-            "n.税收，财政收入"
+            "n.税收、财政收入"
         ],
         "pron": "['revinju:]"
     },
@@ -8383,7 +8383,7 @@
     {
         "name": "revolution",
         "trans": [
-            "n.革命;旋转"
+            "n.革命;回転"
         ],
         "pron": "[revә'lu:ʃәn]"
     },
@@ -8397,7 +8397,7 @@
     {
         "name": "reward",
         "trans": [
-            "n.报答；报酬 vt.报答；酬金"
+            "n.报答; 报酬 vt.报答; 酬金"
         ],
         "pron": "[ri'wɔ:d]"
     },
@@ -8429,7 +8429,7 @@
     {
         "name": "rider",
         "trans": [
-            "n.骑手，骑车人"
+            "n.骑手、骑车人"
         ],
         "pron": "['raidә]"
     },
@@ -8444,7 +8444,7 @@
     {
         "name": "ring",
         "trans": [
-            "vi.鸣;按铃，敲钟vt.打电话给；按铃，敲钟n.铃声；戒指，环"
+            "vi.鸣;按铃、敲钟vt.打电话给; 按铃、敲钟n.铃声; 戒指、环"
         ],
         "pron": "[riŋ]"
     },
@@ -8487,7 +8487,7 @@
     {
         "name": "root",
         "trans": [
-            "n.根（部）；根源vi.生根，扎根"
+            "n.根（部）; 根源vi.生根、扎根"
         ],
         "pron": "[ru:t]"
     },
@@ -8501,21 +8501,21 @@
     {
         "name": "rouge",
         "trans": [
-            "n.胭脂，口红唇膏 v.(在…上)擦口红"
+            "n.胭脂、口红唇膏 v.(在…上)擦口红"
         ],
         "pron": "[ru:ʒ]"
     },
     {
         "name": "rough",
         "trans": [
-            "a.表面不平的;粗略的；大致的"
+            "a.表面不平的;粗略的; 大致的"
         ],
         "pron": "[rʌf]"
     },
     {
         "name": "routine",
         "trans": [
-            "n.例行的公事 a.日常的，例行的"
+            "n.例行的公事 a.日常的、例行的"
         ],
         "pron": "[ru:'ti:n]"
     },
@@ -8544,14 +8544,14 @@
     {
         "name": "ruling",
         "trans": [
-            "a. 统治的，主要的 n.裁决，判决"
+            "a. 統治的、主要な n.裁决、判决"
         ],
         "pron": "['ru:liŋ]"
     },
     {
         "name": "rumour",
         "trans": [
-            "n./v.传闻；谣传"
+            "n./v.传闻; 谣传"
         ],
         "pron": "['ru:mә]"
     },
@@ -8581,7 +8581,7 @@
         "name": "sack",
         "trans": [
             "n.袋",
-            "麻袋；解雇；洗劫",
+            "麻袋; 解雇; 洗劫",
             "劫掠vt.洗劫;开除"
         ],
         "pron": "[sæ k]"
@@ -8597,7 +8597,7 @@
     {
         "name": "sail",
         "trans": [
-            "n.帆；航行 vi.航行vt.驾驶"
+            "n.帆; 航行 vi.航行vt.驾驶"
         ],
         "pron": "[seil]"
     },
@@ -8673,7 +8673,7 @@
     {
         "name": "savings",
         "trans": [
-            "n.储金，储蓄"
+            "n.储金、储蓄"
         ],
         "pron": "['seiviŋz]"
     },
@@ -8708,7 +8708,7 @@
     {
         "name": "seal",
         "trans": [
-            "n.海豹；封条；图章 vt.封",
+            "n.海豹; 封条; 图章 vt.封",
             "密封"
         ],
         "pron": "['si:l]"
@@ -8733,21 +8733,21 @@
     {
         "name": "seize",
         "trans": [
-            "vt.抓住;夺取，占据"
+            "vt.掴む;夺取、占据"
         ],
         "pron": "[si:z]"
     },
     {
         "name": "select",
         "trans": [
-            "vt.选择 vi.挑选"
+            "vt.選択 vi.挑选"
         ],
         "pron": "[si'lekt]"
     },
     {
         "name": "selection",
         "trans": [
-            "n.选择",
+            "n.選択",
             "挑选"
         ],
         "pron": "[si'lekʃәn]"
@@ -8771,7 +8771,7 @@
     {
         "name": "sensible",
         "trans": [
-            "a.感觉得到的"
+            "a.感覚得到的"
         ],
         "pron": "['sensәbl]"
     },
@@ -8786,7 +8786,7 @@
     {
         "name": "seriously",
         "trans": [
-            "ad.严重地；认真地，严肃地"
+            "ad.严重地; 认真地、严肃地"
         ],
         "pron": "['siәriәsli]"
     },
@@ -8802,7 +8802,7 @@
         "trans": [
             "n. 互殴",
             "缠打",
-            "拳击比赛"
+            "拳击試合"
         ],
         "pron": "[]"
     },
@@ -8834,7 +8834,7 @@
         "trans": [
             "v. 作形",
             "给与形状;vbl. 成形",
-            "发展"
+            "発展"
         ],
         "pron": "[]"
     },
@@ -8855,7 +8855,7 @@
     {
         "name": "sheet",
         "trans": [
-            "n.被单;纸张，薄片"
+            "n.被单;纸张、薄片"
         ],
         "pron": "[ʃi:t]"
     },
@@ -8869,7 +8869,7 @@
     {
         "name": "shelter",
         "trans": [
-            "n.掩蔽处vt.遮蔽，掩护"
+            "n.掩蔽处vt.遮蔽、掩护"
         ],
         "pron": "['ʃeltә]"
     },
@@ -8877,7 +8877,7 @@
         "name": "shift",
         "trans": [
             "vt.替换",
-            "转移n.转换"
+            "移転n.转换"
         ],
         "pron": "[ʃift]"
     },
@@ -8914,7 +8914,7 @@
         "name": "shortage",
         "trans": [
             "n.不足",
-            "缺乏"
+            "欠如"
         ],
         "pron": "['ʃɔ:tidʒ]"
     },
@@ -8935,7 +8935,7 @@
     {
         "name": "shouldn't",
         "trans": [
-            "不应该，不要"
+            "不应该、不要"
         ],
         "pron": "['ʃudnt]"
     },
@@ -9160,7 +9160,7 @@
         "name": "solve",
         "trans": [
             "vt.解答",
-            "解决"
+            "解決"
         ],
         "pron": "['sɔlv]"
     },
@@ -9204,7 +9204,7 @@
     {
         "name": "spare",
         "trans": [
-            "vt.节约 ；抽出；饶恕a.多余的;空闲的"
+            "vt.节约 ; 抽出; 饶恕a.多余的;空闲的"
         ],
         "pron": "[spɛә]"
     },
@@ -9241,7 +9241,7 @@
         "name": "species",
         "trans": [
             "n.物种",
-            "种类"
+            "種類"
         ],
         "pron": "['spi:ʃi:z]"
     },
@@ -9277,7 +9277,7 @@
     {
         "name": "spin",
         "trans": [
-            "vt.纺;使旋转n.旋转"
+            "vt.纺;使回転n.回転"
         ],
         "pron": "[spin]"
     },
@@ -9306,7 +9306,7 @@
     {
         "name": "spray",
         "trans": [
-            "n.浪花，水花;喷雾vt.喷，喷射"
+            "n.浪花、水花;喷雾vt.喷、喷射"
         ],
         "pron": "[sprei]"
     },
@@ -9335,14 +9335,14 @@
     {
         "name": "stadium",
         "trans": [
-            "n. 露天大型运动场"
+            "n. 露天大型運動场"
         ],
         "pron": "['steidjәm]"
     },
     {
         "name": "stamp",
         "trans": [
-            "vi.跺脚vt.盖章；跺脚n.戳子;邮票"
+            "vi.跺脚vt.盖章; 跺脚n.戳子;邮票"
         ],
         "pron": "[stæ mp]"
     },
@@ -9418,14 +9418,14 @@
         "name": "stir",
         "trans": [
             "vt.搅动",
-            "搅拌；煽动 n.惊动；搅拌"
+            "搅拌; 煽动 n.惊动; 搅拌"
         ],
         "pron": "[stә:]"
     },
     {
         "name": "stock exchange",
         "trans": [
-            "n. 证券交易所"
+            "n. 证券取引所"
         ],
         "pron": "[]"
     },
@@ -9439,21 +9439,21 @@
     {
         "name": "stomach",
         "trans": [
-            "n.胃；胃口；欲望"
+            "n.胃; 胃口; 欲望"
         ],
         "pron": "['stʌmәk]"
     },
     {
         "name": "storm",
         "trans": [
-            "n.暴风雨；大动荡"
+            "n.暴风雨; 大动荡"
         ],
         "pron": "[stɔ:m]"
     },
     {
         "name": "strain",
         "trans": [
-            "n.紧张；张力 vi.尽力vt.拉紧"
+            "n.紧张; 张力 vi.尽力vt.拉紧"
         ],
         "pron": "['strein]"
     },
@@ -9476,7 +9476,7 @@
     {
         "name": "strengthen",
         "trans": [
-            "vt.加强",
+            "vt.強化",
             "巩固"
         ],
         "pron": "['streŋθәn]"
@@ -9484,7 +9484,7 @@
     {
         "name": "stretch",
         "trans": [
-            "vt.伸展n.一段时间(路程)；拉长，延伸"
+            "vt.伸展n.一段時間(路程); 拉长、延伸"
         ],
         "pron": "[stretʃ]"
     },
@@ -9499,14 +9499,14 @@
     {
         "name": "striking",
         "trans": [
-            "a.显著的，惊人的"
+            "a.顕著な、惊人的"
         ],
         "pron": "['straikiŋ]"
     },
     {
         "name": "string",
         "trans": [
-            "n.线;弦；一串"
+            "n.线;弦; 一串"
         ],
         "pron": "[striŋ]"
     },
@@ -9514,7 +9514,7 @@
         "name": "strip",
         "trans": [
             "vt.剥",
-            "夺去；脱衣服n.条带"
+            "夺去; 脱衣服n.条带"
         ],
         "pron": "[strip]"
     },
@@ -9522,7 +9522,7 @@
         "name": "stroke",
         "trans": [
             "vt.打",
-            "击;抚摩 n.敲击；中风；抚摸"
+            "击;抚摩 n.敲击; 中风; 抚摸"
         ],
         "pron": "[strәuk]"
     },
@@ -9595,8 +9595,8 @@
     {
         "name": "suggestion",
         "trans": [
-            "n.建议",
-            "意见;暗示"
+            "n.提案",
+            "意見;示唆"
         ],
         "pron": "[sә'dʒestʃәn]"
     },
@@ -9610,7 +9610,7 @@
     {
         "name": "Suitable",
         "trans": [
-            "a.适宜的；恰当的"
+            "a.适宜的; 恰当的"
         ],
         "pron": "['sju:tәbl]"
     },
@@ -9624,7 +9624,7 @@
     {
         "name": "super",
         "trans": [
-            "a.极好的",
+            "a.素晴らしい",
             "超级的"
         ],
         "pron": "['sju:pә]"
@@ -9647,7 +9647,7 @@
     {
         "name": "surely",
         "trans": [
-            "ad.肯定，的确"
+            "ad.肯定、的确"
         ],
         "pron": "['ʃuәli]"
     },
@@ -9661,7 +9661,7 @@
     {
         "name": "surplus",
         "trans": [
-            "a.过剩的，多余的 n.过剩",
+            "a.过剩的、多余的 n.过剩",
             "剩余"
         ],
         "pron": "['sә:plәs]"
@@ -9669,7 +9669,7 @@
     {
         "name": "surrender",
         "trans": [
-            "vi.投降；屈服，让步"
+            "vi.投降; 屈服、让步"
         ],
         "pron": "[sә'rendә]"
     },
@@ -9684,7 +9684,7 @@
     {
         "name": "suspicion",
         "trans": [
-            "n.怀疑",
+            "n.疑う",
             "猜疑"
         ],
         "pron": "[sәs'piʃәn]"
@@ -9692,21 +9692,21 @@
     {
         "name": "sustain",
         "trans": [
-            "vt.持续，保持"
+            "vt.持续、維持"
         ],
         "pron": "[sәs'tein]"
     },
     {
         "name": "sweep",
         "trans": [
-            "vt.打扫；掠过vi.快速移动"
+            "vt.打扫; 掠过vi.快速移動"
         ],
         "pron": "[swi:p]"
     },
     {
         "name": "sweet",
         "trans": [
-            "a.甜的；温柔的n.糖果，甜食"
+            "a.甜的; 温柔的n.糖果、甜食"
         ],
         "pron": "[swi:t]"
     },
@@ -9735,14 +9735,14 @@
     {
         "name": "symbol",
         "trans": [
-            "n.象征；符号"
+            "n.象征; 符号"
         ],
         "pron": "['simbәl]"
     },
     {
         "name": "sympathy",
         "trans": [
-            "n.同情，同情心"
+            "n.同情、同情心"
         ],
         "pron": "['simpәθi]"
     },
@@ -9756,7 +9756,7 @@
     {
         "name": "tackle",
         "trans": [
-            "vt.解决",
+            "vt.解決",
             "对付"
         ],
         "pron": "['tæ kl]"
@@ -9764,7 +9764,7 @@
     {
         "name": "tactic",
         "trans": [
-            "n.策略；战术"
+            "n.策略; 战术"
         ],
         "pron": "['tæ ktik]"
     },
@@ -9778,14 +9778,14 @@
     {
         "name": "takeover",
         "trans": [
-            "n.(事业等的)接管；(经营权等的)接收"
+            "n.(事业等的)接管; (经营权等的)接收"
         ],
         "pron": "[]"
     },
     {
         "name": "tale",
         "trans": [
-            "n.故事；传说"
+            "n.故事; 传说"
         ],
         "pron": "[teil]"
     },
@@ -9817,7 +9817,7 @@
     {
         "name": "teaching",
         "trans": [
-            "n.教学；(pl.)教导，学说"
+            "n.教学; (pl.)教导、学说"
         ],
         "pron": "['ti:tʃiŋ]"
     },
@@ -9879,7 +9879,7 @@
     {
         "name": "tennis",
         "trans": [
-            "n.网球运动"
+            "n.网球運動"
         ],
         "pron": "['tenis]"
     },
@@ -9901,14 +9901,14 @@
     {
         "name": "testing",
         "trans": [
-            "n.试验，测试"
+            "n.試験、测试"
         ],
         "pron": "['testiŋ]"
     },
     {
         "name": "text",
         "trans": [
-            "n.原文；文本；课文"
+            "n.原文; 文本; 课文"
         ],
         "pron": "[tekst]"
     },
@@ -9973,14 +9973,14 @@
     {
         "name": "tide",
         "trans": [
-            "n.潮汐；趋势"
+            "n.潮汐; 趋势"
         ],
         "pron": "[taid]"
     },
     {
         "name": "tight",
         "trans": [
-            "a.紧的；紧身的ad.紧紧地"
+            "a.紧的; 紧身的ad.紧紧地"
         ],
         "pron": "[tait]"
     },
@@ -10009,7 +10009,7 @@
     {
         "name": "tired",
         "trans": [
-            "a.疲劳的；厌倦的"
+            "a.疲劳的; 厌倦的"
         ],
         "pron": "['taiәd]"
     },
@@ -10017,7 +10017,7 @@
         "name": "Tissue",
         "trans": [
             "n.薄绢",
-            "薄纸巾;组织"
+            "薄纸巾;組織"
         ],
         "pron": "['tisju:]"
     },
@@ -10054,7 +10054,7 @@
         "name": "torture",
         "trans": [
             "n.拷问",
-            "折磨vt.拷打"
+            "苦しめるvt.拷打"
         ],
         "pron": "['tɔ:tʃә]"
     },
@@ -10069,7 +10069,7 @@
     {
         "name": "tournament",
         "trans": [
-            "n.联赛；比赛"
+            "n.联赛; 試合"
         ],
         "pron": "['tuәnәmәnt]"
     },
@@ -10091,7 +10091,7 @@
     {
         "name": "trace",
         "trans": [
-            "n.痕迹；微量vt.跟踪"
+            "n.痕迹; 微量vt.跟踪"
         ],
         "pron": "[treis]"
     },
@@ -10135,7 +10135,7 @@
     {
         "name": "transform",
         "trans": [
-            "vt.改变",
+            "vt.変える",
             "改造"
         ],
         "pron": "[træ ns'fɔ:m]"
@@ -10165,21 +10165,21 @@
     {
         "name": "treasury",
         "trans": [
-            "n.财政部；基金"
+            "n.财政部; 基金"
         ],
         "pron": "['treʒәri]"
     },
     {
         "name": "tremendous",
         "trans": [
-            "a.极大的;非常的"
+            "a.极大的;非常に的"
         ],
         "pron": "[tri'mendәs]"
     },
     {
         "name": "trend",
         "trans": [
-            "vi.伸向;倾向n.倾向"
+            "vi.伸向;傾向n.傾向"
         ],
         "pron": "[trend]"
     },
@@ -10194,7 +10194,7 @@
         "name": "trigger",
         "trans": [
             "n.扳机vt.触发",
-            "引起"
+            "引き起こす"
         ],
         "pron": "['trigә]"
     },
@@ -10276,7 +10276,7 @@
     {
         "name": "ultimately",
         "trans": [
-            "ad.最后，终于"
+            "ad.最后、终于"
         ],
         "pron": "['ʌltimitli]"
     },
@@ -10299,21 +10299,21 @@
     {
         "name": "underground",
         "trans": [
-            "a.地下的;秘密的 ad.在地面下；秘密地n.地铁"
+            "a.地下的;秘密的 ad.在地面下; 秘密地n.地铁"
         ],
         "pron": "['ʌndәgraund]"
     },
     {
         "name": "undermine",
         "trans": [
-            "vt.破坏"
+            "vt.破壊"
         ],
         "pron": "[ʌndә'main]"
     },
     {
         "name": "understanding",
         "trans": [
-            "n.理解，理解力"
+            "n.理解、理解力"
         ],
         "pron": "[ʌndә'stændiŋ]"
     },
@@ -10376,7 +10376,7 @@
     {
         "name": "united",
         "trans": [
-            "adj.一致的；联合的"
+            "adj.一致的; 連合的"
         ],
         "pron": "[ju:'naitid]"
     },
@@ -10399,7 +10399,7 @@
     {
         "name": "unknown",
         "trans": [
-            "a.未知的，不知名的"
+            "a.未知的、不知名的"
         ],
         "pron": "['ʌn'nәun]"
     },
@@ -10482,14 +10482,14 @@
     {
         "name": "vary",
         "trans": [
-            "vt.改变"
+            "vt.変える"
         ],
         "pron": "['vɛәri]"
     },
     {
         "name": "vast",
         "trans": [
-            "a.巨大的，广阔的"
+            "a.巨大な、广阔的"
         ],
         "pron": "[va:st]"
     },
@@ -10510,7 +10510,7 @@
     {
         "name": "venue",
         "trans": [
-            "n.聚会地点，会场"
+            "n.聚会地点、会场"
         ],
         "pron": "['venju:]"
     },
@@ -10541,7 +10541,7 @@
         "name": "via",
         "trans": [
             "prep.经过",
-            "通过"
+            "通過"
         ],
         "pron": "['vaiә]"
     },
@@ -10555,7 +10555,7 @@
     {
         "name": "victimize",
         "trans": [
-            "v.使牺牲；使受害"
+            "v.使牺牲; 使受害"
         ],
         "pron": "['viktimaiz]"
     },
@@ -10616,7 +10616,7 @@
     {
         "name": "vital",
         "trans": [
-            "a.致命的;重要的"
+            "a.致命的;重要な"
         ],
         "pron": "['vaitl]"
     },
@@ -10660,7 +10660,7 @@
     {
         "name": "wake",
         "trans": [
-            "vi.醒来；觉悟vt.唤醒"
+            "vi.醒来; 觉悟vt.唤醒"
         ],
         "pron": "[weik]"
     },
@@ -10682,7 +10682,7 @@
     {
         "name": "watch",
         "trans": [
-            "vt.观看；监视 vi.观看 n.手表"
+            "vt.观看; 监视 vi.观看 n.手表"
         ],
         "pron": "[wɔtʃ]"
     },
@@ -10817,7 +10817,7 @@
     {
         "name": "winning",
         "trans": [
-            "a.获胜的，胜利的；吸引人的，有说服力的"
+            "a.获胜的、胜利的; 引き付ける人的、有说服力的"
         ],
         "pron": "['winiŋ]"
     },
@@ -10856,7 +10856,7 @@
     {
         "name": "withdrawal",
         "trans": [
-            "n.收回；撤退"
+            "n.收回; 撤退"
         ],
         "pron": "[wið'drɔ:l]"
     },
@@ -10891,7 +10891,7 @@
     {
         "name": "worried",
         "trans": [
-            "a.担心的，焦虑的"
+            "a.担心的、焦虑的"
         ],
         "pron": "['wʌrid]"
     },

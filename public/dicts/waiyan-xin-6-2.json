@@ -32,7 +32,7 @@
   {
     "name": "enjoy",
     "trans": [
-      "adv.享用，享受"
+      "adv.享用、享受"
     ]
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "later",
     "trans": [
-      "adv.后来，以后"
+      "adv.后来、以后"
     ]
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "pond",
     "trans": [
-      "adv.水池，池塘"
+      "adv.水池、池塘"
     ]
   },
   {
@@ -98,13 +98,13 @@
   {
     "name": "stay",
     "trans": [
-      "adv.保持，维持"
+      "adv.維持、维持"
     ]
   },
   {
     "name": "shine",
     "trans": [
-      "adv.(太阳）发光，照耀"
+      "adv.(太阳）发光、照耀"
     ]
   },
   {
@@ -116,7 +116,7 @@
   {
     "name": "everyone",
     "trans": [
-      "adv.人人，没人，大家"
+      "adv.人人、没人、大家"
     ]
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "just",
     "trans": [
-      "adv.就，且请"
+      "adv.就、且请"
     ]
   },
   {
@@ -140,7 +140,7 @@
   {
     "name": "blow",
     "trans": [
-      "adv.吹，刮"
+      "adv.吹、刮"
     ]
   },
   {
@@ -182,7 +182,7 @@
   {
     "name": "time",
     "trans": [
-      "adv.次，回"
+      "adv.次、回"
     ]
   },
   {
@@ -200,7 +200,7 @@
   {
     "name": "nothing",
     "trans": [
-      "adv.没有东西，没有事情"
+      "adv.没有东西、没有事情"
     ]
   },
   {
@@ -212,7 +212,7 @@
   {
     "name": "got",
     "trans": [
-      "adv.（get的过去式），得到，收到"
+      "adv.（getの過去形）、得到、收到"
     ]
   },
   {
@@ -236,25 +236,25 @@
   {
     "name": "finish",
     "trans": [
-      "adv.结束，完成"
+      "adv.終わる、完了"
     ]
   },
   {
     "name": "decide",
     "trans": [
-      "adv.决定"
+      "adv.決定"
     ]
   },
   {
     "name": "paper",
     "trans": [
-      "adv.纸做的，纸质的"
+      "adv.纸做的、纸质的"
     ]
   },
   {
     "name": "brought",
     "trans": [
-      "adv.（bring的过去式）拿来，带来"
+      "adv.（bringの過去形）拿来、带来"
     ]
   },
   {
@@ -272,19 +272,19 @@
   {
     "name": "taikonaut",
     "trans": [
-      "adv.（中国的）太空的，宇航员"
+      "adv.（中国的）太空的、宇航员"
     ]
   },
   {
     "name": "first",
     "trans": [
-      "adv.最初(的），第一次（的）"
+      "adv.最初(的）、第一次（的）"
     ]
   },
   {
     "name": "national",
     "trans": [
-      "adv.国家的，民族的"
+      "adv.国家的、民族的"
     ]
   },
   {
@@ -296,7 +296,7 @@
   {
     "name": "spent",
     "trans": [
-      "adv.(spend的过去式）度过"
+      "adv.(spendの過去形）度过"
     ]
   },
   {
@@ -308,7 +308,7 @@
   {
     "name": "flew",
     "trans": [
-      "adv.（flow的过去式）飞，飞行"
+      "adv.（flowの過去形）飞、飞行"
     ]
   },
   {
@@ -326,7 +326,7 @@
   {
     "name": "proud",
     "trans": [
-      "adv.感到自豪的，感到骄傲的"
+      "adv.感到自豪的、感到骄傲的"
     ]
   },
   {
@@ -338,7 +338,7 @@
   {
     "name": "born",
     "trans": [
-      "adv.出生，诞生"
+      "adv.出生、诞生"
     ]
   },
   {
@@ -350,7 +350,7 @@
   {
     "name": "became",
     "trans": [
-      "adv.（become的过去式）变成"
+      "adv.（becomeの過去形）变成"
     ]
   },
   {
@@ -362,7 +362,7 @@
   {
     "name": "spell",
     "trans": [
-      "adv.拼写，拼出"
+      "adv.拼写、拼出"
     ]
   },
   {
@@ -374,7 +374,7 @@
   {
     "name": "all over",
     "trans": [
-      "adv.到处，遍处，处处"
+      "adv.到处、遍处、处处"
     ]
   },
   {
@@ -386,7 +386,7 @@
   {
     "name": "role model",
     "trans": [
-      "adv.模范；榜样"
+      "adv.模范; 榜样"
     ]
   },
   {
@@ -398,7 +398,7 @@
   {
     "name": "planned",
     "trans": [
-      "adv.（plan的过去式）计划"
+      "adv.（planの過去形）計画"
     ]
   },
   {
@@ -440,7 +440,7 @@
   {
     "name": "said",
     "trans": [
-      "adv.（say)的过去式）说"
+      "adv.（say)の過去形）说"
     ]
   },
   {
@@ -452,7 +452,7 @@
   {
     "name": "wish",
     "trans": [
-      "adv.愿望，希望；祝，祝愿"
+      "adv.愿望、希望; 祝、祝愿"
     ]
   },
   {
@@ -464,7 +464,7 @@
   {
     "name": "primary",
     "trans": [
-      "adv.小学的，初等的"
+      "adv.小学的、初等的"
     ]
   },
   {
@@ -494,25 +494,25 @@
   {
     "name": "joy",
     "trans": [
-      "adv.乐事，乐趣"
+      "adv.乐事、乐趣"
     ]
   },
   {
     "name": "future",
     "trans": [
-      "adv.将来，未来"
+      "adv.将来、未来"
     ]
   },
   {
     "name": "wonderful",
     "trans": [
-      "adv.了不起的，出色的"
+      "adv.了不起的、出色的"
     ]
   },
   {
     "name": "happiness",
     "trans": [
-      "adv.幸福，愉快"
+      "adv.幸福、愉快"
     ]
   },
   {
@@ -524,7 +524,7 @@
   {
     "name": "middle",
     "trans": [
-      "adv.中间的，中等的；中期，中间"
+      "adv.中间的、中等的; 中期、中间"
     ]
   },
   {
@@ -536,7 +536,7 @@
   {
     "name": "speech",
     "trans": [
-      "adv.演说，讲演"
+      "adv.演说、讲演"
     ]
   },
   {
@@ -548,7 +548,7 @@
   {
     "name": "leave",
     "trans": [
-      "adv.离开"
+      "adv.離れる"
     ]
   },
   {
@@ -560,7 +560,7 @@
   {
     "name": "excited",
     "trans": [
-      "adv.激动的，兴奋地"
+      "adv.激动的、兴奋地"
     ]
   },
   {
@@ -584,7 +584,7 @@
   {
     "name": "spoke",
     "trans": [
-      "adv.（speak)的过去式）说（某种语言）"
+      "adv.（speak)の過去形）说（某种语言）"
     ]
   },
   {
@@ -596,7 +596,7 @@
   {
     "name": "keep on",
     "trans": [
-      "adv.保持"
+      "adv.維持"
     ]
   },
   {
@@ -614,7 +614,7 @@
   {
     "name": "each other",
     "trans": [
-      "adv.互相，彼此"
+      "adv.互相、彼此"
     ]
   },
   {

@@ -14,13 +14,13 @@
   {
     "name": "kilomething",
     "trans": [
-      "adv.千米，公里"
+      "adv.千米、公里"
     ]
   },
   {
     "name": "something",
     "trans": [
-      "adv.某事物，某种东西"
+      "adv.某事物、某种东西"
     ]
   },
   {
@@ -50,13 +50,13 @@
   {
     "name": "dancing",
     "trans": [
-      "adv.跳舞，舞蹈"
+      "adv.跳舞、舞蹈"
     ]
   },
   {
     "name": "chinatown",
     "trans": [
-      "adv.唐人街，中国城"
+      "adv.唐人街、中国城"
     ]
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "flag",
     "trans": [
-      "adv.旗；国旗"
+      "adv.旗; 国旗"
     ]
   },
   {
@@ -146,7 +146,7 @@
   {
     "name": "special",
     "trans": [
-      "adv.特殊的，特别的"
+      "adv.特殊的、特别的"
     ]
   },
   {
@@ -188,7 +188,7 @@
   {
     "name": "race",
     "trans": [
-      "adv.比赛，竞赛"
+      "adv.試合、竞赛"
     ]
   },
   {
@@ -206,7 +206,7 @@
   {
     "name": "Hang",
     "trans": [
-      "adv.悬挂，吊"
+      "adv.悬挂、吊"
     ]
   },
   {
@@ -272,13 +272,13 @@
   {
     "name": "knife",
     "trans": [
-      "adv.餐刀；刀子"
+      "adv.餐刀; 刀子"
     ]
   },
   {
     "name": "fork",
     "trans": [
-      "adv.餐叉；叉"
+      "adv.餐叉; 叉"
     ]
   },
   {
@@ -308,13 +308,13 @@
   {
     "name": "DVD",
     "trans": [
-      "adv.数字化视频光盘，DVD光盘"
+      "adv.数字化视频光盘、DVD光盘"
     ]
   },
   {
     "name": "together",
     "trans": [
-      "adv.一起，共同"
+      "adv.一起、共同"
     ]
   },
   {
@@ -356,13 +356,13 @@
   {
     "name": "get",
     "trans": [
-      "adv.变得，变成"
+      "adv.变得、变成"
     ]
   },
   {
     "name": "frightened",
     "trans": [
-      "adv.恐惧的，害怕的"
+      "adv.恐惧的、害怕的"
     ]
   },
   {
@@ -380,19 +380,19 @@
   {
     "name": "not really",
     "trans": [
-      "adv.不全是，事实上没有"
+      "adv.不全是、事实上没有"
     ]
   },
   {
     "name": "stop",
     "trans": [
-      "adv.（使）停止"
+      "adv.（使）止める"
     ]
   },
   {
     "name": "clean",
     "trans": [
-      "adv.打扫；（使）清洁"
+      "adv.打扫; （使）清洁"
     ]
   },
   {
@@ -404,7 +404,7 @@
   {
     "name": "show",
     "trans": [
-      "adv.把......给（某人）看"
+      "adv.把......给（誰か）看"
     ]
   },
   {
@@ -416,13 +416,13 @@
   {
     "name": "around",
     "trans": [
-      "adv.在四周，到处"
+      "adv.在四周、到处"
     ]
   },
   {
     "name": "all around",
     "trans": [
-      "adv.到处，遍及"
+      "adv.到处、遍及"
     ]
   },
   {
@@ -434,7 +434,7 @@
   {
     "name": "inside",
     "trans": [
-      "adv.向室内，向里面"
+      "adv.向室内、向里面"
     ]
   },
   {
@@ -446,7 +446,7 @@
   {
     "name": "line",
     "trans": [
-      "adv.(等候的）长队，队列"
+      "adv.(等候的）长队、队列"
     ]
   },
   {
@@ -458,7 +458,7 @@
   {
     "name": "close",
     "trans": [
-      "adv.关门，关闭"
+      "adv.关门、关闭"
     ]
   },
   {
@@ -470,7 +470,7 @@
   {
     "name": "rule",
     "trans": [
-      "adv.规定，规章"
+      "adv.規定、规章"
     ]
   },
   {
@@ -482,7 +482,7 @@
   {
     "name": "problem",
     "trans": [
-      "adv.麻烦，困难，问题"
+      "adv.麻烦、困难、问题"
     ]
   },
   {
@@ -494,7 +494,7 @@
   {
     "name": "cross",
     "trans": [
-      "adv.穿过（马路等）；渡过（河）"
+      "adv.穿过（马路等）; 渡过（河）"
     ]
   }
 ]

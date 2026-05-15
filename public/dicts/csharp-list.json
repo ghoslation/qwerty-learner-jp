@@ -8,7 +8,7 @@
     {
         "name": "Count",
         "trans": [
-            "Count:获取 List<T> 中包含的元素数"
+            "Count:获取 List<T> 中含む的元素数"
         ]
     },
     {
@@ -38,9 +38,9 @@
     {
         "name": "BinarySearch()",
         "trans": [
-            "BinarySearch(T):使用默认的比较器在整个已排序的 List<T> 中搜索元素，并返回该元素从零开始的索引",
+            "BinarySearch(T):使用默认的比较器在整个已排序的 List<T> 中搜索元素、并返回该元素从零始める的索引",
             "BinarySearch(T, IComparer<T>):删除 arraylist 里的单个元素",
-            "BinarySearch(Int32, Int32, T, IComparer<T>):使用指定的比较器在已排序的 List<T> 的某个元素范围中搜索元素，并返回该元素从零开始的索引"
+            "BinarySearch(Int32, Int32, T, IComparer<T>):使用指定的比较器在已排序的 List<T> 的某个元素範囲中搜索元素、并返回该元素从零始める的索引"
         ]
     },
     {
@@ -58,33 +58,33 @@
     {
         "name": "ConvertAll()",
         "trans": [
-            "ConvertAll<TOutput>(Converter<T,TOutput>):将当前 List<T> 中的元素转换为另一种类型，并返回包含已转换元素的列表"
+            "ConvertAll<TOutput>(Converter<T,TOutput>):将当前 List<T> 中的元素转换为另一種類型、并返回含む已转换元素的列表"
         ]
     },
     {
         "name": "CopyTo()",
         "trans": [
-            "CopyTo(T[]):从目标数组的开头开始，将整个 List<T> 复制到兼容的一维数组",
-            "CopyTo(T[], Int32):从目标数组的指定索引处开始，将整个 List<T> 复制到兼容的一维数组",
-            "CopyTo(Int32, T[], Int32, Int32):从目标数组的指定索引处开始，将元素的范围从 List<T> 复制到兼容的一维数组"
+            "CopyTo(T[]):从目標数组的开头始める、将整个 List<T> 复制到兼容的一维数组",
+            "CopyTo(T[], Int32):从目標数组的指定索引处始める、将整个 List<T> 复制到兼容的一维数组",
+            "CopyTo(Int32, T[], Int32, Int32):从目標数组的指定索引处始める、将元素的範囲从 List<T> 复制到兼容的一维数组"
         ]
     },
     {
         "name": "Equals()",
         "trans": [
-            "Equals(Object):确定指定对象是否等于当前对象（继承自 Object）"
+            "Equals(Object):确定指定对象是否に等しい当前对象（继承自 Object）"
         ]
     },
     {
         "name": "Exists()",
         "trans": [
-            "Exists(Predicate<T>):确定 List<T> 是否包含与指定谓词定义的条件匹配的元素"
+            "Exists(Predicate<T>):确定 List<T> 是否含む与指定谓词定义的条件匹配的元素"
         ]
     },
     {
         "name": "Find()",
         "trans": [
-            "Find(Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素，并返回整个 List<T> 中的第一个匹配元素"
+            "Find(Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素、并返回整个 List<T> 中的第一个匹配元素"
         ]
     },
     {
@@ -96,29 +96,29 @@
     {
         "name": "FindIndex()",
         "trans": [
-            "FindIndex(Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素，并返回整个 List<T> 中第一个匹配元素的从零开始的索引",
-            "FindIndex(Int32, Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素，并返回 List<T> 中从指定索引到最后一个元素的元素范围内第一个匹配项的从零开始的索引",
-            "FindIndex(Int32, Int32, Predicate<T>):搜索与指定谓词所定义的条件相匹配的一个元素，并返回 List<T> 中从指定的索引开始、包含指定元素个数的元素范围内第一个匹配项的从零开始的索引"
+            "FindIndex(Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素、并返回整个 List<T> 中第一个匹配元素的从零始める的索引",
+            "FindIndex(Int32, Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素、并返回 List<T> 中从指定索引到最后一个元素的元素範囲内第一个匹配项的从零始める的索引",
+            "FindIndex(Int32, Int32, Predicate<T>):搜索与指定谓词所定义的条件相匹配的一个元素、并返回 List<T> 中从指定的索引始める、含む指定元素个数的元素範囲内第一个匹配项的从零始める的索引"
         ]
     },
     {
         "name": "FindLast()",
         "trans": [
-            "FindLast(Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素，并返回整个 List<T> 中的最后一个匹配元素"
+            "FindLast(Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素、并返回整个 List<T> 中的最后一个匹配元素"
         ]
     },
     {
         "name": "FindLastIndex()",
         "trans": [
-            "FindLastIndex(Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素，并返回整个 List<T> 中最后一个匹配元素的从零开始的索引",
-            "FindLastIndex(Int32, Predicate<T>):搜索与由指定谓词定义的条件相匹配的元素，并返回 List<T> 中从第一个元素到指定索引的元素范围内最后一个匹配项的从零开始的索引",
-            "FindLastIndex(Int32, Int32, Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素，并返回 List<T> 中包含指定元素个数、到指定索引结束的元素范围内最后一个匹配项的从零开始的索引"
+            "FindLastIndex(Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素、并返回整个 List<T> 中最后一个匹配元素的从零始める的索引",
+            "FindLastIndex(Int32, Predicate<T>):搜索与由指定谓词定义的条件相匹配的元素、并返回 List<T> 中从第一个元素到指定索引的元素範囲内最后一个匹配项的从零始める的索引",
+            "FindLastIndex(Int32, Int32, Predicate<T>):搜索与指定谓词所定义的条件相匹配的元素、并返回 List<T> 中含む指定元素个数、到指定索引終わる的元素範囲内最后一个匹配项的从零始める的索引"
         ]
     },
     {
         "name": "ForEach()",
         "trans": [
-            "ForEach(Action<T>):对 List<T> 的每个元素执行指定操作"
+            "ForEach(Action<T>):对 List<T> 的每个元素実行指定操作"
         ]
     },
     {
@@ -136,7 +136,7 @@
     {
         "name": "GetRange()",
         "trans": [
-            "GetRange(Int32, Int32):在源 List<T> 中创建元素范围的浅表复制"
+            "GetRange(Int32, Int32):在源 List<T> 中创建元素範囲的浅表复制"
         ]
     },
     {
@@ -148,9 +148,9 @@
     {
         "name": "IndexOf()",
         "trans": [
-"IndexOf(T):搜索指定的对象，并返回整个 List<T> 中第一个匹配项的从零开始的索引",
-"IndexOf(T, Int32):搜索指定对象并返回 List<T> 中从指定索引到最后一个元素这部分元素中第一个匹配项的从零开始索引",
-"IndexOf(T, Int32, Int32):搜索指定对象并返回 List<T> 中从指定索引开始并包含指定元素数的这部分元素中第一个匹配项的从零开始索引"
+"IndexOf(T):搜索指定的对象、并返回整个 List<T> 中第一个匹配项的从零始める的索引",
+"IndexOf(T, Int32):搜索指定对象并返回 List<T> 中从指定索引到最后一个元素这部分元素中第一个匹配项的从零始める索引",
+"IndexOf(T, Int32, Int32):搜索指定对象并返回 List<T> 中从指定索引始める并含む指定元素数的这部分元素中第一个匹配项的从零始める索引"
         ]
     },
     {
@@ -168,9 +168,9 @@
     {
         "name": "LastIndexOf()",
         "trans": [
-            "LastIndexOf(T):搜索指定对象并返回整个 List<T> 中最后一个匹配项的从零开始索引",
-            "LastIndexOf(T, Int32):搜索指定对象并返回 List<T> 中从第一个元素到指定索引这部分元素中最后一个匹配项的从零开始的索引",
-            "LastIndexOf(T, Int32, Int32):搜索指定对象并返回 List<T> 中到指定索引为止包含指定元素数的这部分元素中最后一个匹配项的从零开始索引"
+            "LastIndexOf(T):搜索指定对象并返回整个 List<T> 中最后一个匹配项的从零始める索引",
+            "LastIndexOf(T, Int32):搜索指定对象并返回 List<T> 中从第一个元素到指定索引这部分元素中最后一个匹配项的从零始める的索引",
+            "LastIndexOf(T, Int32, Int32):搜索指定对象并返回 List<T> 中到指定索引为止含む指定元素数的这部分元素中最后一个匹配项的从零始める索引"
         ]
     },
     {
@@ -196,14 +196,14 @@
     {
         "name": "Reverse()",
         "trans": [
-            "Reverse(Int32, Int32):将指定范围中元素的顺序反转"
+            "Reverse(Int32, Int32):将指定範囲中元素的顺序反转"
         ]
     },
     {
         "name": "Sort()",
         "trans": [
             "Sort():使用默认比较器对整个 List<T> 中的元素进行排序",
-            "Sort(Comparison<T>):使用指定的 Comparison<T>，对整个 List<T> 中的元素进行排序",
+            "Sort(Comparison<T>):使用指定的 Comparison<T>、对整个 List<T> 中的元素进行排序",
             "Sort(IComparer<T>):使用指定的比较器对整个 List<T> 中的元素进行排序"
         ]
     },
@@ -216,7 +216,7 @@
     {
         "name": "ToString()",
         "trans": [
-            "返回表示当前对象的字符串（继承自 Object）"
+            "返回表す当前对象的字符串（继承自 Object）"
         ]
     },
     {

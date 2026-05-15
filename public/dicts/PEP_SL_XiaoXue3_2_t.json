@@ -59,7 +59,7 @@
     {
         "name": "computer class",
         "trans": [
-            "计算机课"
+            "コンピュータ课"
         ],
         "usphone": "kəmˈpjuːtər klæs",
         "ukphone": "kəmˈpjuːtə klɑːs"
@@ -75,7 +75,7 @@
     {
         "name": "that",
         "trans": [
-            "那，那个"
+            "那、那个"
         ],
         "usphone": "ðæt",
         "ukphone": "ðæt"
@@ -99,7 +99,7 @@
     {
         "name": "toilet",
         "trans": [
-            "厕所，洗手间"
+            "厕所、洗手间"
         ],
         "usphone": "ˈtɔɪlət",
         "ukphone": "ˈtɔɪlət"
@@ -107,7 +107,7 @@
     {
         "name": "playground",
         "trans": [
-            "操场，运动场"
+            "操场、運動场"
         ],
         "usphone": "ˈpleɪˌɡraʊnd",
         "ukphone": "ˈpleɪɡraʊnd"
@@ -179,7 +179,7 @@
     {
         "name": "desk",
         "trans": [
-            "书桌；写字台"
+            "书桌; 写字台"
         ],
         "usphone": "dɛsk",
         "ukphone": "dɛsk"
@@ -203,7 +203,7 @@
     {
         "name": "play sports",
         "trans": [
-            "做运动"
+            "做運動"
         ],
         "usphone": "pleɪ ˈspɔrts",
         "ukphone": "pleɪ ˈspɔːts"
@@ -339,7 +339,7 @@
     {
         "name": "uncle",
         "trans": [
-            "姑父；伯父；舅父；叔叔"
+            "姑父; 伯父; 舅父; 叔叔"
         ],
         "usphone": "ˈʌŋkəl",
         "ukphone": "ˈʌŋkl̩"
@@ -347,7 +347,7 @@
     {
         "name": "aunt",
         "trans": [
-            "姑母；伯母；舅妈；阿姨"
+            "姑母; 伯母; 舅妈; 阿姨"
         ],
         "usphone": "ænt",
         "ukphone": "ɑːnt"
@@ -355,7 +355,7 @@
     {
         "name": "cousin",
         "trans": [
-            "堂（或表）兄弟；堂（或表）姐妹"
+            "堂（或表）兄弟; 堂（或表）姐妹"
         ],
         "usphone": "ˈkʌzn",
         "ukphone": "ˈkʌzn"
@@ -403,7 +403,7 @@
     {
         "name": "OK",
         "trans": [
-            "好的；行"
+            "好的; 行"
         ],
         "usphone": "ˌoʊˈkeɪ",
         "ukphone": "ɒˈkeɪ"
@@ -411,7 +411,7 @@
     {
         "name": "much",
         "trans": [
-            "很多地；非常"
+            "很多地; 非常に"
         ],
         "usphone": "mʌtʃ",
         "ukphone": "mʌtʃ"
@@ -443,7 +443,7 @@
     {
         "name": "father",
         "trans": [
-            "父亲；爸爸"
+            "父亲; 爸爸"
         ],
         "usphone": "ˈfɑðər",
         "ukphone": "ˈfɑːðər"
@@ -451,7 +451,7 @@
     {
         "name": "mother",
         "trans": [
-            "母亲；妈妈"
+            "母亲; 妈妈"
         ],
         "usphone": "ˈmʌðər",
         "ukphone": "ˈmʌðər"
@@ -459,7 +459,7 @@
     {
         "name": "brother",
         "trans": [
-            "兄；弟"
+            "兄; 弟"
         ],
         "usphone": "ˈbrʌðər",
         "ukphone": "ˈbrʌðər"
@@ -467,7 +467,7 @@
     {
         "name": "sister",
         "trans": [
-            "姐；妹"
+            "姐; 妹"
         ],
         "usphone": "ˈsɪstər",
         "ukphone": "ˈsɪstər"
@@ -547,7 +547,7 @@
     {
         "name": "everyone",
         "trans": [
-            "每人，人人"
+            "每人、人人"
         ],
         "usphone": "ˈɛvrɪˌwʌn",
         "ukphone": "ˈevrɪˌwʌn"
@@ -571,7 +571,7 @@
     {
         "name": "home",
         "trans": [
-            "家；家庭"
+            "家; 家庭"
         ],
         "usphone": "hoʊm",
         "ukphone": "həʊm"
@@ -643,7 +643,7 @@
         {
             "name": "light",
             "trans": [
-                "灯；发光体"
+                "灯; 发光体"
             ],
             "usphone": "laɪt",
             "ukphone": "laɪt"
@@ -651,7 +651,7 @@
         {
             "name": "bed",
             "trans": [
-                "床；床架；床垫"
+                "床; 床架; 床垫"
             ],
             "usphone": "bɛd",
             "ukphone": "bɛd"
@@ -659,7 +659,7 @@
         {
             "name": "door",
             "trans": [
-                "门；出入口"
+                "门; 出入口"
             ],
             "usphone": "dɔr",
             "ukphone": "dɔːr"
@@ -667,7 +667,7 @@
         {
             "name": "box",
             "trans": [
-                "箱子；盒子"
+                "箱子; 盒子"
             ],
             "usphone": "bɑks",
             "ukphone": "bɒks"

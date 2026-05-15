@@ -58,7 +58,7 @@
     {
         "name": "computer",
         "trans": [
-            "计算机"
+            "コンピュータ"
         ],
         "usphone": "kəm'pjutɚ",
         "ukphone": "kəm'pjuːtə"
@@ -122,7 +122,7 @@
     {
         "name": "help",
         "trans": [
-            "帮助"
+            "助ける"
         ],
         "usphone": "hɛlp",
         "ukphone": "help"
@@ -218,7 +218,7 @@
     {
         "name": "so much",
         "trans": [
-            "非常地"
+            "非常に地"
         ],
         "usphone": "",
         "ukphone": ""
@@ -650,7 +650,7 @@
     {
         "name": "football player",
         "trans": [
-            "足球运动员"
+            "足球運動员"
         ],
         "usphone": "",
         "ukphone": ""
@@ -658,7 +658,7 @@
     {
         "name": "job",
         "trans": [
-            "工作"
+            "仕事"
         ],
         "usphone": "",
         "ukphone": "dʒɒb"

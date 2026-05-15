@@ -282,7 +282,7 @@
     {
         "name": "surroundings",
         "trans": [
-            "环境"
+            "環境"
         ],
         "ukphone": "səˈraʊndɪŋz",
         "usphone": "səˈraʊndɪŋz"
@@ -1018,7 +1018,7 @@
     {
         "name": "decorate",
         "trans": [
-            "装饰"
+            "装飾"
         ],
         "ukphone": "ˈdɛkəreɪt",
         "usphone": "ˈdɛkəˌreɪt"
@@ -1706,7 +1706,7 @@
     {
         "name": "schedule",
         "trans": [
-            "时间表"
+            "時間表"
         ],
         "ukphone": "ˈʃɛdjuːl",
         "usphone": "ˈskɛʤʊl"
@@ -1746,7 +1746,7 @@
     {
         "name": "commence the tour",
         "trans": [
-            "开始旅行"
+            "始める旅行"
         ],
         "ukphone": "kəˈmɛns ðə tʊə",
         "usphone": "kəˈmɛns ðə tʊr"
@@ -1850,7 +1850,7 @@
     {
         "name": "non-open time",
         "trans": [
-            "非对外开放时间"
+            "非对外开放時間"
         ],
         "ukphone": "nɒn-ˈəʊpᵊn taɪm",
         "usphone": "nɑn-ˈoʊpən taɪm"
@@ -2122,7 +2122,7 @@
     {
         "name": "tissue",
         "trans": [
-            "组织"
+            "組織"
         ],
         "ukphone": "ˈtɪʃuː",
         "usphone": "ˈtɪsˌju"
@@ -2218,7 +2218,7 @@
     {
         "name": "weight training",
         "trans": [
-            "力量性训练"
+            "力量性訓練"
         ],
         "ukphone": "weɪt ˈtreɪnɪŋ",
         "usphone": "weɪt ˈtreɪnɪŋ"
@@ -2410,7 +2410,7 @@
     {
         "name": "athlete",
         "trans": [
-            "运动员"
+            "運動员"
         ],
         "ukphone": "ˈæθliːt",
         "usphone": "ˈæˌθlit"
@@ -2546,7 +2546,7 @@
     {
         "name": "optic examination",
         "trans": [
-            "视力检查"
+            "视力検査"
         ],
         "ukphone": "ˈɒptɪk ɪɡˌzæmɪˈneɪʃᵊn",
         "usphone": "ˈɑptɪk ɪɡˌzæməˈneɪʃən"
@@ -2786,7 +2786,7 @@
     {
         "name": "life expectancy",
         "trans": [
-            "估计寿命"
+            "推定寿命"
         ],
         "ukphone": "laɪf ɪkˈspɛktᵊnsi",
         "usphone": "laɪf ɪkˈspɛktənsi"
@@ -3146,7 +3146,7 @@
     {
         "name": "ATM",
         "trans": [
-            "自动取款机"
+            "自動詞取款机"
         ],
         "ukphone": "eɪ-tiː-ɛm",
         "usphone": "eɪ-ti-ɛm"
@@ -3330,7 +3330,7 @@
     {
         "name": "vending machine",
         "trans": [
-            "自动售货机"
+            "自動詞售货机"
         ],
         "ukphone": "ˈvɛndɪŋ məˈʃiːn",
         "usphone": "ˈvɛndɪŋ məˈʃin"
@@ -4002,7 +4002,7 @@
     {
         "name": "register",
         "trans": [
-            "登记，报到"
+            "登记、报到"
         ],
         "ukphone": "ˈrɛʤɪstə",
         "usphone": "ˈrɛʤɪstər"
@@ -4010,7 +4010,7 @@
     {
         "name": "enroll",
         "trans": [
-            "登记，报到"
+            "登记、报到"
         ],
         "ukphone": "ɪnˈrəʊl",
         "usphone": "ɛnˈroʊl"
@@ -4074,7 +4074,7 @@
     {
         "name": "mark",
         "trans": [
-            "分数，成绩"
+            "分数、成绩"
         ],
         "ukphone": "mɑːk",
         "usphone": "mɑrk"
@@ -4082,7 +4082,7 @@
     {
         "name": "score",
         "trans": [
-            "分数，成绩"
+            "分数、成绩"
         ],
         "ukphone": "skɔː",
         "usphone": "skɔr"
@@ -4090,7 +4090,7 @@
     {
         "name": "grade",
         "trans": [
-            "分数，成绩"
+            "分数、成绩"
         ],
         "ukphone": "ɡreɪd",
         "usphone": "ɡreɪd"
@@ -4210,7 +4210,7 @@
     {
         "name": "office hour",
         "trans": [
-            "（教授与学生）面谈的时间"
+            "（教授与学生）面谈的時間"
         ],
         "ukphone": "ˈɒfɪs ˈaʊə",
         "usphone": "ˈɔfəs ˈaʊər"
@@ -4594,7 +4594,7 @@
     {
         "name": "dean",
         "trans": [
-            "学校分院长，系主任"
+            "学校分院长、系主任"
         ],
         "ukphone": "diːn",
         "usphone": "din"
@@ -4674,7 +4674,7 @@
     {
         "name": "career advisor",
         "trans": [
-            "职业指导官"
+            "職業指导官"
         ],
         "ukphone": "kəˈrɪər ədˈvaɪzə",
         "usphone": "kəˈrɪr ædˈvaɪzər"
@@ -4682,7 +4682,7 @@
     {
         "name": "presentation",
         "trans": [
-            "课上口头表达"
+            "课上口头表現"
         ],
         "ukphone": "ˌprɛzᵊnˈteɪʃᵊn",
         "usphone": "ˌprɛzənˈteɪʃən"
@@ -5002,7 +5002,7 @@
     {
         "name": "course arrangement",
         "trans": [
-            "课程安排"
+            "课程手配"
         ],
         "ukphone": "kɔːs əˈreɪnʤmənt",
         "usphone": "kɔrs əˈreɪnʤmənt"
@@ -5946,7 +5946,7 @@
     {
         "name": "lab rules",
         "trans": [
-            "计算机室规程"
+            "コンピュータ室规程"
         ],
         "ukphone": "læb ruːlz",
         "usphone": "læb rulz"
@@ -5978,7 +5978,7 @@
     {
         "name": "Macintosh",
         "trans": [
-            "苹果计算机"
+            "苹果コンピュータ"
         ],
         "ukphone": "ˈmækɪntɒʃ",
         "usphone": "ˈmækənˌtɔʃ"
@@ -6106,7 +6106,7 @@
     {
         "name": "word processing",
         "trans": [
-            "文字／数据处理"
+            "文字／数据処理"
         ],
         "ukphone": "wɜːd ˈprəʊsɛsɪŋ",
         "usphone": "wɜrd ˈprɑsɛsɪŋ"
@@ -6114,7 +6114,7 @@
     {
         "name": "data processing",
         "trans": [
-            "文字／数据处理"
+            "文字／数据処理"
         ],
         "ukphone": "ˈdeɪtə ˈprəʊsɛsɪŋ",
         "usphone": "ˈdeɪtə ˈprɑsɛsɪŋ"
@@ -6266,7 +6266,7 @@
     {
         "name": "poll",
         "trans": [
-            "民意调查"
+            "民意調査"
         ],
         "ukphone": "pəʊl",
         "usphone": "poʊl"
@@ -6274,7 +6274,7 @@
     {
         "name": "survey",
         "trans": [
-            "调查"
+            "調査"
         ],
         "ukphone": "ˈsɜːveɪ",
         "usphone": "ˈsɜrˌveɪ"
@@ -6290,7 +6290,7 @@
     {
         "name": "questionnaire",
         "trans": [
-            "调查问卷"
+            "調査问卷"
         ],
         "ukphone": "ˌkwɛstɪəˈneə",
         "usphone": "ˌkwɛsʧəˈnɛr"
@@ -6298,7 +6298,7 @@
     {
         "name": "case study",
         "trans": [
-            "案例调查"
+            "案例調査"
         ],
         "ukphone": "keɪs ˈstʌdi",
         "usphone": "keɪs ˈstʌdi"
@@ -6362,7 +6362,7 @@
     {
         "name": "investigation",
         "trans": [
-            "调查"
+            "調査"
         ],
         "ukphone": "ɪnˌvɛstɪˈɡeɪʃᵊn",
         "usphone": "ɪnˌvɛstəˈɡeɪʃən"
@@ -6402,7 +6402,7 @@
     {
         "name": "respondent",
         "trans": [
-            "被调查者"
+            "被調査者"
         ],
         "ukphone": "rɪˈspɒndᵊnt",
         "usphone": "rɪˈspɑndənt"
@@ -6410,7 +6410,7 @@
     {
         "name": "interviewee",
         "trans": [
-            "被调查者"
+            "被調査者"
         ],
         "ukphone": "ˌɪntəvjuˈiː",
         "usphone": "ɪntərvjuˈi"
@@ -6418,7 +6418,7 @@
     {
         "name": "multiple choice questions",
         "trans": [
-            "选择题"
+            "選択题"
         ],
         "ukphone": "ˈmʌltɪpᵊl ʧɔɪs ˈkwɛsʧənz",
         "usphone": "ˈmʌltəpəl ʧɔɪs ˈkwɛsʧənz"
@@ -6426,7 +6426,7 @@
     {
         "name": "results",
         "trans": [
-            "结果"
+            "結果"
         ],
         "ukphone": "rɪˈzʌlts",
         "usphone": "rɪˈzʌlts"
@@ -6442,7 +6442,7 @@
     {
         "name": "interpretation",
         "trans": [
-            "解释／阐释"
+            "解釈／阐释"
         ],
         "ukphone": "ɪnˌtɜːprəˈteɪʃᵊn",
         "usphone": "ɪnˌtɜrprɪˈteɪʃən"
@@ -6610,7 +6610,7 @@
     {
         "name": "Aztec",
         "trans": [
-            "阿斯台克人，阿斯台克语"
+            "阿斯台克人、阿斯台克语"
         ],
         "ukphone": "ˈæztɛk",
         "usphone": "ˈæzˌtɛk"
@@ -6738,7 +6738,7 @@
     {
         "name": "processing",
         "trans": [
-            "处理"
+            "処理"
         ],
         "ukphone": "ˈprəʊsɛsɪŋ",
         "usphone": "ˈprɑsɛsɪŋ"
@@ -6746,7 +6746,7 @@
     {
         "name": "environment",
         "trans": [
-            "环境"
+            "環境"
         ],
         "ukphone": "ɪnˈvaɪərənmənt",
         "usphone": "ɪnˈvaɪrənmənt"
@@ -7218,7 +7218,7 @@
     {
         "name": "documentary",
         "trans": [
-            "记录片"
+            "記録片"
         ],
         "ukphone": "ˌdɒkjəˈmɛntᵊri",
         "usphone": "ˌdɑkjəˈmɛntəri"
@@ -7618,7 +7618,7 @@
     {
         "name": "sweater",
         "trans": [
-            "套头衫／运动衫"
+            "套头衫／運動衫"
         ],
         "ukphone": "ˈswɛtə",
         "usphone": "ˈswɛtər"
@@ -8666,7 +8666,7 @@
     {
         "name": "full-time job",
         "trans": [
-            "全职工作"
+            "全职仕事"
         ],
         "ukphone": "fʊl-taɪm ʤɒb",
         "usphone": "fʊl-taɪm ʤɑb"
@@ -8674,7 +8674,7 @@
     {
         "name": "part-time job",
         "trans": [
-            "兼职工作"
+            "兼职仕事"
         ],
         "ukphone": "pɑːt-taɪm ʤɒb",
         "usphone": "ˈpɑrtˈtaɪm ʤɑb"
@@ -8970,7 +8970,7 @@
     {
         "name": "pelican crossing",
         "trans": [
-            "交通指挥灯由行人控制的人行横道"
+            "交通指挥灯由行人制御的人行横道"
         ],
         "ukphone": "ˈpɛlɪkᵊn ˈkrɒsɪŋ",
         "usphone": "ˈpɛləkən ˈkrɔsɪŋ"
@@ -9114,7 +9114,7 @@
     {
         "name": "go on",
         "trans": [
-            "沿......一直走，直到......"
+            "沿......一直走、直到......"
         ],
         "ukphone": "ɡəʊ ɒn",
         "usphone": "ɡoʊ ɑn"
@@ -9122,7 +9122,7 @@
     {
         "name": "along...till...",
         "trans": [
-            "沿......一直走，直到......"
+            "沿......一直走、直到......"
         ],
         "ukphone": "əˈlɒŋ...tɪl...",
         "usphone": "əˈlɔŋ...tɪl..."

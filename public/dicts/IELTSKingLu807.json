@@ -2,7 +2,7 @@
     {
         "name": "discipline",
         "trans": [
-            "n.纪律;训练;惩戒;学科;科目v.训练;约束自己;惩罚;"
+            "n.纪律;訓練;惩戒;学科;科目v.訓練;约束自己;惩罚;"
         ],
         "usphone": "[ˈdɪsəplɪn]",
         "ukphone": "[ˈdɪsəplɪn]"
@@ -42,7 +42,7 @@
     {
         "name": "mining",
         "trans": [
-            "n.采矿;采矿业v.采矿;埋地雷;“mine”的现在分词;"
+            "n.采矿;采矿业v.采矿;埋地雷;“mine”の現在分詞;"
         ],
         "usphone": "[ˈmaɪnɪŋ]",
         "ukphone": "[ˈmaɪnɪŋ]"
@@ -50,7 +50,7 @@
     {
         "name": "physical",
         "trans": [
-            "adj.身体的;外观的;物质的;物理的n.体格检查;"
+            "adj.身体的;外观的;物质的;物理的n.体格検査;"
         ],
         "usphone": "[ˈfɪzɪkl]",
         "ukphone": "[ˈfɪzɪk(ə)l]"
@@ -114,7 +114,7 @@
     {
         "name": "photojournalism",
         "trans": [
-            "n.摄影新闻（工作）;摄影图片报道;"
+            "n.摄影新闻（仕事）;摄影图片报道;"
         ],
         "usphone": "[ˌfoʊtoʊˈdʒɜːrnəlɪzəm]",
         "ukphone": "[ˌfəʊtəʊˈdʒɜːnəlɪzəm]"
@@ -138,7 +138,7 @@
     {
         "name": "media",
         "trans": [
-            "n.媒介;媒体;“medium”的复数;"
+            "n.媒介;媒体;“medium”の複数形;"
         ],
         "usphone": "[ˈmiːdiə]",
         "ukphone": "[ˈmiːdiə]"
@@ -154,7 +154,7 @@
     {
         "name": "applied",
         "trans": [
-            "adj.应用的;实用的v.申请;应用;适用;“apply”的过去式和过去分词;"
+            "adj.应用的;实用的v.申请;应用;适用;“apply”の過去形和过去分词;"
         ],
         "usphone": "[əˈplaɪd]",
         "ukphone": "[əˈplaɪd]"
@@ -162,7 +162,7 @@
     {
         "name": "environment",
         "trans": [
-            "n.环境;"
+            "n.環境;"
         ],
         "usphone": "[ɪnˈvaɪrənmənt]",
         "ukphone": "[ɪnˈvaɪrənmənt]"
@@ -202,7 +202,7 @@
     {
         "name": "accountancy",
         "trans": [
-            "n.会计工作;会计职业;"
+            "n.会计仕事;会计職業;"
         ],
         "usphone": "[əˈkaʊntənsi]",
         "ukphone": "[əˈkaʊntənsi]"
@@ -218,7 +218,7 @@
     {
         "name": "computer",
         "trans": [
-            "n.计算机;电脑;"
+            "n.コンピュータ;电脑;"
         ],
         "usphone": "[kəmˈpjuːtər]",
         "ukphone": "[kəmˈpjuːtə(r)]"
@@ -250,7 +250,7 @@
     {
         "name": "architecture",
         "trans": [
-            "n.体系结构;建筑学;建筑设计;"
+            "n.体系结构;建筑学;建筑設計;"
         ],
         "usphone": "[ˈɑːrkɪtektʃər]",
         "ukphone": "[ˈɑːkɪtektʃə(r)]"
@@ -290,7 +290,7 @@
     {
         "name": "banking",
         "trans": [
-            "n.银行业;银行业务v.堆积;开户;将（钱）存入银行;“bank”的现在分词;"
+            "n.银行业;银行业务v.堆积;开户;将（钱）存入银行;“bank”の現在分詞;"
         ],
         "usphone": "[ˈbæŋkɪŋ]",
         "ukphone": "[ˈbæŋkɪŋ]"
@@ -298,7 +298,7 @@
     {
         "name": "orientation",
         "trans": [
-            "n.方向;定位;取向;岗前训练;入学介绍;"
+            "n.方向;定位;取向;岗前訓練;入学介绍;"
         ],
         "usphone": "[ˌɔːriənˈteɪʃn]",
         "ukphone": "[ˌɔːriənˈteɪʃ(ə)n]"
@@ -362,7 +362,7 @@
     {
         "name": "session",
         "trans": [
-            "n.会议;会期;开庭;学期;一段时间;"
+            "n.会议;会期;开庭;学期;一段時間;"
         ],
         "usphone": "[ˈseʃn]",
         "ukphone": "[ˈseʃ(ə)n]"
@@ -378,7 +378,7 @@
     {
         "name": "test",
         "trans": [
-            "v.试验;测试n.试验;测验;"
+            "v.試験;测试n.試験;测验;"
         ],
         "usphone": "[test]",
         "ukphone": "[test]"
@@ -450,7 +450,7 @@
     {
         "name": "assessment",
         "trans": [
-            "n.评估;评定;估计;"
+            "n.评估;评定;推定;"
         ],
         "usphone": "[əˈsesmənt]",
         "ukphone": "[əˈsesmənt]"
@@ -474,7 +474,7 @@
     {
         "name": "failure",
         "trans": [
-            "n.失败;"
+            "n.失敗;"
         ],
         "usphone": "[ˈfeɪljər]",
         "ukphone": "[ˈfeɪljə(r)]"
@@ -506,7 +506,7 @@
     {
         "name": "record",
         "trans": [
-            "n.记录;唱片v.记录;录制;"
+            "n.記録;唱片v.記録;录制;"
         ],
         "usphone": "[ˈrekərd; rɪˈkɔːrd]",
         "ukphone": "[ˈrekɔːd; rɪˈkɔːd]"
@@ -522,7 +522,7 @@
     {
         "name": "note",
         "trans": [
-            "n.笔记;便条;注释;音调;语气;钞票v.注意;备注;记录;"
+            "n.笔记;便条;注释;音调;语气;钞票v.注意;备注;記録;"
         ],
         "usphone": "[noʊt]",
         "ukphone": "[nəʊt]"
@@ -530,7 +530,7 @@
     {
         "name": "rate",
         "trans": [
-            "n.比率;率;速度;进度;价格;费用;地方税;等级v.估价;值得;定级;（被）认为;被评价;"
+            "n.比率;率;速度;进度;价格;费用;地方税;等级v.評価;值得;定级;（被）考える;被評価;"
         ],
         "usphone": "[reɪt]",
         "ukphone": "[reɪt]"
@@ -578,7 +578,7 @@
     {
         "name": "goal",
         "trans": [
-            "n.目标;进球得分;球门;"
+            "n.目標;进球得分;球门;"
         ],
         "usphone": "[ɡoʊl]",
         "ukphone": "[ɡəʊl]"
@@ -618,7 +618,7 @@
     {
         "name": "beginning",
         "trans": [
-            "n.开头;开端v.开始;着手;“begin”的现在分词;"
+            "n.开头;开端v.始める;着手;“begin”の現在分詞;"
         ],
         "usphone": "[bɪˈɡɪnɪŋ]",
         "ukphone": "[bɪˈɡɪnɪŋ]"
@@ -634,7 +634,7 @@
     {
         "name": "fundamental",
         "trans": [
-            "adj.基本的;基础的;根本的n.基本原则;基本原理;"
+            "adj.基本的な;基础的;根本的n.基本原则;基本原理;"
         ],
         "usphone": "[ˌfʌndəˈmentl]",
         "ukphone": "[ˌfʌndəˈment(ə)l]"
@@ -642,7 +642,7 @@
     {
         "name": "elementary",
         "trans": [
-            "adj.基本的;初级的;"
+            "adj.基本的な;初级的;"
         ],
         "usphone": "[ˌelɪˈmentri]",
         "ukphone": "[ˌelɪˈmentri]"
@@ -650,7 +650,7 @@
     {
         "name": "advanced",
         "trans": [
-            "adj.先进的;高级的v.前进;提前;“advance”的过去式和过去分词;"
+            "adj.先进的;高级的v.前進;提前;“advance”の過去形和过去分词;"
         ],
         "usphone": "[ədˈvænst]",
         "ukphone": "[ədˈvɑːnst]"
@@ -674,7 +674,7 @@
     {
         "name": "stress",
         "trans": [
-            "n.压力;紧张;强调;重音v.着重;强调;"
+            "n.压力;紧张;強調;重音v.着重;強調;"
         ],
         "usphone": "[stres]",
         "ukphone": "[stres]"
@@ -690,7 +690,7 @@
     {
         "name": "surroundings",
         "trans": [
-            "n.环境;围绕物;“surrounding”的复数;"
+            "n.環境;围绕物;“surrounding”の複数形;"
         ],
         "usphone": "[səˈraʊndɪŋz]",
         "ukphone": "[səˈraʊndɪŋz]"
@@ -714,7 +714,7 @@
     {
         "name": "make plans",
         "trans": [
-            "[短语]制定计划;"
+            "[短语]制定計画;"
         ],
         "usphone": "",
         "ukphone": ""
@@ -754,7 +754,7 @@
     {
         "name": "recording",
         "trans": [
-            "n.唱片;录音带;录音;录制adj.记录的;录音的v.记录;录制;“record”的现在分词;"
+            "n.唱片;录音带;录音;录制adj.記録的;录音的v.記録;录制;“record”の現在分詞;"
         ],
         "usphone": "[rɪˈkɔːrdɪŋ]",
         "ukphone": "[rɪˈkɔːdɪŋ]"
@@ -778,7 +778,7 @@
     {
         "name": "cramming",
         "trans": [
-            "n.填鸭式的学习（教法）;塞满v.塞满;填鸭式学习;“cram”的现在分词;"
+            "n.填鸭式的学习（教法）;塞满v.塞满;填鸭式学习;“cram”の現在分詞;"
         ],
         "usphone": "[ˈkræmɪŋ]",
         "ukphone": "[ˈkræmɪŋ]"
@@ -810,7 +810,7 @@
     {
         "name": "examination",
         "trans": [
-            "n.考试;检查;审查;"
+            "n.考试;検査;审查;"
         ],
         "usphone": "[ɪɡˌzæmɪˈneɪʃn]",
         "ukphone": "[ɪɡˌzæmɪˈneɪʃ(ə)n]"
@@ -842,7 +842,7 @@
     {
         "name": "teaching",
         "trans": [
-            "n.教学;授课;教导v.教;教导;“teach”的现在分词;"
+            "n.教学;授课;教导v.教;教导;“teach”の現在分詞;"
         ],
         "usphone": "[ˈtiːtʃɪŋ]",
         "ukphone": "[ˈtiːtʃɪŋ]"
@@ -938,7 +938,7 @@
     {
         "name": "adviser",
         "trans": [
-            "n.顾问;提供意见者;"
+            "n.顾问;提供意見者;"
         ],
         "usphone": "[ədˈvaɪzər]",
         "ukphone": "[ədˈvaɪzə(r)]"
@@ -1010,7 +1010,7 @@
     {
         "name": "content",
         "trans": [
-            "n.内容;含量;目录adj.满足的v.使满意;"
+            "n.内容;含量;目录adj.満たす的v.使满意;"
         ],
         "usphone": "[ˈkɑːntent; kənˈtent]",
         "ukphone": "[ˈkɒntent]"
@@ -1026,7 +1026,7 @@
     {
         "name": "project",
         "trans": [
-            "n.计划;方案;项目;课题v.预计;计划;投射;突出;"
+            "n.計画;方案;项目;课题v.预计;計画;投射;突出;"
         ],
         "usphone": "[ˈprɑːdʒekt]",
         "ukphone": "[ˈprɒdʒekt]"
@@ -1042,7 +1042,7 @@
     {
         "name": "extensive",
         "trans": [
-            "adj.广大的;广阔的;广泛的;大量的;"
+            "adj.广大的;广阔的;广泛的;大量の;"
         ],
         "usphone": "[ɪkˈstensɪv]",
         "ukphone": "[ɪkˈstensɪv]"
@@ -1058,7 +1058,7 @@
     {
         "name": "survey",
         "trans": [
-            "v.调查;勘测n.调查;勘测;"
+            "v.調査;勘测n.調査;勘测;"
         ],
         "usphone": "[ˈsɜːrveɪ]",
         "ukphone": "[ˈsɜːveɪ]"
@@ -1066,7 +1066,7 @@
     {
         "name": "research",
         "trans": [
-            "n.研究;探索;调查v.研究;调查;探讨;"
+            "n.研究;探索;調査v.研究;調査;探讨;"
         ],
         "usphone": "[ˈriːsɜːrtʃ; rɪˈsɜːrtʃ; rɪˈsərtʃ; ˈriːsərtʃ]",
         "ukphone": "[rɪˈsɜːtʃ; ˈriːsɜːtʃ]"
@@ -1074,7 +1074,7 @@
     {
         "name": "reading",
         "trans": [
-            "n.阅读;读物v.读;“read”的现在分词;"
+            "n.阅读;读物v.读;“read”の現在分詞;"
         ],
         "usphone": "[ˈriːdɪŋ]",
         "ukphone": "[ˈriːdɪŋ]"
@@ -1106,7 +1106,7 @@
     {
         "name": "well-organized",
         "trans": [
-            "adj.组织良好的;"
+            "adj.組織良好的;"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1122,7 +1122,7 @@
     {
         "name": "questionnaire",
         "trans": [
-            "n.调查问卷;调查表;"
+            "n.調査问卷;調査表;"
         ],
         "usphone": "[ˌkwestʃəˈner]",
         "ukphone": "[ˌkwestʃəˈneə(r)]"
@@ -1210,7 +1210,7 @@
     {
         "name": "training",
         "trans": [
-            "n.训练;培训;锻炼v.训练;培训;“train”的现在分词;"
+            "n.訓練;培训;锻炼v.訓練;培训;“train”の現在分詞;"
         ],
         "usphone": "[ˈtreɪnɪŋ]",
         "ukphone": "[ˈtreɪnɪŋ]"
@@ -1226,7 +1226,7 @@
     {
         "name": "printing",
         "trans": [
-            "n.印刷;印刷术v.打印;印刷;“print”的现在分词;"
+            "n.印刷;印刷术v.打印;印刷;“print”の現在分詞;"
         ],
         "usphone": "[ˈprɪntɪŋ]",
         "ukphone": "[ˈprɪntɪŋ]"
@@ -1250,7 +1250,7 @@
     {
         "name": "case study",
         "trans": [
-            "[短语]个案研究;案例分析;调查研究;"
+            "[短语]个案研究;案例分析;調査研究;"
         ],
         "usphone": "[ˈkeɪs stʌdi]",
         "ukphone": "[ˈkeɪs stʌdi]"
@@ -1282,7 +1282,7 @@
     {
         "name": "approach",
         "trans": [
-            "v.接近;靠近;临近;处理n.方法;接近;靠近;路径;"
+            "v.近づく;靠近;临近;処理n.方法;近づく;靠近;路径;"
         ],
         "usphone": "[əˈproʊtʃ]",
         "ukphone": "[əˈprəʊtʃ]"
@@ -1306,7 +1306,7 @@
     {
         "name": "aid",
         "trans": [
-            "v.帮助;协助n.帮助;援助;"
+            "v.助ける;协助n.助ける;援助;"
         ],
         "usphone": "[eɪd]",
         "ukphone": "[eɪd]"
@@ -1322,7 +1322,7 @@
     {
         "name": "objective",
         "trans": [
-            "n.目标;目的adj.客观的;"
+            "n.目標;目的adj.客观的;"
         ],
         "usphone": "[əbˈdʒektɪv]",
         "ukphone": "[əbˈdʒektɪv]"
@@ -1338,7 +1338,7 @@
     {
         "name": "finding",
         "trans": [
-            "n.裁决;调查发现v.找到;发现;“find”的现在分词;"
+            "n.裁决;調査発見v.找到;発見;“find”の現在分詞;"
         ],
         "usphone": "[ˈfaɪndɪŋ]",
         "ukphone": "[ˈfaɪndɪŋ]"
@@ -1354,7 +1354,7 @@
     {
         "name": "heading",
         "trans": [
-            "n.标题v.前进;朝向;“head”的现在分词;"
+            "n.标题v.前進;朝向;“head”の現在分詞;"
         ],
         "usphone": "[ˈhedɪŋ]",
         "ukphone": "[ˈhedɪŋ]"
@@ -1362,7 +1362,7 @@
     {
         "name": "subtitle",
         "trans": [
-            "n.副标题;说明或对白的字幕v.给...加副标题;给...加字幕;"
+            "n.副标题;説明或对白的字幕v.给...加副标题;给...加字幕;"
         ],
         "usphone": "[ˈsʌbtaɪtl]",
         "ukphone": "[ˈsʌbtaɪtl]"
@@ -1370,7 +1370,7 @@
     {
         "name": "observation",
         "trans": [
-            "n.观察;观测;注意;监视;（观察后的）意见;"
+            "n.观察;观测;注意;监视;（观察后的）意見;"
         ],
         "usphone": "[ˌɑːbzərˈveɪʃ(ə)n]",
         "ukphone": "[ˌɒbzəˈveɪʃ(ə)n]"
@@ -1426,7 +1426,7 @@
     {
         "name": "review",
         "trans": [
-            "n.回顾;复习;审查;评论v.回顾;复习;审核;评论;"
+            "n.回顾;复习;审查;コメントv.回顾;复习;审核;コメント;"
         ],
         "usphone": "[rɪˈvjuː]",
         "ukphone": "[rɪˈvjuː]"
@@ -1466,7 +1466,7 @@
     {
         "name": "renewal",
         "trans": [
-            "n.更新;复兴;续订;恢复;"
+            "n.更新;复兴;续订;回復;"
         ],
         "usphone": "[rɪˈnuːəl]",
         "ukphone": "[rɪˈnjuːəl]"
@@ -1538,7 +1538,7 @@
     {
         "name": "reserve",
         "trans": [
-            "v.保留;储备;预订n.储备;保留;保护区;候补;"
+            "v.保留;储备;预订n.储备;保留;保護区;候补;"
         ],
         "usphone": "[rɪˈzɜːrv]",
         "ukphone": "[rɪˈzɜːv]"
@@ -1570,7 +1570,7 @@
     {
         "name": "check out",
         "trans": [
-            "[短语]付账后离开;核实;"
+            "[短语]付账后離れる;核实;"
         ],
         "usphone": "[tʃek aʊt]",
         "ukphone": "[tʃek aʊt]"
@@ -1754,7 +1754,7 @@
     {
         "name": "graduate",
         "trans": [
-            "n.大学毕业生;学士学位获得者v.毕业;"
+            "n.大学毕业生;学士学位得る者v.毕业;"
         ],
         "usphone": "[ˈɡrædʒuət]",
         "ukphone": "[ˈɡrædʒuət]"
@@ -1770,7 +1770,7 @@
     {
         "name": "mature",
         "trans": [
-            "adj.成熟的;到期的;充分考虑的v.成熟;到期;"
+            "adj.成熟的;到期的;充分検討的v.成熟;到期;"
         ],
         "usphone": "[məˈtʃʊr; məˈtʊr]",
         "ukphone": "[məˈtʃʊə(r)]"
@@ -1786,7 +1786,7 @@
     {
         "name": "certificate",
         "trans": [
-            "n.证书;凭证;执照v.发给证明书;用证书证明（或认可）;"
+            "n.证书;凭证;执照v.发给証明书;用证书証明（或认可）;"
         ],
         "usphone": "[sərˈtɪfɪkət]",
         "ukphone": "[səˈtɪfɪkət]"
@@ -1810,7 +1810,7 @@
     {
         "name": "newsletters",
         "trans": [
-            "n.时事通讯;简报;“newsletter”的复数;"
+            "n.时事通讯;简报;“newsletter”の複数形;"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1842,7 +1842,7 @@
     {
         "name": "passage",
         "trans": [
-            "n.通过;通道;段落;短文;"
+            "n.通過;通道;段落;短文;"
         ],
         "usphone": "[ˈpæsɪdʒ]",
         "ukphone": "[ˈpæsɪdʒ]"
@@ -1938,7 +1938,7 @@
     {
         "name": "spiral",
         "trans": [
-            "n.螺旋形;陡升或骤降v.螺旋式上升（或下降）adj.螺旋形的;"
+            "n.螺旋形;陡升或骤降v.螺旋式上昇（或下降）adj.螺旋形的;"
         ],
         "usphone": "[ˈspaɪrəl]",
         "ukphone": "[ˈspaɪrəl]"
@@ -1978,7 +1978,7 @@
     {
         "name": "achievement",
         "trans": [
-            "n.成就;成绩;完成;"
+            "n.成就;成绩;完了;"
         ],
         "usphone": "[əˈtʃiːvmənt]",
         "ukphone": "[əˈtʃiːvmənt]"
@@ -2010,7 +2010,7 @@
     {
         "name": "understanding",
         "trans": [
-            "n.理解;了解v.理解;明白;懂了;“understand”的现在分词;"
+            "n.理解;了解v.理解;明白;懂了;“understand”の現在分詞;"
         ],
         "usphone": "[ˌʌndərˈstændɪŋ]",
         "ukphone": "[ˌʌndəˈstændɪŋ]"
@@ -2018,7 +2018,7 @@
     {
         "name": "recommendation",
         "trans": [
-            "n.推荐;建议;"
+            "n.推荐;提案;"
         ],
         "usphone": "[ˌrekəmenˈdeɪʃn]",
         "ukphone": "[ˌrekəmenˈdeɪʃn]"
@@ -2026,7 +2026,7 @@
     {
         "name": "further",
         "trans": [
-            "[副]更远;进一步;此外adj.附加的;更多的v.促进;推动;"
+            "[副]更远;进一步;此外adj.附加的;更多的v.促進;推动;"
         ],
         "usphone": "[ˈfɜːrðər]",
         "ukphone": "[ˈfɜːðə(r)]"
@@ -2074,7 +2074,7 @@
     {
         "name": "meeting",
         "trans": [
-            "n.会议;会面v.遇见;见面;满足;“meet”的现在分词;"
+            "n.会议;会面v.遇见;见面;満たす;“meet”の現在分詞;"
         ],
         "usphone": "[ˈmiːtɪŋ]",
         "ukphone": "[ˈmiːtɪŋ]"
@@ -2098,7 +2098,7 @@
     {
         "name": "important",
         "trans": [
-            "adj.重要的;"
+            "adj.重要な;"
         ],
         "usphone": "[ɪmˈpɔːrtnt]",
         "ukphone": "[ɪmˈpɔːtnt]"
@@ -2106,7 +2106,7 @@
     {
         "name": "detail",
         "trans": [
-            "n.细节;详情v.详细说明;"
+            "n.细节;详情v.详细説明;"
         ],
         "usphone": "[ˈdiːteɪlˌdɪˈteɪl]",
         "ukphone": "[ˈdiːteɪl]"
@@ -2154,7 +2154,7 @@
     {
         "name": "specialized",
         "trans": [
-            "adj.专门的;专业的v.专用于;专门研究;“specialize”的过去式和过去分词;"
+            "adj.专门的;专业的v.专用于;专门研究;“specialize”の過去形和过去分词;"
         ],
         "usphone": "[ˈspeʃəlaɪzd]",
         "ukphone": "[ˈspeʃəlaɪzd]"
@@ -2162,7 +2162,7 @@
     {
         "name": "planning",
         "trans": [
-            "n.计划;规划v.计划;打算;“plan”的现在分词;"
+            "n.計画;规划v.計画;意図;“plan”の現在分詞;"
         ],
         "usphone": "[ˈplænɪŋ]",
         "ukphone": "[ˈplænɪŋ]"
@@ -2186,7 +2186,7 @@
     {
         "name": "cheaper",
         "trans": [
-            "adj.更便宜的;“cheap”的比较级;"
+            "adj.更便宜的;“cheap”的比較級;"
         ],
         "usphone": "[ˈtʃiːpər]",
         "ukphone": "[tʃiːpə]"
@@ -2194,7 +2194,7 @@
     {
         "name": "full-time",
         "trans": [
-            "adj.全部时间的;专任的;"
+            "adj.全部時間的;专任的;"
         ],
         "usphone": "[ˌfʊl ˈtaɪm]",
         "ukphone": "[ˌfʊl ˈtaɪm]"
@@ -2202,7 +2202,7 @@
     {
         "name": "list",
         "trans": [
-            "n.表;名单v.列出;（船）倾斜;"
+            "n.表;名单v.列出;（船）傾斜;"
         ],
         "usphone": "[lɪst]",
         "ukphone": "[lɪst]"
@@ -2226,7 +2226,7 @@
     {
         "name": "culture",
         "trans": [
-            "n.文化;培养;"
+            "n.文化;育成;"
         ],
         "usphone": "[ˈkʌltʃər]",
         "ukphone": "[ˈkʌltʃə(r)]"
@@ -2282,7 +2282,7 @@
     {
         "name": "thought",
         "trans": [
-            "n.思想;想法v.想;思考;“think”的过去式和过去分词;"
+            "n.思想;想法v.想;思考;“think”の過去形和过去分词;"
         ],
         "usphone": "[θɔːt]",
         "ukphone": "[θɔːt]"
@@ -2306,7 +2306,7 @@
     {
         "name": "schedule",
         "trans": [
-            "n.日程表;时间表v.安排;"
+            "n.日程表;時間表v.手配;"
         ],
         "usphone": "[ˈskedʒuːl]",
         "ukphone": "[ˈʃedjuːl]"
@@ -2314,7 +2314,7 @@
     {
         "name": "support",
         "trans": [
-            "v.支持;支撑n.拥护;帮助;"
+            "v.支援;支撑n.拥护;助ける;"
         ],
         "usphone": "[səˈpɔːrt]",
         "ukphone": "[səˈpɔːt]"
@@ -2322,7 +2322,7 @@
     {
         "name": "review",
         "trans": [
-            "n.回顾;复习;审查;评论v.回顾;复习;审核;评论;"
+            "n.回顾;复习;审查;コメントv.回顾;复习;审核;コメント;"
         ],
         "usphone": "[rɪˈvjuː]",
         "ukphone": "[rɪˈvjuː]"
@@ -2338,7 +2338,7 @@
     {
         "name": "choice",
         "trans": [
-            "n.选择;抉择;精选品adj.上等的;精选的;"
+            "n.選択;抉择;精选品adj.上等的;精选的;"
         ],
         "usphone": "[tʃɔɪs]",
         "ukphone": "[tʃɔɪs]"
@@ -2346,7 +2346,7 @@
     {
         "name": "higher",
         "trans": [
-            "adj.高等级的;更高的;“high”的比较级[副]在更高处;“high”的比较级;"
+            "adj.高等级的;更高的;“high”的比較級[副]在更高处;“high”的比較級;"
         ],
         "usphone": "[ˈhaɪər]",
         "ukphone": "[ˈhaɪə(r)]"
@@ -2354,7 +2354,7 @@
     {
         "name": "vocation",
         "trans": [
-            "n.职业;行业;使命;"
+            "n.職業;行业;使命;"
         ],
         "usphone": "[voʊˈkeɪʃn]",
         "ukphone": "[vəʊˈkeɪʃn]"
@@ -2362,7 +2362,7 @@
     {
         "name": "profession",
         "trans": [
-            "n.职业;专业;"
+            "n.職業;专业;"
         ],
         "usphone": "[prəˈfeʃn]",
         "ukphone": "[prəˈfeʃn]"
@@ -2370,7 +2370,7 @@
     {
         "name": "occupation",
         "trans": [
-            "n.占领;占有;职业;消遣;"
+            "n.占领;占有;職業;消遣;"
         ],
         "usphone": "[ˌɑːkjuˈpeɪʃn]",
         "ukphone": "[ˌɒkjuˈpeɪʃ(ə)n]"
@@ -2378,7 +2378,7 @@
     {
         "name": "experiment",
         "trans": [
-            "n.实验;试验v.做试验;进行实验;"
+            "n.实验;試験v.做試験;进行实验;"
         ],
         "usphone": "[ɪkˈsperɪmənt]",
         "ukphone": "[ɪkˈsperɪmənt]"
@@ -2394,7 +2394,7 @@
     {
         "name": "suggestion",
         "trans": [
-            "n.建议;提议;"
+            "n.提案;提议;"
         ],
         "usphone": "[səˈdʒestʃən; səɡˈdʒestʃən]",
         "ukphone": "[səˈdʒestʃən]"
@@ -2418,7 +2418,7 @@
     {
         "name": "issue",
         "trans": [
-            "n.问题;发行（物）;重要议题;流出v.发行;发表;流出;在…上挑起争论;"
+            "n.问题;发行（物）;重要议题;流出v.发行;发表;流出;在…上挑起議論;"
         ],
         "usphone": "[ˈɪʃuː]",
         "ukphone": "[ˈɪʃuː]"
@@ -2426,7 +2426,7 @@
     {
         "name": "priority",
         "trans": [
-            "n.优先权;需优先考虑的事;"
+            "n.优先权;需优先検討的事;"
         ],
         "usphone": "[praɪˈɔːrəti]",
         "ukphone": "[praɪˈɒrəti]"
@@ -2442,7 +2442,7 @@
     {
         "name": "distance",
         "trans": [
-            "n.距离;远处v.保持距离;"
+            "n.距离;远处v.維持距离;"
         ],
         "usphone": "[ˈdɪstəns]",
         "ukphone": "[ˈdɪstəns]"
@@ -2482,7 +2482,7 @@
     {
         "name": "field",
         "trans": [
-            "n.田地;领域;场地;运动场v.处理,应付（问题、电话等）;"
+            "n.田地;領域;场地;運動场v.処理,应付（问题、电话等）;"
         ],
         "usphone": "[fiːld]",
         "ukphone": "[fiːld]"
@@ -2498,7 +2498,7 @@
     {
         "name": "complete",
         "trans": [
-            "adj.完整的;完成的v.完成;使完整;"
+            "adj.完整的;完了的v.完了;使完整;"
         ],
         "usphone": "[kəmˈpliːt]",
         "ukphone": "[kəmˈpliːt]"
@@ -2538,7 +2538,7 @@
     {
         "name": "aim",
         "trans": [
-            "n.目标;目的v.瞄准;以其为目标;"
+            "n.目標;目的v.瞄准;以其为目標;"
         ],
         "usphone": "[eɪm]",
         "ukphone": "[eɪm]"
@@ -2562,7 +2562,7 @@
     {
         "name": "nursing",
         "trans": [
-            "n.护理（工作）;护理行业v.护理;照料;喂奶;“nurse”的现在分词;"
+            "n.护理（仕事）;护理行业v.护理;照料;喂奶;“nurse”の現在分詞;"
         ],
         "usphone": "[ˈnɜːrsɪŋ]",
         "ukphone": "[ˈnɜːsɪŋ]"
@@ -2594,7 +2594,7 @@
     {
         "name": "printed",
         "trans": [
-            "adj.印刷的;印好的;印花样的v.打印;印刷;“print”的过去式和过去分词;"
+            "adj.印刷的;印好的;印花样的v.打印;印刷;“print”の過去形和过去分词;"
         ],
         "usphone": "[ˈprɪntɪd]",
         "ukphone": "['prɪntɪd]"
@@ -2610,7 +2610,7 @@
     {
         "name": "thinking",
         "trans": [
-            "n.思想;想法v.想;认为;“think”的现在分词;"
+            "n.思想;想法v.想;考える;“think”の現在分詞;"
         ],
         "usphone": "[ˈθɪŋkɪŋ]",
         "ukphone": "[ˈθɪŋkɪŋ]"
@@ -2650,7 +2650,7 @@
     {
         "name": "option",
         "trans": [
-            "n.选项;选择;"
+            "n.选项;選択;"
         ],
         "usphone": "[ˈɑːpʃ(ə)n]",
         "ukphone": "[ˈɒpʃn]"
@@ -2666,7 +2666,7 @@
     {
         "name": "passage",
         "trans": [
-            "n.通过;通道;段落;短文;"
+            "n.通過;通道;段落;短文;"
         ],
         "usphone": "[ˈpæsɪdʒ]",
         "ukphone": "[ˈpæsɪdʒ]"
@@ -2738,7 +2738,7 @@
     {
         "name": "solve",
         "trans": [
-            "v.解决;解答;"
+            "v.解決;解答;"
         ],
         "usphone": "[sɑːlv]",
         "ukphone": "[sɒlv]"
@@ -2762,7 +2762,7 @@
     {
         "name": "access",
         "trans": [
-            "n.进入;通道;接触（的机会或权利）v.接近;使用;获取;"
+            "n.入る;通道;接触（的机会或权利）v.近づく;使用;获取;"
         ],
         "usphone": "[ˈækses]",
         "ukphone": "[ˈækses]"
@@ -2770,7 +2770,7 @@
     {
         "name": "mass",
         "trans": [
-            "n.大量;质量;团;块;群adj.大量的;大规模的;"
+            "n.大量;质量;团;块;群adj.大量の;大规模的;"
         ],
         "usphone": "[mæs]",
         "ukphone": "[mæs]"
@@ -2818,7 +2818,7 @@
     {
         "name": "investigator",
         "trans": [
-            "n.调查员;"
+            "n.調査员;"
         ],
         "usphone": "[ɪnˈvestɪɡeɪtər]",
         "ukphone": "[ɪnˈvestɪɡeɪtə(r)]"
@@ -2858,7 +2858,7 @@
     {
         "name": "argument",
         "trans": [
-            "n.争论;论点;辩论;"
+            "n.議論;论点;辩论;"
         ],
         "usphone": "[ˈɑːrɡjumənt]",
         "ukphone": "[ˈɑːɡjumənt]"
@@ -2930,7 +2930,7 @@
     {
         "name": "techniques",
         "trans": [
-            "n.技术;工艺;“technique”的复数;"
+            "n.技术;工艺;“technique”の複数形;"
         ],
         "usphone": "[tekˈniːks]",
         "ukphone": "[tekˈni:ks]"
@@ -2938,7 +2938,7 @@
     {
         "name": "chart",
         "trans": [
-            "n.图表v.作图;记录;制定;"
+            "n.图表v.作图;記録;制定;"
         ],
         "usphone": "[tʃɑːrt]",
         "ukphone": "[tʃɑːt]"
@@ -2978,7 +2978,7 @@
     {
         "name": "speaking",
         "trans": [
-            "n.谈话;演讲adj.交谈的v.讲话;发言;“speak”的现在分词;"
+            "n.谈话;演讲adj.交谈的v.讲话;发言;“speak”の現在分詞;"
         ],
         "usphone": "[ˈspiːkɪŋ]",
         "ukphone": "[ˈspiːkɪŋ]"
@@ -3002,7 +3002,7 @@
     {
         "name": "enquiry",
         "trans": [
-            "n.提问;询问;调查;"
+            "n.提问;询问;調査;"
         ],
         "usphone": "[ˈɪnkwəri]",
         "ukphone": "[ɪnˈkwaɪəri]"
@@ -3058,7 +3058,7 @@
     {
         "name": "union",
         "trans": [
-            "n.联盟;联合;工会;"
+            "n.联盟;連合;工会;"
         ],
         "usphone": "[ˈjuːniən]",
         "ukphone": "[ˈjuːniən]"
@@ -3074,7 +3074,7 @@
     {
         "name": "composition",
         "trans": [
-            "n.构成;作品,作曲;（学生）作文;创作技巧;"
+            "n.構成;作品,作曲;（学生）作文;创作技巧;"
         ],
         "usphone": "[ˌkɑːmpəˈzɪʃn]",
         "ukphone": "[ˌkɒmpəˈzɪʃ(ə)n]"
@@ -3098,7 +3098,7 @@
     {
         "name": "form",
         "trans": [
-            "n.形式;表格;形状v.组成;建立;"
+            "n.形式;表格;形状v.组成;確立;"
         ],
         "usphone": "[fɔːrm]",
         "ukphone": "[fɔːm]"
@@ -3122,7 +3122,7 @@
     {
         "name": "humans",
         "trans": [
-            "n.人类;“human”的复数;"
+            "n.人类;“human”の複数形;"
         ],
         "usphone": "['hju:mənz]",
         "ukphone": "[ˈhjuːmənz]"
@@ -3138,7 +3138,7 @@
     {
         "name": "rule",
         "trans": [
-            "n.规则;统治v.统治;支配;裁决;"
+            "n.规则;統治v.統治;支配;裁决;"
         ],
         "usphone": "[ruːl]",
         "ukphone": "[ruːl]"
@@ -3186,7 +3186,7 @@
     {
         "name": "rent",
         "trans": [
-            "v.出租;租借n.租金;破口;裂缝v.撕碎;分裂;“rend”的过去式和过去分词;"
+            "v.出租;租借n.租金;破口;裂缝v.撕碎;分裂;“rend”の過去形和过去分词;"
         ],
         "usphone": "[rent]",
         "ukphone": "[rent]"
@@ -3290,7 +3290,7 @@
     {
         "name": "grant",
         "trans": [
-            "v.允许;承认;授予n.授予物;补助金;"
+            "v.允许;認める;授予n.授予物;补助金;"
         ],
         "usphone": "[ɡrænt]",
         "ukphone": "[ɡrɑːnt]"
@@ -3306,7 +3306,7 @@
     {
         "name": "check",
         "trans": [
-            "v.检查;核实;克制n.检查;支票;方格图案;"
+            "v.検査;核实;克制n.検査;支票;方格图案;"
         ],
         "usphone": "[tʃek]",
         "ukphone": "[tʃek]"
@@ -3346,7 +3346,7 @@
     {
         "name": "spending",
         "trans": [
-            "n.花费;开销v.花费;度过;“spend”的现在分词;"
+            "n.花费;开销v.花费;度过;“spend”の現在分詞;"
         ],
         "usphone": "[ˈspendɪŋ]",
         "ukphone": "[ˈspendɪŋ]"
@@ -3442,7 +3442,7 @@
     {
         "name": "Australian dollars",
         "trans": [
-            "[短语]澳元;“Australiandollar”的复数;"
+            "[短语]澳元;“Australiandollar”の複数形;"
         ],
         "usphone": "",
         "ukphone": ""
@@ -3450,7 +3450,7 @@
     {
         "name": "optional",
         "trans": [
-            "adj.可选择的;非强制的;"
+            "adj.可選択的;非强制的;"
         ],
         "usphone": "[ˈɑːpʃən(ə)l]",
         "ukphone": "[ˈɒpʃən(ə)l]"
@@ -3482,7 +3482,7 @@
     {
         "name": "transfer",
         "trans": [
-            "v.转移;转让;调任n.转移;转让;调任;"
+            "v.移転;转让;调任n.移転;转让;调任;"
         ],
         "usphone": "[trænsˈfɜːr]",
         "ukphone": "[trænsˈfɜː(r)]"
@@ -3594,7 +3594,7 @@
     {
         "name": "saving",
         "trans": [
-            "n.节约v.保存;拯救;节省;“save”的现在分词;"
+            "n.节约v.保存;拯救;节省;“save”の現在分詞;"
         ],
         "usphone": "[ˈseɪvɪŋ]",
         "ukphone": "[ˈseɪvɪŋ]"
@@ -3610,7 +3610,7 @@
     {
         "name": "prize",
         "trans": [
-            "n.奖赏;奖品;奖金;战利品v.珍视;珍藏;估价;"
+            "n.奖赏;奖品;奖金;战利品v.珍视;珍藏;評価;"
         ],
         "usphone": "[praɪz]",
         "ukphone": "[praɪz]"
@@ -3658,7 +3658,7 @@
     {
         "name": "hiking",
         "trans": [
-            "n.远足;徒步旅行v.徒步旅行;远足;升起;增加;“hike”的现在分词;"
+            "n.远足;徒步旅行v.徒步旅行;远足;升起;増加;“hike”の現在分詞;"
         ],
         "usphone": "[ˈhaɪkɪŋ]",
         "ukphone": "[ˈhaɪkɪŋ]"
@@ -3818,7 +3818,7 @@
     {
         "name": "planner",
         "trans": [
-            "n.计划（制订）者;计划表;"
+            "n.計画（制订）者;計画表;"
         ],
         "usphone": "[ˈplænər]",
         "ukphone": "[ˈplænə(r)]"
@@ -3882,7 +3882,7 @@
     {
         "name": "train",
         "trans": [
-            "n.火车;列车;列;队v.训练;培训;"
+            "n.火车;列车;列;队v.訓練;培训;"
         ],
         "usphone": "[treɪn]",
         "ukphone": "[treɪn]"
@@ -3906,7 +3906,7 @@
     {
         "name": "entrance",
         "trans": [
-            "n.入口;进入;到场v.使出神;使入迷;"
+            "n.入口;入る;到场v.使出神;使入迷;"
         ],
         "usphone": "[ˈentrəns; ɪnˈtræns]",
         "ukphone": "[ˈentrəns]"
@@ -4082,7 +4082,7 @@
     {
         "name": "train",
         "trans": [
-            "n.火车;列车;列;队v.训练;培训;"
+            "n.火车;列车;列;队v.訓練;培训;"
         ],
         "usphone": "[treɪn]",
         "ukphone": "[treɪn]"
@@ -4090,7 +4090,7 @@
     {
         "name": "traffic",
         "trans": [
-            "n.交通;流量;非法交易v.非法买卖;"
+            "n.交通;流量;非法取引v.非法买卖;"
         ],
         "usphone": "[ˈtræfɪk]",
         "ukphone": "[ˈtræfɪk]"
@@ -4122,7 +4122,7 @@
     {
         "name": "coach",
         "trans": [
-            "n.教练;长途客运汽车;火车车厢v.训练;培训;"
+            "n.教练;长途客运汽车;火车车厢v.訓練;培训;"
         ],
         "usphone": "[koʊtʃ]",
         "ukphone": "[kəʊtʃ]"
@@ -4378,7 +4378,7 @@
     {
         "name": "reserve",
         "trans": [
-            "v.保留;储备;预订n.储备;保留;保护区;候补;"
+            "v.保留;储备;预订n.储备;保留;保護区;候补;"
         ],
         "usphone": "[rɪˈzɜːrv]",
         "ukphone": "[rɪˈzɜːv]"
@@ -4418,7 +4418,7 @@
     {
         "name": "touring",
         "trans": [
-            "n.旅游v.旅行;游览;作巡回活动;“tour”的现在分词;"
+            "n.旅游v.旅行;游览;作巡回活动;“tour”の現在分詞;"
         ],
         "usphone": "['tuəriŋ]",
         "ukphone": "[ˈtʊərɪŋ; ˈtɔːrɪŋ]"
@@ -4442,7 +4442,7 @@
     {
         "name": "occasion",
         "trans": [
-            "n.特殊场合;时机;机会;理由;需要v.导致;使发生;"
+            "n.特殊场合;时机;机会;理由;必要v.导致;使発生;"
         ],
         "usphone": "[əˈkeɪʒn]",
         "ukphone": "[əˈkeɪʒ(ə)n]"
@@ -4466,7 +4466,7 @@
     {
         "name": "smoking",
         "trans": [
-            "n.吸烟;抽烟v.抽烟;冒烟;“smoke”的现在分词;"
+            "n.吸烟;抽烟v.抽烟;冒烟;“smoke”の現在分詞;"
         ],
         "usphone": "[ˈsmoʊkɪŋ]",
         "ukphone": "[ˈsməʊkɪŋ]"
@@ -4586,7 +4586,7 @@
     {
         "name": "parking",
         "trans": [
-            "n.（车辆等的）停放;停车场所,停车位v.停放;停车;“park”的现在分词;"
+            "n.（车辆等的）停放;停车场所,停车位v.停放;停车;“park”の現在分詞;"
         ],
         "usphone": "[ˈpɑːrkɪŋ]",
         "ukphone": "[ˈpɑːkɪŋ]"
@@ -4594,7 +4594,7 @@
     {
         "name": "setting",
         "trans": [
-            "n.环境;背景;（日月的）沉落v.设置;放;“set”的现在分词;"
+            "n.環境;背景;（日月的）沉落v.设置;放;“set”の現在分詞;"
         ],
         "usphone": "[ˈsetɪŋ]",
         "ukphone": "[ˈsetɪŋ]"
@@ -4642,7 +4642,7 @@
     {
         "name": "skiing",
         "trans": [
-            "n.滑雪（运动）v.滑雪;“ski”的现在分词;"
+            "n.滑雪（運動）v.滑雪;“ski”の現在分詞;"
         ],
         "usphone": "[ˈskiːɪŋ]",
         "ukphone": "[ˈskiːɪŋ]"
@@ -4658,7 +4658,7 @@
     {
         "name": "hike",
         "trans": [
-            "n.远足;（费用）增加v.远足;（费用）增加;"
+            "n.远足;（费用）増加v.远足;（费用）増加;"
         ],
         "usphone": "[haɪk]",
         "ukphone": "[haɪk]"
@@ -4698,7 +4698,7 @@
     {
         "name": "junction",
         "trans": [
-            "n.连接处;汇合处;交叉路口;"
+            "n.接続处;汇合处;交叉路口;"
         ],
         "usphone": "[ˈdʒʌŋkʃn]",
         "ukphone": "[ˈdʒʌŋkʃn]"
@@ -4706,7 +4706,7 @@
     {
         "name": "express",
         "trans": [
-            "v.表达;表示n.特快列车;快件服务adj.明确的;"
+            "v.表現;表すn.特快列车;快件服务adj.明确的;"
         ],
         "usphone": "[ɪkˈspres]",
         "ukphone": "[ɪkˈspres]"
@@ -4994,7 +4994,7 @@
     {
         "name": "ground",
         "trans": [
-            "n.地面;土地;场地;根据v.磨碎;“grind”的过去式和过去分词;"
+            "n.地面;土地;场地;根据v.磨碎;“grind”の過去形和过去分词;"
         ],
         "usphone": "[ɡraʊnd]",
         "ukphone": "[ɡraʊnd]"
@@ -5002,7 +5002,7 @@
     {
         "name": "accommodation",
         "trans": [
-            "n.住处;工作场所;停留处;膳宿;（交通工具内的）空间;"
+            "n.住处;仕事场所;停留处;膳宿;（交通工具内的）空间;"
         ],
         "usphone": "[əˌkɑːməˈdeɪʃn]",
         "ukphone": "[əˌkɒməˈdeɪʃ(ə)n]"
@@ -5018,7 +5018,7 @@
     {
         "name": "available",
         "trans": [
-            "adj.可获得的;可用的;有空的;"
+            "adj.可得る的;可用的;有空的;"
         ],
         "usphone": "[əˈveɪləbl]",
         "ukphone": "[əˈveɪləb(ə)l]"
@@ -5082,7 +5082,7 @@
     {
         "name": "building",
         "trans": [
-            "n.建筑物;楼房v.建筑;“build”的现在分词;"
+            "n.建筑物;楼房v.建筑;“build”の現在分詞;"
         ],
         "usphone": "[ˈbɪldɪŋ]",
         "ukphone": "[ˈbɪldɪŋ]"
@@ -5106,7 +5106,7 @@
     {
         "name": "block",
         "trans": [
-            "n.块;街区;大楼;大厦;障碍物v.阻塞;阻碍;"
+            "n.块;街区;大楼;大厦;障碍物v.阻塞;妨害;"
         ],
         "usphone": "[blɑːk]",
         "ukphone": "[blɒk]"
@@ -5114,7 +5114,7 @@
     {
         "name": "address",
         "trans": [
-            "n.地址;演讲v.向…讲话;提出;解决;"
+            "n.地址;演讲v.向…讲话;提案;解決;"
         ],
         "usphone": "[əˈdres; ˈædres]",
         "ukphone": "[əˈdres]"
@@ -5170,7 +5170,7 @@
     {
         "name": "shared",
         "trans": [
-            "adj.共享的;共同的v.共享;分享;“share”的过去式和过去分词;"
+            "adj.共享的;共同的v.共享;分享;“share”の過去形和过去分词;"
         ],
         "usphone": "[ʃerd]",
         "ukphone": "[ʃeəd]"
@@ -5338,7 +5338,7 @@
     {
         "name": "incoming",
         "trans": [
-            "adj.近来的;即将开始的;新任的;"
+            "adj.近来的;即将始める的;新任的;"
         ],
         "usphone": "[ˈɪnkʌmɪŋ]",
         "ukphone": "[ˈɪnkʌmɪŋ]"
@@ -5410,7 +5410,7 @@
     {
         "name": "heating",
         "trans": [
-            "n.加热;采暖;供暖设备v.加热;“heat”的现在分词;"
+            "n.加热;采暖;供暖设备v.加热;“heat”の現在分詞;"
         ],
         "usphone": "[ˈhiːtɪŋ]",
         "ukphone": "[ˈhiːtɪŋ]"
@@ -5522,7 +5522,7 @@
     {
         "name": "isolated",
         "trans": [
-            "adj.隔离的;孤独的;偏远的v.使孤立;使隔离;“isolate”的过去式和过去分词;"
+            "adj.隔离的;孤独的;偏远的v.使孤立;使隔离;“isolate”の過去形和过去分词;"
         ],
         "usphone": "[ˈaɪsəleɪtɪd]",
         "ukphone": "[ˈaɪsəleɪtɪd]"
@@ -5530,7 +5530,7 @@
     {
         "name": "spot",
         "trans": [
-            "n.斑点;圆点;地点;场所v.识别;发现;弄脏;"
+            "n.斑点;圆点;地点;场所v.识别;発見;弄脏;"
         ],
         "usphone": "[spɑːt]",
         "ukphone": "[spɒt]"
@@ -5538,7 +5538,7 @@
     {
         "name": "remark",
         "trans": [
-            "v.评论;谈论;注意到n.评述;言论;注意;"
+            "v.コメント;谈论;注意到n.评述;言论;注意;"
         ],
         "usphone": "[rɪˈmɑːrk]",
         "ukphone": "[rɪˈmɑːk]"
@@ -5546,7 +5546,7 @@
     {
         "name": "settlement",
         "trans": [
-            "n.解决;协议;定居（过程）;定居点;"
+            "n.解決;协议;定居（过程）;定居点;"
         ],
         "usphone": "[ˈsetlmənt]",
         "ukphone": "[ˈset(ə)lmənt]"
@@ -5618,7 +5618,7 @@
     {
         "name": "code",
         "trans": [
-            "n.代码;密码;编码;行为准则;法典;法规v.编码;"
+            "n.代码;密码;编码;行為准则;法典;法规v.编码;"
         ],
         "usphone": "[koʊd]",
         "ukphone": "[kəʊd]"
@@ -5626,7 +5626,7 @@
     {
         "name": "alteration",
         "trans": [
-            "n.改变;变更;"
+            "n.変える;变更;"
         ],
         "usphone": "[ˌɔːltəˈreɪʃn]",
         "ukphone": "[ˌɔːltəˈreɪʃn]"
@@ -5634,7 +5634,7 @@
     {
         "name": "decoration",
         "trans": [
-            "n.装饰品;装饰;装修;"
+            "n.装飾品;装飾;装修;"
         ],
         "usphone": "[ˌdekəˈreɪʃn]",
         "ukphone": "[ˌdekəˈreɪʃn]"
@@ -5786,7 +5786,7 @@
     {
         "name": "dining",
         "trans": [
-            "n.吃饭;就餐v.进餐;用饭;“dine”的现在分词;"
+            "n.吃饭;就餐v.进餐;用饭;“dine”の現在分詞;"
         ],
         "usphone": "[ˈdaɪnɪŋ]",
         "ukphone": "[ˈdaɪnɪŋ]"
@@ -5826,7 +5826,7 @@
     {
         "name": "drinking",
         "trans": [
-            "n.喝;喝酒v.喝;喝酒;“drink”的现在分词;"
+            "n.喝;喝酒v.喝;喝酒;“drink”の現在分詞;"
         ],
         "usphone": "[ˈdrɪŋkɪŋ]",
         "ukphone": "[ˈdrɪŋkɪŋ]"
@@ -5922,7 +5922,7 @@
     {
         "name": "eating",
         "trans": [
-            "n.吃;饮食v.吃;“eat”的现在分词adj.食用的;"
+            "n.吃;饮食v.吃;“eat”の現在分詞adj.食用的;"
         ],
         "usphone": "[ˈiːtɪŋ]",
         "ukphone": "[ˈiːtɪŋ]"
@@ -5930,7 +5930,7 @@
     {
         "name": "cooking",
         "trans": [
-            "n.烹饪;饭菜adj.烹调用的;适合烹饪的v.烹饪;“cook”的现在分词;"
+            "n.烹饪;饭菜adj.烹调用的;适合烹饪的v.烹饪;“cook”の現在分詞;"
         ],
         "usphone": "[ˈkʊkɪŋ]",
         "ukphone": "[ˈkʊkɪŋ]"
@@ -6034,7 +6034,7 @@
     {
         "name": "fruit",
         "trans": [
-            "n.水果;成果v.结果实;"
+            "n.水果;成果v.結果实;"
         ],
         "usphone": "[fruːt]",
         "ukphone": "[fruːt]"
@@ -6202,7 +6202,7 @@
     {
         "name": "catering",
         "trans": [
-            "n.包办饮食;承办酒席v.迎合;满足需要;供应酒菜;“cater”的现在分词;"
+            "n.包办饮食;承办酒席v.迎合;満たす必要;供应酒菜;“cater”の現在分詞;"
         ],
         "usphone": "[ˈkeɪtərɪŋ]",
         "ukphone": "[ˈkeɪtərɪŋ]"
@@ -6274,7 +6274,7 @@
     {
         "name": "decoration",
         "trans": [
-            "n.装饰品;装饰;装修;"
+            "n.装飾品;装飾;装修;"
         ],
         "usphone": "[ˌdekəˈreɪʃn]",
         "ukphone": "[ˌdekəˈreɪʃn]"
@@ -6282,7 +6282,7 @@
     {
         "name": "interest",
         "trans": [
-            "n.兴趣;利益;利息v.使产生兴趣;"
+            "n.兴趣;利益;利息v.使生み出す兴趣;"
         ],
         "usphone": "[ˈɪntrəst]",
         "ukphone": "[ˈɪntrəst]"
@@ -6346,7 +6346,7 @@
     {
         "name": "casual",
         "trans": [
-            "adj.偶然的;随意的;非正式的;临时的;不定的;"
+            "adj.偶然的;随意的;非公式的;临时的;不定的;"
         ],
         "usphone": "[ˈkæʒuəl]",
         "ukphone": "[ˈkæʒuəl]"
@@ -6362,7 +6362,7 @@
     {
         "name": "walking",
         "trans": [
-            "n.步行adj.步行的;活的v.步行;行走;“walk”的现在分词;"
+            "n.步行adj.步行的;活的v.步行;行走;“walk”の現在分詞;"
         ],
         "usphone": "[ˈwɔːkɪŋ]",
         "ukphone": "[ˈwɔːkɪŋ]"
@@ -6370,7 +6370,7 @@
     {
         "name": "swimming",
         "trans": [
-            "n.游泳;游泳运动v.“swim”的现在分词;"
+            "n.游泳;游泳運動v.“swim”の現在分詞;"
         ],
         "usphone": "[ˈswɪmɪŋ]",
         "ukphone": "[ˈswɪmɪŋ]"
@@ -6434,7 +6434,7 @@
     {
         "name": "sportswear",
         "trans": [
-            "n.运动服;休闲服;"
+            "n.運動服;休闲服;"
         ],
         "usphone": "[ˈspɔːrtswer]",
         "ukphone": "[ˈspɔːtsweə(r)]"
@@ -6506,7 +6506,7 @@
     {
         "name": "dressing",
         "trans": [
-            "n.穿衣;敷料;包扎;调料v.穿衣服;“dress”的现在分词;"
+            "n.穿衣;敷料;包扎;调料v.穿衣服;“dress”の現在分詞;"
         ],
         "usphone": "[ˈdresɪŋ]",
         "ukphone": "[ˈdresɪŋ]"
@@ -6562,7 +6562,7 @@
     {
         "name": "migration",
         "trans": [
-            "n.迁移;迁徙;转移;"
+            "n.迁移;迁徙;移転;"
         ],
         "usphone": "[maɪˈɡreɪʃn]",
         "ukphone": "[maɪˈɡreɪʃn]"
@@ -6706,7 +6706,7 @@
     {
         "name": "species",
         "trans": [
-            "n.物种;种类;"
+            "n.物种;種類;"
         ],
         "usphone": "[ˈspiːʃiːz]",
         "ukphone": "[ˈspiːʃiːz]"
@@ -6794,7 +6794,7 @@
     {
         "name": "breeding",
         "trans": [
-            "n.繁殖;饲养;教养v.繁殖;孕育;“breed”的现在分词;"
+            "n.繁殖;饲养;教养v.繁殖;孕育;“breed”の現在分詞;"
         ],
         "usphone": "[ˈbriːdɪŋ]",
         "ukphone": "[ˈbriːdɪŋ]"
@@ -6898,7 +6898,7 @@
     {
         "name": "planting",
         "trans": [
-            "n.种植;栽种v.种植;“plant”的现在分词;"
+            "n.种植;栽种v.种植;“plant”の現在分詞;"
         ],
         "usphone": "[ˈplæntɪŋ]",
         "ukphone": "[ˈplɑːntɪŋ]"
@@ -6930,7 +6930,7 @@
     {
         "name": "farming",
         "trans": [
-            "n.农事;耕作;养殖v.耕种;务农;“farm”的现在分词;"
+            "n.农事;耕作;养殖v.耕种;务农;“farm”の現在分詞;"
         ],
         "usphone": "[ˈfɑːrmɪŋ]",
         "ukphone": "[ˈfɑːmɪŋ]"
@@ -6986,7 +6986,7 @@
     {
         "name": "cleaner",
         "trans": [
-            "n.清洁工人;清洁工具adj.更洁净的;更干净的;“clean”的比较级;"
+            "n.清洁工人;清洁工具adj.更洁净的;更干净的;“clean”的比較級;"
         ],
         "usphone": "[ˈkliːnər]",
         "ukphone": "[ˈkliːnə(r)]"
@@ -7002,7 +7002,7 @@
     {
         "name": "contact",
         "trans": [
-            "n.接触;联系v.接触;联系;"
+            "n.接触;連絡v.接触;連絡;"
         ],
         "usphone": "[ˈkɑːntækt]",
         "ukphone": "[ˈkɒntækt]"
@@ -7026,7 +7026,7 @@
     {
         "name": "market",
         "trans": [
-            "n.市场;商场;销路;行情v.在市场上交易;营销;"
+            "n.市场;商场;销路;行情v.在市场上取引;营销;"
         ],
         "usphone": "[ˈmɑːrkɪt]",
         "ukphone": "[ˈmɑːkɪt]"
@@ -7042,7 +7042,7 @@
     {
         "name": "organization",
         "trans": [
-            "n.组织;机构;"
+            "n.組織;机构;"
         ],
         "usphone": "[ˌɔːrɡənəˈzeɪʃn]",
         "ukphone": "[ˌɔːɡənaɪˈzeɪʃn]"
@@ -7074,7 +7074,7 @@
     {
         "name": "fishing",
         "trans": [
-            "n.钓鱼;捕鱼v.钓鱼;捕鱼;“fish”的现在分词;"
+            "n.钓鱼;捕鱼v.钓鱼;捕鱼;“fish”の現在分詞;"
         ],
         "usphone": "[ˈfɪʃɪŋ]",
         "ukphone": "[ˈfɪʃɪŋ]"
@@ -7106,7 +7106,7 @@
     {
         "name": "shift",
         "trans": [
-            "v.变换位置;转移;换（挡）;轮班n.转移;移位;转变;轮班;"
+            "v.变换位置;移転;换（挡）;轮班n.移転;移位;转变;轮班;"
         ],
         "usphone": "[ʃɪft]",
         "ukphone": "[ʃɪft]"
@@ -7186,7 +7186,7 @@
     {
         "name": "syndicate",
         "trans": [
-            "n.企业联合组织;财团;"
+            "n.企业連合組織;财团;"
         ],
         "usphone": "[ˈsɪndɪkeɪt; ˈsɪndɪkət]",
         "ukphone": "[ˈsɪndɪkət]"
@@ -7194,7 +7194,7 @@
     {
         "name": "action",
         "trans": [
-            "n.行动;行为;"
+            "n.行动;行為;"
         ],
         "usphone": "[ˈækʃ(ə)n]",
         "ukphone": "[ˈækʃ(ə)n]"
@@ -7690,7 +7690,7 @@
     {
         "name": "injury",
         "trans": [
-            "n.损伤;伤害;"
+            "n.损伤;傷つける;"
         ],
         "usphone": "[ˈɪndʒəri]",
         "ukphone": "[ˈɪndʒəri]"
@@ -7698,7 +7698,7 @@
     {
         "name": "wound",
         "trans": [
-            "n.伤口;创伤v.使受伤;伤害v.蜿蜒;缠绕;“wind”的过去式和过去分词;"
+            "n.伤口;创伤v.使受伤;傷つけるv.蜿蜒;缠绕;“wind”の過去形和过去分词;"
         ],
         "usphone": "[wuːnd]",
         "ukphone": "[wuːnd]"
@@ -7714,7 +7714,7 @@
     {
         "name": "teeth",
         "trans": [
-            "n.齿状物;威力;效力n.牙齿;“tooth”的复数;"
+            "n.齿状物;威力;效力n.牙齿;“tooth”の複数形;"
         ],
         "usphone": "[tiːθ]",
         "ukphone": "[tiːθ]"
@@ -7738,7 +7738,7 @@
     {
         "name": "disabled",
         "trans": [
-            "adj.残疾的;无能力的v.使残废;使无能力;“disable”的过去式和过去分词;"
+            "adj.残疾的;无能力的v.使残废;使无能力;“disable”の過去形和过去分词;"
         ],
         "usphone": "[dɪsˈeɪbld]",
         "ukphone": "[dɪsˈeɪb(ə)ld]"
@@ -7866,7 +7866,7 @@
     {
         "name": "prescribe",
         "trans": [
-            "v.开药方;规定;"
+            "v.开药方;規定;"
         ],
         "usphone": "[prɪˈskraɪb]",
         "ukphone": "[prɪˈskraɪb]"
@@ -7890,7 +7890,7 @@
     {
         "name": "eyes",
         "trans": [
-            "n.眼睛;“eye”的复数v.注视;审视;“eye”的第三人称单数;"
+            "n.眼睛;“eye”の複数形v.注视;审视;“eye”的第三人称单数;"
         ],
         "usphone": "[aɪz]",
         "ukphone": "[aɪz]"
@@ -7954,7 +7954,7 @@
     {
         "name": "bacteria",
         "trans": [
-            "n.细菌;“bacterium”的复数;"
+            "n.细菌;“bacterium”の複数形;"
         ],
         "usphone": "[bækˈtɪriə]",
         "ukphone": "[bækˈtɪəriə]"
@@ -7986,7 +7986,7 @@
     {
         "name": "treatment",
         "trans": [
-            "n.治疗;处理;待遇;"
+            "n.治疗;処理;待遇;"
         ],
         "usphone": "[ˈtriːtmənt]",
         "ukphone": "[ˈtriːtmənt]"
@@ -7994,7 +7994,7 @@
     {
         "name": "stomach",
         "trans": [
-            "n.胃;腹部v.忍受;吃得下;"
+            "n.胃;腹部v.耐える;吃得下;"
         ],
         "usphone": "[ˈstʌmək]",
         "ukphone": "[ˈstʌmək]"
@@ -8074,7 +8074,7 @@
     {
         "name": "beats",
         "trans": [
-            "n.一击;跳动;“beat”的复数v.打;敲打;胜过;“beat”的第三人称单数;"
+            "n.一击;跳动;“beat”の複数形v.打;敲打;胜过;“beat”的第三人称单数;"
         ],
         "usphone": "[biːts]",
         "ukphone": "[biːts]"
@@ -8122,7 +8122,7 @@
     {
         "name": "physical",
         "trans": [
-            "adj.身体的;外观的;物质的;物理的n.体格检查;"
+            "adj.身体的;外观的;物质的;物理的n.体格検査;"
         ],
         "usphone": "[ˈfɪzɪkl]",
         "ukphone": "[ˈfɪzɪk(ə)l]"
@@ -8130,7 +8130,7 @@
     {
         "name": "prevention",
         "trans": [
-            "n.阻止;妨碍;预防;"
+            "n.阻止;妨げる;预防;"
         ],
         "usphone": "[prɪˈvenʃn]",
         "ukphone": "[prɪˈvenʃn]"
@@ -8226,7 +8226,7 @@
     {
         "name": "recycled",
         "trans": [
-            "adj.回收的v.再循环;“recycle”的过去式和过去分词;"
+            "adj.回收的v.再循环;“recycle”の過去形和过去分词;"
         ],
         "usphone": "[ˌriːˈsaɪk(ə)ld]",
         "ukphone": "[ˌriːˈsaɪk(ə)ld]"
@@ -8258,7 +8258,7 @@
     {
         "name": "impact",
         "trans": [
-            "n.冲击（力）;影响力v.冲击;撞击;对…产生影响;"
+            "n.冲击（力）;影響力v.冲击;撞击;对…生み出す影響;"
         ],
         "usphone": "[ˈɪmpækt]",
         "ukphone": "[ˈɪmpækt]"
@@ -8266,7 +8266,7 @@
     {
         "name": "influence",
         "trans": [
-            "n.影响（力）;有影响的人或物v.影响;"
+            "n.影響（力）;有影響的人或物v.影響;"
         ],
         "usphone": "[ˈɪnfluəns]",
         "ukphone": "[ˈɪnfluəns]"
@@ -8290,7 +8290,7 @@
     {
         "name": "warming",
         "trans": [
-            "n.暖和;升温v.（使）变暖;“warm”的现在分词;"
+            "n.暖和;升温v.（使）变暖;“warm”の現在分詞;"
         ],
         "usphone": "[ˈwɔːrmɪŋ]",
         "ukphone": "[ˈwɔːmɪŋ]"
@@ -8298,7 +8298,7 @@
     {
         "name": "recycling",
         "trans": [
-            "n.回收利用v.再循环;“recycle”的现在分词;"
+            "n.回收利用v.再循环;“recycle”の現在分詞;"
         ],
         "usphone": "[ˌriːˈsaɪklɪŋ]",
         "ukphone": "[ˌriːˈsaɪklɪŋ]"
@@ -8322,7 +8322,7 @@
     {
         "name": "handling",
         "trans": [
-            "n.操纵;处理v.处理;操纵;“handle”的现在分词;"
+            "n.操纵;処理v.処理;操纵;“handle”の現在分詞;"
         ],
         "usphone": "[ˈhændlɪŋ]",
         "ukphone": "[ˈhændlɪŋ]"
@@ -8354,7 +8354,7 @@
     {
         "name": "damage",
         "trans": [
-            "v.损害;破坏n.损害;破损;"
+            "v.損害;破壊n.損害;破损;"
         ],
         "usphone": "[ˈdæmɪdʒ]",
         "ukphone": "[ˈdæmɪdʒ]"
@@ -8426,7 +8426,7 @@
     {
         "name": "sports",
         "trans": [
-            "n.体育运动;“sport”的复数adj.运动的;"
+            "n.体育運動;“sport”の複数形adj.運動的;"
         ],
         "usphone": "[spɔːrts]",
         "ukphone": "[spɔːts]"
@@ -8442,7 +8442,7 @@
     {
         "name": "muscle",
         "trans": [
-            "n.肌肉;权力;影响力;"
+            "n.肌肉;权力;影響力;"
         ],
         "usphone": "[ˈmʌsl]",
         "ukphone": "[ˈmʌsl]"
@@ -8458,7 +8458,7 @@
     {
         "name": "bowling",
         "trans": [
-            "n.保龄球v.投掷;滚动;“bowl”的现在分词;"
+            "n.保龄球v.投掷;滚动;“bowl”の現在分詞;"
         ],
         "usphone": "[ˈboʊlɪŋ]",
         "ukphone": "[ˈbəʊlɪŋ]"
@@ -8466,7 +8466,7 @@
     {
         "name": "skating",
         "trans": [
-            "n.溜冰v.溜冰;“skate”的现在分词;"
+            "n.溜冰v.溜冰;“skate”の現在分詞;"
         ],
         "usphone": "[ˈskeɪtɪŋ]",
         "ukphone": "[ˈskeɪtɪŋ]"
@@ -8474,7 +8474,7 @@
     {
         "name": "badminton",
         "trans": [
-            "n.羽毛球运动;羽毛球;"
+            "n.羽毛球運動;羽毛球;"
         ],
         "usphone": "[ˈbædmɪntən]",
         "ukphone": "[ˈbædmɪntən]"
@@ -8490,7 +8490,7 @@
     {
         "name": "exercise",
         "trans": [
-            "n.练习;锻炼;运动;行使v.运用;使用;锻炼;使担忧;"
+            "n.练习;锻炼;運動;行使v.运用;使用;锻炼;使担忧;"
         ],
         "usphone": "[ˈeksərsaɪz]",
         "ukphone": "[ˈeksəsaɪz]"
@@ -8506,7 +8506,7 @@
     {
         "name": "cycling",
         "trans": [
-            "n.骑自行车v.循环;骑自行车;“cycle”的现在分词;"
+            "n.骑自行车v.循环;骑自行车;“cycle”の現在分詞;"
         ],
         "usphone": "[ˈsaɪklɪŋ]",
         "ukphone": "[ˈsaɪklɪŋ]"
@@ -8578,7 +8578,7 @@
     {
         "name": "water-skiing",
         "trans": [
-            "n.滑水v.用滑水橇滑行;“water-ski”的现在分词;"
+            "n.滑水v.用滑水橇滑行;“water-ski”の現在分詞;"
         ],
         "usphone": "[ˈwɔtəˌskiɪŋ]",
         "ukphone": "['wɔ:təski:ɪŋ]"
@@ -8594,7 +8594,7 @@
     {
         "name": "sportsman",
         "trans": [
-            "n.运动员;爱好运动的人;"
+            "n.運動员;爱好運動的人;"
         ],
         "usphone": "[ˈspɔːrtsmən]",
         "ukphone": "[ˈspɔːtsmən]"
@@ -8602,7 +8602,7 @@
     {
         "name": "adopt",
         "trans": [
-            "v.收养;采用;采纳;正式通过;"
+            "v.收养;采用;采纳;正式通過;"
         ],
         "usphone": "[əˈdɑːpt]",
         "ukphone": "[əˈdɒpt]"
@@ -8650,7 +8650,7 @@
     {
         "name": "question",
         "trans": [
-            "n.问题;疑问v.询问;怀疑;"
+            "n.问题;疑问v.询问;疑う;"
         ],
         "usphone": "[ˈkwestʃən]",
         "ukphone": "[ˈkwestʃən]"
@@ -8658,7 +8658,7 @@
     {
         "name": "word",
         "trans": [
-            "n.词;单词;话语v.用词语表达;"
+            "n.词;单词;话语v.用词语表現;"
         ],
         "usphone": "[wɜːrd]",
         "ukphone": "[wɜːd]"
@@ -8682,7 +8682,7 @@
     {
         "name": "lack",
         "trans": [
-            "v.缺乏;短缺n.缺乏;短缺;"
+            "v.欠如;短缺n.欠如;短缺;"
         ],
         "usphone": "[læk]",
         "ukphone": "[læk]"
@@ -8690,7 +8690,7 @@
     {
         "name": "working",
         "trans": [
-            "adj.工作的;劳动的v.工作;劳动;“work”的现在分词;"
+            "adj.仕事的;劳动的v.仕事;劳动;“work”の現在分詞;"
         ],
         "usphone": "[ˈwɜːrkɪŋ]",
         "ukphone": "[ˈwɜːkɪŋ]"
@@ -8722,7 +8722,7 @@
     {
         "name": "advice",
         "trans": [
-            "n.建议;意见;"
+            "n.提案;意見;"
         ],
         "usphone": "[ədˈvaɪs]",
         "ukphone": "[ədˈvaɪs]"
@@ -8730,7 +8730,7 @@
     {
         "name": "type",
         "trans": [
-            "n.类型;种类;典型;字体v.打字;定型;成为…的典型;"
+            "n.类型;種類;典型;字体v.打字;定型;成为…的典型;"
         ],
         "usphone": "[taɪp]",
         "ukphone": "[taɪp]"
@@ -8842,7 +8842,7 @@
     {
         "name": "cause",
         "trans": [
-            "n.原因;理由;理想;事业v.导致;引起;"
+            "n.原因;理由;理想;事业v.导致;引き起こす;"
         ],
         "usphone": "[kɔːz]",
         "ukphone": "[kɔːz]"
@@ -8874,7 +8874,7 @@
     {
         "name": "government",
         "trans": [
-            "n.政府;治理;统治;"
+            "n.政府;治理;統治;"
         ],
         "usphone": "[ˈɡʌvərnmənt]",
         "ukphone": "[ˈɡʌvənmənt]"
@@ -8882,7 +8882,7 @@
     {
         "name": "result",
         "trans": [
-            "n.结果;成败;成效;比分v.由于;导致;"
+            "n.結果;成败;成效;比分v.由于;导致;"
         ],
         "usphone": "[rɪˈzʌlt]",
         "ukphone": "[rɪˈzʌlt]"
@@ -8938,7 +8938,7 @@
     {
         "name": "aim",
         "trans": [
-            "n.目标;目的v.瞄准;以其为目标;"
+            "n.目標;目的v.瞄准;以其为目標;"
         ],
         "usphone": "[eɪm]",
         "ukphone": "[eɪm]"
@@ -8946,7 +8946,7 @@
     {
         "name": "relation",
         "trans": [
-            "n.关联;联系;亲属;"
+            "n.关联;連絡;亲属;"
         ],
         "usphone": "[rɪˈleɪʃn]",
         "ukphone": "[rɪˈleɪʃn]"
@@ -8954,7 +8954,7 @@
     {
         "name": "painting",
         "trans": [
-            "n.绘画;油画v.刷油漆;用颜料画;“paint”的现在分词;"
+            "n.绘画;油画v.刷油漆;用颜料画;“paint”の現在分詞;"
         ],
         "usphone": "[ˈpeɪntɪŋ]",
         "ukphone": "[ˈpeɪntɪŋ]"
@@ -8970,7 +8970,7 @@
     {
         "name": "range",
         "trans": [
-            "n.（变化）范围;一系列;山脉v.包括（各种不同的人或物）;（在某范围内）变化;"
+            "n.（変化）範囲;一系列;山脉v.包括（各种不同的人或物）;（在某範囲内）変化;"
         ],
         "usphone": "[reɪndʒ]",
         "ukphone": "[reɪndʒ]"
@@ -8994,7 +8994,7 @@
     {
         "name": "confidence",
         "trans": [
-            "n.信心;信任;秘密;私事;"
+            "n.信心;信頼;秘密;私事;"
         ],
         "usphone": "[ˈkɑːnfɪdəns]",
         "ukphone": "[ˈkɒnfɪdəns]"
@@ -9034,7 +9034,7 @@
     {
         "name": "effect",
         "trans": [
-            "n.影响;作用;效果;效应v.引起;实现;使生效;"
+            "n.影響;作用;效果;效应v.引き起こす;实现;使生效;"
         ],
         "usphone": "[ɪˈfekt]",
         "ukphone": "[ɪˈfekt]"
@@ -9066,7 +9066,7 @@
     {
         "name": "variety",
         "trans": [
-            "n.变化;多样性;（同一事物）不同种类;（动植物的）品种;"
+            "n.変化;多样性;（同一事物）不同種類;（动植物的）品种;"
         ],
         "usphone": "[vəˈraɪəti]",
         "ukphone": "[vəˈraɪəti]"
@@ -9082,7 +9082,7 @@
     {
         "name": "hint",
         "trans": [
-            "n.暗示;提示;有益的建议v.暗示;提示;"
+            "n.示唆;提示;有益的提案v.示唆;提示;"
         ],
         "usphone": "[hɪnt]",
         "ukphone": "[hɪnt]"
@@ -9122,7 +9122,7 @@
     {
         "name": "solution",
         "trans": [
-            "n.解决办法;溶液;"
+            "n.解決办法;溶液;"
         ],
         "usphone": "[səˈluːʃn]",
         "ukphone": "[səˈluːʃ(ə)n]"
@@ -9146,7 +9146,7 @@
     {
         "name": "condition",
         "trans": [
-            "n.状态;条件;环境v.使适应;影响;保养;"
+            "n.状态;条件;環境v.使适应;影響;保养;"
         ],
         "usphone": "[kənˈdɪʃn]",
         "ukphone": "[kənˈdɪʃn]"
@@ -9162,7 +9162,7 @@
     {
         "name": "appearance",
         "trans": [
-            "n.出现;露面;外观;外表;"
+            "n.現れる;露面;外观;外表;"
         ],
         "usphone": "[əˈpɪrəns]",
         "ukphone": "[əˈpɪərəns]"
@@ -9210,7 +9210,7 @@
     {
         "name": "main",
         "trans": [
-            "adj.主要的;最重要的;"
+            "adj.主要な;最重要な;"
         ],
         "usphone": "[meɪn]",
         "ukphone": "[meɪn]"
@@ -9234,7 +9234,7 @@
     {
         "name": "part-time",
         "trans": [
-            "adj.兼职的;部分时间的;"
+            "adj.兼职的;部分時間的;"
         ],
         "usphone": "[ˌpɑːrt ˈtaɪm]",
         "ukphone": "[ˌpɑːt ˈtaɪm]"
@@ -9242,7 +9242,7 @@
     {
         "name": "sense",
         "trans": [
-            "n.知觉;感知;理解力;意义v.意识到;感觉到;觉察出;"
+            "n.知觉;感知;理解力;意义v.意识到;感覚到;觉察出;"
         ],
         "usphone": "[sens]",
         "ukphone": "[sens]"
@@ -9298,7 +9298,7 @@
     {
         "name": "related",
         "trans": [
-            "adj.相关的;有联系的v.关联;“relate”的过去式和过去分词;"
+            "adj.相关的;有連絡的v.关联;“relate”の過去形和过去分词;"
         ],
         "usphone": "[rɪˈleɪtɪd]",
         "ukphone": "[rɪˈleɪtɪd]"
@@ -9338,7 +9338,7 @@
     {
         "name": "sample",
         "trans": [
-            "n.样品;样本v.尝试,体验;抽样;节录;"
+            "n.样品;样本v.試み,体验;抽样;节录;"
         ],
         "usphone": "[ˈsæmpl]",
         "ukphone": "[ˈsɑːmp(ə)l]"
@@ -9370,7 +9370,7 @@
     {
         "name": "selection",
         "trans": [
-            "n.挑选;选择;"
+            "n.挑选;選択;"
         ],
         "usphone": "[sɪˈlekʃn]",
         "ukphone": "[sɪˈlekʃ(ə)n]"
@@ -9378,7 +9378,7 @@
     {
         "name": "promising",
         "trans": [
-            "adj.有希望的;有前途的v.承诺;答应;“promise”的现在分词;"
+            "adj.有希望的;有前途的v.承诺;答应;“promise”の現在分詞;"
         ],
         "usphone": "[ˈprɑːmɪsɪŋ]",
         "ukphone": "[ˈprɒmɪsɪŋ]"
@@ -9426,7 +9426,7 @@
     {
         "name": "matching",
         "trans": [
-            "n.匹配adj.匹配的;相称的v.相配;“match”的现在分词;"
+            "n.匹配adj.匹配的;相称的v.相配;“match”の現在分詞;"
         ],
         "usphone": "[ˈmætʃɪŋ]",
         "ukphone": "[ˈmætʃɪŋ]"
@@ -9490,7 +9490,7 @@
     {
         "name": "blast",
         "trans": [
-            "n.爆炸;一阵强劲的气流;突然的响声v.爆破;产生巨大噪声;"
+            "n.爆炸;一阵强劲的气流;突然的响声v.爆破;生み出す巨大噪声;"
         ],
         "usphone": "[blæst]",
         "ukphone": "[blɑːst]"
@@ -9530,7 +9530,7 @@
     {
         "name": "document",
         "trans": [
-            "n.文件;公文;文献v.记录;为…提供证明;"
+            "n.文件;公文;文献v.記録;为…提供証明;"
         ],
         "usphone": "[ˈdɑːkjumənt]",
         "ukphone": "[ˈdɒkjumənt]"
@@ -9586,7 +9586,7 @@
     {
         "name": "united",
         "trans": [
-            "adj.团结的;联合的;统一的v.（使）团结;（使）联合;（使）统一;“unite”的过去式和过去分词;"
+            "adj.团结的;連合的;统一的v.（使）团结;（使）連合;（使）统一;“unite”の過去形和过去分词;"
         ],
         "usphone": "[juˈnaɪtɪd]",
         "ukphone": "[juˈnaɪtɪd]"
@@ -9626,9 +9626,9 @@
     {
         "name": "process",
         "trans": [
-            "n.过程;进程;工序v.处理;加工;"
+            "n.过程;进程;工序v.処理;加工;"
         ],
-        "usphone": "[prəˈses；ˈprɑːses]",
+        "usphone": "[prəˈses; ˈprɑːses]",
         "ukphone": "[prəˈses; ˈprəʊses]"
     },
     {
@@ -9674,7 +9674,7 @@
     {
         "name": "identification",
         "trans": [
-            "n.识别;鉴定;身份证明;"
+            "n.识别;鉴定;身份証明;"
         ],
         "usphone": "[aɪˌdentɪfɪˈkeɪʃn]",
         "ukphone": "[aɪˌdentɪfɪˈkeɪʃn]"
@@ -9722,7 +9722,7 @@
     {
         "name": "architecture",
         "trans": [
-            "n.体系结构;建筑学;建筑设计;"
+            "n.体系结构;建筑学;建筑設計;"
         ],
         "usphone": "[ˈɑːrkɪtektʃər]",
         "ukphone": "[ˈɑːkɪtektʃə(r)]"
@@ -9746,7 +9746,7 @@
     {
         "name": "helpful",
         "trans": [
-            "adj.有益的;有帮助的;"
+            "adj.有益的;有助ける的;"
         ],
         "usphone": "[ˈhelpfl]",
         "ukphone": "[ˈhelpfl]"
@@ -9770,7 +9770,7 @@
     {
         "name": "trend",
         "trans": [
-            "n.趋势;走向v.倾向;"
+            "n.趋势;走向v.傾向;"
         ],
         "usphone": "[trend]",
         "ukphone": "[trend]"
@@ -9810,7 +9810,7 @@
     {
         "name": "placement",
         "trans": [
-            "n.放置;安排;实习工作;"
+            "n.放置;手配;实习仕事;"
         ],
         "usphone": "[ˈpleɪsmənt]",
         "ukphone": "[ˈpleɪsmənt]"
@@ -9858,7 +9858,7 @@
     {
         "name": "cultivation",
         "trans": [
-            "n.栽培;种植;培养;"
+            "n.栽培;种植;育成;"
         ],
         "usphone": "[ˌkʌltɪˈveɪʃn]",
         "ukphone": "[ˌkʌltɪˈveɪʃ(ə)n]"
@@ -9866,7 +9866,7 @@
     {
         "name": "foster",
         "trans": [
-            "v.培养;助长;抚养;"
+            "v.育成;助长;抚养;"
         ],
         "usphone": "[ˈfɑːstər]",
         "ukphone": "[ˈfɒstə(r)]"
@@ -9898,7 +9898,7 @@
     {
         "name": "fraud",
         "trans": [
-            "n.欺骗;欺诈;骗子;伪品;"
+            "n.欺く;欺诈;骗子;伪品;"
         ],
         "usphone": "[frɔːd]",
         "ukphone": "[frɔːd]"
@@ -9906,7 +9906,7 @@
     {
         "name": "fake",
         "trans": [
-            "n.赝品;假货;冒充者v.伪造;假装;冒充adj.假的;冒充的;伪造的;"
+            "n.赝品;假货;冒充者v.伪造;ふりをする;冒充adj.假的;冒充的;伪造的;"
         ],
         "usphone": "[feɪk]",
         "ukphone": "[feɪk]"
@@ -9914,7 +9914,7 @@
     {
         "name": "performance",
         "trans": [
-            "n.表演;表现;性能;履行;执行;"
+            "n.表演;表現;性能;履行;実行;"
         ],
         "usphone": "[pərˈfɔːrməns]",
         "ukphone": "[pəˈfɔːməns]"
@@ -9930,7 +9930,7 @@
     {
         "name": "inspiring",
         "trans": [
-            "adj.鼓舞的;激励的v.鼓舞;激励;“inspire”的现在分词;"
+            "adj.鼓舞的;激励的v.鼓舞;激励;“inspire”の現在分詞;"
         ],
         "usphone": "[ɪnˈspaɪərɪŋ]",
         "ukphone": "[ɪnˈspaɪərɪŋ]"
@@ -9938,7 +9938,7 @@
     {
         "name": "exciting",
         "trans": [
-            "adj.令人激动的;使人兴奋的v.使兴奋;使激动;“excite”的现在分词;"
+            "adj.令人激动的;使人兴奋的v.使兴奋;使激动;“excite”の現在分詞;"
         ],
         "usphone": "[ɪkˈsaɪtɪŋ]",
         "ukphone": "[ɪkˈsaɪtɪŋ]"
@@ -9946,7 +9946,7 @@
     {
         "name": "rising",
         "trans": [
-            "adj.上升的;高涨的n.上升;造反v.上升;提高;“rise”的现在分词;"
+            "adj.上昇的;高涨的n.上昇;造反v.上昇;向上;“rise”の現在分詞;"
         ],
         "usphone": "[ˈraɪzɪŋ]",
         "ukphone": "[ˈraɪzɪŋ]"
@@ -9954,7 +9954,7 @@
     {
         "name": "ascending",
         "trans": [
-            "adj.上升的;向上的v.上升;升高;登高;“ascend”的现在分词;"
+            "adj.上昇的;向上的v.上昇;升高;登高;“ascend”の現在分詞;"
         ],
         "usphone": "[əˈsendɪŋ]",
         "ukphone": "[əˈsendɪŋ]"
@@ -9970,7 +9970,7 @@
     {
         "name": "amount",
         "trans": [
-            "n.数量;数额v.总计;等于;"
+            "n.数量;数额v.总计;に等しい;"
         ],
         "usphone": "[əˈmaʊnt]",
         "ukphone": "[əˈmaʊnt]"
@@ -10002,7 +10002,7 @@
     {
         "name": "behavior",
         "trans": [
-            "n.举止;表现;"
+            "n.举止;表現;"
         ],
         "usphone": "[bɪˈheɪvjər]",
         "ukphone": "[bɪˈheɪvjə]"
@@ -10130,7 +10130,7 @@
     {
         "name": "organizer",
         "trans": [
-            "n.组织者;"
+            "n.組織者;"
         ],
         "usphone": "[ˈɔːrɡənaɪzər]",
         "ukphone": "[ˈɔːɡənaɪzə(r)]"
@@ -10146,7 +10146,7 @@
     {
         "name": "challenging",
         "trans": [
-            "v.提出挑战;“challenge”的现在分词adj.有挑战性的;"
+            "v.提案挑战;“challenge”の現在分詞adj.有挑战性的;"
         ],
         "usphone": "[ˈtʃælɪndʒɪŋ]",
         "ukphone": "[ˈtʃælɪndʒɪŋ]"
@@ -10154,7 +10154,7 @@
     {
         "name": "controversy",
         "trans": [
-            "n.争论;论战;"
+            "n.議論;论战;"
         ],
         "usphone": "[ˈkɑːntrəvɜːrsi]",
         "ukphone": "[ˈkɒntrəvɜːsi]"
@@ -10170,7 +10170,7 @@
     {
         "name": "rate",
         "trans": [
-            "n.比率;率;速度;进度;价格;费用;地方税;等级v.估价;值得;定级;（被）认为;被评价;"
+            "n.比率;率;速度;进度;价格;费用;地方税;等级v.評価;值得;定级;（被）考える;被評価;"
         ],
         "usphone": "[reɪt]",
         "ukphone": "[reɪt]"
@@ -10210,7 +10210,7 @@
     {
         "name": "strained",
         "trans": [
-            "adj.紧张的;不自然的v.扭伤;拉紧;“strain”的过去式和过去分词;"
+            "adj.紧张的;不自然的v.扭伤;拉紧;“strain”の過去形和过去分词;"
         ],
         "usphone": "[streɪnd]",
         "ukphone": "[streɪnd]"
@@ -10290,7 +10290,7 @@
     {
         "name": "state",
         "trans": [
-            "n.情形;状态;国家;州v.说明;陈述;声明;规定adj.国事礼仪（或规格）的;州的;邦的;"
+            "n.情形;状态;国家;州v.説明;陈述;声明;規定adj.国事礼仪（或规格）的;州的;邦的;"
         ],
         "usphone": "[steɪt]",
         "ukphone": "[steɪt]"
@@ -10298,7 +10298,7 @@
     {
         "name": "player",
         "trans": [
-            "n.玩家;运动员;选手;唱机;"
+            "n.玩家;運動员;选手;唱机;"
         ],
         "usphone": "[ˈpleɪər]",
         "ukphone": "[ˈpleɪə(r)]"
@@ -10362,7 +10362,7 @@
     {
         "name": "touching",
         "trans": [
-            "adj.感人的;动人的[介]关于;涉及v.触摸;接触;触动;“touch”的现在分词;"
+            "adj.感人的;动人的[介]关于;涉及v.触摸;接触;触动;“touch”の現在分詞;"
         ],
         "usphone": "[ˈtʌtʃɪŋ]",
         "ukphone": "[ˈtʌtʃɪŋ]"
@@ -10442,7 +10442,7 @@
     {
         "name": "decision",
         "trans": [
-            "n.决定;抉择;选择;"
+            "n.決定;抉择;選択;"
         ],
         "usphone": "[dɪˈsɪʒn]",
         "ukphone": "[dɪˈsɪʒ(ə)n]"
@@ -10466,7 +10466,7 @@
     {
         "name": "mobile",
         "trans": [
-            "adj.可移动的;易变的;"
+            "adj.可移動的;易变的;"
         ],
         "usphone": "[ˈmoʊbl]",
         "ukphone": "[ˈməʊbaɪl]"
@@ -10490,7 +10490,7 @@
     {
         "name": "association",
         "trans": [
-            "n.协会;联系;联想;"
+            "n.协会;連絡;联想;"
         ],
         "usphone": "[əˌsoʊsiˈeɪʃn; əˌsoʊʃiˈeɪʃn]",
         "ukphone": "[əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn]"
@@ -10506,7 +10506,7 @@
     {
         "name": "sex",
         "trans": [
-            "n.性;性别;男性;女性v.区别...性别;引起...性欲;"
+            "n.性;性别;男性;女性v.区别...性别;引き起こす...性欲;"
         ],
         "usphone": "[seks]",
         "ukphone": "[seks]"
@@ -10514,7 +10514,7 @@
     {
         "name": "desire",
         "trans": [
-            "n.欲望;渴望v.渴望;期望;"
+            "n.欲望;切望v.切望;期望;"
         ],
         "usphone": "[dɪˈzaɪər]",
         "ukphone": "[dɪˈzaɪə(r)]"
@@ -10538,7 +10538,7 @@
     {
         "name": "basic",
         "trans": [
-            "adj.基本的;基础的;"
+            "adj.基本的な;基础的;"
         ],
         "usphone": "[ˈbeɪsɪk]",
         "ukphone": "[ˈbeɪsɪk]"
@@ -10626,7 +10626,7 @@
     {
         "name": "plan",
         "trans": [
-            "n.计划;打算v.计划;打算;"
+            "n.計画;意図v.計画;意図;"
         ],
         "usphone": "[plæn]",
         "ukphone": "[plæn]"
@@ -10706,7 +10706,7 @@
     {
         "name": "figure",
         "trans": [
-            "n.数字;身材;重要或有名的人物v.计算;认为;弄懂;"
+            "n.数字;身材;重要或有名的人物v.計算;考える;弄懂;"
         ],
         "usphone": "[ˈfɪɡjər]",
         "ukphone": "[ˈfɪɡə(r)]"
@@ -10754,7 +10754,7 @@
     {
         "name": "conservation",
         "trans": [
-            "n.保护;保存;节约（自然资源）;"
+            "n.保護;保存;节约（自然资源）;"
         ],
         "usphone": "[ˌkɑːnsərˈveɪʃn]",
         "ukphone": "[ˌkɒnsəˈveɪʃ(ə)n]"
@@ -10778,7 +10778,7 @@
     {
         "name": "hard-working",
         "trans": [
-            "adj.勤勉的;努力工作的;"
+            "adj.勤勉的;努力仕事的;"
         ],
         "usphone": "[ˌhɑːrd ˈwɜːrkɪŋ]",
         "ukphone": "[ˌhɑːd ˈwɜːkɪŋ]"
@@ -10786,7 +10786,7 @@
     {
         "name": "workload",
         "trans": [
-            "n.工作量;"
+            "n.仕事量;"
         ],
         "usphone": "[ˈwɜːrkloʊd]",
         "ukphone": "[ˈwɜːkləʊd]"
@@ -10810,7 +10810,7 @@
     {
         "name": "frequent",
         "trans": [
-            "adj.频繁的;经常发生的;"
+            "adj.频繁的;经常発生的;"
         ],
         "usphone": "[ˈfriːkwənt; friˈkwent]",
         "ukphone": "[ˈfriːkwənt]"
@@ -10834,7 +10834,7 @@
     {
         "name": "perk",
         "trans": [
-            "v.振作;恢复;抬头;滤煮n.额外补贴;"
+            "v.振作;回復;抬头;滤煮n.额外补贴;"
         ],
         "usphone": "[pɜːrk]",
         "ukphone": "[pɜːk]"
@@ -10874,7 +10874,7 @@
     {
         "name": "favor",
         "trans": [
-            "n.喜爱;赞同;好感;好意;恩惠v.赞成;有利于;偏爱;"
+            "n.喜爱;赞同;好感;好意;恩惠v.賛成;有利于;偏爱;"
         ],
         "usphone": "[ˈfeɪvər]",
         "ukphone": "[ˈfeɪvə(r)]"
@@ -10962,7 +10962,7 @@
     {
         "name": "making",
         "trans": [
-            "n.生产;制造v.做;制作;使得;“make”的现在分词;"
+            "n.生产;制造v.做;制作;使得;“make”の現在分詞;"
         ],
         "usphone": "[ˈmeɪkɪŋ]",
         "ukphone": "[ˈmeɪkɪŋ]"
@@ -10970,7 +10970,7 @@
     {
         "name": "advertising",
         "trans": [
-            "n.做广告;广告业;广告活动adj.广告的v.做广告;登广告;“advertise”的现在分词;"
+            "n.做广告;广告业;广告活动adj.广告的v.做广告;登广告;“advertise”の現在分詞;"
         ],
         "usphone": "[ˈædvərtaɪzɪŋ]",
         "ukphone": "[ˈædvətaɪzɪŋ]"
@@ -11034,7 +11034,7 @@
     {
         "name": "washing",
         "trans": [
-            "n.要洗的衣物;洗好的衣物adj.洗涤用的v.洗;洗涤;“wash”的现在分词;"
+            "n.要洗的衣物;洗好的衣物adj.洗涤用的v.洗;洗涤;“wash”の現在分詞;"
         ],
         "usphone": "[ˈwɑːʃɪŋ]",
         "ukphone": "[ˈwɒʃɪŋ]"
@@ -11050,7 +11050,7 @@
     {
         "name": "elements",
         "trans": [
-            "n.天气;（尤指）风雨n.元素;要素;成分;“element”的复数;"
+            "n.天气;（尤指）风雨n.元素;要素;成分;“element”の複数形;"
         ],
         "usphone": "[ˈelɪmənts]",
         "ukphone": "[ˈelɪmənts]"
@@ -11146,7 +11146,7 @@
     {
         "name": "design",
         "trans": [
-            "v.设计;计划;谋划;构思n.设计;图案;花样;企图;图谋;"
+            "v.設計;計画;谋划;构思n.設計;图案;花样;企图;图谋;"
         ],
         "usphone": "[dɪˈzaɪn]",
         "ukphone": "[dɪˈzaɪn]"
@@ -11210,7 +11210,7 @@
     {
         "name": "institute",
         "trans": [
-            "n.协会;学院;研究所;机构v.建立;制定;开创;开始;"
+            "n.协会;学院;研究所;机构v.確立;制定;开创;始める;"
         ],
         "usphone": "[ˈɪnstɪtuːt]",
         "ukphone": "[ˈɪnstɪtjuːt]"
@@ -11242,7 +11242,7 @@
     {
         "name": "debate",
         "trans": [
-            "v.辩论;争论n.辩论;争论;"
+            "v.辩论;議論n.辩论;議論;"
         ],
         "usphone": "[dɪˈbeɪt]",
         "ukphone": "[dɪˈbeɪt]"
@@ -11250,7 +11250,7 @@
     {
         "name": "shuttle",
         "trans": [
-            "n.梭子;穿梭;往返移动之物;航天飞机v.穿梭移动;往返运送;"
+            "n.梭子;穿梭;往返移動之物;航天飞机v.穿梭移動;往返运送;"
         ],
         "usphone": "[ˈʃʌtl]",
         "ukphone": "[ˈʃʌt(ə)l]"
@@ -11346,7 +11346,7 @@
     {
         "name": "enormous",
         "trans": [
-            "adj.巨大的;庞大的;大量的;"
+            "adj.巨大な;庞大的;大量の;"
         ],
         "usphone": "[ɪˈnɔːrməs]",
         "ukphone": "[ɪˈnɔːməs]"
@@ -11370,7 +11370,7 @@
     {
         "name": "draw",
         "trans": [
-            "v.拉;拽;画;提取;吸引;"
+            "v.拉;拽;画;提取;引き付ける;"
         ],
         "usphone": "[drɔː]",
         "ukphone": "[drɔː]"
@@ -11378,7 +11378,7 @@
     {
         "name": "concession",
         "trans": [
-            "n.让步;（退一步）承认;特许权;减价票;销售场地;摊位;"
+            "n.让步;（退一步）認める;特许权;减价票;销售场地;摊位;"
         ],
         "usphone": "[kənˈseʃn]",
         "ukphone": "[kənˈseʃn]"
@@ -11434,7 +11434,7 @@
     {
         "name": "exchange",
         "trans": [
-            "n.交换;交易所;兑换v.交换;兑换;"
+            "n.交换;取引所;兑换v.交换;兑换;"
         ],
         "usphone": "[ɪksˈtʃeɪndʒ]",
         "ukphone": "[ɪksˈtʃeɪndʒ]"
@@ -11466,7 +11466,7 @@
     {
         "name": "overall",
         "trans": [
-            "[副]全部;总计;大致上n.（工作时穿的）罩衣adj.总的;全面的;总体的;"
+            "[副]全部;总计;大致上n.（仕事时穿的）罩衣adj.总的;全面的;总体的;"
         ],
         "usphone": "[ˌoʊvərˈɔːl; ˈoʊvərɔːl]",
         "ukphone": "[ˌəʊvərˈɔːl; ˈəʊvərɔːl]"
@@ -11490,7 +11490,7 @@
     {
         "name": "ground",
         "trans": [
-            "n.地面;土地;场地;根据v.磨碎;“grind”的过去式和过去分词;"
+            "n.地面;土地;场地;根据v.磨碎;“grind”の過去形和过去分词;"
         ],
         "usphone": "[ɡraʊnd]",
         "ukphone": "[ɡraʊnd]"
@@ -11498,7 +11498,7 @@
     {
         "name": "fair",
         "trans": [
-            "adj.公平的;合理的;相当大的n.交易会;展销会;集市;"
+            "adj.公平的;合理的;相当大的n.取引会;展销会;集市;"
         ],
         "usphone": "[fer]",
         "ukphone": "[feə(r)]"
@@ -11506,7 +11506,7 @@
     {
         "name": "memorise",
         "trans": [
-            "v.记住;记忆;"
+            "v.记住;記憶;"
         ],
         "usphone": "[ˈmeməraɪz]",
         "ukphone": "[ˈmeməraɪz]"
@@ -11530,7 +11530,7 @@
     {
         "name": "ending",
         "trans": [
-            "n.结束;结局v.结束;“end”的现在分词;"
+            "n.終わる;结局v.終わる;“end”の現在分詞;"
         ],
         "usphone": "[ˈendɪŋ]",
         "ukphone": "[ˈendɪŋ]"
@@ -11546,7 +11546,7 @@
     {
         "name": "super",
         "trans": [
-            "adj.超级的;极好的;"
+            "adj.超级的;素晴らしい;"
         ],
         "usphone": "[ˈsuːpər]",
         "ukphone": "[ˈsuːpə(r)]"
@@ -11642,7 +11642,7 @@
     {
         "name": "evidence",
         "trans": [
-            "n.证据;证明;"
+            "n.证据;証明;"
         ],
         "usphone": "[ˈevɪdəns]",
         "ukphone": "[ˈevɪdəns]"
@@ -11658,7 +11658,7 @@
     {
         "name": "negative",
         "trans": [
-            "adj.否定的;消极的;负面的n.否定的表达;负数;底片;"
+            "adj.否定的;消极的;负面的n.否定的表現;负数;底片;"
         ],
         "usphone": "[ˈneɡətɪv]",
         "ukphone": "[ˈneɡətɪv]"
@@ -11682,7 +11682,7 @@
     {
         "name": "confirmation",
         "trans": [
-            "n.证实;确认;批准;"
+            "n.证实;确认;承認;"
         ],
         "usphone": "[ˌkɑːnfərˈmeɪʃn]",
         "ukphone": "[ˌkɒnfəˈmeɪʃ(ə)n]"
@@ -11746,7 +11746,7 @@
     {
         "name": "scarce",
         "trans": [
-            "adj.缺乏的;不足的;稀有的;"
+            "adj.欠如的;不足的;稀有的;"
         ],
         "usphone": "[skers]",
         "ukphone": "[skeəs]"
@@ -11794,7 +11794,7 @@
     {
         "name": "scheme",
         "trans": [
-            "n.阴谋;计划v.密谋;策划;"
+            "n.阴谋;計画v.密谋;策划;"
         ],
         "usphone": "[skiːm]",
         "ukphone": "[skiːm]"
@@ -11874,7 +11874,7 @@
     {
         "name": "correspondence",
         "trans": [
-            "n.通信联系;符合;一致;"
+            "n.通信連絡;符合;一致;"
         ],
         "usphone": "[ˌkɔːrəˈspɑːndəns]",
         "ukphone": "[ˌkɒrəˈspɒndəns]"
@@ -11906,7 +11906,7 @@
     {
         "name": "approval",
         "trans": [
-            "n.赞成;批准;"
+            "n.賛成;承認;"
         ],
         "usphone": "[əˈpruːvl]",
         "ukphone": "[əˈpruːv(ə)l]"
@@ -11938,7 +11938,7 @@
     {
         "name": "performer",
         "trans": [
-            "n.表演者;执行者;演出者;"
+            "n.表演者;実行者;演出者;"
         ],
         "usphone": "[pərˈfɔːrmər]",
         "ukphone": "[pəˈfɔːmə(r)]"
@@ -11994,7 +11994,7 @@
     {
         "name": "prone",
         "trans": [
-            "adj.俯卧的;易于...的;有...倾向的;"
+            "adj.俯卧的;易于...的;有...傾向的;"
         ],
         "usphone": "[proʊn]",
         "ukphone": "[prəʊn]"
@@ -12002,7 +12002,7 @@
     {
         "name": "essential",
         "trans": [
-            "adj.必需的;基本的;本质的n.必需品;"
+            "adj.必需的;基本的な;本质的n.必需品;"
         ],
         "usphone": "[ɪˈsenʃl]",
         "ukphone": "[ɪˈsenʃl]"
@@ -12010,7 +12010,7 @@
     {
         "name": "fundamental",
         "trans": [
-            "adj.基本的;基础的;根本的n.基本原则;基本原理;"
+            "adj.基本的な;基础的;根本的n.基本原则;基本原理;"
         ],
         "usphone": "[ˌfʌndəˈmentl]",
         "ukphone": "[ˌfʌndəˈment(ə)l]"
@@ -12098,7 +12098,7 @@
     {
         "name": "barren",
         "trans": [
-            "adj.贫瘠的;不结果实的;不孕的;无价值的;"
+            "adj.贫瘠的;不結果实的;不孕的;无价值的;"
         ],
         "usphone": "[ˈbærən]",
         "ukphone": "[ˈbærən]"
@@ -12106,7 +12106,7 @@
     {
         "name": "event",
         "trans": [
-            "n.事件;大事;比赛项目;"
+            "n.事件;大事;試合项目;"
         ],
         "usphone": "[ɪˈvent]",
         "ukphone": "[ɪˈvent]"
@@ -12170,7 +12170,7 @@
     {
         "name": "immune",
         "trans": [
-            "adj.免疫的;有免疫力的;不受影响的;"
+            "adj.免疫的;有免疫力的;不受影響的;"
         ],
         "usphone": "[ɪˈmjuːn]",
         "ukphone": "[ɪˈmjuːn]"
@@ -12194,7 +12194,7 @@
     {
         "name": "carving",
         "trans": [
-            "n.雕刻品;雕刻图案v.雕刻;切开;“carve”的现在分词;"
+            "n.雕刻品;雕刻图案v.雕刻;切开;“carve”の現在分詞;"
         ],
         "usphone": "[ˈkɑːrvɪŋ]",
         "ukphone": "[ˈkɑːvɪŋ]"
@@ -12218,7 +12218,7 @@
     {
         "name": "poll",
         "trans": [
-            "n.民意调查v.获得（选票）;做民意调查;"
+            "n.民意調査v.得る（选票）;做民意調査;"
         ],
         "usphone": "[poʊl]",
         "ukphone": "[pəʊl]"
@@ -12234,7 +12234,7 @@
     {
         "name": "hunting",
         "trans": [
-            "n.打猎;寻找v.打猎;搜寻;“hunt”的现在分词;"
+            "n.打猎;寻找v.打猎;搜寻;“hunt”の現在分詞;"
         ],
         "usphone": "[ˈhʌntɪŋ]",
         "ukphone": "[ˈhʌntɪŋ]"
@@ -12266,7 +12266,7 @@
     {
         "name": "sailing",
         "trans": [
-            "n.航海;帆船运动;水运航班v.航行;驾（船）;“sail”的现在分词;"
+            "n.航海;帆船運動;水运航班v.航行;驾（船）;“sail”の現在分詞;"
         ],
         "usphone": "[ˈseɪlɪŋ]",
         "ukphone": "[ˈseɪlɪŋ]"
@@ -12274,7 +12274,7 @@
     {
         "name": "rows",
         "trans": [
-            "n.行;排;划船;吵闹;“row”的复数v.划船;将...排成排;吵架;“row”的第三人称单数;"
+            "n.行;排;划船;吵闹;“row”の複数形v.划船;将...排成排;吵架;“row”的第三人称单数;"
         ],
         "usphone": "[roz]",
         "ukphone": "[rəʊz]"
@@ -12282,7 +12282,7 @@
     {
         "name": "maintain",
         "trans": [
-            "v.保持;坚持认为;维护;供养;"
+            "v.維持;堅持考える;维护;供养;"
         ],
         "usphone": "[meɪnˈteɪn]",
         "ukphone": "[meɪnˈteɪn]"
@@ -12306,7 +12306,7 @@
     {
         "name": "surrounding",
         "trans": [
-            "adj.周围的;附近的v.环绕;围绕;“surround”的现在分词;"
+            "adj.周围的;附近的v.环绕;围绕;“surround”の現在分詞;"
         ],
         "usphone": "[səˈraʊndɪŋ]",
         "ukphone": "[səˈraʊndɪŋ]"
@@ -12378,7 +12378,7 @@
     {
         "name": "addition",
         "trans": [
-            "n.增加;加法;附加物;"
+            "n.増加;加法;附加物;"
         ],
         "usphone": "[əˈdɪʃn]",
         "ukphone": "[əˈdɪʃn]"
@@ -12386,7 +12386,7 @@
     {
         "name": "sacked",
         "trans": [
-            "v.解雇;装入袋子;劫掠;“sack”的过去式和过去分词;"
+            "v.解雇;装入袋子;劫掠;“sack”の過去形和过去分词;"
         ],
         "usphone": "[sækt]",
         "ukphone": "[sækt]"
@@ -12418,7 +12418,7 @@
     {
         "name": "reinforced",
         "trans": [
-            "adj.加强的v.增强;“reinforce”的过去式和过去分词;"
+            "adj.強化的v.增强;“reinforce”の過去形和过去分词;"
         ],
         "usphone": "[,riɪn'fɔrst]",
         "ukphone": "[riːɪn'fɔːst]"
@@ -12426,7 +12426,7 @@
     {
         "name": "highly-trained",
         "trans": [
-            "adj.高度训练的;训练有素的;"
+            "adj.高度訓練的;訓練有素的;"
         ],
         "usphone": "",
         "ukphone": ""
@@ -12434,7 +12434,7 @@
     {
         "name": "vary",
         "trans": [
-            "v.改变;变化;使多样化;"
+            "v.変える;変化;使多样化;"
         ],
         "usphone": "[ˈveri]",
         "ukphone": "[ˈveəri]"
@@ -12490,7 +12490,7 @@
     {
         "name": "housing",
         "trans": [
-            "n.住房供给v.收容;“house”的现在分词;"
+            "n.住房供给v.收容;“house”の現在分詞;"
         ],
         "usphone": "[ˈhaʊzɪŋ]",
         "ukphone": "[ˈhaʊzɪŋ]"
@@ -12538,7 +12538,7 @@
     {
         "name": "value",
         "trans": [
-            "n.价值;（数）值v.估价;重视;"
+            "n.价值;（数）值v.評価;重视;"
         ],
         "usphone": "[ˈvæljuː]",
         "ukphone": "[ˈvæljuː]"
@@ -12570,7 +12570,7 @@
     {
         "name": "satisfaction",
         "trans": [
-            "n.满意;满足;"
+            "n.满意;満たす;"
         ],
         "usphone": "[ˌsætɪsˈfækʃn]",
         "ukphone": "[ˌsætɪsˈfækʃn]"
@@ -12602,7 +12602,7 @@
     {
         "name": "discovery",
         "trans": [
-            "n.发现;发觉;"
+            "n.発見;发觉;"
         ],
         "usphone": "[dɪˈskʌvəri]",
         "ukphone": "[dɪˈskʌvəri]"
@@ -12634,7 +12634,7 @@
     {
         "name": "objective",
         "trans": [
-            "n.目标;目的adj.客观的;"
+            "n.目標;目的adj.客观的;"
         ],
         "usphone": "[əbˈdʒektɪv]",
         "ukphone": "[əbˈdʒektɪv]"
@@ -12666,7 +12666,7 @@
     {
         "name": "development",
         "trans": [
-            "n.发展;开发;"
+            "n.発展;开发;"
         ],
         "usphone": "[dɪˈveləpmənt]",
         "ukphone": "[dɪˈveləpmənt]"
@@ -12690,7 +12690,7 @@
     {
         "name": "trade",
         "trans": [
-            "n.贸易;交易;行业v.贸易;交易;"
+            "n.贸易;取引;行业v.贸易;取引;"
         ],
         "usphone": "[treɪd]",
         "ukphone": "[treɪd]"
@@ -12802,7 +12802,7 @@
     {
         "name": "critical",
         "trans": [
-            "adj.批判性的;临界的;危急的;关键的;至关重要的;"
+            "adj.批判性的;临界的;危急的;关键的;至关重要な;"
         ],
         "usphone": "[ˈkrɪtɪkl]",
         "ukphone": "[ˈkrɪtɪk(ə)l]"
@@ -12858,7 +12858,7 @@
     {
         "name": "seasoned",
         "trans": [
-            "adj.富有经验的;加佐料的;风干的v.给...调味;适应;风干;“season”的过去式和过去分词;"
+            "adj.富有经验的;加佐料的;风干的v.给...调味;适应;风干;“season”の過去形和过去分词;"
         ],
         "usphone": "[ˈsiːznd]",
         "ukphone": "[ˈsiːz(ə)nd]"
@@ -12994,7 +12994,7 @@
     {
         "name": "lessen",
         "trans": [
-            "v.减少;减轻;缩小;"
+            "v.減らす;軽減;缩小;"
         ],
         "usphone": "[ˈlesn]",
         "ukphone": "[ˈlesn]"
@@ -13018,7 +13018,7 @@
     {
         "name": "reserve",
         "trans": [
-            "v.保留;储备;预订n.储备;保留;保护区;候补;"
+            "v.保留;储备;预订n.储备;保留;保護区;候补;"
         ],
         "usphone": "[rɪˈzɜːrv]",
         "ukphone": "[rɪˈzɜːv]"
@@ -13082,7 +13082,7 @@
     {
         "name": "amazing",
         "trans": [
-            "adj.令人惊异的;令人惊叹的v.使惊奇;使吃惊;“amaze”的现在分词;"
+            "adj.令人惊异的;令人惊叹的v.使惊奇;使吃惊;“amaze”の現在分詞;"
         ],
         "usphone": "[əˈmeɪzɪŋ]",
         "ukphone": "[əˈmeɪzɪŋ]"
@@ -13106,7 +13106,7 @@
     {
         "name": "enhance",
         "trans": [
-            "v.提高;增强;"
+            "v.向上;增强;"
         ],
         "usphone": "[ɪnˈhæns]",
         "ukphone": "[ɪnˈhɑːns]"
@@ -13114,7 +13114,7 @@
     {
         "name": "improve",
         "trans": [
-            "v.改善;改进;提高;"
+            "v.改善;改进;向上;"
         ],
         "usphone": "[ɪmˈpruːv]",
         "ukphone": "[ɪmˈpruːv]"
@@ -13242,7 +13242,7 @@
     {
         "name": "assistance",
         "trans": [
-            "n.帮助;援助;协助;"
+            "n.助ける;援助;协助;"
         ],
         "usphone": "[əˈsɪstəns]",
         "ukphone": "[əˈsɪstəns]"
@@ -13258,7 +13258,7 @@
     {
         "name": "awful",
         "trans": [
-            "adj.可怕的;糟糕的;讨厌的[副]非常;极其;"
+            "adj.恐ろしい;糟糕的;讨厌的[副]非常に;极其;"
         ],
         "usphone": "[ˈɔːf(ə)l]",
         "ukphone": "[ˈɔːf(ə)l]"
@@ -13266,7 +13266,7 @@
     {
         "name": "appeal",
         "trans": [
-            "n.恳求;呼吁;上诉;吸引力v.呼吁;吸引;诉请;"
+            "n.恳求;呼吁;上诉;引き付ける力v.呼吁;引き付ける;诉请;"
         ],
         "usphone": "[əˈpiːl]",
         "ukphone": "[əˈpiːl]"
@@ -13378,7 +13378,7 @@
     {
         "name": "alternative",
         "trans": [
-            "adj.供选择的n.供替代的选择;"
+            "adj.供選択的n.供替代的選択;"
         ],
         "usphone": "[ɔːlˈtɜːrnətɪv]",
         "ukphone": "[ɔːlˈtɜːnətɪv]"
@@ -13538,7 +13538,7 @@
     {
         "name": "steering",
         "trans": [
-            "n.转向;操纵;掌舵v.操纵;掌舵;“steer”的现在分词;"
+            "n.转向;操纵;掌舵v.操纵;掌舵;“steer”の現在分詞;"
         ],
         "usphone": "[ˈstɪrɪŋ]",
         "ukphone": "[ˈstɪərɪŋ]"
@@ -13554,7 +13554,7 @@
     {
         "name": "influence",
         "trans": [
-            "n.影响（力）;有影响的人或物v.影响;"
+            "n.影響（力）;有影響的人或物v.影響;"
         ],
         "usphone": "[ˈɪnfluəns]",
         "ukphone": "[ˈɪnfluəns]"
@@ -13578,7 +13578,7 @@
     {
         "name": "disposal",
         "trans": [
-            "n.处理;处置;"
+            "n.処理;处置;"
         ],
         "usphone": "[dɪˈspoʊzl]",
         "ukphone": "[dɪˈspəʊzl]"
@@ -13714,7 +13714,7 @@
     {
         "name": "initial",
         "trans": [
-            "adj.最初的;开始的n.首字母v.用姓名的首字母签名于;"
+            "adj.最初的;始める的n.首字母v.用姓名的首字母签名于;"
         ],
         "usphone": "[ɪˈnɪʃl]",
         "ukphone": "[ɪˈnɪʃl]"
@@ -13722,7 +13722,7 @@
     {
         "name": "scale",
         "trans": [
-            "n.规模;等级;秤;刻度;比例（尺）v.改变…大小;攀登;"
+            "n.规模;等级;秤;刻度;比例（尺）v.変える…大小;攀登;"
         ],
         "usphone": "[skeɪl]",
         "ukphone": "[skeɪl]"
@@ -13786,7 +13786,7 @@
     {
         "name": "raw",
         "trans": [
-            "adj.生的;未加工处理过的;"
+            "adj.生的;未加工処理过的;"
         ],
         "usphone": "[rɔː]",
         "ukphone": "[rɔː]"
@@ -13890,7 +13890,7 @@
     {
         "name": "concentration",
         "trans": [
-            "n.专注;关注;聚集;浓度;"
+            "n.专注;关注;集まる;浓度;"
         ],
         "usphone": "[ˌkɑːnsnˈtreɪʃn]",
         "ukphone": "[ˌkɒns(ə)nˈtreɪʃ(ə)n]"
@@ -13922,7 +13922,7 @@
     {
         "name": "monitor",
         "trans": [
-            "n.监视器;班长;显示器v.监控;监视;"
+            "n.监视器;班长;表す器v.监控;监视;"
         ],
         "usphone": "[ˈmɑːnɪtər]",
         "ukphone": "[ˈmɒnɪtə(r)]"
@@ -13978,7 +13978,7 @@
     {
         "name": "stretching",
         "trans": [
-            "adj.伸展的n.延伸;伸长v.伸展;延伸;“stretch”的现在分词;"
+            "adj.伸展的n.延伸;伸长v.伸展;延伸;“stretch”の現在分詞;"
         ],
         "usphone": "",
         "ukphone": ""
@@ -14002,7 +14002,7 @@
     {
         "name": "computer programmer",
         "trans": [
-            "[短语]计算机程序员;"
+            "[短语]コンピュータ程序员;"
         ],
         "usphone": "",
         "ukphone": ""
@@ -14018,7 +14018,7 @@
     {
         "name": "strict control",
         "trans": [
-            "[短语]严格控制;"
+            "[短语]严格制御;"
         ],
         "usphone": "",
         "ukphone": ""
@@ -14074,7 +14074,7 @@
     {
         "name": "calculating",
         "trans": [
-            "adj.计算用的;精于算计的v.计算;“calculate”的现在分词;"
+            "adj.計算用的;精于算计的v.計算;“calculate”の現在分詞;"
         ],
         "usphone": "[ˈkælkjuleɪtɪŋ]",
         "ukphone": "[ˈkælkjuleɪtɪŋ]"
@@ -14114,7 +14114,7 @@
     {
         "name": "accountable",
         "trans": [
-            "adj.负有责任的;（应作）解释的;"
+            "adj.负有责任的;（应作）解釈的;"
         ],
         "usphone": "[əˈkaʊntəbl]",
         "ukphone": "[əˈkaʊntəbl]"
@@ -14178,7 +14178,7 @@
     {
         "name": "evolution",
         "trans": [
-            "n.进化;演变;发展;"
+            "n.进化;演变;発展;"
         ],
         "usphone": "[ˌevəˈluːʃn]",
         "ukphone": "[ˌiːvəˈluːʃ(ə)n]"
@@ -14210,7 +14210,7 @@
     {
         "name": "buried",
         "trans": [
-            "adj.埋在地下的v.埋葬;埋藏;“bury”的过去式和过去分词;"
+            "adj.埋在地下的v.埋葬;埋藏;“bury”の過去形和过去分词;"
         ],
         "usphone": "[ˈberid]",
         "ukphone": "[ˈberid]"
@@ -14242,7 +14242,7 @@
     {
         "name": "hearing",
         "trans": [
-            "n.听力;听觉v.听;听见;“hear”的现在分词;"
+            "n.听力;听觉v.听;听见;“hear”の現在分詞;"
         ],
         "usphone": "[ˈhɪrɪŋ]",
         "ukphone": "[ˈhɪərɪŋ]"
@@ -14282,7 +14282,7 @@
     {
         "name": "flooding",
         "trans": [
-            "n.洪水泛滥v.淹没;泛滥;“flood”的现在分词;"
+            "n.洪水泛滥v.淹没;泛滥;“flood”の現在分詞;"
         ],
         "usphone": "[ˈflʌdɪŋ]",
         "ukphone": "[ˈflʌdɪŋ]"
@@ -14354,7 +14354,7 @@
     {
         "name": "times",
         "trans": [
-            "[介]乘以n.时间;倍;次数;时期;“time”的复数v.计时;安排时间;“time”的第三人称单数;"
+            "[介]乘以n.時間;倍;次数;时期;“time”の複数形v.计时;手配時間;“time”的第三人称单数;"
         ],
         "usphone": "[taɪmz]",
         "ukphone": "[taɪmz]"
@@ -14370,7 +14370,7 @@
     {
         "name": "equals",
         "trans": [
-            "v.等于;比得上;“equal”的第三人称单数n.同等的人;相等物;“equal”的复数;"
+            "v.に等しい;比得上;“equal”的第三人称单数n.同等的人;相等物;“equal”の複数形;"
         ],
         "usphone": "[ˈiːkwəlz]",
         "ukphone": "[ˈiːkwəlz]"
@@ -14378,7 +14378,7 @@
     {
         "name": "time",
         "trans": [
-            "n.时间;倍;次数;时期v.计时;安排时间adj.时间的;定时的;分期的;"
+            "n.時間;倍;次数;时期v.计时;手配時間adj.時間的;定时的;分期的;"
         ],
         "usphone": "[taɪm]",
         "ukphone": "[taɪm]"
@@ -14386,7 +14386,7 @@
     {
         "name": "second",
         "trans": [
-            "n.第二;秒;片刻adj.第二的[副]第二v.支持,附议;"
+            "n.第二;秒;片刻adj.第二的[副]第二v.支援,附议;"
         ],
         "usphone": "[ˈsekənd; sɪˈkɑːnd]",
         "ukphone": "[ˈsekənd]"
@@ -14450,7 +14450,7 @@
     {
         "name": "weekday",
         "trans": [
-            "n.工作日（周一至周五中的任何一天）;"
+            "n.仕事日（周一至周五中的任何一天）;"
         ],
         "usphone": "[ˈwiːkdeɪ]",
         "ukphone": "[ˈwiːkdeɪ]"
@@ -14474,7 +14474,7 @@
     {
         "name": "starting",
         "trans": [
-            "n.开始;出发v.开始;“start”的现在分词;"
+            "n.始める;出发v.始める;“start”の現在分詞;"
         ],
         "usphone": "[ˈstɑrtɪŋ]",
         "ukphone": "['sta:tiŋ]"
@@ -14514,7 +14514,7 @@
     {
         "name": "present",
         "trans": [
-            "n.目前;礼物adj.在场的;目前的v.呈现;提出;"
+            "n.目前;礼物adj.在场的;目前的v.呈现;提案;"
         ],
         "usphone": "[ˈpreznt]",
         "ukphone": "[ˈprez(ə)nt]"
@@ -14522,7 +14522,7 @@
     {
         "name": "duration",
         "trans": [
-            "n.持续时间;期间;"
+            "n.持续時間;期间;"
         ],
         "usphone": "[duˈreɪʃn]",
         "ukphone": "[djuˈreɪʃn]"
@@ -15130,7 +15130,7 @@
     {
         "name": "promotion",
         "trans": [
-            "n.促进;提升;推广;"
+            "n.促進;提升;推广;"
         ],
         "usphone": "[prəˈmoʊʃn]",
         "ukphone": "[prəˈməʊʃn]"
@@ -15258,7 +15258,7 @@
     {
         "name": "code",
         "trans": [
-            "n.代码;密码;编码;行为准则;法典;法规v.编码;"
+            "n.代码;密码;编码;行為准则;法典;法规v.编码;"
         ],
         "usphone": "[koʊd]",
         "ukphone": "[kəʊd]"
@@ -15274,7 +15274,7 @@
     {
         "name": "rocket",
         "trans": [
-            "n.火箭v.飞速上升;骤增;"
+            "n.火箭v.飞速上昇;骤增;"
         ],
         "usphone": "[ˈrɑːkɪt]",
         "ukphone": "[ˈrɒkɪt]"

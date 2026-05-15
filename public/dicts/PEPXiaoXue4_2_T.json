@@ -2,7 +2,7 @@
     {
         "name": "first floor",
         "trans": [
-            "一楼（美）；二楼（英）"
+            "一楼（美）; 二楼（英）"
         ],
         "usphone": "",
         "ukphone": ""
@@ -42,7 +42,7 @@
     {
         "name": "computer room",
         "trans": [
-            "计算机房"
+            "コンピュータ房"
         ],
         "usphone": "",
         "ukphone": ""
@@ -186,7 +186,7 @@
     {
         "name": "over",
         "trans": [
-            "结束"
+            "終わる"
         ],
         "usphone": "'ovɚ",
         "ukphone": "'əʊvə"

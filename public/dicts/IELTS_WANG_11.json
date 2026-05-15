@@ -218,7 +218,7 @@
     {
         "name": "automatic",
         "trans": [
-            "自动的"
+            "自動詞的"
         ],
         "usphone": "ˌɔːtəˈmætɪk",
         "ukphone": "ˌɔːtəˈmætɪk"
@@ -258,7 +258,7 @@
     {
         "name": "enjoyable",
         "trans": [
-            "令人愉快的，好玩的"
+            "令人愉快的、好玩的"
         ],
         "usphone": "ɪnˈdʒɔɪəbl",
         "ukphone": "ɪnˈdʒɔɪəbl"
@@ -298,7 +298,7 @@
     {
         "name": "moderate",
         "trans": [
-            "温和的，中度的"
+            "温和的、中度的"
         ],
         "usphone": "ˈmɒdərət , ˈmɒdəreɪt",
         "ukphone": "ˈmɑːdərət , ˈmɑːdəreɪt"
@@ -322,7 +322,7 @@
     {
         "name": "categories",
         "trans": [
-            "分类；类别"
+            "分类; 类别"
         ],
         "usphone": "ˈkætɪgəriz",
         "ukphone": "ˈkætəˌgɔːriz"
@@ -330,7 +330,7 @@
     {
         "name": "variable",
         "trans": [
-            "变化的"
+            "変化的"
         ],
         "usphone": "ˈveəriəbl",
         "ukphone": "ˈveriəbl"
@@ -386,7 +386,7 @@
     {
         "name": "package",
         "trans": [
-            "（话费，旅游等）套餐"
+            "（话费、旅游等）套餐"
         ],
         "usphone": "ˈpækɪdʒ",
         "ukphone": "ˈpækɪdʒ"
@@ -498,7 +498,7 @@
     {
         "name": "studio",
         "trans": [
-            "工作室"
+            "仕事室"
         ],
         "usphone": "ˈstjuːdiəʊ",
         "ukphone": "ˈstuːdioʊ"
@@ -554,7 +554,7 @@
     {
         "name": "infection",
         "trans": [
-            "传染，感染"
+            "传染、感染"
         ],
         "usphone": "ɪnˈfekʃn",
         "ukphone": "ɪnˈfekʃn"
@@ -658,7 +658,7 @@
     {
         "name": "shade",
         "trans": [
-            "阴影，树荫"
+            "阴影、树荫"
         ],
         "usphone": "ʃeɪd",
         "ukphone": "ʃeɪd"
@@ -690,7 +690,7 @@
     {
         "name": "cleaned",
         "trans": [
-            "干净的，已清洁的"
+            "干净的、已清洁的"
         ],
         "usphone": "kliːnd",
         "ukphone": "kliːnd"
@@ -706,7 +706,7 @@
     {
         "name": "cooled",
         "trans": [
-            "冷却的，冷却"
+            "冷却的、冷却"
         ],
         "usphone": "ku:ld",
         "ukphone": "ku:ld"
@@ -714,7 +714,7 @@
     {
         "name": "sealed",
         "trans": [
-            "密封的，密封"
+            "密封的、密封"
         ],
         "usphone": "siːld",
         "ukphone": "siːld"
@@ -770,7 +770,7 @@
     {
         "name": "survey",
         "trans": [
-            "调查"
+            "調査"
         ],
         "usphone": "ˈsɜːveɪ , səˈveɪ",
         "ukphone": "ˈsɜːrveɪ , sərˈveɪ"
@@ -786,7 +786,7 @@
     {
         "name": "pegs",
         "trans": [
-            "钉桩；钉子"
+            "钉桩; 钉子"
         ],
         "usphone": null,
         "ukphone": null
@@ -874,7 +874,7 @@
     {
         "name": "Sweden",
         "trans": [
-            "瑞典"
+            "スウェーデン"
         ],
         "usphone": "'swidən",
         "ukphone": "'swidən"
@@ -1010,7 +1010,7 @@
     {
         "name": "dirt",
         "trans": [
-            "泥土，灰尘"
+            "泥土、灰尘"
         ],
         "usphone": "dɜːt",
         "ukphone": "dɜːrt"
@@ -1026,7 +1026,7 @@
     {
         "name": "spa",
         "trans": [
-            "水疗，温泉疗养地"
+            "水疗、温泉疗养地"
         ],
         "usphone": "spɑː",
         "ukphone": "spɑː"
@@ -1218,7 +1218,7 @@
     {
         "name": "occupancy",
         "trans": [
-            "居住，占据"
+            "居住、占据"
         ],
         "usphone": "ˈɒkjəpənsi",
         "ukphone": "ˈɑːkjəpənsi"
@@ -1266,7 +1266,7 @@
     {
         "name": "membership limitation",
         "trans": [
-            "会员限制"
+            "会员制限"
         ],
         "usphone": null,
         "ukphone": null
@@ -1274,7 +1274,7 @@
     {
         "name": "planning meeting",
         "trans": [
-            "计划会议"
+            "計画会议"
         ],
         "usphone": null,
         "ukphone": null
@@ -1386,7 +1386,7 @@
     {
         "name": "peaceful environment",
         "trans": [
-            "和平环境"
+            "和平環境"
         ],
         "usphone": null,
         "ukphone": null
@@ -1418,7 +1418,7 @@
     {
         "name": "investment schemes",
         "trans": [
-            "投资计划"
+            "投资計画"
         ],
         "usphone": null,
         "ukphone": null
@@ -1546,7 +1546,7 @@
     {
         "name": "employment medical certificate",
         "trans": [
-            "就业医疗证明"
+            "就业医疗証明"
         ],
         "usphone": null,
         "ukphone": null
@@ -1554,7 +1554,7 @@
     {
         "name": "regular check",
         "trans": [
-            "例行检查"
+            "例行検査"
         ],
         "usphone": null,
         "ukphone": null
@@ -1562,7 +1562,7 @@
     {
         "name": "sports injury",
         "trans": [
-            "运动伤害"
+            "運動傷つける"
         ],
         "usphone": null,
         "ukphone": null
@@ -1762,7 +1762,7 @@
     {
         "name": "home welcome",
         "trans": [
-            "宾至如归，家庭欢迎"
+            "宾至如归、家庭欢迎"
         ],
         "usphone": null,
         "ukphone": null
@@ -1794,7 +1794,7 @@
     {
         "name": "limited parking",
         "trans": [
-            "停车限制"
+            "停车制限"
         ],
         "usphone": null,
         "ukphone": null
@@ -1882,7 +1882,7 @@
     {
         "name": "calling diversion",
         "trans": [
-            "呼叫转移"
+            "呼叫移転"
         ],
         "usphone": null,
         "ukphone": null
@@ -1962,7 +1962,7 @@
     {
         "name": "furniture designers",
         "trans": [
-            "家具设计师"
+            "家具設計师"
         ],
         "usphone": null,
         "ukphone": null
@@ -1978,7 +1978,7 @@
     {
         "name": "preferred occupation",
         "trans": [
-            "首选职业"
+            "首选職業"
         ],
         "usphone": null,
         "ukphone": null
@@ -1994,7 +1994,7 @@
     {
         "name": "previous working experience",
         "trans": [
-            "先前工作经验"
+            "先前仕事经验"
         ],
         "usphone": null,
         "ukphone": null
@@ -2002,7 +2002,7 @@
     {
         "name": "decoration balloons",
         "trans": [
-            "装饰气球"
+            "装飾气球"
         ],
         "usphone": null,
         "ukphone": null
@@ -2178,7 +2178,7 @@
     {
         "name": "short time",
         "trans": [
-            "短时间"
+            "短時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -2186,7 +2186,7 @@
     {
         "name": "required date",
         "trans": [
-            "规定时间"
+            "規定時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -2210,7 +2210,7 @@
     {
         "name": "sports centre",
         "trans": [
-            "运动中心"
+            "運動中心"
         ],
         "usphone": null,
         "ukphone": null
@@ -2226,7 +2226,7 @@
     {
         "name": "job requirement",
         "trans": [
-            "工作需要"
+            "仕事必要"
         ],
         "usphone": null,
         "ukphone": null
@@ -2234,7 +2234,7 @@
     {
         "name": "current occupation",
         "trans": [
-            "当前工作"
+            "当前仕事"
         ],
         "usphone": null,
         "ukphone": null
@@ -2242,7 +2242,7 @@
     {
         "name": "length of stay",
         "trans": [
-            "逗留时间"
+            "逗留時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -2282,7 +2282,7 @@
     {
         "name": "estimated value",
         "trans": [
-            "估价"
+            "評価"
         ],
         "usphone": null,
         "ukphone": null
@@ -2298,7 +2298,7 @@
     {
         "name": "safety check",
         "trans": [
-            "安全检查"
+            "安全検査"
         ],
         "usphone": null,
         "ukphone": null
@@ -2322,7 +2322,7 @@
     {
         "name": "off-peak time",
         "trans": [
-            "非高峰时间"
+            "非高峰時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -2506,7 +2506,7 @@
     {
         "name": "protection policy",
         "trans": [
-            "保护政策"
+            "保護政策"
         ],
         "usphone": null,
         "ukphone": null
@@ -2746,7 +2746,7 @@
     {
         "name": "length of waiting",
         "trans": [
-            "等待时间"
+            "等待時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -2810,7 +2810,7 @@
     {
         "name": "good performance",
         "trans": [
-            "好的表现"
+            "好的表現"
         ],
         "usphone": null,
         "ukphone": null
@@ -2842,7 +2842,7 @@
     {
         "name": "personal tutor",
         "trans": [
-            "私人老师，个人辅导老师，个人导师"
+            "私人老师、个人辅导老师、个人导师"
         ],
         "usphone": null,
         "ukphone": null
@@ -2930,7 +2930,7 @@
     {
         "name": "job agency",
         "trans": [
-            "职业介绍所"
+            "職業介绍所"
         ],
         "usphone": null,
         "ukphone": null
@@ -2970,7 +2970,7 @@
     {
         "name": "computer literate",
         "trans": [
-            "精通计算机"
+            "精通コンピュータ"
         ],
         "usphone": null,
         "ukphone": null
@@ -3058,7 +3058,7 @@
     {
         "name": "preservation",
         "trans": [
-            "保留，保存"
+            "保留、保存"
         ],
         "usphone": "ˌprezəˈveɪʃn",
         "ukphone": "ˌprezərˈveɪʃn"
@@ -3570,7 +3570,7 @@
     {
         "name": "pavement",
         "trans": [
-            "路面，人行道"
+            "路面、人行道"
         ],
         "usphone": "ˈpeɪvmənt",
         "ukphone": "ˈpeɪvmənt"
@@ -3578,7 +3578,7 @@
     {
         "name": "restriction",
         "trans": [
-            "限制"
+            "制限"
         ],
         "usphone": "rɪ'strɪkʃən",
         "ukphone": "rɪ'strɪkʃ(ə)n"
@@ -3602,7 +3602,7 @@
     {
         "name": "noticeable",
         "trans": [
-            "显著的"
+            "顕著な"
         ],
         "usphone": "ˈnəʊtɪsəbl",
         "ukphone": "ˈnoʊtɪsəbl"
@@ -3682,7 +3682,7 @@
     {
         "name": "aspiration",
         "trans": [
-            "渴望"
+            "切望"
         ],
         "usphone": "ˌæspəˈreɪʃn",
         "ukphone": "ˌæspəˈreɪʃn"
@@ -3722,7 +3722,7 @@
     {
         "name": "nitrogen",
         "trans": [
-            "氮气；氮"
+            "氮气; 氮"
         ],
         "usphone": "ˈnaɪtrədʒən",
         "ukphone": "ˈnaɪtrədʒən"
@@ -3746,7 +3746,7 @@
     {
         "name": "occupancy",
         "trans": [
-            "居住，占用"
+            "居住、占用"
         ],
         "usphone": "ˈɒkjəpənsi",
         "ukphone": "ˈɑːkjəpənsi"
@@ -3874,7 +3874,7 @@
     {
         "name": "transformation",
         "trans": [
-            "转型，转变"
+            "转型、转变"
         ],
         "usphone": "ˌtrænsfəˈmeɪʃn",
         "ukphone": "ˌtrænsfərˈmeɪʃn"
@@ -3970,7 +3970,7 @@
     {
         "name": "supportive",
         "trans": [
-            "支持的"
+            "支援的"
         ],
         "usphone": "səˈpɔːtɪv",
         "ukphone": "səˈpɔːrtɪv"
@@ -3978,7 +3978,7 @@
     {
         "name": "fantastic",
         "trans": [
-            "神奇的，极好的"
+            "神奇的、素晴らしい"
         ],
         "usphone": "fænˈtæstɪk",
         "ukphone": "fænˈtæstɪk"
@@ -4090,7 +4090,7 @@
     {
         "name": "ramp",
         "trans": [
-            "坡道，匝道"
+            "坡道、匝道"
         ],
         "usphone": "ræmp",
         "ukphone": "ræmp"
@@ -4210,7 +4210,7 @@
     {
         "name": "comment card",
         "trans": [
-            "意见卡"
+            "意見卡"
         ],
         "usphone": null,
         "ukphone": null
@@ -4362,7 +4362,7 @@
     {
         "name": "academic record",
         "trans": [
-            "学术记录"
+            "学术記録"
         ],
         "usphone": null,
         "ukphone": null
@@ -4506,7 +4506,7 @@
     {
         "name": "garden pots",
         "trans": [
-            "洒水壶；花 园罐子"
+            "洒水壶; 花 园罐子"
         ],
         "usphone": null,
         "ukphone": null
@@ -4570,7 +4570,7 @@
     {
         "name": "unappealing appearance",
         "trans": [
-            "无吸引力的外表"
+            "无引き付ける力的外表"
         ],
         "usphone": null,
         "ukphone": null
@@ -4770,7 +4770,7 @@
     {
         "name": "health check",
         "trans": [
-            "健康检查"
+            "健康検査"
         ],
         "usphone": null,
         "ukphone": null
@@ -4802,7 +4802,7 @@
     {
         "name": "part-time job",
         "trans": [
-            "业余工作"
+            "业余仕事"
         ],
         "usphone": null,
         "ukphone": null
@@ -4962,7 +4962,7 @@
     {
         "name": "training course",
         "trans": [
-            "训练课程"
+            "訓練课程"
         ],
         "usphone": null,
         "ukphone": null
@@ -5010,7 +5010,7 @@
     {
         "name": "interior design",
         "trans": [
-            "内部设计"
+            "内部設計"
         ],
         "usphone": null,
         "ukphone": null
@@ -5026,7 +5026,7 @@
     {
         "name": "venue change",
         "trans": [
-            "地点转移"
+            "地点移転"
         ],
         "usphone": null,
         "ukphone": null
@@ -5082,7 +5082,7 @@
     {
         "name": "control room",
         "trans": [
-            "控制室"
+            "制御室"
         ],
         "usphone": null,
         "ukphone": null
@@ -5106,7 +5106,7 @@
     {
         "name": "animal protection",
         "trans": [
-            "动物保护"
+            "动物保護"
         ],
         "usphone": null,
         "ukphone": null
@@ -5130,7 +5130,7 @@
     {
         "name": "contact number",
         "trans": [
-            "联系电话"
+            "連絡电话"
         ],
         "usphone": null,
         "ukphone": null
@@ -5370,7 +5370,7 @@
     {
         "name": "coach trip",
         "trans": [
-            "训练旅程"
+            "訓練旅程"
         ],
         "usphone": null,
         "ukphone": null
@@ -5698,7 +5698,7 @@
     {
         "name": "cash point",
         "trans": [
-            "ATM取款机；现金处"
+            "ATM取款机; 现金处"
         ],
         "usphone": null,
         "ukphone": null
@@ -6002,7 +6002,7 @@
     {
         "name": "limited time",
         "trans": [
-            "有限的时间"
+            "有限的時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -6298,7 +6298,7 @@
     {
         "name": "measurement",
         "trans": [
-            "度量；测量"
+            "度量; 测量"
         ],
         "usphone": "ˈmeʒəmənt",
         "ukphone": "ˈmeʒərmənt"
@@ -6386,7 +6386,7 @@
     {
         "name": "conservation",
         "trans": [
-            "保护"
+            "保護"
         ],
         "usphone": "ˌkɒnsəˈveɪʃn",
         "ukphone": "ˌkɑːnsərˈveɪʃn"
@@ -6514,7 +6514,7 @@
     {
         "name": "workload",
         "trans": [
-            "工作量"
+            "仕事量"
         ],
         "usphone": "ˈwɜːkləʊd",
         "ukphone": "ˈwɜːrkloʊd"
@@ -6602,7 +6602,7 @@
     {
         "name": "simulation",
         "trans": [
-            "仿真，模拟"
+            "仿真、模拟"
         ],
         "usphone": "ˌsɪmjuˈleɪʃn",
         "ukphone": "ˌsɪmjuˈleɪʃn"
@@ -6626,7 +6626,7 @@
     {
         "name": "originality",
         "trans": [
-            "创意；独创性"
+            "创意; 独创性"
         ],
         "usphone": "ə'rɪdʒə'næləti",
         "ukphone": "ə,rɪdʒɪ'nælɪtɪ"
@@ -6690,7 +6690,7 @@
     {
         "name": "discipline",
         "trans": [
-            "学科，纪律"
+            "学科、纪律"
         ],
         "usphone": "ˈdɪsəplɪn",
         "ukphone": "ˈdɪsəplɪn"
@@ -6770,7 +6770,7 @@
     {
         "name": "limitations",
         "trans": [
-            "限制"
+            "制限"
         ],
         "usphone": "lɪmɪˈteɪʃnz",
         "ukphone": "lɪmɪˈteɪʃnz"
@@ -6778,7 +6778,7 @@
     {
         "name": "connectives",
         "trans": [
-            "连接词"
+            "接続词"
         ],
         "usphone": null,
         "ukphone": null
@@ -6802,7 +6802,7 @@
     {
         "name": "informality",
         "trans": [
-            "非正式"
+            "非公式"
         ],
         "usphone": "ɪnfɔr'mæləti",
         "ukphone": "ˌɪnfɔːr'mæləti"
@@ -6826,7 +6826,7 @@
     {
         "name": "ascent",
         "trans": [
-            "上升"
+            "上昇"
         ],
         "usphone": "əˈsent",
         "ukphone": "əˈsent"
@@ -6834,7 +6834,7 @@
     {
         "name": "summit",
         "trans": [
-            "山峰，首脑会议"
+            "山峰、首脑会议"
         ],
         "usphone": "ˈsʌmɪt",
         "ukphone": "ˈsʌmɪt"
@@ -7018,7 +7018,7 @@
     {
         "name": "inclusion",
         "trans": [
-            "包含"
+            "含む"
         ],
         "usphone": "ɪnˈkluːʒn",
         "ukphone": "ɪnˈkluːʒn"
@@ -7034,7 +7034,7 @@
     {
         "name": "hormone",
         "trans": [
-            "激素，荷尔蒙"
+            "激素、荷尔蒙"
         ],
         "usphone": "ˈhɔːməʊn",
         "ukphone": "ˈhɔːrmoʊn"
@@ -7058,7 +7058,7 @@
     {
         "name": "chronological",
         "trans": [
-            "按时间顺序的"
+            "按時間顺序的"
         ],
         "usphone": "ˌkrɒnəˈlɒdʒɪkl",
         "ukphone": "ˌkrɑːnəˈlɑːdʒɪkl"
@@ -7130,7 +7130,7 @@
     {
         "name": "awful",
         "trans": [
-            "可怕的"
+            "恐ろしい"
         ],
         "usphone": "ˈɔːfl",
         "ukphone": "ˈɔːfl"
@@ -7370,7 +7370,7 @@
     {
         "name": "competitors",
         "trans": [
-            "竞争者"
+            "競争者"
         ],
         "usphone": "kəmˈpetɪtəz",
         "ukphone": "kəmˈpetətərz"
@@ -7378,7 +7378,7 @@
     {
         "name": "coverage",
         "trans": [
-            "覆盖范围"
+            "覆盖範囲"
         ],
         "usphone": "ˈkʌvərɪdʒ",
         "ukphone": "ˈkʌvərɪdʒ"
@@ -7498,7 +7498,7 @@
     {
         "name": "extra time",
         "trans": [
-            "额外时间"
+            "额外時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -7554,7 +7554,7 @@
     {
         "name": "history research",
         "trans": [
-            "历史调查"
+            "历史調査"
         ],
         "usphone": null,
         "ukphone": null
@@ -7642,7 +7642,7 @@
     {
         "name": "environmental damage",
         "trans": [
-            "环境危害（破坏）"
+            "環境危害（破壊）"
         ],
         "usphone": null,
         "ukphone": null
@@ -7658,7 +7658,7 @@
     {
         "name": "fill in worksheet",
         "trans": [
-            "填工作单"
+            "填仕事单"
         ],
         "usphone": null,
         "ukphone": null
@@ -7730,7 +7730,7 @@
     {
         "name": "environmental issues",
         "trans": [
-            "环境问题"
+            "環境问题"
         ],
         "usphone": null,
         "ukphone": null
@@ -7738,7 +7738,7 @@
     {
         "name": "management of change",
         "trans": [
-            "改变管理"
+            "変える管理"
         ],
         "usphone": null,
         "ukphone": null
@@ -7754,7 +7754,7 @@
     {
         "name": "working style",
         "trans": [
-            "工作类型"
+            "仕事类型"
         ],
         "usphone": null,
         "ukphone": null
@@ -7770,7 +7770,7 @@
     {
         "name": "lack of research",
         "trans": [
-            "缺乏调查"
+            "欠如調査"
         ],
         "usphone": null,
         "ukphone": null
@@ -7842,7 +7842,7 @@
     {
         "name": "planning meeting",
         "trans": [
-            "计划会议"
+            "計画会议"
         ],
         "usphone": null,
         "ukphone": null
@@ -7890,7 +7890,7 @@
     {
         "name": "external organisation",
         "trans": [
-            "外部组织"
+            "外部組織"
         ],
         "usphone": null,
         "ukphone": null
@@ -7898,7 +7898,7 @@
     {
         "name": "word limit",
         "trans": [
-            "字数限制"
+            "字数制限"
         ],
         "usphone": null,
         "ukphone": null
@@ -7906,7 +7906,7 @@
     {
         "name": "internet connections",
         "trans": [
-            "网络连接"
+            "网络接続"
         ],
         "usphone": null,
         "ukphone": null
@@ -7962,7 +7962,7 @@
     {
         "name": "financial planning",
         "trans": [
-            "金融计划"
+            "金融計画"
         ],
         "usphone": null,
         "ukphone": null
@@ -8018,7 +8018,7 @@
     {
         "name": "preserve memories",
         "trans": [
-            "保存记忆"
+            "保存記憶"
         ],
         "usphone": null,
         "ukphone": null
@@ -8090,7 +8090,7 @@
     {
         "name": "survey methods",
         "trans": [
-            "调查方式"
+            "調査方式"
         ],
         "usphone": null,
         "ukphone": null
@@ -8106,7 +8106,7 @@
     {
         "name": "permanent records",
         "trans": [
-            "永久记录"
+            "永久記録"
         ],
         "usphone": null,
         "ukphone": null
@@ -8202,7 +8202,7 @@
     {
         "name": "environmental projects",
         "trans": [
-            "环境项目"
+            "環境项目"
         ],
         "usphone": null,
         "ukphone": null
@@ -8338,7 +8338,7 @@
     {
         "name": "natural routine work",
         "trans": [
-            "日常工作"
+            "日常仕事"
         ],
         "usphone": null,
         "ukphone": null
@@ -8386,7 +8386,7 @@
     {
         "name": "job opportunities",
         "trans": [
-            "工作机会"
+            "仕事机会"
         ],
         "usphone": null,
         "ukphone": null
@@ -8410,7 +8410,7 @@
     {
         "name": "confidence building",
         "trans": [
-            "建立自信"
+            "確立自信"
         ],
         "usphone": null,
         "ukphone": null
@@ -8418,7 +8418,7 @@
     {
         "name": "numeracy skill",
         "trans": [
-            "计算能力"
+            "計算能力"
         ],
         "usphone": null,
         "ukphone": null
@@ -8434,7 +8434,7 @@
     {
         "name": "research method",
         "trans": [
-            "调查方式"
+            "調査方式"
         ],
         "usphone": null,
         "ukphone": null
@@ -8450,7 +8450,7 @@
     {
         "name": "lack of participation",
         "trans": [
-            "缺乏参与"
+            "欠如参与"
         ],
         "usphone": null,
         "ukphone": null
@@ -8514,7 +8514,7 @@
     {
         "name": "sports shoes",
         "trans": [
-            "运动鞋"
+            "運動鞋"
         ],
         "usphone": null,
         "ukphone": null
@@ -8530,7 +8530,7 @@
     {
         "name": "overseas training",
         "trans": [
-            "海外训练"
+            "海外訓練"
         ],
         "usphone": null,
         "ukphone": null
@@ -8554,7 +8554,7 @@
     {
         "name": "brief notes",
         "trans": [
-            "简要记录"
+            "简要記録"
         ],
         "usphone": null,
         "ukphone": null
@@ -8570,7 +8570,7 @@
     {
         "name": "essential training",
         "trans": [
-            "基本训练"
+            "基本訓練"
         ],
         "usphone": null,
         "ukphone": null
@@ -8682,7 +8682,7 @@
     {
         "name": "abstract design",
         "trans": [
-            "抽象设计"
+            "抽象設計"
         ],
         "usphone": null,
         "ukphone": null
@@ -8714,7 +8714,7 @@
     {
         "name": "test results",
         "trans": [
-            "测试结果"
+            "测试結果"
         ],
         "usphone": null,
         "ukphone": null
@@ -8794,7 +8794,7 @@
     {
         "name": "food shortage",
         "trans": [
-            "食物缺乏"
+            "食物欠如"
         ],
         "usphone": null,
         "ukphone": null
@@ -8834,7 +8834,7 @@
     {
         "name": "flexible study time",
         "trans": [
-            "灵活的学习 时间"
+            "灵活的学习 時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -8962,7 +8962,7 @@
     {
         "name": "unbalanced skill improvements",
         "trans": [
-            "不平衡的技能提高"
+            "不平衡的技能向上"
         ],
         "usphone": null,
         "ukphone": null
@@ -8978,7 +8978,7 @@
     {
         "name": "job responsibilities",
         "trans": [
-            "工作责任"
+            "仕事责任"
         ],
         "usphone": null,
         "ukphone": null
@@ -9130,7 +9130,7 @@
     {
         "name": "conflicting opinions",
         "trans": [
-            "意见冲突"
+            "意見衝突"
         ],
         "usphone": null,
         "ukphone": null
@@ -9202,7 +9202,7 @@
     {
         "name": "decisions",
         "trans": [
-            "决定"
+            "決定"
         ],
         "usphone": "dɪˈsɪʒənz",
         "ukphone": "dɪˈsɪʒənz"
@@ -9354,7 +9354,7 @@
     {
         "name": "connected",
         "trans": [
-            "连接的"
+            "接続的"
         ],
         "usphone": "kəˈnektɪd",
         "ukphone": "kəˈnektɪd"
@@ -9378,7 +9378,7 @@
     {
         "name": "stimulation",
         "trans": [
-            "刺激，鼓励"
+            "刺激、励ます"
         ],
         "usphone": "ˌstɪmjʊˈleɪʃən",
         "ukphone": "ˌstɪmjəˈleɪʃən"
@@ -9610,7 +9610,7 @@
     {
         "name": "therapy",
         "trans": [
-            "疗法；理疗"
+            "疗法; 理疗"
         ],
         "usphone": "ˈθerəpi",
         "ukphone": "ˈθerəpi"
@@ -9642,7 +9642,7 @@
     {
         "name": "sustainable",
         "trans": [
-            "可忍受的"
+            "可耐える的"
         ],
         "usphone": "səˈsteɪnəbl",
         "ukphone": "səˈsteɪnəbl"
@@ -9706,7 +9706,7 @@
     {
         "name": "calculator",
         "trans": [
-            "计算器"
+            "計算器"
         ],
         "usphone": "ˈkælkjuleɪtə",
         "ukphone": "ˈkælkjuleɪtər"
@@ -9842,7 +9842,7 @@
     {
         "name": "situational",
         "trans": [
-            "环境造成的"
+            "環境造成的"
         ],
         "usphone": "ˌsɪtjʊˈeɪʃən(ə)l",
         "ukphone": "ˌsɪtʃuˈeɪʃənəl"
@@ -9850,7 +9850,7 @@
     {
         "name": "aspirations",
         "trans": [
-            "渴望"
+            "切望"
         ],
         "usphone": "ˌæspəˈreɪʃ(ə)nz",
         "ukphone": "ˌæspəˈreɪʃənz"
@@ -9890,7 +9890,7 @@
     {
         "name": "barrier",
         "trans": [
-            "阻碍"
+            "妨害"
         ],
         "usphone": "ˈbæriə",
         "ukphone": "ˈbæriər"
@@ -10202,7 +10202,7 @@
     {
         "name": "varied",
         "trans": [
-            "变化的"
+            "変化的"
         ],
         "usphone": "ˈveərid",
         "ukphone": "ˈverid"
@@ -10218,7 +10218,7 @@
     {
         "name": "ethnics",
         "trans": [
-            "人种学；少数民族"
+            "人种学; 少数民族"
         ],
         "usphone": null,
         "ukphone": null
@@ -10298,7 +10298,7 @@
     {
         "name": "repellent",
         "trans": [
-            "排斥的；驱虫剂"
+            "排斥的; 驱虫剂"
         ],
         "usphone": "rɪˈpelənt",
         "ukphone": "rɪˈpelənt"
@@ -10410,7 +10410,7 @@
     {
         "name": "prompt",
         "trans": [
-            "v./n/ 促使，激励 adj.迅速的，敏捷的"
+            "v./n/ 促使、激励 adj.迅速的、敏捷的"
         ],
         "usphone": "prɒmpt",
         "ukphone": "prɑːmpt"
@@ -10418,7 +10418,7 @@
     {
         "name": "impairment",
         "trans": [
-            "损害"
+            "損害"
         ],
         "usphone": "ɪmˈpeəmənt",
         "ukphone": "ɪmˈpermənt"
@@ -10442,7 +10442,7 @@
     {
         "name": "textile",
         "trans": [
-            "纺织品；纺织"
+            "纺织品; 纺织"
         ],
         "usphone": "ˈtekstaɪl",
         "ukphone": "ˈtekstaɪl"
@@ -10554,7 +10554,7 @@
     {
         "name": "rivals",
         "trans": [
-            "竞争对手"
+            "競争对手"
         ],
         "usphone": "ˈraɪvlz",
         "ukphone": "ˈraɪvlz"
@@ -10586,7 +10586,7 @@
     {
         "name": "sustainable",
         "trans": [
-            "可持续发展的"
+            "可持续発展的"
         ],
         "usphone": "səˈsteɪnəbl",
         "ukphone": "səˈsteɪnəbl"
@@ -10658,7 +10658,7 @@
     {
         "name": "critical",
         "trans": [
-            "至关重要的"
+            "至关重要な"
         ],
         "usphone": "ˈkrɪtɪkl",
         "ukphone": "ˈkrɪtɪkl"
@@ -10714,7 +10714,7 @@
     {
         "name": "moisture",
         "trans": [
-            "水分，潮湿"
+            "水分、潮湿"
         ],
         "usphone": "ˈmɔɪstʃə",
         "ukphone": "ˈmɔɪstʃər"
@@ -10906,7 +10906,7 @@
     {
         "name": "critics",
         "trans": [
-            "评论家"
+            "コメント家"
         ],
         "usphone": "ˈkrɪtɪks",
         "ukphone": "ˈkrɪtɪks"
@@ -10914,7 +10914,7 @@
     {
         "name": "protected",
         "trans": [
-            "受保护的"
+            "受保護的"
         ],
         "usphone": "prəˈtektɪd",
         "ukphone": "prəˈtektɪd"
@@ -11042,7 +11042,7 @@
     {
         "name": "saliva",
         "trans": [
-            "唾液，口水"
+            "唾液、口水"
         ],
         "usphone": "səˈlaɪvə",
         "ukphone": "səˈlaɪvə"
@@ -11306,7 +11306,7 @@
     {
         "name": "ribbons",
         "trans": [
-            "色带，缎带"
+            "色带、缎带"
         ],
         "usphone": "'rɪbəns",
         "ukphone": "'rɪbəns"
@@ -11314,7 +11314,7 @@
     {
         "name": "enormous",
         "trans": [
-            "巨大的"
+            "巨大な"
         ],
         "usphone": "ɪˈnɔːməs",
         "ukphone": "ɪˈnɔːrməs"
@@ -11514,7 +11514,7 @@
     {
         "name": "colony",
         "trans": [
-            "群落，殖民地"
+            "群落、殖民地"
         ],
         "usphone": "ˈkɒləni",
         "ukphone": "ˈkɑːləni"
@@ -11522,7 +11522,7 @@
     {
         "name": "phase",
         "trans": [
-            "（电的）相，阶段"
+            "（电的）相、阶段"
         ],
         "usphone": "feɪz",
         "ukphone": "feɪz"
@@ -11530,7 +11530,7 @@
     {
         "name": "medication",
         "trans": [
-            "药物，制剂"
+            "药物、制剂"
         ],
         "usphone": "ˌmedɪˈkeɪʃn",
         "ukphone": "ˌmedɪˈkeɪʃn"
@@ -11538,7 +11538,7 @@
     {
         "name": "companionship",
         "trans": [
-            "情谊，友谊"
+            "情谊、友谊"
         ],
         "usphone": "kəmˈpæniənʃɪp",
         "ukphone": "kəmˈpæniənʃɪp"
@@ -11578,7 +11578,7 @@
     {
         "name": "calculation",
         "trans": [
-            "计算"
+            "計算"
         ],
         "usphone": "ˌkælkjuˈleɪʃn",
         "ukphone": "ˌkælkjuˈleɪʃn"
@@ -11586,7 +11586,7 @@
     {
         "name": "eclipse",
         "trans": [
-            "日食，月食"
+            "日食、月食"
         ],
         "usphone": "ɪˈklɪps",
         "ukphone": "ɪˈklɪps"
@@ -11642,7 +11642,7 @@
     {
         "name": "durable",
         "trans": [
-            "持久的，耐用的"
+            "持久的、耐用的"
         ],
         "usphone": "ˈdjʊərəbl",
         "ukphone": "ˈdʊrəbl"
@@ -11682,7 +11682,7 @@
     {
         "name": "inscription",
         "trans": [
-            "刻字，铭文"
+            "刻字、铭文"
         ],
         "usphone": "ɪnˈskrɪpʃn",
         "ukphone": "ɪnˈskrɪpʃn"
@@ -11730,7 +11730,7 @@
     {
         "name": "rationale",
         "trans": [
-            "基本原理，根本原因"
+            "基本原理、根本原因"
         ],
         "usphone": "ˌræʃəˈnɑːl",
         "ukphone": "ˌræʃəˈnæl"
@@ -11738,7 +11738,7 @@
     {
         "name": "evaluative",
         "trans": [
-            "评价的，估值的"
+            "評価的、估值的"
         ],
         "usphone": "ɪ'væljʊətɪv",
         "ukphone": "ɪ'væljʊrtɪv"
@@ -11770,7 +11770,7 @@
     {
         "name": "cognitive",
         "trans": [
-            "感知的，认知的"
+            "感知的、认知的"
         ],
         "usphone": "ˈkɒɡnətɪv",
         "ukphone": "ˈkɑːɡnətɪv"
@@ -11802,7 +11802,7 @@
     {
         "name": "fragile",
         "trans": [
-            "脆弱的，易碎的"
+            "脆弱的、易碎的"
         ],
         "usphone": "'frædʒəl",
         "ukphone": "'frædʒl"
@@ -11850,7 +11850,7 @@
     {
         "name": "ethical",
         "trans": [
-            "伦理的，道德的"
+            "伦理的、道德的"
         ],
         "usphone": "ˈeθɪkl",
         "ukphone": "ˈeθɪkl"
@@ -11858,7 +11858,7 @@
     {
         "name": "correlation",
         "trans": [
-            "联系，相关"
+            "連絡、相关"
         ],
         "usphone": "ˌkɒrəˈleɪʃn",
         "ukphone": "ˌkɔːrəˈleɪʃn"
@@ -11866,7 +11866,7 @@
     {
         "name": "hormone",
         "trans": [
-            "激素，荷尔蒙"
+            "激素、荷尔蒙"
         ],
         "usphone": "ˈhɔːməʊn",
         "ukphone": "ˈhɔːrmoʊn"
@@ -11874,7 +11874,7 @@
     {
         "name": "accessible",
         "trans": [
-            "可接近的"
+            "可近づく的"
         ],
         "usphone": "əkˈsesəbl",
         "ukphone": "əkˈsesəbl"
@@ -11890,7 +11890,7 @@
     {
         "name": "horticulture",
         "trans": [
-            "园艺学，园艺"
+            "园艺学、园艺"
         ],
         "usphone": "ˈhɔːtɪˌkʌltʃə",
         "ukphone": "ˈhɔrdəˌkəltʃər"
@@ -11938,7 +11938,7 @@
     {
         "name": "maintenance",
         "trans": [
-            "维持，维修"
+            "维持、维修"
         ],
         "usphone": "ˈmeɪntənəns",
         "ukphone": "ˈmeɪntənəns"
@@ -11994,7 +11994,7 @@
     {
         "name": "animation",
         "trans": [
-            "动画，动画片"
+            "动画、动画片"
         ],
         "usphone": "ˌænɪˈmeɪʃn",
         "ukphone": "ˌænɪˈmeɪʃn"
@@ -12010,7 +12010,7 @@
     {
         "name": "machinery",
         "trans": [
-            "机器，机械"
+            "机器、机械"
         ],
         "usphone": "məˈʃiːnəri",
         "ukphone": "məˈʃiːnəri"
@@ -12018,7 +12018,7 @@
     {
         "name": "refurbishment",
         "trans": [
-            "翻新，整修"
+            "翻新、整修"
         ],
         "usphone": "rɪ'fɜːbɪʃmənt",
         "ukphone": "rɪ'fɝbɪʃmənt"
@@ -12026,7 +12026,7 @@
     {
         "name": "texture",
         "trans": [
-            "质地，质感"
+            "质地、质感"
         ],
         "usphone": "ˈtekstʃə",
         "ukphone": "ˈtekstʃər"
@@ -12074,7 +12074,7 @@
     {
         "name": "initiation",
         "trans": [
-            "入门，初学"
+            "入门、初学"
         ],
         "usphone": "ɪˌnɪʃiˈeɪʃn",
         "ukphone": "ɪˌnɪʃiˈeɪʃn"
@@ -12082,7 +12082,7 @@
     {
         "name": "ardent",
         "trans": [
-            "热烈的，激情的"
+            "热烈的、激情的"
         ],
         "usphone": "ˈɑːdnt",
         "ukphone": "ˈɑːrdnt"
@@ -12106,7 +12106,7 @@
     {
         "name": "profound",
         "trans": [
-            "强烈的，极度的，深刻的"
+            "强烈的、极度的、深刻的"
         ],
         "usphone": "prəˈfaʊnd",
         "ukphone": "prəˈfaʊnd"
@@ -12114,7 +12114,7 @@
     {
         "name": "depression",
         "trans": [
-            "忧郁，沮丧"
+            "忧郁、沮丧"
         ],
         "usphone": "dɪˈpreʃn",
         "ukphone": "dɪˈpreʃn"
@@ -12122,7 +12122,7 @@
     {
         "name": "resilience",
         "trans": [
-            "弹性，复原能力"
+            "弹性、复原能力"
         ],
         "usphone": "rɪˈzɪliəns",
         "ukphone": "rɪˈzɪliəns"
@@ -12178,7 +12178,7 @@
     {
         "name": "correlation",
         "trans": [
-            "联系，相关"
+            "連絡、相关"
         ],
         "usphone": "ˌkɒrəˈleɪʃn",
         "ukphone": "ˌkɔːrəˈleɪʃn"
@@ -12202,7 +12202,7 @@
     {
         "name": "enormous",
         "trans": [
-            "大量的"
+            "大量の"
         ],
         "usphone": "ɪˈnɔːməs",
         "ukphone": "ɪˈnɔːrməs"
@@ -12258,7 +12258,7 @@
     {
         "name": "packet",
         "trans": [
-            "小包，小盒子；包装"
+            "小包、小盒子; 包装"
         ],
         "usphone": "ˈpækɪt",
         "ukphone": "ˈpækɪt"
@@ -12266,7 +12266,7 @@
     {
         "name": "modification",
         "trans": [
-            "改变，修改"
+            "変える、修改"
         ],
         "usphone": "ˌmɒdɪfɪˈkeɪʃn",
         "ukphone": "ˌmɑːdɪfɪˈkeɪʃn"
@@ -12290,7 +12290,7 @@
     {
         "name": "linen",
         "trans": [
-            "亚麻，床单"
+            "亚麻、床单"
         ],
         "usphone": "ˈlɪnɪn",
         "ukphone": "ˈlɪnɪn"
@@ -12306,7 +12306,7 @@
     {
         "name": "dominance",
         "trans": [
-            "主导，占优势"
+            "主导、占优势"
         ],
         "usphone": "ˈdɒmɪnəns",
         "ukphone": "ˈdɑːmɪnəns"
@@ -12322,7 +12322,7 @@
     {
         "name": "patio",
         "trans": [
-            "院子，天井，平台"
+            "院子、天井、平台"
         ],
         "usphone": "ˈpætiəʊ",
         "ukphone": "ˈpætioʊ"
@@ -12354,7 +12354,7 @@
     {
         "name": "fume",
         "trans": [
-            "烟雾，气"
+            "烟雾、气"
         ],
         "usphone": "fjuːm",
         "ukphone": "fjuːm"
@@ -12370,7 +12370,7 @@
     {
         "name": "ramp",
         "trans": [
-            "坡道，斜坡"
+            "坡道、斜坡"
         ],
         "usphone": "ræmp",
         "ukphone": "ræmp"
@@ -12378,7 +12378,7 @@
     {
         "name": "emission",
         "trans": [
-            "排放，散发"
+            "排放、散发"
         ],
         "usphone": "iˈmɪʃn",
         "ukphone": "iˈmɪʃn"
@@ -12402,7 +12402,7 @@
     {
         "name": "voyage",
         "trans": [
-            "航海，航行"
+            "航海、航行"
         ],
         "usphone": "ˈvɔɪɪdʒ",
         "ukphone": "ˈvɔɪɪdʒ"
@@ -12530,7 +12530,7 @@
     {
         "name": "climate change",
         "trans": [
-            "气候变化"
+            "气候変化"
         ],
         "usphone": null,
         "ukphone": null
@@ -12554,7 +12554,7 @@
     {
         "name": "low nutrition",
         "trans": [
-            "缺乏营养"
+            "欠如营养"
         ],
         "usphone": null,
         "ukphone": null
@@ -12570,7 +12570,7 @@
     {
         "name": "no change",
         "trans": [
-            "无变化"
+            "无変化"
         ],
         "usphone": null,
         "ukphone": null
@@ -12634,7 +12634,7 @@
     {
         "name": "action plan",
         "trans": [
-            "行动计划"
+            "行动計画"
         ],
         "usphone": null,
         "ukphone": null
@@ -12818,7 +12818,7 @@
     {
         "name": "further training",
         "trans": [
-            "进阶训练"
+            "进阶訓練"
         ],
         "usphone": null,
         "ukphone": null
@@ -12882,7 +12882,7 @@
     {
         "name": "training session",
         "trans": [
-            "训练阶段"
+            "訓練阶段"
         ],
         "usphone": null,
         "ukphone": null
@@ -12890,7 +12890,7 @@
     {
         "name": "soil damage",
         "trans": [
-            "土壤损害"
+            "土壤損害"
         ],
         "usphone": null,
         "ukphone": null
@@ -12962,7 +12962,7 @@
     {
         "name": "feeding time",
         "trans": [
-            "喂食时间"
+            "喂食時間"
         ],
         "usphone": null,
         "ukphone": null
@@ -13154,7 +13154,7 @@
     {
         "name": "reflective practice",
         "trans": [
-            "应激训练"
+            "应激訓練"
         ],
         "usphone": null,
         "ukphone": null
@@ -13218,7 +13218,7 @@
     {
         "name": "time and sequence",
         "trans": [
-            "时间和顺序"
+            "時間和顺序"
         ],
         "usphone": null,
         "ukphone": null
@@ -13274,7 +13274,7 @@
     {
         "name": "operation manager",
         "trans": [
-            "执行经理"
+            "実行经理"
         ],
         "usphone": null,
         "ukphone": null
@@ -13362,7 +13362,7 @@
     {
         "name": "extreme sports",
         "trans": [
-            "极限运动"
+            "极限運動"
         ],
         "usphone": null,
         "ukphone": null
@@ -13370,7 +13370,7 @@
     {
         "name": "lifestyle sports",
         "trans": [
-            "生活方式运动(运动名称)"
+            "生活方式運動(運動名称)"
         ],
         "usphone": null,
         "ukphone": null
@@ -13386,7 +13386,7 @@
     {
         "name": "traditional sports",
         "trans": [
-            "传统运动"
+            "传统運動"
         ],
         "usphone": null,
         "ukphone": null
@@ -13394,7 +13394,7 @@
     {
         "name": "restricted regulations",
         "trans": [
-            "限制规定"
+            "制限規定"
         ],
         "usphone": null,
         "ukphone": null
@@ -13402,7 +13402,7 @@
     {
         "name": "regular training",
         "trans": [
-            "常规训练"
+            "常规訓練"
         ],
         "usphone": null,
         "ukphone": null
@@ -13410,7 +13410,7 @@
     {
         "name": "individual competition",
         "trans": [
-            "个人竞争"
+            "个人競争"
         ],
         "usphone": null,
         "ukphone": null
@@ -13514,7 +13514,7 @@
     {
         "name": "major illness",
         "trans": [
-            "主要的疾病"
+            "主要な疾病"
         ],
         "usphone": null,
         "ukphone": null
@@ -13530,7 +13530,7 @@
     {
         "name": "physical changes",
         "trans": [
-            "物理变化"
+            "物理変化"
         ],
         "usphone": null,
         "ukphone": null
@@ -13554,7 +13554,7 @@
     {
         "name": "scientific backup",
         "trans": [
-            "科学支持"
+            "科学支援"
         ],
         "usphone": null,
         "ukphone": null
@@ -13810,7 +13810,7 @@
     {
         "name": "safe environment",
         "trans": [
-            "安全的环境"
+            "安全的環境"
         ],
         "usphone": null,
         "ukphone": null
@@ -13842,7 +13842,7 @@
     {
         "name": "maintain the gene diversity",
         "trans": [
-            "保持基因多样性"
+            "維持基因多样性"
         ],
         "usphone": null,
         "ukphone": null
@@ -13850,7 +13850,7 @@
     {
         "name": "hinder domestic smells",
         "trans": [
-            "阻碍内部的气味"
+            "妨害内部的气味"
         ],
         "usphone": null,
         "ukphone": null
@@ -13898,7 +13898,7 @@
     {
         "name": "multiple tasks",
         "trans": [
-            "多种工作"
+            "多种仕事"
         ],
         "usphone": null,
         "ukphone": null

@@ -20,7 +20,7 @@
   {
     "name": "avtomatte",
     "trans": [
-      "自动",
+      "自動詞",
       "automatic",
       "اۆتوماتتى"
     ],
@@ -38,7 +38,7 @@
   {
     "name": "algha",
     "trans": [
-      "前进，前进",
+      "前進、前進",
       "forward,forth",
       "العا"
     ],
@@ -65,7 +65,7 @@
   {
     "name": "anashem",
     "trans": [
-      "妈妈，妈妈",
+      "妈妈、妈妈",
       "mother,mom",
       "اناشىم"
     ],
@@ -137,7 +137,7 @@
   {
     "name": "aqtaw",
     "trans": [
-      "辩解，辩解",
+      "辩解、辩解",
       "justify,excuse",
       "اقتاۋ"
     ],
@@ -146,7 +146,7 @@
   {
     "name": "bates",
     "trans": [
-      "西方，西方",
+      "西方、西方",
       "western,west",
       "باتىس"
     ],
@@ -164,7 +164,7 @@
   {
     "name": "bostandeq",
     "trans": [
-      "自由，自由",
+      "自由、自由",
       "liberty,freedom",
       "بوستاندىق"
     ],
@@ -182,7 +182,7 @@
   {
     "name": "bxerxektxerxelgyen",
     "trans": [
-      "联合",
+      "連合",
       "United",
       "بىرىكتىرىلگەن"
     ],
@@ -245,7 +245,7 @@
   {
     "name": "dangq",
     "trans": [
-      "名声，荣耀",
+      "名声、荣耀",
       "fame,glory",
       "داڭق"
     ],
@@ -272,7 +272,7 @@
   {
     "name": "dosteq",
     "trans": [
-      "友谊，友好",
+      "友谊、友好",
       "friendship,friendly",
       "دوستىق"
     ],
@@ -281,7 +281,7 @@
   {
     "name": "yevryei",
     "trans": [
-      "犹太人，犹太人",
+      "犹太人、犹太人",
       "Jewish,Jew",
       "ەۆرەي"
     ],
@@ -344,7 +344,7 @@
   {
     "name": "jyengxes",
     "trans": [
-      "胜利，胜利",
+      "胜利、胜利",
       "triumph,victory",
       "جەڭىس"
     ],
@@ -434,7 +434,7 @@
   {
     "name": "islam",
     "trans": [
-      "伊斯兰教，伊斯兰教",
+      "伊斯兰教、伊斯兰教",
       "Islam,Islamic",
       "يسلام"
     ],
@@ -542,7 +542,7 @@
   {
     "name": "kxongxeldxe",
     "trans": [
-      "有趣，有趣",
+      "有趣、有趣",
       "funny,fun",
       "كوڭىلدى"
     ],
@@ -605,7 +605,7 @@
   {
     "name": "muqiiat",
     "trans": [
-      "彻底，仔细",
+      "彻底、仔细",
       "thoroughly,carefully",
       "مۇقييات"
     ],
@@ -632,7 +632,7 @@
   {
     "name": "nusqawleq",
     "trans": [
-      "手册，说明",
+      "手册、説明",
       "manual,instruction",
       "نۇسقاۋلىق"
     ],
@@ -713,7 +713,7 @@
   {
     "name": "paraq",
     "trans": [
-      "叶子，片材",
+      "叶子、片材",
       "leaf,sheet",
       "پاراق"
     ],
@@ -785,7 +785,7 @@
   {
     "name": "soltxustxek",
     "trans": [
-      "北，北",
+      "北、北",
       "north,northern",
       "سولتۇستىك"
     ],
@@ -812,7 +812,7 @@
   {
     "name": "tarihi",
     "trans": [
-      "历史，历史",
+      "历史、历史",
       "historic,historical",
       "تاريحي"
     ],
@@ -911,7 +911,7 @@
   {
     "name": "hanem",
     "trans": [
-      "女士，太太",
+      "女士、太太",
       "Ms,Mrs",
       "حانىم"
     ],
@@ -974,7 +974,7 @@
   {
     "name": "sheghes",
     "trans": [
-      "东，东",
+      "东、东",
       "eastern,east",
       "شىعىس"
     ],
@@ -1001,7 +1001,7 @@
   {
     "name": "avto",
     "trans": [
-      "自动",
+      "自動詞",
       "auto",
       "اۆتو"
     ],
@@ -1019,7 +1019,7 @@
   {
     "name": "avtomatte txurdye",
     "trans": [
-      "自动的",
+      "自動詞的",
       "automatically",
       "اۆتوماتتى تۇردە"
     ],
@@ -1073,7 +1073,7 @@
   {
     "name": "agryessivtxe",
     "trans": [
-      "侵略性，进攻性",
+      "侵略性、进攻性",
       "aggressive,offensive",
       "اگرەسسيۆتى"
     ],
@@ -1091,7 +1091,7 @@
   {
     "name": "adal",
     "trans": [
-      "诚实，诚实",
+      "诚实、诚实",
       "honestly,honest",
       "ادال"
     ],
@@ -1109,7 +1109,7 @@
   {
     "name": "adam",
     "trans": [
-      "人，人，人",
+      "人、人、人",
       "person,human,man",
       "ادام"
     ],
@@ -1136,7 +1136,7 @@
   {
     "name": "advokat",
     "trans": [
-      "辩护人，律师，法律顾问",
+      "辩护人、律师、法律顾问",
       "advocate,attorney,counsel",
       "ادۆوكات"
     ],
@@ -1145,7 +1145,7 @@
   {
     "name": "az",
     "trans": [
-      "更少，更少",
+      "更少、更少",
       "fewer,less",
       "از"
     ],
@@ -1154,7 +1154,7 @@
   {
     "name": "azaitw",
     "trans": [
-      "减少，减少，最小化，减少",
+      "減らす、減らす、最小化、減らす",
       "decrease,reduce,minimize,diminish",
       "ازايتۋ"
     ],
@@ -1172,7 +1172,7 @@
   {
     "name": "azamatteq",
     "trans": [
-      "公民，民事，公民，公民",
+      "公民、民事、公民、公民",
       "civic,civilian,civil,citizenship",
       "ازاماتتىق"
     ],
@@ -1226,7 +1226,7 @@
   {
     "name": "ai",
     "trans": [
-      "月，月",
+      "月、月",
       "month,moon",
       "اي"
     ],
@@ -1244,7 +1244,7 @@
   {
     "name": "aimaq",
     "trans": [
-      "区域，区域",
+      "区域、区域",
       "zone,region",
       "ايماق"
     ],
@@ -1307,7 +1307,7 @@
   {
     "name": "aitarleqtai",
     "trans": [
-      "相当，很大，很大程度上",
+      "相当、很大、很大程度上",
       "considerably,greatly,largely",
       "ايتارلىقتاي"
     ],
@@ -1316,7 +1316,7 @@
   {
     "name": "aitw",
     "trans": [
-      "说，告诉",
+      "说、告诉",
       "say,tell",
       "ايتۋ"
     ],
@@ -1334,7 +1334,7 @@
   {
     "name": "aieptaw",
     "trans": [
-      "定罪，谴责，指控，指控",
+      "定罪、谴责、指控、指控",
       "convict,condemn,accusation,accuse",
       "ايىپتاۋ"
     ],
@@ -1352,7 +1352,7 @@
   {
     "name": "aiermasheleq",
     "trans": [
-      "区别，区别",
+      "区别、区别",
       "difference,distinction",
       "ايىرماشىلىق"
     ],
@@ -1370,7 +1370,7 @@
   {
     "name": "aiqen",
     "trans": [
-      "明显，明确，明显，明显，明显，明显",
+      "明显、明确、明显、明显、明显、明显",
       "apparent,explicit,evident,obvious,distinct",
       "ايقىن"
     ],
@@ -1487,7 +1487,7 @@
   {
     "name": "aldaw",
     "trans": [
-      "欺骗",
+      "欺く",
       "cheat",
       "الداۋ"
     ],
@@ -1496,7 +1496,7 @@
   {
     "name": "alden ala",
     "trans": [
-      "初步，先前",
+      "初步、先前",
       "preliminary,prior",
       "الدىن الا"
     ],
@@ -1505,7 +1505,7 @@
   {
     "name": "alden alw",
     "trans": [
-      "预防，预防",
+      "预防、预防",
       "prevention,prevent",
       "الدىن الۋ"
     ],
@@ -1568,7 +1568,7 @@
   {
     "name": "alten",
     "trans": [
-      "金色，金色",
+      "金色、金色",
       "gold,golden",
       "التىن"
     ],
@@ -1586,7 +1586,7 @@
   {
     "name": "alw",
     "trans": [
-      "获取，获得，接收，获取，获取",
+      "获取、得る、接收、获取、获取",
       "get,gain,receive,obtain,take",
       "الۋ"
     ],
@@ -1631,7 +1631,7 @@
   {
     "name": "alepsatarleq",
     "trans": [
-      "投机，投机",
+      "投机、投机",
       "speculation,speculate",
       "الىپساتارلىق"
     ],
@@ -1640,7 +1640,7 @@
   {
     "name": "ales",
     "trans": [
-      "远，远，远，远，远",
+      "远、远、远、远、远",
       "far,off,away,distant",
       "الىس"
     ],
@@ -1730,7 +1730,7 @@
   {
     "name": "aneqtalghan",
     "trans": [
-      "某些，特定",
+      "某些、特定",
       "certain,particular",
       "انىقتالعان"
     ],
@@ -1739,7 +1739,7 @@
   {
     "name": "aneqtama",
     "trans": [
-      "确定，定义",
+      "确定、定义",
       "determination,definition",
       "انىقتاما"
     ],
@@ -1748,7 +1748,7 @@
   {
     "name": "aneqtaw",
     "trans": [
-      "定义，确定，检测，识别，查找，发现",
+      "定义、确定、检测、识别、查找、発見",
       "define,determine,detect,identify,finding,discover",
       "انىقتاۋ"
     ],
@@ -1766,7 +1766,7 @@
   {
     "name": "apat",
     "trans": [
-      "灾难，崩溃",
+      "灾难、崩溃",
       "disaster,crash",
       "اپات"
     ],
@@ -1811,7 +1811,7 @@
   {
     "name": "aralas",
     "trans": [
-      "混合，混合",
+      "混合、混合",
       "mixed,combined",
       "ارالاس"
     ],
@@ -1820,7 +1820,7 @@
   {
     "name": "aralasw",
     "trans": [
-      "干预，干扰",
+      "干预、干扰",
       "intervention,interfere",
       "ارالاسۋ"
     ],
@@ -1856,7 +1856,7 @@
   {
     "name": "arasenda",
     "trans": [
-      "中间，中间，中间，之间",
+      "中间、中间、中间、之间",
       "midst,amid,among,between",
       "اراسىندا"
     ],
@@ -1928,7 +1928,7 @@
   {
     "name": "arnaw",
     "trans": [
-      "奉献，奉献",
+      "奉献、奉献",
       "devote,dedicate",
       "ارناۋ"
     ],
@@ -1964,7 +1964,7 @@
   {
     "name": "arteqsheleq",
     "trans": [
-      "偏好，特权，首选",
+      "偏好、特权、首选",
       "preference,privilege,prefer",
       "ارتىقشىلىق"
     ],
@@ -1973,7 +1973,7 @@
   {
     "name": "artqa",
     "trans": [
-      "返回，前",
+      "返回、前",
       "back,ago",
       "ارتقا"
     ],
@@ -2009,7 +2009,7 @@
   {
     "name": "arqele",
     "trans": [
-      "贯穿，贯穿，贯穿，通过",
+      "贯穿、贯穿、贯穿、通過",
       "throughout,across,through,via",
       "ارقىلى"
     ],
@@ -2045,7 +2045,7 @@
   {
     "name": "aspan",
     "trans": [
-      "天空，天堂",
+      "天空、天堂",
       "sky,heaven",
       "اسپان"
     ],
@@ -2072,7 +2072,7 @@
   {
     "name": "asten sezw",
     "trans": [
-      "强调",
+      "強調",
       "emphasize",
       "استىن سىزۋ"
     ],
@@ -2081,7 +2081,7 @@
   {
     "name": "astenda",
     "trans": [
-      "下，下",
+      "下、下",
       "under,beneath",
       "استىندا"
     ],
@@ -2171,7 +2171,7 @@
   {
     "name": "ana",
     "trans": [
-      "家长，家长",
+      "家长、家长",
       "parental,parent",
       "انا"
     ],
@@ -2216,7 +2216,7 @@
   {
     "name": "atlyetikaleq",
     "trans": [
-      "运动",
+      "運動",
       "athletic",
       "اتلەتيكالىق"
     ],
@@ -2243,7 +2243,7 @@
   {
     "name": "atw",
     "trans": [
-      "射击，射击，射击",
+      "射击、射击、射击",
       "shot,shoot,shooting",
       "اتۋ"
     ],
@@ -2270,7 +2270,7 @@
   {
     "name": "atqarwshe",
     "trans": [
-      "执行的",
+      "実行的",
       "executive",
       "اتقارۋشى"
     ],
@@ -2279,7 +2279,7 @@
   {
     "name": "atqarwshe diryektor",
     "trans": [
-      "首席执行官",
+      "首席実行官",
       "CEO",
       "اتقارۋشى ديرەكتور"
     ],
@@ -2324,7 +2324,7 @@
   {
     "name": "awdarma",
     "trans": [
-      "翻译，翻译",
+      "翻译、翻译",
       "translate,translation",
       "اۋدارما"
     ],
@@ -2369,7 +2369,7 @@
   {
     "name": "awrw",
     "trans": [
-      "疾病，疾病",
+      "疾病、疾病",
       "illness,disease",
       "اۋرۋ"
     ],
@@ -2414,7 +2414,7 @@
   {
     "name": "awezsha",
     "trans": [
-      "口头，口头",
+      "口头、口头",
       "oral,verbal",
       "اۋىزشا"
     ],
@@ -2423,7 +2423,7 @@
   {
     "name": "awel",
     "trans": [
-      "村庄，定居点",
+      "村庄、定居点",
       "village,settlement",
       "اۋىل"
     ],
@@ -2432,7 +2432,7 @@
   {
     "name": "awel sharwasheleghe",
     "trans": [
-      "农业，农业",
+      "农业、农业",
       "agricultural,agriculture",
       "اۋىل شارۋاشىلىعى"
     ],
@@ -2450,7 +2450,7 @@
   {
     "name": "awer",
     "trans": [
-      "疼痛，沉重",
+      "疼痛、沉重",
       "painful,heavy",
       "اۋىر"
     ],
@@ -2477,7 +2477,7 @@
   {
     "name": "awesterw",
     "trans": [
-      "更换，更换",
+      "更换、更换",
       "replacement,replace",
       "اۋىستىرۋ"
     ],
@@ -2504,7 +2504,7 @@
   {
     "name": "awqeme",
     "trans": [
-      "范围",
+      "範囲",
       "range",
       "اۋقىمى"
     ],
@@ -2540,7 +2540,7 @@
   {
     "name": "ashw",
     "trans": [
-      "开放，愤怒，展开，揭示，发现，打开，启示，发现，披露，披露，愤怒",
+      "开放、愤怒、展开、揭示、発見、打开、启示、発見、披露、披露、愤怒",
       "open,anger,unfold,reveal,discovery,opening,revelation,uncover,disclose,rage",
       "اشۋ"
     ],
@@ -2603,7 +2603,7 @@
   {
     "name": "aiaq",
     "trans": [
-      "脚，腿",
+      "脚、腿",
       "foot,leg",
       "اياق"
     ],
@@ -2630,7 +2630,7 @@
   {
     "name": "aiaqtaw",
     "trans": [
-      "饰面，装饰",
+      "饰面、装飾",
       "finish,trim",
       "اياقتاۋ"
     ],
@@ -2639,7 +2639,7 @@
   {
     "name": "agha",
     "trans": [
-      "老年人，老年人",
+      "老年人、老年人",
       "senior,elder",
       "اعا"
     ],
@@ -2657,7 +2657,7 @@
   {
     "name": "aghash",
     "trans": [
-      "木材，树木，木制，木材",
+      "木材、树木、木制、木材",
       "timber,tree,wooden,wood",
       "اعاش"
     ],
@@ -2666,7 +2666,7 @@
   {
     "name": "aghemdaghe",
     "trans": [
-      "电流，当前，进行中",
+      "电流、当前、进行中",
       "current,ongoing",
       "اعىمداعى"
     ],
@@ -2738,7 +2738,7 @@
   {
     "name": "oi",
     "trans": [
-      "精神上，精神上",
+      "精神上、精神上",
       "mentally,mental",
       "وي"
     ],
@@ -2747,7 +2747,7 @@
   {
     "name": "aqelde",
     "trans": [
-      "智能，智能",
+      "智能、智能",
       "smart,intelligent",
       "اقىلدى"
     ],
@@ -2765,7 +2765,7 @@
   {
     "name": "aqemaq",
     "trans": [
-      "傻瓜，傻瓜，傻瓜",
+      "傻瓜、傻瓜、傻瓜",
       "fool,silly,stupid",
       "اقىماق"
     ],
@@ -2819,7 +2819,7 @@
   {
     "name": "angsheleq",
     "trans": [
-      "狩猎，狩猎",
+      "狩猎、狩猎",
       "hunt,hunting",
       "اڭشىلىق"
     ],
@@ -2873,7 +2873,7 @@
   {
     "name": "bai",
     "trans": [
-      "富有，富有",
+      "富有、富有",
       "wealthy,rich",
       "باي"
     ],
@@ -2882,7 +2882,7 @@
   {
     "name": "bailanes",
     "trans": [
-      "连接，沟通，纽带，沟通，复合，联系",
+      "接続、沟通、纽带、沟通、复合、連絡",
       "connection,communicate,bond,communication,compound,contact",
       "بايلانىس"
     ],
@@ -2891,7 +2891,7 @@
   {
     "name": "bailaneste",
     "trans": [
-      "相关，依赖，关联",
+      "相关、依赖、关联",
       "related,depend,associated",
       "بايلانىستى"
     ],
@@ -2900,7 +2900,7 @@
   {
     "name": "bailanesterw",
     "trans": [
-      "绑定，关联",
+      "绑定、关联",
       "bind,associate",
       "بايلانىستىرۋ"
     ],
@@ -2918,7 +2918,7 @@
   {
     "name": "baiepte",
     "trans": [
-      "认真，认真",
+      "认真、认真",
       "serious,seriously",
       "بايىپتى"
     ],
@@ -2963,7 +2963,7 @@
   {
     "name": "bala",
     "trans": [
-      "婴儿，婴儿，男孩，儿童，儿童",
+      "婴儿、婴儿、男孩、儿童、儿童",
       "infant,baby,boy,kid,child",
       "بالا"
     ],
@@ -3107,7 +3107,7 @@
   {
     "name": "bar",
     "trans": [
-      "有，存在，存在，酒吧，吃",
+      "有、存在、存在、酒吧、吃",
       "have,exist,existing,bar,eat",
       "بار"
     ],
@@ -3143,7 +3143,7 @@
   {
     "name": "barleghe",
     "trans": [
-      "每个人，所有人，一切",
+      "每个人、所有人、一切",
       "everybody,all,everything",
       "بارلىعى"
     ],
@@ -3152,7 +3152,7 @@
   {
     "name": "barleq",
     "trans": [
-      "全部，整体，总计",
+      "全部、整体、总计",
       "entire,whole,total",
       "بارلىق"
     ],
@@ -3170,7 +3170,7 @@
   {
     "name": "barw",
     "trans": [
-      "走，走",
+      "走、走",
       "go,walk",
       "بارۋ"
     ],
@@ -3215,7 +3215,7 @@
   {
     "name": "bas kixem",
     "trans": [
-      "帽子，帽子",
+      "帽子、帽子",
       "hat,cap",
       "باس كيىم"
     ],
@@ -3233,7 +3233,7 @@
   {
     "name": "bas tartw",
     "trans": [
-      "拒绝，取消，拒绝，拒绝，拒绝，解雇",
+      "拒否、キャンセル、拒否、拒否、拒否、解雇",
       "refuse,cancel,deny,denial,reject,dismiss",
       "باس تارتۋ"
     ],
@@ -3278,7 +3278,7 @@
   {
     "name": "baspana",
     "trans": [
-      "避难所，避难所",
+      "避难所、避难所",
       "refuge,shelter",
       "باسپانا"
     ],
@@ -3296,7 +3296,7 @@
   {
     "name": "bastalwe",
     "trans": [
-      "开始，开始，开始",
+      "始める、始める、始める",
       "start,starting,beginning",
       "باستالۋى"
     ],
@@ -3314,7 +3314,7 @@
   {
     "name": "bastap",
     "trans": [
-      "从，的",
+      "从、的",
       "from,of",
       "باستاپ"
     ],
@@ -3323,7 +3323,7 @@
   {
     "name": "bastapqe",
     "trans": [
-      "初始，主要，初级",
+      "初始、主要、初级",
       "initial,primary,elementary",
       "باستاپقى"
     ],
@@ -3332,7 +3332,7 @@
   {
     "name": "bastapqeda",
     "trans": [
-      "最初，最初",
+      "最初、最初",
       "initially,originally",
       "باستاپقىدا"
     ],
@@ -3341,7 +3341,7 @@
   {
     "name": "bastaw",
     "trans": [
-      "启动，开始",
+      "启动、始める",
       "initiate,begin",
       "باستاۋ"
     ],
@@ -3395,7 +3395,7 @@
   {
     "name": "basem",
     "trans": [
-      "主导，占上风，压倒性",
+      "主导、占上风、压倒性",
       "dominant,prevail,overwhelming",
       "باسىم"
     ],
@@ -3422,7 +3422,7 @@
   {
     "name": "basep shegharw",
     "trans": [
-      "印刷，印章",
+      "印刷、印章",
       "print,seal",
       "باسىپ شىعارۋ"
     ],
@@ -3431,7 +3431,7 @@
   {
     "name": "basengez",
     "trans": [
-      "按，捕捉",
+      "按、捕捉",
       "press,snap",
       "باسىڭىز"
     ],
@@ -3440,7 +3440,7 @@
   {
     "name": "basqa",
     "trans": [
-      "其他，其他，除了",
+      "其他、其他、除了",
       "another,other,except",
       "باسقا"
     ],
@@ -3467,7 +3467,7 @@
   {
     "name": "basqarw",
     "trans": [
-      "管理，指导，管理，管理",
+      "管理、指导、管理、管理",
       "administer,steer,manage,management",
       "باسقارۋ"
     ],
@@ -3476,7 +3476,7 @@
   {
     "name": "basqarwshe",
     "trans": [
-      "裁决，管理",
+      "裁决、管理",
       "ruling,managing",
       "باسقارۋشى"
     ],
@@ -3494,7 +3494,7 @@
   {
     "name": "basqasha",
     "trans": [
-      "否则，不同",
+      "否则、不同",
       "otherwise,differently",
       "باسقاشا"
     ],
@@ -3503,7 +3503,7 @@
   {
     "name": "bata",
     "trans": [
-      "祝福，祝福",
+      "祝福、祝福",
       "blessing,bless",
       "باتا"
     ],
@@ -3539,7 +3539,7 @@
   {
     "name": "baterw",
     "trans": [
-      "浸泡，暴跌",
+      "浸泡、暴跌",
       "dip,plunge",
       "باتىرۋ"
     ],
@@ -3575,7 +3575,7 @@
   {
     "name": "baiaw",
     "trans": [
-      "慢，慢",
+      "慢、慢",
       "slowly,slow",
       "باياۋ"
     ],
@@ -3584,7 +3584,7 @@
   {
     "name": "baghalaw",
     "trans": [
-      "欣赏，评估，评估，评估，估计，评估",
+      "欣赏、评估、评估、评估、推定、评估",
       "appreciate,evaluation,assess,assessment,estimate,evaluate",
       "باعالاۋ"
     ],
@@ -3593,7 +3593,7 @@
   {
     "name": "baghalaw boiensha",
     "trans": [
-      "估计",
+      "推定",
       "estimated",
       "باعالاۋ بويىنشا"
     ],
@@ -3665,7 +3665,7 @@
   {
     "name": "baghet",
     "trans": [
-      "路线，方向",
+      "路线、方向",
       "route,direction",
       "باعىت"
     ],
@@ -3674,7 +3674,7 @@
   {
     "name": "baghet boiensha",
     "trans": [
-      "朝向，朝向",
+      "朝向、朝向",
       "towards,toward",
       "باعىت بويىنشا"
     ],
@@ -3692,7 +3692,7 @@
   {
     "name": "baqelaw",
     "trans": [
-      "控制，观察，监视，观察",
+      "制御、观察、监视、观察",
       "control,observation,surveillance,observe",
       "باقىلاۋ"
     ],
@@ -3737,7 +3737,7 @@
   {
     "name": "baqette",
     "trans": [
-      "快乐，高兴，快乐，幸运",
+      "快乐、高兴、快乐、幸运",
       "happy,pleased,happily,lucky",
       "باقىتتى"
     ],
@@ -3764,7 +3764,7 @@
   {
     "name": "byezyendxerw",
     "trans": [
-      "装饰",
+      "装飾",
       "decorate",
       "بەزەندىرۋ"
     ],
@@ -3791,7 +3791,7 @@
   {
     "name": "byeinyelyew",
     "trans": [
-      "描绘，描绘",
+      "描绘、描绘",
       "depict,portray",
       "بەينەلەۋ"
     ],
@@ -3854,7 +3854,7 @@
   {
     "name": "byekxetw",
     "trans": [
-      "附上，指控，批准，断言",
+      "附上、指控、承認、断言",
       "attach,allegation,approval,assert",
       "بەكىتۋ"
     ],
@@ -3881,7 +3881,7 @@
   {
     "name": "byelgxe",
     "trans": [
-      "标记，标签，提示，签名",
+      "标记、标签、提示、签名",
       "mark,tag,cue,sign",
       "بەلگى"
     ],
@@ -3890,7 +3890,7 @@
   {
     "name": "byelgxelxe",
     "trans": [
-      "著名，知名",
+      "著名、知名",
       "famous,known",
       "بەلگىلى"
     ],
@@ -3899,7 +3899,7 @@
   {
     "name": "byelgxesxez",
     "trans": [
-      "未知，不确定",
+      "未知、不确定",
       "unknown,uncertain",
       "بەلگىسىز"
     ],
@@ -3926,7 +3926,7 @@
   {
     "name": "byelsyendxe",
     "trans": [
-      "积极，积极，积极",
+      "积极、积极、积极",
       "actively,active,activist",
       "بەلسەندى"
     ],
@@ -3944,7 +3944,7 @@
   {
     "name": "byerw",
     "trans": [
-      "投球，传达，让步，传递，给予，让步",
+      "投球、传达、让步、传递、与える、让步",
       "pitch,convey,yield,transmit,give,concede",
       "بەرۋ"
     ],
@@ -4025,7 +4025,7 @@
   {
     "name": "bi",
     "trans": [
-      "跳舞，跳舞",
+      "跳舞、跳舞",
       "dancing,dance",
       "بي"
     ],
@@ -4142,7 +4142,7 @@
   {
     "name": "bolade",
     "trans": [
-      "发生，发生，将",
+      "発生、発生、将",
       "occur,happen,will",
       "بولادى"
     ],
@@ -4178,7 +4178,7 @@
   {
     "name": "boljalde",
     "trans": [
-      "假设，据称",
+      "假设、据称",
       "supposed,alleged",
       "بولجالدى"
     ],
@@ -4196,7 +4196,7 @@
   {
     "name": "boljam boiensha",
     "trans": [
-      "大概，据说，据称",
+      "大概、据说、据称",
       "presumably,supposedly,allegedly",
       "بولجام بويىنشا"
     ],
@@ -4205,7 +4205,7 @@
   {
     "name": "boljaw",
     "trans": [
-      "猜测，预测，假设，预测，预测，假设",
+      "猜测、预测、假设、预测、预测、假设",
       "guess,anticipate,assume,predict,prediction,suppose",
       "بولجاۋ"
     ],
@@ -4214,7 +4214,7 @@
   {
     "name": "bolmawe",
     "trans": [
-      "缺席，缺乏",
+      "缺席、欠如",
       "absence,lack",
       "بولماۋى"
     ],
@@ -4232,7 +4232,7 @@
   {
     "name": "bolw",
     "trans": [
-      "存在，成为，成为，存在",
+      "存在、成为、成为、存在",
       "being,be,become,existence",
       "بولۋ"
     ],
@@ -4268,7 +4268,7 @@
   {
     "name": "bos",
     "trans": [
-      "空，空白",
+      "空、空白",
       "empty,blank",
       "بوس"
     ],
@@ -4277,7 +4277,7 @@
   {
     "name": "bos yemyes",
     "trans": [
-      "占用，繁忙",
+      "占用、繁忙",
       "occupy,busy",
       "بوس ەمەس"
     ],
@@ -4295,7 +4295,7 @@
   {
     "name": "bosatw",
     "trans": [
-      "缓解，释放",
+      "缓解、释放",
       "relieve,release",
       "بوساتۋ"
     ],
@@ -4403,7 +4403,7 @@
   {
     "name": "bxezdxeng",
     "trans": [
-      "我们的，我们的",
+      "我们的、我们的",
       "our,ours",
       "ٴبىزدىڭ"
     ],
@@ -4412,7 +4412,7 @@
   {
     "name": "bxeldxeryedxe",
     "trans": [
-      "暗示，意思",
+      "示唆、意思",
       "imply,mean",
       "بىلدىرەدى"
     ],
@@ -4448,7 +4448,7 @@
   {
     "name": "bxelxem",
     "trans": [
-      "形成，教育，知识",
+      "形成、教育、知识",
       "formation,education,knowledge",
       "ٴبىلىم"
     ],
@@ -4466,7 +4466,7 @@
   {
     "name": "bxer",
     "trans": [
-      "一，孤身一人",
+      "一、孤身一人",
       "one,alone",
       "ٴبىر"
     ],
@@ -4574,7 +4574,7 @@
   {
     "name": "bxeryew",
     "trans": [
-      "任何人，某人，某人",
+      "任何人、誰か、誰か",
       "anybody,somebody,someone",
       "بىرەۋ"
     ],
@@ -4610,7 +4610,7 @@
   {
     "name": "bxernyeshye",
     "trans": [
-      "几个，几个",
+      "几个、几个",
       "several,few",
       "بىرنەشە"
     ],
@@ -4628,7 +4628,7 @@
   {
     "name": "bxertxurlxe",
     "trans": [
-      "奇怪，奇怪，奇怪",
+      "奇怪、奇怪、奇怪",
       "weird,odd,strange",
       "ٴبىرتۇرلى"
     ],
@@ -4817,7 +4817,7 @@
   {
     "name": "buren",
     "trans": [
-      "以前，以前",
+      "以前、以前",
       "formerly,previously",
       "بۇرىن"
     ],
@@ -4844,7 +4844,7 @@
   {
     "name": "buresh",
     "trans": [
-      "角，角，胡椒",
+      "角、角、胡椒",
       "angle,corner,pepper",
       "بۇرىش"
     ],
@@ -4898,7 +4898,7 @@
   {
     "name": "bxasyekyegye qabxelyettxe",
     "trans": [
-      "竞争",
+      "競争",
       "competitive",
       "باسەكەگە قابىلەتتى"
     ],
@@ -4907,7 +4907,7 @@
   {
     "name": "bxasyekyelyes",
     "trans": [
-      "竞争对手，竞争",
+      "競争对手、競争",
       "competitor,compete",
       "باسەكەلەس"
     ],
@@ -4925,7 +4925,7 @@
   {
     "name": "bxolyek",
     "trans": [
-      "分开",
+      "分ける",
       "apart",
       "بولەك"
     ],
@@ -4952,7 +4952,7 @@
   {
     "name": "bxolw",
     "trans": [
-      "分割，分裂，分离，分离，分割",
+      "分割、分裂、分离、分离、分割",
       "divide,split,separation,separate,division",
       "ٴبولۋ"
     ],
@@ -4988,7 +4988,7 @@
   {
     "name": "bxolxem",
     "trans": [
-      "部门，科",
+      "部门、科",
       "department,section",
       "ٴبولىم"
     ],
@@ -5024,7 +5024,7 @@
   {
     "name": "v",
     "trans": [
-      "进，进",
+      "进、进",
       "into,in",
       "ۆ"
     ],
@@ -5078,7 +5078,7 @@
   {
     "name": "vyelosipyed",
     "trans": [
-      "自行车，自行车",
+      "自行车、自行车",
       "bike,bicycle",
       "ۆەلوسيپەد"
     ],
@@ -5276,7 +5276,7 @@
   {
     "name": "daien",
     "trans": [
-      "愿意，准备好",
+      "愿意、准备好",
       "willing,ready",
       "دايىن"
     ],
@@ -5294,7 +5294,7 @@
   {
     "name": "daiendeq",
     "trans": [
-      "准备，愿意",
+      "准备、愿意",
       "preparation,willingness",
       "دايىندىق"
     ],
@@ -5303,7 +5303,7 @@
   {
     "name": "damw",
     "trans": [
-      "发展，进化",
+      "発展、进化",
       "development,evolve",
       "دامۋ"
     ],
@@ -5312,7 +5312,7 @@
   {
     "name": "damwshe",
     "trans": [
-      "发展",
+      "発展",
       "developing",
       "دامۋشى"
     ],
@@ -5321,7 +5321,7 @@
   {
     "name": "dametw",
     "trans": [
-      "发展，发展",
+      "発展、発展",
       "develop,developmental",
       "دامىتۋ"
     ],
@@ -5330,7 +5330,7 @@
   {
     "name": "dana",
     "trans": [
-      "一块，明智，块",
+      "一块、明智、块",
       "piece,wise,chunk",
       "دانا"
     ],
@@ -5375,7 +5375,7 @@
   {
     "name": "dawlasw",
     "trans": [
-      "认为",
+      "考える",
       "argue",
       "داۋلاسۋ"
     ],
@@ -5393,7 +5393,7 @@
   {
     "name": "dawel",
     "trans": [
-      "飓风，风暴",
+      "飓风、风暴",
       "hurricane,storm",
       "داۋىل"
     ],
@@ -5402,7 +5402,7 @@
   {
     "name": "dawes",
     "trans": [
-      "语音，投票",
+      "语音、投票",
       "voice,vote",
       "داۋىس"
     ],
@@ -5411,7 +5411,7 @@
   {
     "name": "dawes byerw",
     "trans": [
-      "投票，选票",
+      "投票、选票",
       "voting,ballot",
       "داۋىس بەرۋ"
     ],
@@ -5456,7 +5456,7 @@
   {
     "name": "dyegyenmyen",
     "trans": [
-      "虽然，尽管如此，虽然，尽管如此",
+      "虽然、尽管如此、虽然、尽管如此",
       "though,nonetheless,although,nevertheless",
       "دەگەنمەن"
     ],
@@ -5555,7 +5555,7 @@
   {
     "name": "dyenye",
     "trans": [
-      "身体，有机体",
+      "身体、有机体",
       "body,organism",
       "دەنە"
     ],
@@ -5582,7 +5582,7 @@
   {
     "name": "dyepryessiia",
     "trans": [
-      "抑郁，抑郁",
+      "抑郁、抑郁",
       "depressed,depression",
       "دەپرەسسييا"
     ],
@@ -5618,7 +5618,7 @@
   {
     "name": "dyeryektxe filmdyer",
     "trans": [
-      "记录片",
+      "記録片",
       "documentary",
       "دەرەكتى فيلمدەر"
     ],
@@ -5627,7 +5627,7 @@
   {
     "name": "dyeryew",
     "trans": [
-      "立即，立即，立即",
+      "立即、立即、立即",
       "immediately,instantly,immediate",
       "دەرەۋ"
     ],
@@ -5744,7 +5744,7 @@
   {
     "name": "divan",
     "trans": [
-      "沙发，沙发",
+      "沙发、沙发",
       "sofa,couch",
       "ديۆان"
     ],
@@ -5753,7 +5753,7 @@
   {
     "name": "divyersiia",
     "trans": [
-      "破坏",
+      "破壊",
       "undermine",
       "ديۆەرسييا"
     ],
@@ -5771,7 +5771,7 @@
   {
     "name": "dizain",
     "trans": [
-      "设计",
+      "設計",
       "design",
       "ديزاين"
     ],
@@ -5780,7 +5780,7 @@
   {
     "name": "dizainyer",
     "trans": [
-      "设计师",
+      "設計师",
       "designer",
       "ديزاينەر"
     ],
@@ -5870,7 +5870,7 @@
   {
     "name": "disk",
     "trans": [
-      "光盘，磁盘",
+      "光盘、磁盘",
       "disc,disk",
       "ديسك"
     ],
@@ -5879,7 +5879,7 @@
   {
     "name": "displyei",
     "trans": [
-      "显示",
+      "表す",
       "display",
       "ديسپلەي"
     ],
@@ -5951,7 +5951,7 @@
   {
     "name": "dop",
     "trans": [
-      "球，灯泡",
+      "球、灯泡",
       "ball,bulb",
       "دوپ"
     ],
@@ -5960,7 +5960,7 @@
   {
     "name": "dosem",
     "trans": [
-      "伴侣，朋友，伙伴",
+      "伴侣、朋友、伙伴",
       "mate,friend,buddy",
       "دوسىم"
     ],
@@ -5978,7 +5978,7 @@
   {
     "name": "dramaleq",
     "trans": [
-      "戏剧性，戏剧性",
+      "戏剧性、戏剧性",
       "dramatic,dramatically",
       "درامالىق"
     ],
@@ -6059,7 +6059,7 @@
   {
     "name": "dxukyen",
     "trans": [
-      "商店，商店",
+      "商店、商店",
       "shop,store",
       "دۇكەن"
     ],
@@ -6077,7 +6077,7 @@
   {
     "name": "dures",
     "trans": [
-      "正确，适当，忠诚，正确，正确",
+      "正确、适当、忠诚、正确、正确",
       "correct,proper,loyal,properly,correctly",
       "دۇرىس"
     ],
@@ -6113,7 +6113,7 @@
   {
     "name": "dxaiyeksxoz",
     "trans": [
-      "引用，引用",
+      "引用、引用",
       "quote,cite",
       "دايەكسوز"
     ],
@@ -6122,7 +6122,7 @@
   {
     "name": "dxaiyektxe",
     "trans": [
-      "连续，一致",
+      "连续、一致",
       "consecutive,consistent",
       "دايەكتى"
     ],
@@ -6140,7 +6140,7 @@
   {
     "name": "dxal",
     "trans": [
-      "准确，精确，准确，精密，精确",
+      "准确、精确、准确、精密、精确",
       "accurate,precisely,accurately,precise,exact",
       "ٴدال"
     ],
@@ -6167,7 +6167,7 @@
   {
     "name": "dxalyel",
     "trans": [
-      "证明，论证",
+      "証明、论证",
       "proof,argument",
       "دالەل"
     ],
@@ -6185,7 +6185,7 @@
   {
     "name": "dxalyeldyew",
     "trans": [
-      "证明",
+      "証明",
       "prove",
       "دالەلدەۋ"
     ],
@@ -6194,7 +6194,7 @@
   {
     "name": "dxalxez",
     "trans": [
-      "走廊，走廊",
+      "走廊、走廊",
       "corridor,hallway",
       "ٴدالىز"
     ],
@@ -6221,7 +6221,7 @@
   {
     "name": "dxaryejyesxe",
     "trans": [
-      "程度，等级，程度",
+      "程度、等级、程度",
       "extent,rank,degree",
       "دارەجەسى"
     ],
@@ -6248,7 +6248,7 @@
   {
     "name": "dxarxegyer",
     "trans": [
-      "医生，医生",
+      "医生、医生",
       "physician,doctor",
       "دارىگەر"
     ],
@@ -6266,7 +6266,7 @@
   {
     "name": "dxastxur",
     "trans": [
-      "传统，习俗",
+      "传统、习俗",
       "tradition,custom",
       "ٴداستۇر"
     ],
@@ -6275,7 +6275,7 @@
   {
     "name": "dxastxurlxe",
     "trans": [
-      "传统，传统",
+      "传统、传统",
       "traditionally,traditional",
       "ٴداستۇرلى"
     ],
@@ -6293,7 +6293,7 @@
   {
     "name": "dxoryekxe",
     "trans": [
-      "粗暴，粗暴，残酷",
+      "粗暴、粗暴、残酷",
       "rough,roughly,brutal",
       "دورەكى"
     ],
@@ -6302,7 +6302,7 @@
   {
     "name": "dxonggyelyek",
     "trans": [
-      "圆形，轮式",
+      "圆形、轮式",
       "round,wheel",
       "دوڭگەلەك"
     ],
@@ -6374,7 +6374,7 @@
   {
     "name": "yedyen",
     "trans": [
-      "性别，性别",
+      "性别、性别",
       "gender,sex",
       "ەدەن"
     ],
@@ -6401,7 +6401,7 @@
   {
     "name": "yekpxen",
     "trans": [
-      "强调，重音",
+      "強調、重音",
       "emphasis,accent",
       "ەكپىن"
     ],
@@ -6464,7 +6464,7 @@
   {
     "name": "yelyemyew",
     "trans": [
-      "忽略，忽略",
+      "忽略、忽略",
       "overlook,ignore",
       "ەلەمەۋ"
     ],
@@ -6473,7 +6473,7 @@
   {
     "name": "yelyes",
     "trans": [
-      "幻觉，幽灵",
+      "幻觉、幽灵",
       "illusion,ghost",
       "ەلەس"
     ],
@@ -6482,7 +6482,7 @@
   {
     "name": "yelyestyetw",
     "trans": [
-      "想象，设想",
+      "想象、设想",
       "imagine,envision",
       "ەلەستەتۋ"
     ],
@@ -6491,7 +6491,7 @@
   {
     "name": "yelyewsxez",
     "trans": [
-      "轻微，轻微",
+      "轻微、轻微",
       "slight,minor",
       "ەلەۋسىز"
     ],
@@ -6509,7 +6509,7 @@
   {
     "name": "yemdyew",
     "trans": [
-      "治疗，治愈，治疗，治愈，药物治疗",
+      "治疗、治愈、治疗、治愈、药物治疗",
       "treat,heal,treatment,cure,medication",
       "ەمدەۋ"
     ],
@@ -6581,7 +6581,7 @@
   {
     "name": "yeryejye",
     "trans": [
-      "统治",
+      "統治",
       "rule",
       "ەرەجە"
     ],
@@ -6590,7 +6590,7 @@
   {
     "name": "yeryekshye",
     "trans": [
-      "不寻常的，特殊的，非凡的，特殊的",
+      "不寻常的、特殊的、非凡的、特殊的",
       "unusual,specific,extraordinary,special",
       "ەرەكشە"
     ],
@@ -6671,7 +6671,7 @@
   {
     "name": "yerxektxe",
     "trans": [
-      "自愿，志愿者",
+      "自愿、志愿者",
       "voluntary,volunteer",
       "ەرىكتى"
     ],
@@ -6707,7 +6707,7 @@
   {
     "name": "yesyep byerw",
     "trans": [
-      "问责，告知",
+      "问责、告知",
       "accountability,inform",
       "ەسەپ بەرۋ"
     ],
@@ -6734,7 +6734,7 @@
   {
     "name": "yesyeptyew",
     "trans": [
-      "计算，计算",
+      "計算、計算",
       "calculate,calculation",
       "ەسەپتەۋ"
     ],
@@ -6752,7 +6752,7 @@
   {
     "name": "yeskye salw",
     "trans": [
-      "提醒，提醒",
+      "提醒、提醒",
       "remind,reminder",
       "ەسكە سالۋ"
     ],
@@ -6770,7 +6770,7 @@
   {
     "name": "yeskyertw",
     "trans": [
-      "警告，注意，警告，备注",
+      "警告、注意、警告、备注",
       "warning,note,warn,remark",
       "ەسكەرتۋ"
     ],
@@ -6797,7 +6797,7 @@
   {
     "name": "yestw",
     "trans": [
-      "谣言，听闻，听闻",
+      "谣言、听闻、听闻",
       "rumor,hearing,hear",
       "ەستۋ"
     ],
@@ -6806,7 +6806,7 @@
   {
     "name": "yesxek",
     "trans": [
-      "门口，门",
+      "门口、门",
       "doorway,door",
       "ەسىك"
     ],
@@ -6815,7 +6815,7 @@
   {
     "name": "yet",
     "trans": [
-      "肉，肉",
+      "肉、肉",
       "meat,flesh",
       "ەت"
     ],
@@ -6851,7 +6851,7 @@
   {
     "name": "yeshkxem",
     "trans": [
-      "没有人，没有",
+      "没有人、没有",
       "nobody,none",
       "ەشكىم"
     ],
@@ -6950,7 +6950,7 @@
   {
     "name": "jabdeq",
     "trans": [
-      "服装，五金，设备",
+      "服装、五金、设备",
       "outfit,hardware,equipment",
       "جابدىق"
     ],
@@ -6968,7 +6968,7 @@
   {
     "name": "jabw",
     "trans": [
-      "关闭，关闭",
+      "关闭、关闭",
       "close,shut",
       "جابۋ"
     ],
@@ -6995,7 +6995,7 @@
   {
     "name": "jad",
     "trans": [
-      "记忆",
+      "記憶",
       "memory",
       "جاد"
     ],
@@ -7031,7 +7031,7 @@
   {
     "name": "jazataiem oqigha",
     "trans": [
-      "事故，伤亡",
+      "事故、伤亡",
       "accident,casualty",
       "جازاتايىم وقيعا"
     ],
@@ -7040,7 +7040,7 @@
   {
     "name": "jazw",
     "trans": [
-      "记录，记录，写作，写作",
+      "記録、記録、写作、写作",
       "record,recording,writing,write",
       "جازۋ"
     ],
@@ -7085,7 +7085,7 @@
   {
     "name": "jalaqe",
     "trans": [
-      "工资，工资",
+      "工资、工资",
       "salary,wage",
       "جالاقى"
     ],
@@ -7112,7 +7112,7 @@
   {
     "name": "jalpe",
     "trans": [
-      "总的，共享的，集体的，普通的",
+      "总的、共享的、集体的、普通的",
       "gross,shared,collective,common",
       "جالپى"
     ],
@@ -7121,7 +7121,7 @@
   {
     "name": "jalpe alghanda",
     "trans": [
-      "总体来说，总的来说",
+      "总体来说、总的来说",
       "overall,altogether",
       "جالپى العاندا"
     ],
@@ -7157,7 +7157,7 @@
   {
     "name": "jalenw",
     "trans": [
-      "乞求，恳求",
+      "乞求、恳求",
       "beg,plead",
       "جالىنۋ"
     ],
@@ -7166,7 +7166,7 @@
   {
     "name": "jalgha alw",
     "trans": [
-      "出租，出租",
+      "出租、出租",
       "rent,rental",
       "جالعا الۋ"
     ],
@@ -7184,7 +7184,7 @@
   {
     "name": "jalghasterw",
     "trans": [
-      "继续，继续，继续",
+      "继续、继续、继续",
       "resume,continue,proceed",
       "جالعاستىرۋ"
     ],
@@ -7193,7 +7193,7 @@
   {
     "name": "jalghaswda",
     "trans": [
-      "继续，继续",
+      "继续、继续",
       "continuing,continued",
       "جالعاسۋدا"
     ],
@@ -7202,7 +7202,7 @@
   {
     "name": "jalghez",
     "trans": [
-      "寂寞，单身",
+      "寂寞、单身",
       "lonely,single",
       "جالعىز"
     ],
@@ -7211,7 +7211,7 @@
   {
     "name": "jaman",
     "trans": [
-      "不好，不好",
+      "不好、不好",
       "bad,badly",
       "جامان"
     ],
@@ -7220,7 +7220,7 @@
   {
     "name": "jambas",
     "trans": [
-      "大腿，臀部",
+      "大腿、臀部",
       "thigh,hip",
       "جامباس"
     ],
@@ -7256,7 +7256,7 @@
   {
     "name": "janjal",
     "trans": [
-      "丑闻，冲突",
+      "丑闻、衝突",
       "scandal,conflict",
       "جانجال"
     ],
@@ -7319,7 +7319,7 @@
   {
     "name": "jaraide",
     "trans": [
-      "好，好，好，好",
+      "好、好、好、好",
       "well,okay,ok,fine",
       "جارايدى"
     ],
@@ -7346,7 +7346,7 @@
   {
     "name": "jaraqat",
     "trans": [
-      "受伤，伤害，伤害，创伤",
+      "受伤、傷つける、傷つける、创伤",
       "injury,hurt,injure,trauma",
       "جاراقات"
     ],
@@ -7355,7 +7355,7 @@
   {
     "name": "jariialaw",
     "trans": [
-      "发布，出版，宣布，声明，声明",
+      "发布、出版、宣布、声明、声明",
       "publish,publication,announce,declare,proclaim",
       "جارييالاۋ"
     ],
@@ -7382,7 +7382,7 @@
   {
     "name": "jarnama",
     "trans": [
-      "广告，广告",
+      "广告、广告",
       "ad,advertising",
       "جارناما"
     ],
@@ -7418,7 +7418,7 @@
   {
     "name": "jareles",
     "trans": [
-      "爆炸，爆炸，爆炸，爆炸",
+      "爆炸、爆炸、爆炸、爆炸",
       "blast,explode,burst,explosion",
       "جارىلىس"
     ],
@@ -7427,7 +7427,7 @@
   {
     "name": "jares",
     "trans": [
-      "比赛，竞赛，比赛",
+      "試合、竞赛、試合",
       "competition,contest,race",
       "جارىس"
     ],
@@ -7454,7 +7454,7 @@
   {
     "name": "jarghe",
     "trans": [
-      "章程，法规",
+      "章程、法规",
       "charter,statute",
       "جارعى"
     ],
@@ -7490,7 +7490,7 @@
   {
     "name": "jas",
     "trans": [
-      "年轻，年轻",
+      "年轻、年轻",
       "young,youngster",
       "جاس"
     ],
@@ -7508,7 +7508,7 @@
   {
     "name": "jasaw",
     "trans": [
-      "提交，生成，创建",
+      "提交、生成、创建",
       "commit,generate,create",
       "جاساۋ"
     ],
@@ -7535,7 +7535,7 @@
   {
     "name": "jasteq",
     "trans": [
-      "垫子，枕头",
+      "垫子、枕头",
       "pad,pillow",
       "جاستىق"
     ],
@@ -7580,7 +7580,7 @@
   {
     "name": "jasxospxerxem",
     "trans": [
-      "青少年，青少年，青少年，青少年",
+      "青少年、青少年、青少年、青少年",
       "teenager,adolescent,teenage,teen",
       "ٴجاسوسپىرىم"
     ],
@@ -7589,7 +7589,7 @@
   {
     "name": "jatteghw",
     "trans": [
-      "运动，锻炼",
+      "運動、锻炼",
       "exercise,workout",
       "جاتتىعۋ"
     ],
@@ -7598,7 +7598,7 @@
   {
     "name": "jatteqterwshe",
     "trans": [
-      "教练，培训师",
+      "教练、培训师",
       "coach,trainer",
       "جاتتىقتىرۋشى"
     ],
@@ -7625,7 +7625,7 @@
   {
     "name": "jawap",
     "trans": [
-      "回复，响应，回答",
+      "回复、响应、回答",
       "reply,response,answer",
       "جاۋاپ"
     ],
@@ -7634,7 +7634,7 @@
   {
     "name": "jawap byerw",
     "trans": [
-      "反应，回应",
+      "反应、回应",
       "react,respond",
       "جاۋاپ بەرۋ"
     ],
@@ -7652,7 +7652,7 @@
   {
     "name": "jawapkyershxelxek",
     "trans": [
-      "责任，责任",
+      "责任、责任",
       "liability,responsibility",
       "جاۋاپكەرشىلىك"
     ],
@@ -7661,7 +7661,7 @@
   {
     "name": "jawapte",
     "trans": [
-      "负责，被调查者",
+      "负责、被調査者",
       "responsible,respondent",
       "جاۋاپتى"
     ],
@@ -7670,7 +7670,7 @@
   {
     "name": "jawengyer",
     "trans": [
-      "战士，战士",
+      "战士、战士",
       "warrior,fighter",
       "جاۋىڭەر"
     ],
@@ -7697,7 +7697,7 @@
   {
     "name": "jaghalaw",
     "trans": [
-      "海岸，海岸，沿海",
+      "海岸、海岸、沿海",
       "shore,coast,coastal",
       "جاعالاۋ"
     ],
@@ -7715,7 +7715,7 @@
   {
     "name": "jaghdai",
     "trans": [
-      "情况，情况",
+      "情况、情况",
       "circumstance,situation",
       "جاعداي"
     ],
@@ -7724,7 +7724,7 @@
   {
     "name": "jaghdaie",
     "trans": [
-      "状况，财富",
+      "状况、财富",
       "condition,fortune",
       "جاعدايى"
     ],
@@ -7778,7 +7778,7 @@
   {
     "name": "jaqsartw",
     "trans": [
-      "改进，改进",
+      "改进、改进",
       "improve,improvement",
       "جاقسارتۋ"
     ],
@@ -7796,7 +7796,7 @@
   {
     "name": "jaqse",
     "trans": [
-      "更好，更好",
+      "更好、更好",
       "better,good",
       "جاقسى"
     ],
@@ -7814,7 +7814,7 @@
   {
     "name": "jaqtaw",
     "trans": [
-      "框架，框架",
+      "框架、框架",
       "frame,framework",
       "جاقتاۋ"
     ],
@@ -7823,7 +7823,7 @@
   {
     "name": "jaqen",
     "trans": [
-      "近，亲密，旁，旁",
+      "近、亲密、旁、旁",
       "near,intimate,beside,alongside",
       "جاقىن"
     ],
@@ -7841,7 +7841,7 @@
   {
     "name": "jaqenda",
     "trans": [
-      "最近，很快，最近",
+      "最近、很快、最近",
       "lately,soon,recently",
       "جاقىندا"
     ],
@@ -7850,7 +7850,7 @@
   {
     "name": "jaqendaw",
     "trans": [
-      "西装，合身",
+      "西装、合身",
       "suit,fit",
       "جاقىنداۋ"
     ],
@@ -7967,7 +7967,7 @@
   {
     "name": "jyekye",
     "trans": [
-      "个人，私人",
+      "个人、私人",
       "personally,individual,privately,private,personal",
       "جەكە"
     ],
@@ -8003,7 +8003,7 @@
   {
     "name": "jyelxe",
     "trans": [
-      "网络，网络，网络",
+      "网络、网络、网络",
       "network,net,web",
       "جەلى"
     ],
@@ -8030,7 +8030,7 @@
   {
     "name": "jyer",
     "trans": [
-      "土地，地球，地面",
+      "土地、地球、地面",
       "land,earth,ground",
       "جەر"
     ],
@@ -8147,7 +8147,7 @@
   {
     "name": "jyetkxezw",
     "trans": [
-      "供应，交付，交付",
+      "供应、交付、交付",
       "supply,delivery,deliver",
       "جەتكىزۋ"
     ],
@@ -8156,7 +8156,7 @@
   {
     "name": "jyetkxezwshxe",
     "trans": [
-      "供应商，供应商",
+      "供应商、供应商",
       "provider,supplier",
       "جەتكىزۋشى"
     ],
@@ -8165,7 +8165,7 @@
   {
     "name": "jyetkxelxektxe",
     "trans": [
-      "够了，够了",
+      "够了、够了",
       "enough,sufficient",
       "جەتكىلىكتى"
     ],
@@ -8174,7 +8174,7 @@
   {
     "name": "jyetw",
     "trans": [
-      "实现，达到",
+      "实现、达到",
       "achieve,reach",
       "جەتۋ"
     ],
@@ -8219,7 +8219,7 @@
   {
     "name": "jyengw",
     "trans": [
-      "克服，赢得，处理，应对",
+      "克服、赢得、処理、应对",
       "overcome,win,handle,cope",
       "جەڭۋ"
     ],
@@ -8228,7 +8228,7 @@
   {
     "name": "jyengxel",
     "trans": [
-      "轻轻，略微",
+      "轻轻、略微",
       "lightly,slightly",
       "جەڭىل"
     ],
@@ -8246,7 +8246,7 @@
   {
     "name": "jyengxeldxek",
     "trans": [
-      "折扣，轻松，缓解",
+      "折扣、轻松、缓解",
       "discount,ease,relief",
       "جەڭىلدىك"
     ],
@@ -8255,7 +8255,7 @@
   {
     "name": "jyengxelxes",
     "trans": [
-      "失败",
+      "失敗",
       "defeat",
       "جەڭىلىس"
     ],
@@ -8291,7 +8291,7 @@
   {
     "name": "jinaw",
     "trans": [
-      "收集，收集，收集，组装",
+      "收集、收集、收集、组装",
       "collect,gathering,gather,assemble",
       "جيناۋ"
     ],
@@ -8309,7 +8309,7 @@
   {
     "name": "jinaq",
     "trans": [
-      "套件，套件，收藏，套装",
+      "套件、套件、收藏、套装",
       "kit,suite,collection,set",
       "جيناق"
     ],
@@ -8336,7 +8336,7 @@
   {
     "name": "jixe",
     "trans": [
-      "频繁，频繁，经常",
+      "频繁、频繁、经常",
       "frequently,frequent,often",
       "ٴجيى"
     ],
@@ -8363,7 +8363,7 @@
   {
     "name": "joba",
     "trans": [
-      "草稿，项目",
+      "草稿、项目",
       "draft,project",
       "جوبا"
     ],
@@ -8381,7 +8381,7 @@
   {
     "name": "jol",
     "trans": [
-      "字符串，路径，潜行，车道，方式，轨道，道路",
+      "字符串、路径、潜行、车道、方式、轨道、道路",
       "string,path,sneak,driveway,way,track,road",
       "جول"
     ],
@@ -8408,7 +8408,7 @@
   {
     "name": "jolaq",
     "trans": [
-      "条形，条纹，车道",
+      "条形、条纹、车道",
       "strip,streak,lane",
       "جولاق"
     ],
@@ -8435,7 +8435,7 @@
   {
     "name": "jospar",
     "trans": [
-      "计划",
+      "計画",
       "plan",
       "جوسپار"
     ],
@@ -8453,7 +8453,7 @@
   {
     "name": "josparlawshe",
     "trans": [
-      "计划",
+      "計画",
       "planner",
       "جوسپارلاۋشى"
     ],
@@ -8471,7 +8471,7 @@
   {
     "name": "joiw",
     "trans": [
-      "移除，消除，销毁，移除，破坏，毁坏",
+      "移除、消除、销毁、移除、破壊、毁坏",
       "remove,eliminate,destroy,removal,destruction,ruin",
       "جويۋ"
     ],
@@ -8480,7 +8480,7 @@
   {
     "name": "joghaltw",
     "trans": [
-      "损失，损失",
+      "损失、损失",
       "loss,lose",
       "جوعالتۋ"
     ],
@@ -8489,7 +8489,7 @@
   {
     "name": "joghalw",
     "trans": [
-      "消失",
+      "消える",
       "vanish",
       "جوعالۋ"
     ],
@@ -8498,7 +8498,7 @@
   {
     "name": "joghalep kyetw",
     "trans": [
-      "消失",
+      "消える",
       "disappear",
       "جوعالىپ كەتۋ"
     ],
@@ -8507,7 +8507,7 @@
   {
     "name": "joghalghan",
     "trans": [
-      "丢失，丢失",
+      "丢失、丢失",
       "lost,missing",
       "جوعالعان"
     ],
@@ -8516,7 +8516,7 @@
   {
     "name": "joghare",
     "trans": [
-      "高，高，高，上，上，上",
+      "高、高、高、上、上、上",
       "high,highly,tall,up,superior",
       "جوعارى"
     ],
@@ -8543,7 +8543,7 @@
   {
     "name": "joghareda",
     "trans": [
-      "以上，上方",
+      "以上、上方",
       "above,over",
       "جوعارىدا"
     ],
@@ -8552,7 +8552,7 @@
   {
     "name": "jogharghe",
     "trans": [
-      "上部，上部",
+      "上部、上部",
       "upper,top",
       "جوعارعى"
     ],
@@ -8570,7 +8570,7 @@
   {
     "name": "joq",
     "trans": [
-      "既不是，也不是，没有",
+      "既不是、也不是、没有",
       "neither,nor,without",
       "جوق"
     ],
@@ -8579,7 +8579,7 @@
   {
     "name": "jwrnal",
     "trans": [
-      "杂志，期刊，日志",
+      "杂志、期刊、日志",
       "magazine,journal,log",
       "جۋرنال"
     ],
@@ -8660,7 +8660,7 @@
   {
     "name": "jelaw",
     "trans": [
-      "尖叫，哭泣，呐喊",
+      "尖叫、哭泣、呐喊",
       "scream,cry,shout",
       "جىلاۋ"
     ],
@@ -8669,7 +8669,7 @@
   {
     "name": "jeldam",
     "trans": [
-      "快速，快速，快速，快速，快速，快速",
+      "快速、快速、快速、快速、快速、快速",
       "rapid,quick,rapidly,fast,quickly",
       "جىلدام"
     ],
@@ -8696,7 +8696,7 @@
   {
     "name": "jeljetw",
     "trans": [
-      "前进，移动，晋升，转移",
+      "前進、移動、晋升、移転",
       "advance,move,promotion,transfer",
       "جىلجىتۋ"
     ],
@@ -8714,7 +8714,7 @@
   {
     "name": "jelw",
     "trans": [
-      "温暖，热",
+      "温暖、热",
       "warmth,heat",
       "جىلۋ"
     ],
@@ -8741,7 +8741,7 @@
   {
     "name": "jende",
     "trans": [
-      "疯狂，疯狂",
+      "疯狂、疯狂",
       "crazy,mad",
       "جىندى"
     ],
@@ -8750,7 +8750,7 @@
   {
     "name": "jenesteq",
     "trans": [
-      "性，性，性感",
+      "性、性、性感",
       "sexual,sexually,sexy",
       "جىنىستىق"
     ],
@@ -8804,7 +8804,7 @@
   {
     "name": "jxegxet",
     "trans": [
-      "男朋友，男生",
+      "男朋友、男生",
       "boyfriend,guy",
       "ٴجىگىت"
     ],
@@ -8831,7 +8831,7 @@
   {
     "name": "jxengxeshkye",
     "trans": [
-      "微妙，薄薄",
+      "微妙、薄薄",
       "subtle,thin",
       "جىڭىشكە"
     ],
@@ -8849,7 +8849,7 @@
   {
     "name": "jxugxerw",
     "trans": [
-      "逃跑，逃跑",
+      "逃跑、逃跑",
       "flee,run",
       "ٴجۇگىرۋ"
     ],
@@ -8858,7 +8858,7 @@
   {
     "name": "jxugxerwshxe",
     "trans": [
-      "跑步，跑步者",
+      "跑步、跑步者",
       "running,runner",
       "ٴجۇگىرۋشى"
     ],
@@ -8885,7 +8885,7 @@
   {
     "name": "jxuzw",
     "trans": [
-      "游泳，游泳，漂浮",
+      "游泳、游泳、漂浮",
       "swim,swimming,float",
       "ٴجۇزۋ"
     ],
@@ -8912,7 +8912,7 @@
   {
     "name": "jxuikye",
     "trans": [
-      "神经，神经",
+      "神经、神经",
       "nervous,nerve",
       "جۇيكە"
     ],
@@ -9056,7 +9056,7 @@
   {
     "name": "jumsaq",
     "trans": [
-      "柔软，柔软，温和，温和",
+      "柔软、柔软、温和、温和",
       "soft,softly,gently,mild",
       "جۇمساق"
     ],
@@ -9074,7 +9074,7 @@
   {
     "name": "jumes",
     "trans": [
-      "操作，工作，工作，工作",
+      "操作、仕事、仕事、仕事",
       "operate,job,working,work",
       "جۇمىس"
     ],
@@ -9092,7 +9092,7 @@
   {
     "name": "jumes orne",
     "trans": [
-      "工作单位",
+      "仕事单位",
       "workplace",
       "جۇمىس ورنى"
     ],
@@ -9119,7 +9119,7 @@
   {
     "name": "jumespyen qamtw",
     "trans": [
-      "职业",
+      "職業",
       "occupation",
       "جۇمىسپەن قامتۋ"
     ],
@@ -9146,7 +9146,7 @@
   {
     "name": "jup",
     "trans": [
-      "对，情侣",
+      "对、情侣",
       "pair,couple",
       "جۇپ"
     ],
@@ -9191,7 +9191,7 @@
   {
     "name": "jxardyemdyesw",
     "trans": [
-      "促进",
+      "促進",
       "facilitate",
       "جاردەمدەسۋ"
     ],
@@ -9209,7 +9209,7 @@
   {
     "name": "jxonyeltw",
     "trans": [
-      "离开",
+      "離れる",
       "departure",
       "جونەلتۋ"
     ],
@@ -9245,7 +9245,7 @@
   {
     "name": "zal",
     "trans": [
-      "大堂，大厅",
+      "大堂、大厅",
       "lobby,hall",
       "زال"
     ],
@@ -9254,7 +9254,7 @@
   {
     "name": "zamanawi",
     "trans": [
-      "现代，现代",
+      "现代、现代",
       "contemporary,modern",
       "زاماناۋي"
     ],
@@ -9317,7 +9317,7 @@
   {
     "name": "zang shegharwshe",
     "trans": [
-      "立法者，立法者",
+      "立法者、立法者",
       "legislator,lawmaker",
       "زاڭ شىعارۋشى"
     ],
@@ -9344,7 +9344,7 @@
   {
     "name": "zangde",
     "trans": [
-      "合法，合法",
+      "合法、合法",
       "legitimate,legal",
       "زاڭدى"
     ],
@@ -9407,7 +9407,7 @@
   {
     "name": "zyerttyew",
     "trans": [
-      "探索，研究，探索，检查，研究，调查",
+      "探索、研究、探索、検査、研究、調査",
       "explore,study,exploration,examine,research,investigate",
       "زەرتتەۋ"
     ],
@@ -9425,7 +9425,7 @@
   {
     "name": "zyerthana",
     "trans": [
-      "实验室，实验室",
+      "实验室、实验室",
       "laboratory,lab",
       "زەرتحانا"
     ],
@@ -9452,7 +9452,7 @@
   {
     "name": "ziian",
     "trans": [
-      "伤害",
+      "傷つける",
       "harm",
       "زييان"
     ],
@@ -9470,7 +9470,7 @@
   {
     "name": "zombeleq",
     "trans": [
-      "暴力，暴力",
+      "暴力、暴力",
       "violence,violent",
       "زومبىلىق"
     ],
@@ -9479,7 +9479,7 @@
   {
     "name": "zemeran",
     "trans": [
-      "导弹，火箭",
+      "导弹、火箭",
       "missile,rocket",
       "زىمىران"
     ],
@@ -9533,7 +9533,7 @@
   {
     "name": "iyelyenw",
     "trans": [
-      "拥有，占有，所有权",
+      "拥有、占有、所有权",
       "possess,possession,ownership",
       "يەلەنۋ"
     ],
@@ -9614,7 +9614,7 @@
   {
     "name": "impwls",
     "trans": [
-      "脉冲，脉冲，动量",
+      "脉冲、脉冲、动量",
       "pulse,impulse,momentum",
       "يمپۋلس"
     ],
@@ -9704,7 +9704,7 @@
   {
     "name": "inspyektor",
     "trans": [
-      "检查员",
+      "検査员",
       "inspector",
       "ينسپەكتور"
     ],
@@ -9848,7 +9848,7 @@
   {
     "name": "ixelw",
     "trans": [
-      "弯曲，收起，折叠",
+      "弯曲、收起、折叠",
       "bend,tuck,fold",
       "ٴيىلۋ"
     ],
@@ -9857,7 +9857,7 @@
   {
     "name": "ixesxe",
     "trans": [
-      "气味，气味",
+      "气味、气味",
       "smell,scent",
       "ٴيىسى"
     ],
@@ -9911,7 +9911,7 @@
   {
     "name": "kamyera",
     "trans": [
-      "腔室，相机",
+      "腔室、相机",
       "chamber,camera",
       "كامەرا"
     ],
@@ -9947,7 +9947,7 @@
   {
     "name": "karta",
     "trans": [
-      "卡片，地图",
+      "卡片、地图",
       "card,map",
       "كارتا"
     ],
@@ -9992,7 +9992,7 @@
   {
     "name": "kyedyergxe",
     "trans": [
-      "屏障，障碍物，搅拌",
+      "屏障、障碍物、搅拌",
       "barrier,obstacle,stir",
       "كەدەرگى"
     ],
@@ -10046,7 +10046,7 @@
   {
     "name": "kyezdyeisoq",
     "trans": [
-      "随机，偶尔",
+      "随机、偶尔",
       "random,occasional",
       "كەزدەيسوق"
     ],
@@ -10055,7 +10055,7 @@
   {
     "name": "kyezdyesw",
     "trans": [
-      "会议，会议",
+      "会议、会议",
       "meeting,meet",
       "كەزدەسۋ"
     ],
@@ -10073,7 +10073,7 @@
   {
     "name": "kyezyeng",
     "trans": [
-      "阶段，期间",
+      "阶段、期间",
       "stage,period",
       "كەزەڭ"
     ],
@@ -10100,7 +10100,7 @@
   {
     "name": "kyeidye",
     "trans": [
-      "有时，有时",
+      "有时、有时",
       "sometime,sometimes",
       "كەيدە"
     ],
@@ -10136,7 +10136,7 @@
   {
     "name": "kyeixep tanetw",
     "trans": [
-      "假装",
+      "ふりをする",
       "pretend",
       "كەيىپ تانىتۋ"
     ],
@@ -10154,7 +10154,7 @@
   {
     "name": "kyelyesxe",
     "trans": [
-      "下一个，后续，后续",
+      "下一个、后续、后续",
       "next,subsequent,following",
       "كەلەسى"
     ],
@@ -10163,7 +10163,7 @@
   {
     "name": "kyelw",
     "trans": [
-      "来，到，到达，参观，参加",
+      "来、到、到达、参观、参加",
       "come,arrival,arrive,visit,attend",
       "كەلۋ"
     ],
@@ -10190,7 +10190,7 @@
   {
     "name": "kyelxespyew",
     "trans": [
-      "反对",
+      "反対",
       "disagree",
       "كەلىسپەۋ"
     ],
@@ -10226,7 +10226,7 @@
   {
     "name": "kyelxesxem",
     "trans": [
-      "共识，协议，约定，承诺，同意",
+      "共识、协议、约定、承诺、同意",
       "consensus,agreement,convention,engagement,consent",
       "كەلىسىم"
     ],
@@ -10244,7 +10244,7 @@
   {
     "name": "kyemye",
     "trans": [
-      "船舶，船舶",
+      "船舶、船舶",
       "vessel,ship",
       "كەمە"
     ],
@@ -10271,7 +10271,7 @@
   {
     "name": "kyenyettyen",
     "trans": [
-      "突然，突然",
+      "突然、突然",
       "sudden,suddenly",
       "كەنەتتەن"
     ],
@@ -10298,7 +10298,7 @@
   {
     "name": "kyepxeldxek",
     "trans": [
-      "保证，保证",
+      "保証、保証",
       "ensure,guarantee",
       "كەپىلدىك"
     ],
@@ -10307,7 +10307,7 @@
   {
     "name": "kyeryek",
     "trans": [
-      "应该，必须，应该，应该",
+      "应该、必须、应该、应该",
       "ought,must,shall,should",
       "كەرەك"
     ],
@@ -10316,7 +10316,7 @@
   {
     "name": "kyeryemyet",
     "trans": [
-      "了不起，伟大，惊人，惊人，卓越，非凡，难以置信，难以置信，令人惊讶",
+      "了不起、伟大、惊人、惊人、卓越、非凡、难以置信、难以置信、令人惊讶",
       "terrific,great,amazing,striking,excellent,remarkable,incredibly,incredible,surprising",
       "كەرەمەت"
     ],
@@ -10325,7 +10325,7 @@
   {
     "name": "kyernyew",
     "trans": [
-      "张力，应变",
+      "张力、应变",
       "tension,strain",
       "كەرنەۋ"
     ],
@@ -10379,7 +10379,7 @@
   {
     "name": "kyesw",
     "trans": [
-      "切割，雕刻，切碎",
+      "切割、雕刻、切碎",
       "cut,carve,chop",
       "كەسۋ"
     ],
@@ -10388,7 +10388,7 @@
   {
     "name": "kyetw",
     "trans": [
-      "离开",
+      "離れる",
       "depart",
       "كەتۋ"
     ],
@@ -10397,7 +10397,7 @@
   {
     "name": "kyewdye",
     "trans": [
-      "胸部，乳房",
+      "胸部、乳房",
       "chest,breast",
       "كەۋدە"
     ],
@@ -10406,7 +10406,7 @@
   {
     "name": "kyesh",
     "trans": [
-      "派对，深夜，晚上",
+      "派对、深夜、晚上",
       "party,late,evening",
       "كەش"
     ],
@@ -10487,7 +10487,7 @@
   {
     "name": "kyengyeitw",
     "trans": [
-      "扩展，扩展，扩展，扩展",
+      "扩展、扩展、扩展、扩展",
       "extension,expansion,extend,expand",
       "كەڭەيتۋ"
     ],
@@ -10505,7 +10505,7 @@
   {
     "name": "kyengyes",
     "trans": [
-      "提示，建议，提示，理事会",
+      "提示、提案、提示、理事会",
       "tip,advice,hint,council",
       "كەڭەس"
     ],
@@ -10514,7 +10514,7 @@
   {
     "name": "kyengyes byerw",
     "trans": [
-      "咨询，咨询，建议",
+      "咨询、咨询、提案",
       "counseling,consult,advise",
       "كەڭەس بەرۋ"
     ],
@@ -10523,7 +10523,7 @@
   {
     "name": "kyengyesshxe",
     "trans": [
-      "顾问，顾问，顾问",
+      "顾问、顾问、顾问",
       "adviser,consultant,counselor",
       "كەڭەسشى"
     ],
@@ -10577,7 +10577,7 @@
   {
     "name": "kixem",
     "trans": [
-      "衣服，衣服",
+      "衣服、衣服",
       "clothes,clothing",
       "كيىم"
     ],
@@ -10586,7 +10586,7 @@
   {
     "name": "klassikaleq",
     "trans": [
-      "经典，古典",
+      "经典、古典",
       "classic,classical",
       "كلاسسيكالىق"
     ],
@@ -10685,7 +10685,7 @@
   {
     "name": "komanda",
     "trans": [
-      "班，指挥，团队",
+      "班、指挥、团队",
       "squad,command,team",
       "كوماندا"
     ],
@@ -10802,7 +10802,7 @@
   {
     "name": "kompiwtyer",
     "trans": [
-      "计算机",
+      "コンピュータ",
       "computer",
       "كومپيۋتەر"
     ],
@@ -11045,7 +11045,7 @@
   {
     "name": "kwxalxek",
     "trans": [
-      "作证，作证",
+      "作证、作证",
       "testify,testimony",
       "كۋالىك"
     ],
@@ -11054,7 +11054,7 @@
   {
     "name": "kxedxertw",
     "trans": [
-      "暂停，暂停",
+      "暂停、暂停",
       "pause,suspend",
       "كىدىرتۋ"
     ],
@@ -11081,7 +11081,7 @@
   {
     "name": "kxelt",
     "trans": [
-      "线索，钥匙",
+      "线索、钥匙",
       "clue,key",
       "كىلت"
     ],
@@ -11144,7 +11144,7 @@
   {
     "name": "kxer",
     "trans": [
-      "泥土，泥土",
+      "泥土、泥土",
       "mud,dirt",
       "كىر"
     ],
@@ -11180,7 +11180,7 @@
   {
     "name": "kxerw",
     "trans": [
-      "入口，输入，进入，入场，入口",
+      "入口、输入、入る、入场、入口",
       "entry,input,enter,admission,entrance",
       "كىرۋ"
     ],
@@ -11207,7 +11207,7 @@
   {
     "name": "kxesxe xoltxerw",
     "trans": [
-      "杀戮，杀人",
+      "杀戮、杀人",
       "killing,murder",
       "كىسى ولتىرۋ"
     ],
@@ -11234,7 +11234,7 @@
   {
     "name": "kxeshkyentai",
     "trans": [
-      "小，浅，小，小",
+      "小、浅、小、小",
       "small,shallow,little,tiny",
       "كىشكەنتاي"
     ],
@@ -11261,7 +11261,7 @@
   {
     "name": "kxudxek",
     "trans": [
-      "怀疑",
+      "疑う",
       "suspicion",
       "كۇدىك"
     ],
@@ -11270,7 +11270,7 @@
   {
     "name": "kxudxektyenw",
     "trans": [
-      "怀疑",
+      "疑う",
       "suspect",
       "كۇدىكتەنۋ"
     ],
@@ -11378,7 +11378,7 @@
   {
     "name": "kxumxan",
     "trans": [
-      "怀疑",
+      "疑う",
       "doubt",
       "كۇمان"
     ],
@@ -11387,7 +11387,7 @@
   {
     "name": "kxun",
     "trans": [
-      "白天，太阳",
+      "白天、太阳",
       "day,sun",
       "كۇن"
     ],
@@ -11414,7 +11414,7 @@
   {
     "name": "kxun shwaqte",
     "trans": [
-      "晴朗，太阳能",
+      "晴朗、太阳能",
       "sunny,solar",
       "كۇن شۋاقتى"
     ],
@@ -11432,7 +11432,7 @@
   {
     "name": "kxundyelxektxe",
     "trans": [
-      "每日，日常，休闲，例行公事",
+      "每日、日常、休闲、例行公事",
       "daily,everyday,casual,routine",
       "كۇندەلىكتى"
     ],
@@ -11477,7 +11477,7 @@
   {
     "name": "kxurdyelxe",
     "trans": [
-      "复杂，复杂",
+      "复杂、复杂",
       "complicated,complex",
       "كۇردەلى"
     ],
@@ -11495,7 +11495,7 @@
   {
     "name": "kxuryes",
     "trans": [
-      "奋斗，争斗",
+      "奋斗、争斗",
       "struggle,contend",
       "كۇرەس"
     ],
@@ -11540,7 +11540,7 @@
   {
     "name": "kxutw",
     "trans": [
-      "等待，期待，等待，期待",
+      "等待、期待、等待、期待",
       "wait,expect,await,expectation",
       "كۇتۋ"
     ],
@@ -11558,7 +11558,7 @@
   {
     "name": "kxush",
     "trans": [
-      "努力，力量，力量，力量",
+      "努力、力量、力量、力量",
       "effort,force,power,strength",
       "كۇش"
     ],
@@ -11567,7 +11567,7 @@
   {
     "name": "kxushyeitw",
     "trans": [
-      "加强，增强，日益加强，加强",
+      "強化、增强、日益強化、強化",
       "reinforce,enhance,increasingly,strengthen",
       "كۇشەيتۋ"
     ],
@@ -11603,7 +11603,7 @@
   {
     "name": "kxastrxol",
     "trans": [
-      "平底锅，锅",
+      "平底锅、锅",
       "pan,pot",
       "كاسترول"
     ],
@@ -11621,7 +11621,7 @@
   {
     "name": "kxasxepkyer",
     "trans": [
-      "企业家，商人",
+      "企业家、商人",
       "entrepreneur,businessman",
       "كاسىپكەر"
     ],
@@ -11630,7 +11630,7 @@
   {
     "name": "kxasxeporen",
     "trans": [
-      "企业，风险投资",
+      "企业、风险投资",
       "enterprise,venture",
       "كاسىپورىن"
     ],
@@ -11666,7 +11666,7 @@
   {
     "name": "kxoz",
     "trans": [
-      "盯着，眼睛",
+      "盯着、眼睛",
       "stare,eye",
       "كوز"
     ],
@@ -11675,7 +11675,7 @@
   {
     "name": "kxoilyek",
     "trans": [
-      "衬衫，连衣裙",
+      "衬衫、连衣裙",
       "shirt,dress",
       "كويلەك"
     ],
@@ -11747,7 +11747,7 @@
   {
     "name": "kxolyengkye",
     "trans": [
-      "阴影，阴影",
+      "阴影、阴影",
       "shade,shadow",
       "كولەڭكە"
     ],
@@ -11756,7 +11756,7 @@
   {
     "name": "kxolxek",
     "trans": [
-      "汽车，运输",
+      "汽车、运输",
       "automobile,transport",
       "كولىك"
     ],
@@ -11783,7 +11783,7 @@
   {
     "name": "kxomyek",
     "trans": [
-      "援助，协助，帮助，协助",
+      "援助、协助、助ける、协助",
       "aid,assist,help,assistance",
       "كومەك"
     ],
@@ -11792,7 +11792,7 @@
   {
     "name": "kxomyekshxe",
     "trans": [
-      "助理，助理",
+      "助理、助理",
       "assistant,aide",
       "كومەكشى"
     ],
@@ -11837,7 +11837,7 @@
   {
     "name": "kxop",
     "trans": [
-      "很多，很多，很多，很多，很多，很多",
+      "很多、很多、很多、很多、很多、很多",
       "plenty,much,lots,lot,numerous,many",
       "كوپ"
     ],
@@ -11927,7 +11927,7 @@
   {
     "name": "kxormye",
     "trans": [
-      "展览，展览",
+      "展览、展览",
       "exhibition,exhibit",
       "كورمە"
     ],
@@ -11936,7 +11936,7 @@
   {
     "name": "kxornyektxe",
     "trans": [
-      "杰出，突出",
+      "杰出、突出",
       "outstanding,prominent",
       "كورنەكتى"
     ],
@@ -11963,7 +11963,7 @@
   {
     "name": "kxorsyetkxesh",
     "trans": [
-      "指示器，指示",
+      "指示器、指示",
       "indicator,indication",
       "كورسەتكىش"
     ],
@@ -11972,7 +11972,7 @@
   {
     "name": "kxorsyetw",
     "trans": [
-      "演示，显示，指示，指定，呈现",
+      "演示、表す、指示、指定、呈现",
       "demonstrate,show,indicate,specify,render",
       "كورسەتۋ"
     ],
@@ -11990,7 +11990,7 @@
   {
     "name": "kxorshxe",
     "trans": [
-      "邻居，邻居",
+      "邻居、邻居",
       "neighbor,neighboring",
       "كورشى"
     ],
@@ -12035,7 +12035,7 @@
   {
     "name": "kxorxenxes",
     "trans": [
-      "一瞥，视线，一瞥",
+      "一瞥、视线、一瞥",
       "glance,sight,glimpse",
       "كورىنىس"
     ],
@@ -12044,7 +12044,7 @@
   {
     "name": "kxorxengxez",
     "trans": [
-      "尝试",
+      "試み",
       "try",
       "كورىڭىز"
     ],
@@ -12053,7 +12053,7 @@
   {
     "name": "kxotyerw",
     "trans": [
-      "提升，上升，提升，提升",
+      "提升、上昇、提升、提升",
       "lift,rise,raise,boost",
       "كوتەرۋ"
     ],
@@ -12116,7 +12116,7 @@
   {
     "name": "kxui",
     "trans": [
-      "情绪，情绪",
+      "情绪、情绪",
       "sentiment,mood",
       "كۇي"
     ],
@@ -12125,7 +12125,7 @@
   {
     "name": "kxongxelsxezdxek",
     "trans": [
-      "失望，沮丧",
+      "失望、沮丧",
       "disappointment,frustration",
       "كوڭىلسىزدىك"
     ],
@@ -12197,7 +12197,7 @@
   {
     "name": "laqterw",
     "trans": [
-      "投掷，投掷",
+      "投掷、投掷",
       "throw,cast",
       "لاقتىرۋ"
     ],
@@ -12305,7 +12305,7 @@
   {
     "name": "mazalangez",
     "trans": [
-      "打扰，打扰",
+      "打扰、打扰",
       "bother,disturb",
       "مازالاڭىز"
     ],
@@ -12314,7 +12314,7 @@
   {
     "name": "mazasez",
     "trans": [
-      "烦恼，关心，烦恼",
+      "烦恼、关心、烦恼",
       "disturbing,concerned,troubled",
       "مازاسىز"
     ],
@@ -12323,7 +12323,7 @@
   {
     "name": "mazasezdeq",
     "trans": [
-      "惊慌，担忧，焦虑",
+      "惊慌、担忧、焦虑",
       "alarm,concern,anxiety",
       "مازاسىزدىق"
     ],
@@ -12341,7 +12341,7 @@
   {
     "name": "mai",
     "trans": [
-      "脂肪，油",
+      "脂肪、油",
       "fat,oil",
       "ماي"
     ],
@@ -12413,7 +12413,7 @@
   {
     "name": "mamandeq",
     "trans": [
-      "职业",
+      "職業",
       "profession",
       "ماماندىق"
     ],
@@ -12503,7 +12503,7 @@
   {
     "name": "masshtab",
     "trans": [
-      "规模，范围",
+      "规模、範囲",
       "scale,scope",
       "ماسشتاب"
     ],
@@ -12512,7 +12512,7 @@
   {
     "name": "mata",
     "trans": [
-      "面料，纸巾，布料",
+      "面料、纸巾、布料",
       "fabric,tissue,cloth",
       "ماتا"
     ],
@@ -12521,7 +12521,7 @@
   {
     "name": "matyematika",
     "trans": [
-      "数学，数学",
+      "数学、数学",
       "mathematics,math",
       "ماتەماتيكا"
     ],
@@ -12530,7 +12530,7 @@
   {
     "name": "matyerial",
     "trans": [
-      "东西，材料",
+      "东西、材料",
       "stuff,material",
       "ماتەريال"
     ],
@@ -12557,7 +12557,7 @@
   {
     "name": "mashina",
     "trans": [
-      "机器，汽车",
+      "机器、汽车",
       "machine,car",
       "ماشينا"
     ],
@@ -12593,7 +12593,7 @@
   {
     "name": "maqsate",
     "trans": [
-      "目标，分配，目的，目标，提名，任命，宗旨，目标",
+      "目標、分配、目的、目標、提名、任命、宗旨、目標",
       "objective,assignment,purpose,target,nomination,appointment,aim,goal",
       "ماقساتى"
     ],
@@ -12602,7 +12602,7 @@
   {
     "name": "maqta",
     "trans": [
-      "棉花，流行音乐",
+      "棉花、流行音乐",
       "cotton,pop",
       "ماقتا"
     ],
@@ -12647,7 +12647,7 @@
   {
     "name": "maquldaw",
     "trans": [
-      "批准，认可",
+      "承認、认可",
       "approve,endorse",
       "ماقۇلداۋ"
     ],
@@ -12665,7 +12665,7 @@
   {
     "name": "mangezde",
     "trans": [
-      "重要，重要，实质性，必要，相当，显着，有意义，重要",
+      "重要、重要、实质性、必要、相当、显着、有意义、重要",
       "importantly,important,substantial,essential,considerable,significantly,meaningful,significant",
       "ماڭىزدى"
     ],
@@ -12674,7 +12674,7 @@
   {
     "name": "mangezdeleghe",
     "trans": [
-      "重要性，价值，意义",
+      "重要性、价值、意义",
       "importance,worth,significance",
       "ماڭىزدىلىعى"
     ],
@@ -12728,7 +12728,7 @@
   {
     "name": "myekyemye",
     "trans": [
-      "机构，机构",
+      "机构、机构",
       "establishment,institution",
       "مەكەمە"
     ],
@@ -12791,7 +12791,7 @@
   {
     "name": "myenxeng",
     "trans": [
-      "我的，我的",
+      "我的、我的",
       "mine,my",
       "مەنىڭ"
     ],
@@ -12818,7 +12818,7 @@
   {
     "name": "myeryekye",
     "trans": [
-      "节日，庆典",
+      "节日、庆典",
       "holiday,celebration",
       "مەرەكە"
     ],
@@ -12845,7 +12845,7 @@
   {
     "name": "myerzxemxe",
     "trans": [
-      "期限，截止日期",
+      "期限、截止日期",
       "term,deadline",
       "مەرزىمى"
     ],
@@ -12881,7 +12881,7 @@
   {
     "name": "myehanizmxe",
     "trans": [
-      "机构，齿轮",
+      "机构、齿轮",
       "mechanism,gear",
       "مەحانيزمى"
     ],
@@ -12953,7 +12953,7 @@
   {
     "name": "minimalde",
     "trans": [
-      "最小值，最小值",
+      "最小值、最小值",
       "minimum,minimal",
       "مينيمالدى"
     ],
@@ -13151,7 +13151,7 @@
   {
     "name": "melteq",
     "trans": [
-      "步枪，手枪",
+      "步枪、手枪",
       "rifle,pistol",
       "مىلتىق"
     ],
@@ -13187,7 +13187,7 @@
   {
     "name": "mesal",
     "trans": [
-      "实例，示例",
+      "实例、示例",
       "instance,example",
       "مىسال"
     ],
@@ -13214,7 +13214,7 @@
   {
     "name": "mxendyettyemye",
     "trans": [
-      "义务，承诺",
+      "义务、承诺",
       "obligation,commitment",
       "مىندەتتەمە"
     ],
@@ -13250,7 +13250,7 @@
   {
     "name": "quleq",
     "trans": [
-      "行为，行为",
+      "行為、行為",
       "behavioral,behavior",
       "قۇلىق"
     ],
@@ -13277,7 +13277,7 @@
   {
     "name": "mxensxez",
     "trans": [
-      "完美，理想，完美",
+      "完美、理想、完美",
       "perfectly,ideal,perfect",
       "ٴمىنسىز"
     ],
@@ -13349,7 +13349,7 @@
   {
     "name": "mxumkxen",
     "trans": [
-      "可能，也许，可能，可能，显然，可能，可能，也许，可能，可以",
+      "可能、也许、可能、可能、显然、可能、可能、也许、可能、可以",
       "probably,maybe,could,possible,apparently,may,might,perhaps,possibly,can",
       "مۇمكىن"
     ],
@@ -13358,7 +13358,7 @@
   {
     "name": "mxumkxen yemyes",
     "trans": [
-      "无法，不可能",
+      "无法、不可能",
       "unable,impossible",
       "مۇمكىن ەمەس"
     ],
@@ -13367,7 +13367,7 @@
   {
     "name": "mxumkxendxek",
     "trans": [
-      "机会，可能性，机会",
+      "机会、可能性、机会",
       "chance,possibility,opportunity",
       "مۇمكىندىك"
     ],
@@ -13385,7 +13385,7 @@
   {
     "name": "mxusxen",
     "trans": [
-      "雕塑，雕像",
+      "雕塑、雕像",
       "sculpture,statue",
       "ٴمۇسىن"
     ],
@@ -13466,7 +13466,7 @@
   {
     "name": "mura",
     "trans": [
-      "遗产，遗产",
+      "遗产、遗产",
       "legacy,heritage",
       "مۇرا"
     ],
@@ -13565,7 +13565,7 @@
   {
     "name": "mxamxelye",
     "trans": [
-      "交易",
+      "取引",
       "deal",
       "مامىلە"
     ],
@@ -13574,7 +13574,7 @@
   {
     "name": "mxanxe",
     "trans": [
-      "实体，本质",
+      "实体、本质",
       "entity,essence",
       "ٴمانى"
     ],
@@ -13583,7 +13583,7 @@
   {
     "name": "mxanxe boiensha",
     "trans": [
-      "本质上，实质上",
+      "本质上、实质上",
       "essentially,substantially",
       "ٴمانى بويىنشا"
     ],
@@ -13709,7 +13709,7 @@
   {
     "name": "nawqan",
     "trans": [
-      "运动",
+      "運動",
       "campaign",
       "ناۋقان"
     ],
@@ -13718,7 +13718,7 @@
   {
     "name": "nawqas",
     "trans": [
-      "生病，生病",
+      "生病、生病",
       "sick,ill",
       "ناۋقاس"
     ],
@@ -13745,7 +13745,7 @@
   {
     "name": "nyegxezgxe",
     "trans": [
-      "主要，关键，一般，主要，主要，基本，主要，主要，基本",
+      "主要、关键、一般、主要、主要、基本、主要、主要、基本",
       "prime,crucial,general,chief,principal,fundamental,major,main,basic",
       "نەگىزگى"
     ],
@@ -13754,7 +13754,7 @@
   {
     "name": "nyegxezxe",
     "trans": [
-      "茎，基础，基础",
+      "茎、基础、基础",
       "stem,foundation,basis",
       "نەگىزى"
     ],
@@ -13772,7 +13772,7 @@
   {
     "name": "nyegxezxenyen",
     "trans": [
-      "大部分，主要，主要，基本上",
+      "大部分、主要、主要、基本上",
       "mostly,primarily,mainly,basically",
       "نەگىزىنەن"
     ],
@@ -13835,7 +13835,7 @@
   {
     "name": "nyesiye",
     "trans": [
-      "信贷，贷款",
+      "信贷、贷款",
       "credit,loan",
       "نەسيە"
     ],
@@ -13844,7 +13844,7 @@
   {
     "name": "niyet",
     "trans": [
-      "意图，意图，意图",
+      "意图、意图、意图",
       "intention,intent,intend",
       "نيەت"
     ],
@@ -13880,7 +13880,7 @@
   {
     "name": "nesan",
     "trans": [
-      "对象，设施",
+      "对象、设施",
       "object,facility",
       "نىسان"
     ],
@@ -13889,7 +13889,7 @@
   {
     "name": "nxuktye",
     "trans": [
-      "点，点",
+      "点、点",
       "point,dot",
       "نۇكتە"
     ],
@@ -13970,7 +13970,7 @@
   {
     "name": "nxatijye",
     "trans": [
-      "结果",
+      "結果",
       "outcome",
       "ناتيجە"
     ],
@@ -13979,7 +13979,7 @@
   {
     "name": "nxatijyesxe",
     "trans": [
-      "结果",
+      "結果",
       "result",
       "ناتيجەسى"
     ],
@@ -13988,7 +13988,7 @@
   {
     "name": "nxatijyesxendye",
     "trans": [
-      "最终，因此",
+      "最终、因此",
       "eventually,consequently",
       "ناتيجەسىندە"
     ],
@@ -14006,7 +14006,7 @@
   {
     "name": "obles",
     "trans": [
-      "面积，领域",
+      "面积、領域",
       "area,realm",
       "وبلىس"
     ],
@@ -14033,7 +14033,7 @@
   {
     "name": "odaq",
     "trans": [
-      "联盟，联盟",
+      "联盟、联盟",
       "union,alliance",
       "وداق"
     ],
@@ -14060,7 +14060,7 @@
   {
     "name": "oi",
     "trans": [
-      "战斗，思想",
+      "战斗、思想",
       "combat,thought",
       "وي"
     ],
@@ -14069,7 +14069,7 @@
   {
     "name": "oilanengez",
     "trans": [
-      "考虑",
+      "検討",
       "contemplate",
       "ويلانىڭىز"
     ],
@@ -14087,7 +14087,7 @@
   {
     "name": "oilaw",
     "trans": [
-      "认知，思考",
+      "认知、思考",
       "cognitive,think",
       "ويلاۋ"
     ],
@@ -14141,7 +14141,7 @@
   {
     "name": "ol",
     "trans": [
-      "她，他，它",
+      "她、他、它",
       "she,he,it",
       "ول"
     ],
@@ -14159,7 +14159,7 @@
   {
     "name": "olardeng",
     "trans": [
-      "他们的，他们",
+      "他们的、他们",
       "their,them",
       "ولاردىڭ"
     ],
@@ -14213,7 +14213,7 @@
   {
     "name": "onda",
     "trans": [
-      "的，那里",
+      "的、那里",
       "the,there",
       "وندا"
     ],
@@ -14249,7 +14249,7 @@
   {
     "name": "oneng",
     "trans": [
-      "他的，它的，她的，她，他",
+      "他的、它的、她的、她、他",
       "his,its,hers,her,him",
       "ونىڭ"
     ],
@@ -14276,7 +14276,7 @@
   {
     "name": "opyeratsiia",
     "trans": [
-      "交易，操作",
+      "取引、操作",
       "transaction,operation",
       "وپەراتسييا"
     ],
@@ -14303,7 +14303,7 @@
   {
     "name": "optsiia",
     "trans": [
-      "选择",
+      "選択",
       "option",
       "وپتسييا"
     ],
@@ -14321,7 +14321,7 @@
   {
     "name": "oraw",
     "trans": [
-      "包装，包装",
+      "包装、包装",
       "pack,wrap",
       "وراۋ"
     ],
@@ -14366,7 +14366,7 @@
   {
     "name": "ornalasterw",
     "trans": [
-      "定位，放置，部署",
+      "定位、放置、部署",
       "locate,placement,deploy",
       "ورنالاستىرۋ"
     ],
@@ -14375,7 +14375,7 @@
   {
     "name": "ornalasqan jyerxe",
     "trans": [
-      "安排，位置",
+      "手配、位置",
       "arrangement,location",
       "ورنالاسقان جەرى"
     ],
@@ -14384,7 +14384,7 @@
   {
     "name": "ornatw",
     "trans": [
-      "安装，安装，安装，建立，设置，掌握",
+      "安装、安装、安装、確立、设置、掌握",
       "install,installation,mount,establish,setting,grasp",
       "ورناتۋ"
     ],
@@ -14420,7 +14420,7 @@
   {
     "name": "ortasha",
     "trans": [
-      "中，中，中，中等，中等",
+      "中、中、中、中等、中等",
       "medium,middle,moderate,average",
       "ورتاشا"
     ],
@@ -14429,7 +14429,7 @@
   {
     "name": "oren",
     "trans": [
-      "座位，位置",
+      "座位、位置",
       "seat,place",
       "ورىن"
     ],
@@ -14447,7 +14447,7 @@
   {
     "name": "orendaw",
     "trans": [
-      "完成，执行，执行，执行，完成",
+      "完了、実行、実行、実行、完了",
       "accomplish,execute,execution,perform,accomplishment",
       "ورىنداۋ"
     ],
@@ -14456,7 +14456,7 @@
   {
     "name": "orendeq",
     "trans": [
-      "椅子，长凳",
+      "椅子、长凳",
       "chair,bench",
       "ورىندىق"
     ],
@@ -14474,7 +14474,7 @@
   {
     "name": "ose waqetta",
     "trans": [
-      "同时，同时",
+      "同时、同时",
       "meanwhile,meantime",
       "وسى ۋاقىتتا"
     ],
@@ -14492,7 +14492,7 @@
   {
     "name": "oselaisha",
     "trans": [
-      "因此，因此",
+      "因此、因此",
       "thereby,thus",
       "وسىلايشا"
     ],
@@ -14537,7 +14537,7 @@
   {
     "name": "otstavkagha kyetw",
     "trans": [
-      "退休，辞职，退休",
+      "退休、辞职、退休",
       "retired,resign,retire",
       "وتستاۆكاعا كەتۋ"
     ],
@@ -14600,7 +14600,7 @@
   {
     "name": "oianw",
     "trans": [
-      "醒，醒",
+      "醒、醒",
       "awake,wake",
       "ويانۋ"
     ],
@@ -14618,7 +14618,7 @@
   {
     "name": "oqigha",
     "trans": [
-      "事件，事件",
+      "事件、事件",
       "event,incident",
       "وقيعا"
     ],
@@ -14663,7 +14663,7 @@
   {
     "name": "oqshawlaw",
     "trans": [
-      "隔离，隔离",
+      "隔离、隔离",
       "isolation,isolate",
       "وقشاۋلاۋ"
     ],
@@ -14681,7 +14681,7 @@
   {
     "name": "oqetw",
     "trans": [
-      "教学，教学，培训，教育",
+      "教学、教学、培训、教育",
       "instructional,teaching,training,educate",
       "وقىتۋ"
     ],
@@ -14735,7 +14735,7 @@
   {
     "name": "paida",
     "trans": [
-      "保证金，利润，收益，收益",
+      "保証金、利润、收益、收益",
       "margin,profit,benefit,earnings",
       "پايدا"
     ],
@@ -14744,7 +14744,7 @@
   {
     "name": "paida bolw",
     "trans": [
-      "出现，出现，出现",
+      "現れる、現れる、現れる",
       "arise,emerging,appear",
       "پايدا بولۋ"
     ],
@@ -14753,7 +14753,7 @@
   {
     "name": "paidalanw",
     "trans": [
-      "使用，使用，利用",
+      "使用、使用、利用",
       "use,employ,exploit",
       "پايدالانۋ"
     ],
@@ -14780,7 +14780,7 @@
   {
     "name": "paidale",
     "trans": [
-      "有用，有帮助",
+      "有用、有助ける",
       "useful,helpful",
       "پايدالى"
     ],
@@ -14933,7 +14933,7 @@
   {
     "name": "pyerspyektiva",
     "trans": [
-      "展望，展望",
+      "展望、展望",
       "perspective,prospect",
       "پەرسپەكتيۆا"
     ],
@@ -14969,7 +14969,7 @@
   {
     "name": "pyesh",
     "trans": [
-      "烘烤，烤箱，炉子",
+      "烘烤、烤箱、炉子",
       "bake,oven,stove",
       "پەش"
     ],
@@ -15014,7 +15014,7 @@
   {
     "name": "piiaz",
     "trans": [
-      "洋葱，弓",
+      "洋葱、弓",
       "onion,bow",
       "پيياز"
     ],
@@ -15077,7 +15077,7 @@
   {
     "name": "pozitsiia",
     "trans": [
-      "立场，位置",
+      "立场、位置",
       "stance,position",
       "پوزيتسييا"
     ],
@@ -15113,7 +15113,7 @@
   {
     "name": "politsiia qezmyetkyerxe",
     "trans": [
-      "警察，警察",
+      "警察、警察",
       "cop,policeman",
       "پوليتسييا قىزمەتكەرى"
     ],
@@ -15221,7 +15221,7 @@
   {
     "name": "pryezidyenttxek",
     "trans": [
-      "总统，总统",
+      "总统、总统",
       "presidency,presidential",
       "پرەزيدەنتتىك"
     ],
@@ -15248,7 +15248,7 @@
   {
     "name": "prihod",
     "trans": [
-      "堂区，来了",
+      "堂区、来了",
       "parish,coming",
       "پريحود"
     ],
@@ -15338,7 +15338,7 @@
   {
     "name": "protsyessor",
     "trans": [
-      "处理器",
+      "処理器",
       "processor",
       "پروتسەسسور"
     ],
@@ -15383,7 +15383,7 @@
   {
     "name": "pxekxer",
     "trans": [
-      "意见，评论",
+      "意見、コメント",
       "opinion,comment",
       "پىكىر"
     ],
@@ -15392,7 +15392,7 @@
   {
     "name": "pxekxertalas",
     "trans": [
-      "争论",
+      "議論",
       "debate",
       "پىكىرتالاس"
     ],
@@ -15410,7 +15410,7 @@
   {
     "name": "pxesxerw",
     "trans": [
-      "煮，煮",
+      "煮、煮",
       "boil,cook",
       "ٴپىسىرۋ"
     ],
@@ -15419,7 +15419,7 @@
   {
     "name": "pxeshxen",
     "trans": [
-      "形状，形式",
+      "形状、形式",
       "shape,form",
       "ٴپىشىن"
     ],
@@ -15428,7 +15428,7 @@
   {
     "name": "pxatyer",
     "trans": [
-      "公寓，公寓",
+      "公寓、公寓",
       "flat,apartment",
       "پاتەر"
     ],
@@ -15518,7 +15518,7 @@
   {
     "name": "rahmyet",
     "trans": [
-      "谢谢，谢谢",
+      "谢谢、谢谢",
       "thank,thanks",
       "راحمەت"
     ],
@@ -15590,7 +15590,7 @@
   {
     "name": "ryejim",
     "trans": [
-      "模式，制度",
+      "模式、制度",
       "mode,regime",
       "رەجيم"
     ],
@@ -15662,7 +15662,7 @@
   {
     "name": "ryesmi",
     "trans": [
-      "官方，正式",
+      "官方、正式",
       "official,formal",
       "رەسمي"
     ],
@@ -15707,7 +15707,7 @@
   {
     "name": "ryettyew",
     "trans": [
-      "调节，调整，调节，调整",
+      "调节、调整、调节、调整",
       "regulation,adjust,regulate,adjustment",
       "رەتتەۋ"
     ],
@@ -15734,7 +15734,7 @@
   {
     "name": "ryeflyeksiia",
     "trans": [
-      "反思，反思，思考",
+      "反思、反思、思考",
       "reflection,reflect,thinking",
       "رەفلەكسييا"
     ],
@@ -15752,7 +15752,7 @@
   {
     "name": "ryetsyept",
     "trans": [
-      "食谱，处方",
+      "食谱、处方",
       "recipe,prescription",
       "رەتسەپت"
     ],
@@ -15860,7 +15860,7 @@
   {
     "name": "ruqsat",
     "trans": [
-      "许可，决议，有效性",
+      "许可、决议、有效性",
       "permission,resolution,validity",
       "رۇقسات"
     ],
@@ -15869,7 +15869,7 @@
   {
     "name": "ruqsat yetw",
     "trans": [
-      "决议，许可",
+      "决议、许可",
       "resolve,permit",
       "رۇقسات ەتۋ"
     ],
@@ -15878,7 +15878,7 @@
   {
     "name": "ruqsat yetxengxez",
     "trans": [
-      "让，允许",
+      "让、允许",
       "let,allow",
       "رۇقسات ەتىڭىز"
     ],
@@ -15887,7 +15887,7 @@
   {
     "name": "rxasxem",
     "trans": [
-      "程序，仪式",
+      "程序、仪式",
       "procedure,ceremony",
       "ٴراسىم"
     ],
@@ -15905,7 +15905,7 @@
   {
     "name": "s",
     "trans": [
-      "从此，与",
+      "从此、与",
       "since,with",
       "س"
     ],
@@ -15950,7 +15950,7 @@
   {
     "name": "sadaqa byerw",
     "trans": [
-      "捐赠，牺牲",
+      "捐赠、牺牲",
       "donate,sacrifice",
       "ساداقا بەرۋ"
     ],
@@ -15959,7 +15959,7 @@
   {
     "name": "sailaw",
     "trans": [
-      "选举，选举",
+      "选举、选举",
       "elect,election",
       "سايلاۋ"
     ],
@@ -16031,7 +16031,7 @@
   {
     "name": "salw",
     "trans": [
-      "构建，构造",
+      "构建、构造",
       "build,construct",
       "سالۋ"
     ],
@@ -16049,7 +16049,7 @@
   {
     "name": "salestermale",
     "trans": [
-      "相对而言，可比性，关于",
+      "相对而言、可比性、关于",
       "relatively,comparable,regarding",
       "سالىستىرمالى"
     ],
@@ -16058,7 +16058,7 @@
   {
     "name": "salesterw",
     "trans": [
-      "比较，比较",
+      "比较、比较",
       "comparison,compare",
       "سالىستىرۋ"
     ],
@@ -16103,7 +16103,7 @@
   {
     "name": "salqen",
     "trans": [
-      "凉爽，陡峭",
+      "凉爽、陡峭",
       "cool,steep",
       "سالقىن"
     ],
@@ -16139,7 +16139,7 @@
   {
     "name": "sanaw",
     "trans": [
-      "计数，认为",
+      "计数、考える",
       "count,deem",
       "ساناۋ"
     ],
@@ -16193,7 +16193,7 @@
   {
     "name": "sarai",
     "trans": [
-      "棚屋，谷仓，宫殿，豪宅",
+      "棚屋、谷仓、宫殿、豪宅",
       "shed,barn,palace,mansion",
       "ساراي"
     ],
@@ -16256,7 +16256,7 @@
   {
     "name": "sarqelw",
     "trans": [
-      "排水，排气",
+      "排水、排气",
       "drain,exhaust",
       "سارقىلۋ"
     ],
@@ -16265,7 +16265,7 @@
   {
     "name": "satw",
     "trans": [
-      "销售，销售，销售",
+      "销售、销售、销售",
       "sell,sales,sale",
       "ساتۋ"
     ],
@@ -16274,7 +16274,7 @@
   {
     "name": "satwshe",
     "trans": [
-      "卖方，供应商",
+      "卖方、供应商",
       "seller,vendor",
       "ساتۋشى"
     ],
@@ -16283,7 +16283,7 @@
   {
     "name": "satep alw",
     "trans": [
-      "购买，购买，收购，获取",
+      "购买、购买、收购、获取",
       "purchase,buy,acquisition,acquire",
       "ساتىپ الۋ"
     ],
@@ -16292,7 +16292,7 @@
   {
     "name": "satep alwshe",
     "trans": [
-      "买家，客户",
+      "买家、客户",
       "buyer,customer",
       "ساتىپ الۋشى"
     ],
@@ -16301,7 +16301,7 @@
   {
     "name": "sawalnama",
     "trans": [
-      "调查，投票，问卷",
+      "調査、投票、问卷",
       "survey,poll,questionnaire",
       "ساۋالناما"
     ],
@@ -16310,7 +16310,7 @@
   {
     "name": "sawda",
     "trans": [
-      "交易，贸易",
+      "取引、贸易",
       "trading,trade",
       "ساۋدا"
     ],
@@ -16346,7 +16346,7 @@
   {
     "name": "sawsaq",
     "trans": [
-      "脚趾，手指",
+      "脚趾、手指",
       "toe,finger",
       "ساۋساق"
     ],
@@ -16373,7 +16373,7 @@
   {
     "name": "saiasat",
     "trans": [
-      "政治，政策",
+      "政治、政策",
       "politics,policy",
       "ساياسات"
     ],
@@ -16391,7 +16391,7 @@
   {
     "name": "saiasi",
     "trans": [
-      "政治，政治",
+      "政治、政治",
       "political,politically",
       "ساياسي"
     ],
@@ -16400,7 +16400,7 @@
   {
     "name": "saiahat",
     "trans": [
-      "旅行，旅程",
+      "旅行、旅程",
       "travel,journey",
       "ساياحات"
     ],
@@ -16454,7 +16454,7 @@
   {
     "name": "saqtaw",
     "trans": [
-      "保存，保存，保存，遵守",
+      "保存、保存、保存、遵守",
       "preserve,save,conservation,comply",
       "ساقتاۋ"
     ],
@@ -16481,7 +16481,7 @@
   {
     "name": "syebyebxe",
     "trans": [
-      "因为，原因，原因",
+      "因为、原因、原因",
       "because,reason,cause",
       "سەبەبى"
     ],
@@ -16490,7 +16490,7 @@
   {
     "name": "syebyet",
     "trans": [
-      "推车，篮子",
+      "推车、篮子",
       "cart,basket",
       "سەبەت"
     ],
@@ -16526,7 +16526,7 @@
   {
     "name": "syezxem",
     "trans": [
-      "感觉，感觉，感觉",
+      "感覚、感覚、感覚",
       "feeling,sensation,sense",
       "سەزىم"
     ],
@@ -16553,7 +16553,7 @@
   {
     "name": "syezxenw",
     "trans": [
-      "感觉",
+      "感覚",
       "feel",
       "سەزىنۋ"
     ],
@@ -16571,7 +16571,7 @@
   {
     "name": "syekxerw",
     "trans": [
-      "弹跳，跳跃，跳跃",
+      "弹跳、跳躍、跳躍",
       "bounce,jump,leap",
       "سەكىرۋ"
     ],
@@ -16598,7 +16598,7 @@
   {
     "name": "syendxerw",
     "trans": [
-      "信念，说服，劝阻，保证，说服",
+      "信念、说服、劝阻、保証、说服",
       "conviction,persuade,discourage,assure,convince",
       "سەندىرۋ"
     ],
@@ -16616,7 +16616,7 @@
   {
     "name": "syenw",
     "trans": [
-      "依靠，相信",
+      "依靠、相信",
       "rely,believe",
       "سەنۋ"
     ],
@@ -16625,7 +16625,7 @@
   {
     "name": "syenxekxe",
     "trans": [
-      "你的，你的",
+      "你的、你的",
       "yours,your",
       "سەنىكى"
     ],
@@ -16652,7 +16652,7 @@
   {
     "name": "syenxemdxelxek",
     "trans": [
-      "可靠性，信心",
+      "可靠性、信心",
       "reliability,confidence",
       "سەنىمدىلىك"
     ],
@@ -16760,7 +16760,7 @@
   {
     "name": "sipattaw",
     "trans": [
-      "描述，表征",
+      "描述、表征",
       "describe,characterize",
       "سيپاتتاۋ"
     ],
@@ -16778,7 +16778,7 @@
   {
     "name": "siryek",
     "trans": [
-      "很少，很少，很少",
+      "很少、很少、很少",
       "rarely,rare,seldom",
       "سيرەك"
     ],
@@ -16904,7 +16904,7 @@
   {
     "name": "sol siiaqte",
     "trans": [
-      "相同，相似",
+      "相同、相似",
       "same,similarly",
       "سول سيياقتى"
     ],
@@ -16949,7 +16949,7 @@
   {
     "name": "somase",
     "trans": [
-      "总和，金额",
+      "总和、金额",
       "sum,amount",
       "سوماسى"
     ],
@@ -16958,7 +16958,7 @@
   {
     "name": "aq",
     "trans": [
-      "也，同样，也",
+      "也、同样、也",
       "too,likewise,also",
       "اق"
     ],
@@ -16967,7 +16967,7 @@
   {
     "name": "sondeqtan",
     "trans": [
-      "因此，因此",
+      "因此、因此",
       "therefore,hence",
       "سوندىقتان"
     ],
@@ -16985,7 +16985,7 @@
   {
     "name": "sonemyen qatar",
     "trans": [
-      "此外，此外，此外",
+      "此外、此外、此外",
       "furthermore,besides,moreover",
       "سونىمەن قاتار"
     ],
@@ -17030,7 +17030,7 @@
   {
     "name": "sot",
     "trans": [
-      "法院，司法",
+      "法院、司法",
       "court,judicial",
       "سوت"
     ],
@@ -17084,7 +17084,7 @@
   {
     "name": "soqqe",
     "trans": [
-      "击球，击打，击球",
+      "击球、击打、击球",
       "stroke,strike,hit",
       "سوققى"
     ],
@@ -17102,7 +17102,7 @@
   {
     "name": "songe",
     "trans": [
-      "屁股，端部",
+      "屁股、端部",
       "butt,end",
       "سوڭى"
     ],
@@ -17120,7 +17120,7 @@
   {
     "name": "songghe",
     "trans": [
-      "终极，最近，最终，后者，最后",
+      "终极、最近、最终、后者、最后",
       "ultimate,recent,final,latter,last",
       "سوڭعى"
     ],
@@ -17138,7 +17138,7 @@
   {
     "name": "sport",
     "trans": [
-      "运动",
+      "運動",
       "sport",
       "سپورت"
     ],
@@ -17156,7 +17156,7 @@
   {
     "name": "sportshe",
     "trans": [
-      "运动员",
+      "運動员",
       "athlete",
       "سپورتشى"
     ],
@@ -17174,7 +17174,7 @@
   {
     "name": "stavka",
     "trans": [
-      "投注，率",
+      "投注、率",
       "bet,rate",
       "ستاۆكا"
     ],
@@ -17300,7 +17300,7 @@
   {
     "name": "stryess",
     "trans": [
-      "强调",
+      "強調",
       "stress",
       "سترەسس"
     ],
@@ -17309,7 +17309,7 @@
   {
     "name": "stwdyent",
     "trans": [
-      "学生，本科生",
+      "学生、本科生",
       "student,undergraduate",
       "ستۋدەنت"
     ],
@@ -17390,7 +17390,7 @@
   {
     "name": "swryet",
     "trans": [
-      "绘画，图片，绘画，图像",
+      "绘画、图片、绘画、图像",
       "drawing,picture,painting,image",
       "سۋرەت"
     ],
@@ -17399,7 +17399,7 @@
   {
     "name": "swryet salw",
     "trans": [
-      "绘制，摆姿势",
+      "绘制、摆姿势",
       "draw,pose",
       "سۋرەت سالۋ"
     ],
@@ -17408,7 +17408,7 @@
   {
     "name": "swryettyew",
     "trans": [
-      "说明",
+      "説明",
       "illustrate",
       "سۋرەتتەۋ"
     ],
@@ -17417,7 +17417,7 @@
   {
     "name": "swryetshxe",
     "trans": [
-      "画家，艺术家",
+      "画家、艺术家",
       "painter,artist",
       "سۋرەتشى"
     ],
@@ -17453,7 +17453,7 @@
   {
     "name": "shyema",
     "trans": [
-      "电路，方案",
+      "电路、方案",
       "circuit,scheme",
       "شەما"
     ],
@@ -17462,7 +17462,7 @@
   {
     "name": "stsyenarii",
     "trans": [
-      "场景，脚本",
+      "场景、脚本",
       "scenario,script",
       "ستسەناريي"
     ],
@@ -17507,7 +17507,7 @@
   {
     "name": "seileq",
     "trans": [
-      "奖项，礼物，奖励，礼品，奖品",
+      "奖项、礼物、奖励、礼品、奖品",
       "award,present,reward,gift,prize",
       "سىيلىق"
     ],
@@ -17534,7 +17534,7 @@
   {
     "name": "sem",
     "trans": [
-      "线，线",
+      "线、线",
       "cord,wire",
       "سىم"
     ],
@@ -17543,7 +17543,7 @@
   {
     "name": "sen",
     "trans": [
-      "批评，批评",
+      "批评、批评",
       "criticism,criticize",
       "سىن"
     ],
@@ -17552,7 +17552,7 @@
   {
     "name": "senaq",
     "trans": [
-      "试验",
+      "試験",
       "trial",
       "سىناق"
     ],
@@ -17570,7 +17570,7 @@
   {
     "name": "senshe",
     "trans": [
-      "评论家",
+      "コメント家",
       "critic",
       "سىنشى"
     ],
@@ -17579,7 +17579,7 @@
   {
     "name": "senep",
     "trans": [
-      "教室，年级，班级",
+      "教室、年级、班级",
       "classroom,grade,class",
       "سىنىپ"
     ],
@@ -17633,7 +17633,7 @@
   {
     "name": "sertqe",
     "trans": [
-      "外部，外部",
+      "外部、外部",
       "external,outer",
       "سىرتقى"
     ],
@@ -17678,7 +17678,7 @@
   {
     "name": "sxeltyemye",
     "trans": [
-      "参考，链接",
+      "参考、链接",
       "reference,link",
       "سىلتەمە"
     ],
@@ -17696,7 +17696,7 @@
   {
     "name": "sxengxerw",
     "trans": [
-      "浸泡，吸收",
+      "浸泡、吸收",
       "soak,absorb",
       "ٴسىڭىرۋ"
     ],
@@ -17741,7 +17741,7 @@
   {
     "name": "sxuikxemdxe",
     "trans": [
-      "漂亮，可爱，迷人",
+      "漂亮、可爱、迷人",
       "nice,cute,fascinating",
       "سۇيكىمدى"
     ],
@@ -17750,7 +17750,7 @@
   {
     "name": "sxuiryew",
     "trans": [
-      "牵引，拖拽",
+      "牵引、拖拽",
       "haul,drag",
       "سۇيرەۋ"
     ],
@@ -17822,7 +17822,7 @@
   {
     "name": "suieqteq",
     "trans": [
-      "液体，流体",
+      "液体、流体",
       "liquid,fluid",
       "سۇيىقتىق"
     ],
@@ -17849,7 +17849,7 @@
   {
     "name": "suraw",
     "trans": [
-      "询问，请求",
+      "询问、要求",
       "ask,request",
       "سۇراۋ"
     ],
@@ -17858,7 +17858,7 @@
   {
     "name": "suraq",
     "trans": [
-      "问题，问题",
+      "问题、问题",
       "issue,question",
       "سۇراق"
     ],
@@ -17912,7 +17912,7 @@
   {
     "name": "sxaikyestxek",
     "trans": [
-      "合规性，身份，匹配",
+      "合规性、身份、匹配",
       "compliance,identity,match",
       "سايكەستىك"
     ],
@@ -17948,7 +17948,7 @@
   {
     "name": "sxatsxezdxek",
     "trans": [
-      "失败",
+      "失敗",
       "failure",
       "ساتسىزدىك"
     ],
@@ -17957,7 +17957,7 @@
   {
     "name": "sxatsxezdxekkye usheraw",
     "trans": [
-      "失败",
+      "失敗",
       "fail",
       "ساتسىزدىككە ۇشىراۋ"
     ],
@@ -17993,7 +17993,7 @@
   {
     "name": "sxawlyelyenw",
     "trans": [
-      "发射，辐射",
+      "発射、辐射",
       "emission,radiation",
       "ساۋلەلەنۋ"
     ],
@@ -18047,7 +18047,7 @@
   {
     "name": "sxozsxez",
     "trans": [
-      "不可避免，绝对，不可避免",
+      "不可避免、绝对、不可避免",
       "inevitably,definitely,inevitable",
       "ٴسوزسىز"
     ],
@@ -18056,7 +18056,7 @@
   {
     "name": "sxoilyew",
     "trans": [
-      "说话，说话，演讲",
+      "说话、说话、演讲",
       "speak,talk,speech",
       "سويلەۋ"
     ],
@@ -18074,7 +18074,7 @@
   {
     "name": "sxorye",
     "trans": [
-      "机架，搁板",
+      "机架、搁板",
       "rack,shelf",
       "سورە"
     ],
@@ -18137,7 +18137,7 @@
   {
     "name": "tabw",
     "trans": [
-      "查找，赚取",
+      "查找、赚取",
       "find,earn",
       "تابۋ"
     ],
@@ -18146,7 +18146,7 @@
   {
     "name": "tabelde",
     "trans": [
-      "发现",
+      "発見",
       "found",
       "تابىلدى"
     ],
@@ -18155,7 +18155,7 @@
   {
     "name": "tabes",
     "trans": [
-      "收入，成功，收入",
+      "收入、成功、收入",
       "revenue,success,income",
       "تابىس"
     ],
@@ -18164,7 +18164,7 @@
   {
     "name": "tabeste",
     "trans": [
-      "成功，成功",
+      "成功、成功",
       "successful,succeed",
       "تابىستى"
     ],
@@ -18173,7 +18173,7 @@
   {
     "name": "taza",
     "trans": [
-      "纯净，干净，完整",
+      "纯净、干净、完整",
       "pure,clean,intact",
       "تازا"
     ],
@@ -18227,7 +18227,7 @@
   {
     "name": "talap",
     "trans": [
-      "需求，要求",
+      "需求、要求",
       "demand,requirement",
       "تالاپ"
     ],
@@ -18236,7 +18236,7 @@
   {
     "name": "talap yetw",
     "trans": [
-      "坚持",
+      "堅持",
       "persist,insist,require",
       "تالاپ ەتۋ"
     ],
@@ -18263,7 +18263,7 @@
   {
     "name": "taldaw",
     "trans": [
-      "分析，分析",
+      "分析、分析",
       "analyze,analysis",
       "تالداۋ"
     ],
@@ -18299,7 +18299,7 @@
   {
     "name": "talqelaw",
     "trans": [
-      "讨论，讨论",
+      "讨论、讨论",
       "discuss,discussion",
       "تالقىلاۋ"
     ],
@@ -18308,7 +18308,7 @@
   {
     "name": "tamaq",
     "trans": [
-      "喉咙，食物，膳食",
+      "喉咙、食物、膳食",
       "throat,food,meal",
       "تاماق"
     ],
@@ -18416,7 +18416,7 @@
   {
     "name": "tapsheleq",
     "trans": [
-      "短缺，赤字",
+      "短缺、赤字",
       "shortage,deficit",
       "تاپشىلىق"
     ],
@@ -18434,7 +18434,7 @@
   {
     "name": "taratw",
     "trans": [
-      "传播，分发，分发",
+      "伝播、分发、分发",
       "spread,distribution,distribute",
       "تاراتۋ"
     ],
@@ -18452,7 +18452,7 @@
   {
     "name": "tarih",
     "trans": [
-      "故事，历史",
+      "故事、历史",
       "story,history",
       "تاريح"
     ],
@@ -18497,7 +18497,7 @@
   {
     "name": "tartw",
     "trans": [
-      "拉动，吸引，参与，参与",
+      "拉动、引き付ける、参与、参与",
       "pull,attract,engage,involve",
       "تارتۋ"
     ],
@@ -18506,7 +18506,7 @@
   {
     "name": "tartemde",
     "trans": [
-      "有吸引力，有磁性",
+      "有引き付ける力、有磁性",
       "attractive,magnetic",
       "تارتىمدى"
     ],
@@ -18515,7 +18515,7 @@
   {
     "name": "tartemdeleq",
     "trans": [
-      "吸引力",
+      "引き付ける力",
       "attraction",
       "تارتىمدىلىق"
     ],
@@ -18542,7 +18542,7 @@
   {
     "name": "taspa",
     "trans": [
-      "色带，胶带",
+      "色带、胶带",
       "ribbon,tape",
       "تاسپا"
     ],
@@ -18596,7 +18596,7 @@
   {
     "name": "taghaiendaw",
     "trans": [
-      "任命，制定，分配",
+      "任命、制定、分配",
       "appoint,enact,assign",
       "تاعايىنداۋ"
     ],
@@ -18641,7 +18641,7 @@
   {
     "name": "taghe da",
     "trans": [
-      "再次，新",
+      "再次、新",
       "again,newly",
       "تاعى دا"
     ],
@@ -18659,7 +18659,7 @@
   {
     "name": "taqerep",
     "trans": [
-      "主题，标题，主题，主题",
+      "主题、标题、主题、主题",
       "theme,headline,topic,subject",
       "تاقىرىپ"
     ],
@@ -18668,7 +18668,7 @@
   {
     "name": "tang",
     "trans": [
-      "黎明，清晨",
+      "黎明、清晨",
       "dawn,morning",
       "تاڭ"
     ],
@@ -18695,7 +18695,7 @@
   {
     "name": "tangdalghan",
     "trans": [
-      "选择",
+      "選択",
       "selected",
       "تاڭدالعان"
     ],
@@ -18704,7 +18704,7 @@
   {
     "name": "tangdanw",
     "trans": [
-      "惊叹，欣赏",
+      "惊叹、欣赏",
       "wonder,admire",
       "تاڭدانۋ"
     ],
@@ -18713,7 +18713,7 @@
   {
     "name": "tangdaw",
     "trans": [
-      "选择，选择，选择，选择，挑选，拾取",
+      "選択、選択、選択、選択、挑选、拾取",
       "choice,select,selection,opt,choose,pick,pickup",
       "تاڭداۋ"
     ],
@@ -18758,7 +18758,7 @@
   {
     "name": "tyegxen",
     "trans": [
-      "松散，自由",
+      "松散、自由",
       "loose,free",
       "تەگىن"
     ],
@@ -18794,7 +18794,7 @@
   {
     "name": "tyek qana",
     "trans": [
-      "独一无二，独一无二",
+      "独一无二、独一无二",
       "solely,exclusively",
       "تەك قانا"
     ],
@@ -18803,7 +18803,7 @@
   {
     "name": "tyeksyerw",
     "trans": [
-      "检查，检查，检查",
+      "検査、検査、検査",
       "check,examination,inspection",
       "تەكسەرۋ"
     ],
@@ -18848,7 +18848,7 @@
   {
     "name": "tyelyefon",
     "trans": [
-      "电话，电话",
+      "电话、电话",
       "telephone,phone",
       "تەلەفون"
     ],
@@ -18857,7 +18857,7 @@
   {
     "name": "tyemyekxe",
     "trans": [
-      "烟草，香烟",
+      "烟草、香烟",
       "tobacco,cigarette",
       "تەمەكى"
     ],
@@ -18974,7 +18974,7 @@
   {
     "name": "tyergyew",
     "trans": [
-      "调查，询价",
+      "調査、询价",
       "investigation,inquiry",
       "تەرگەۋ"
     ],
@@ -18983,7 +18983,7 @@
   {
     "name": "tyergyewshxe",
     "trans": [
-      "调查者",
+      "調査者",
       "investigator",
       "تەرگەۋشى"
     ],
@@ -19001,7 +19001,7 @@
   {
     "name": "tyeryeng",
     "trans": [
-      "深刻，深刻，深刻",
+      "深刻、深刻、深刻",
       "profound,deep,deeply",
       "تەرەڭ"
     ],
@@ -19055,7 +19055,7 @@
   {
     "name": "tyerxe",
     "trans": [
-      "皮革，皮肤",
+      "皮革、皮肤",
       "leather,skin",
       "تەرى"
     ],
@@ -19154,7 +19154,7 @@
   {
     "name": "tyeng",
     "trans": [
-      "平等，对等，平等",
+      "平等、对等、平等",
       "equal,peer,equally",
       "تەڭ"
     ],
@@ -19190,7 +19190,7 @@
   {
     "name": "tyengxez",
     "trans": [
-      "海，海",
+      "海、海",
       "sea,marine",
       "تەڭىز"
     ],
@@ -19208,7 +19208,7 @@
   {
     "name": "tiptxek",
     "trans": [
-      "典型，典型",
+      "典型、典型",
       "typically,typical",
       "تيپتىك"
     ],
@@ -19217,7 +19217,7 @@
   {
     "name": "tixemdxe",
     "trans": [
-      "有效，有效，高效",
+      "有效、有效、高效",
       "effectively,effective,efficient",
       "ٴتيىمدى"
     ],
@@ -19226,7 +19226,7 @@
   {
     "name": "tixemdxelxek",
     "trans": [
-      "有效性，效率",
+      "有效性、效率",
       "effectiveness,efficiency",
       "تيىمدىلىك"
     ],
@@ -19262,7 +19262,7 @@
   {
     "name": "tozaq",
     "trans": [
-      "地狱，该死的",
+      "地狱、该死的",
       "hell,damn",
       "توزاق"
     ],
@@ -19289,7 +19289,7 @@
   {
     "name": "toleghemyen",
     "trans": [
-      "完全，完全，完全，完全",
+      "完全、完全、完全、完全",
       "entirely,completely,totally,fully",
       "تولىعىمەن"
     ],
@@ -19307,7 +19307,7 @@
   {
     "name": "toleq",
     "trans": [
-      "完整，详细，完整",
+      "完整、详细、完整",
       "complete,detailed,full",
       "تولىق"
     ],
@@ -19325,7 +19325,7 @@
   {
     "name": "tolqen",
     "trans": [
-      "潮汐，波浪",
+      "潮汐、波浪",
       "tide,wave",
       "تولقىن"
     ],
@@ -19343,7 +19343,7 @@
   {
     "name": "top",
     "trans": [
-      "乐队，组",
+      "乐队、组",
       "band,group",
       "توپ"
     ],
@@ -19370,7 +19370,7 @@
   {
     "name": "tort",
     "trans": [
-      "蛋糕，馅饼",
+      "蛋糕、馅饼",
       "cake,pie",
       "تورت"
     ],
@@ -19424,7 +19424,7 @@
   {
     "name": "toqtatw",
     "trans": [
-      "停止",
+      "止める",
       "cease",
       "توقتاتۋ"
     ],
@@ -19451,7 +19451,7 @@
   {
     "name": "tranzit",
     "trans": [
-      "通过",
+      "通過",
       "transit",
       "ترانزيت"
     ],
@@ -19460,7 +19460,7 @@
   {
     "name": "tryend",
     "trans": [
-      "趋势，趋势",
+      "趋势、趋势",
       "trend,tendency",
       "ترەند"
     ],
@@ -19532,7 +19532,7 @@
   {
     "name": "twrale",
     "trans": [
-      "亲，哦，关于，出，由，在",
+      "亲、哦、关于、出、由、在",
       "pro,oh,about,out,by,at",
       "تۋرالى"
     ],
@@ -19559,7 +19559,7 @@
   {
     "name": "twrnir",
     "trans": [
-      "比赛",
+      "試合",
       "tournament",
       "تۋرنير"
     ],
@@ -19586,7 +19586,7 @@
   {
     "name": "twghan",
     "trans": [
-      "出生，土生土长",
+      "出生、土生土长",
       "born,native",
       "تۋعان"
     ],
@@ -19622,7 +19622,7 @@
   {
     "name": "teiem salw",
     "trans": [
-      "禁止，禁止",
+      "禁止、禁止",
       "prohibit,forbid",
       "تىيىم سالۋ"
     ],
@@ -19631,7 +19631,7 @@
   {
     "name": "tenes alw",
     "trans": [
-      "呼吸，呼吸，呼吸",
+      "呼吸、呼吸、呼吸",
       "breathing,breath,breathe",
       "تىنىس الۋ"
     ],
@@ -19640,7 +19640,7 @@
   {
     "name": "tenesh",
     "trans": [
-      "安静，安静，安静，平静",
+      "安静、安静、安静、平静",
       "quiet,silent,quietly,calm",
       "تىنىش"
     ],
@@ -19676,7 +19676,7 @@
   {
     "name": "teghez",
     "trans": [
-      "紧，密，紧",
+      "紧、密、紧",
       "tightly,dense,tight,closely",
       "تىعىز"
     ],
@@ -19775,7 +19775,7 @@
   {
     "name": "txekyelyei",
     "trans": [
-      "直接，直，直接",
+      "直接、直、直接",
       "directly,straight,direct",
       "تىكەلەي"
     ],
@@ -19793,7 +19793,7 @@
   {
     "name": "txel",
     "trans": [
-      "舌头，语言",
+      "舌头、语言",
       "tongue,language",
       "ٴتىل"
     ],
@@ -19802,7 +19802,7 @@
   {
     "name": "txelyek",
     "trans": [
-      "愿望，愿望",
+      "愿望、愿望",
       "desire,wish",
       "تىلەك"
     ],
@@ -19847,7 +19847,7 @@
   {
     "name": "txerkyew",
     "trans": [
-      "注册，注册",
+      "注册、注册",
       "register,enroll",
       "تىركەۋ"
     ],
@@ -19865,7 +19865,7 @@
   {
     "name": "txerxe",
     "trans": [
-      "活生生的，活的",
+      "活生生的、活的",
       "living,alive",
       "ٴتىرى"
     ],
@@ -19937,7 +19937,7 @@
   {
     "name": "txuzyetw",
     "trans": [
-      "修正，修复，拉直",
+      "修正、修复、拉直",
       "amendment,fix,straighten",
       "تۇزەتۋ"
     ],
@@ -20036,7 +20036,7 @@
   {
     "name": "txurlyendxerw",
     "trans": [
-      "转换，转换，转换，转换",
+      "转换、转换、转换、转换",
       "transform,transformation,conversion,convert",
       "تۇرلەندىرۋ"
     ],
@@ -20054,7 +20054,7 @@
   {
     "name": "txurmye",
     "trans": [
-      "监狱，监狱",
+      "监狱、监狱",
       "prison,jail",
       "تۇرمە"
     ],
@@ -20072,7 +20072,7 @@
   {
     "name": "txurxe",
     "trans": [
-      "物种，视图，类型",
+      "物种、视图、类型",
       "species,view,type",
       "ٴتۇرى"
     ],
@@ -20090,7 +20090,7 @@
   {
     "name": "txuskxe as",
     "trans": [
-      "晚餐，餐饮，午餐",
+      "晚餐、餐饮、午餐",
       "dinner,dining,lunch",
       "تۇسكى اس"
     ],
@@ -20117,7 +20117,7 @@
   {
     "name": "txusxendxerw",
     "trans": [
-      "解释，解释，解释，解释",
+      "解釈、解釈、解釈、解釈",
       "interpretation,explain,explanation,interpret",
       "ٴتۇسىندىرۋ"
     ],
@@ -20126,7 +20126,7 @@
   {
     "name": "txusxenw",
     "trans": [
-      "理解，理解",
+      "理解、理解",
       "understand,understanding",
       "ٴتۇسىنۋ"
     ],
@@ -20153,7 +20153,7 @@
   {
     "name": "txusxerw",
     "trans": [
-      "抓取，捕获，抓握",
+      "抓取、捕获、抓握",
       "grab,capture,grip",
       "ٴتۇسىرۋ"
     ],
@@ -20180,7 +20180,7 @@
   {
     "name": "tujeremdama",
     "trans": [
-      "概念，概念",
+      "概念、概念",
       "concept,conception",
       "تۇجىرىمداما"
     ],
@@ -20225,7 +20225,7 @@
   {
     "name": "tulgha",
     "trans": [
-      "个性，脸",
+      "个性、脸",
       "personality,face",
       "تۇلعا"
     ],
@@ -20261,7 +20261,7 @@
   {
     "name": "turaqte",
     "trans": [
-      "常规的，普通的，可持续的，有规律的，稳定的，恒定的，稳定的，通常的，恒定的，永久的，正常的",
+      "常规的、普通的、可持续的、有规律的、稳定的、恒定的、稳定的、通常的、恒定的、永久的、正常的",
       "conventional,ordinary,sustainable,regular,steady,constant,stable,usual,constantly,permanent,normal",
       "تۇراقتى"
     ],
@@ -20279,7 +20279,7 @@
   {
     "name": "turw",
     "trans": [
-      "展台，组成",
+      "展台、组成",
       "stand,consist",
       "تۇرۋ"
     ],
@@ -20315,7 +20315,7 @@
   {
     "name": "tutenw",
     "trans": [
-      "消费，消费，支出",
+      "消费、消费、支出",
       "consumption,consume,expense",
       "تۇتىنۋ"
     ],
@@ -20324,7 +20324,7 @@
   {
     "name": "tutenwshe",
     "trans": [
-      "消费者，消费",
+      "消费者、消费",
       "consumer,spending",
       "تۇتىنۋشى"
     ],
@@ -20333,7 +20333,7 @@
   {
     "name": "tutqen",
     "trans": [
-      "囚犯，囚犯",
+      "囚犯、囚犯",
       "prisoner,inmate",
       "تۇتقىن"
     ],
@@ -20351,7 +20351,7 @@
   {
     "name": "txajxeribye",
     "trans": [
-      "经验，实践",
+      "经验、实践",
       "experience,practice",
       "تاجىريبە"
     ],
@@ -20450,7 +20450,7 @@
   {
     "name": "txawyeldxe",
     "trans": [
-      "依赖，依赖",
+      "依赖、依赖",
       "depending,dependent",
       "تاۋەلدى"
     ],
@@ -20486,7 +20486,7 @@
   {
     "name": "txobyesxe",
     "trans": [
-      "屋顶，天花板",
+      "屋顶、天花板",
       "roof,ceiling",
       "توبەسى"
     ],
@@ -20531,7 +20531,7 @@
   {
     "name": "txomyen",
     "trans": [
-      "低，低",
+      "低、低",
       "low,down",
       "تومەن"
     ],
@@ -20549,7 +20549,7 @@
   {
     "name": "txomyendye",
     "trans": [
-      "下方，下部",
+      "下方、下部",
       "below,lower",
       "تومەندە"
     ],
@@ -20612,7 +20612,7 @@
   {
     "name": "waiemdaw",
     "trans": [
-      "焦虑，担心",
+      "焦虑、担心",
       "anxious,worry",
       "ۋايىمداۋ"
     ],
@@ -20630,7 +20630,7 @@
   {
     "name": "waqet",
     "trans": [
-      "时间",
+      "時間",
       "time",
       "ۋاقىت"
     ],
@@ -20801,7 +20801,7 @@
   {
     "name": "fizikaleq",
     "trans": [
-      "物理，物理",
+      "物理、物理",
       "physical,physically",
       "فيزيكالىق"
     ],
@@ -20954,7 +20954,7 @@
   {
     "name": "fotoswryet",
     "trans": [
-      "摄影，摄影",
+      "摄影、摄影",
       "photography,photograph",
       "فوتوسۋرەت"
     ],
@@ -21008,7 +21008,7 @@
   {
     "name": "fwtbol",
     "trans": [
-      "足球，足球",
+      "足球、足球",
       "football,soccer",
       "فۋتبول"
     ],
@@ -21017,7 +21017,7 @@
   {
     "name": "ha",
     "trans": [
-      "哈，呵呵",
+      "哈、呵呵",
       "ha,huh",
       "حا"
     ],
@@ -21080,7 +21080,7 @@
   {
     "name": "haleq",
     "trans": [
-      "人口，民俗",
+      "人口、民俗",
       "population,folk",
       "حالىق"
     ],
@@ -21215,7 +21215,7 @@
   {
     "name": "tsikl",
     "trans": [
-      "循环，循环",
+      "循环、循环",
       "loop,cycle",
       "تسيكل"
     ],
@@ -21260,7 +21260,7 @@
   {
     "name": "shabwel",
     "trans": [
-      "突击，攻击",
+      "突击、攻击",
       "assault,attack",
       "شابۋىل"
     ],
@@ -21305,7 +21305,7 @@
   {
     "name": "shaiqas",
     "trans": [
-      "战斗，战斗",
+      "战斗、战斗",
       "battle,fight",
       "شايقاس"
     ],
@@ -21314,7 +21314,7 @@
   {
     "name": "shaiqaw",
     "trans": [
-      "摇晃，不知所措",
+      "摇晃、不知所措",
       "shake,overwhelm",
       "شايقاۋ"
     ],
@@ -21323,7 +21323,7 @@
   {
     "name": "sham",
     "trans": [
-      "蜡烛，灯",
+      "蜡烛、灯",
       "candle,lamp",
       "شام"
     ],
@@ -21341,7 +21341,7 @@
   {
     "name": "shamamyen",
     "trans": [
-      "大约，几乎",
+      "大约、几乎",
       "approximately,nearly",
       "شامامەن"
     ],
@@ -21350,7 +21350,7 @@
   {
     "name": "shamase",
     "trans": [
-      "量级，看似",
+      "量级、看似",
       "magnitude,seemingly",
       "شاماسى"
     ],
@@ -21494,7 +21494,7 @@
   {
     "name": "shasheraw",
     "trans": [
-      "洒，散",
+      "洒、散",
       "sprinkle,scatter",
       "شاشىراۋ"
     ],
@@ -21503,7 +21503,7 @@
   {
     "name": "shaghem",
     "trans": [
-      "索赔，投诉",
+      "索赔、投诉",
       "claim,complaint",
       "شاعىم"
     ],
@@ -21521,7 +21521,7 @@
   {
     "name": "shaqerw",
     "trans": [
-      "挑战，邀请，电话，邀请",
+      "挑战、邀请、电话、邀请",
       "challenge,invite,call,invitation",
       "شاقىرۋ"
     ],
@@ -21548,7 +21548,7 @@
   {
     "name": "shyebyer",
     "trans": [
-      "大师，熟练",
+      "大师、熟练",
       "master,skilled",
       "شەبەر"
     ],
@@ -21566,7 +21566,7 @@
   {
     "name": "shyegxe",
     "trans": [
-      "限制",
+      "制限",
       "limit",
       "شەگى"
     ],
@@ -21584,7 +21584,7 @@
   {
     "name": "shyekara",
     "trans": [
-      "边界，边界，边界",
+      "边界、边界、边界",
       "frontier,border,boundary",
       "شەكارا"
     ],
@@ -21602,7 +21602,7 @@
   {
     "name": "shyektyew",
     "trans": [
-      "限制，约束，限制，限制",
+      "制限、约束、制限、制限",
       "restriction,constraint,limitation,restrict",
       "شەكتەۋ"
     ],
@@ -21638,7 +21638,7 @@
   {
     "name": "shyetyeldxek",
     "trans": [
-      "外国人，外国人",
+      "外国人、外国人",
       "foreigner,foreign",
       "شەتەلدىك"
     ],
@@ -21665,7 +21665,7 @@
   {
     "name": "shyeshw",
     "trans": [
-      "决定，解决",
+      "決定、解決",
       "decide,solve",
       "شەشۋ"
     ],
@@ -21674,7 +21674,7 @@
   {
     "name": "shyeshxem",
     "trans": [
-      "决策，解决方案",
+      "决策、解決方案",
       "decision,solution",
       "شەشىم"
     ],
@@ -21683,7 +21683,7 @@
   {
     "name": "shyengbyer",
     "trans": [
-      "圈，圆",
+      "圈、圆",
       "lap,circle",
       "شەڭبەر"
     ],
@@ -21728,7 +21728,7 @@
   {
     "name": "sholw",
     "trans": [
-      "召回，回顾",
+      "召回、回顾",
       "recall,review",
       "شولۋ"
     ],
@@ -21755,7 +21755,7 @@
   {
     "name": "shot",
     "trans": [
-      "分数，帐户",
+      "分数、帐户",
       "score,account",
       "شوت"
     ],
@@ -21818,7 +21818,7 @@
   {
     "name": "shedaw",
     "trans": [
-      "忍受，容忍",
+      "耐える、容忍",
       "endure,tolerate",
       "شىداۋ"
     ],
@@ -21881,7 +21881,7 @@
   {
     "name": "shenenda da",
     "trans": [
-      "虚拟，真的，真的，确实",
+      "虚拟、真的、真的、确实",
       "virtually,truly,really,indeed",
       "شىنىندا دا"
     ],
@@ -21908,7 +21908,7 @@
   {
     "name": "shegharmasheleq",
     "trans": [
-      "创意，创意",
+      "创意、创意",
       "creativity,creative",
       "شىعارماشىلىق"
     ],
@@ -21917,7 +21917,7 @@
   {
     "name": "shegharw",
     "trans": [
-      "提现，派生",
+      "提现、派生",
       "withdraw,derive",
       "شىعارۋ"
     ],
@@ -21926,7 +21926,7 @@
   {
     "name": "sheghw",
     "trans": [
-      "输出，退出，退出，离开，出口",
+      "输出、退出、退出、離れる、出口",
       "output,exit,quit,leave,outlet",
       "شىعۋ"
     ],
@@ -21989,7 +21989,7 @@
   {
     "name": "shxol",
     "trans": [
-      "荒野，沙漠",
+      "荒野、沙漠",
       "wilderness,desert",
       "ٴشول"
     ],
@@ -21998,7 +21998,7 @@
   {
     "name": "shxoldyew",
     "trans": [
-      "渴望",
+      "切望",
       "eager",
       "شولدەۋ"
     ],
@@ -22007,7 +22007,7 @@
   {
     "name": "shxop",
     "trans": [
-      "草本，草",
+      "草本、草",
       "herb,grass",
       "ٴشوپ"
     ],
@@ -22043,7 +22043,7 @@
   {
     "name": "entalanderw",
     "trans": [
-      "鼓励，激励，刺激，冲动，激励，刺激",
+      "励ます、激励、刺激、冲动、激励、刺激",
       "encourage,incentive,stimulate,urge,motivate,stimulus",
       "ىنتالاندىرۋ"
     ],
@@ -22052,7 +22052,7 @@
   {
     "name": "entemaqtasteq",
     "trans": [
-      "合作，协作，合作，伙伴关系",
+      "合作、协作、合作、伙伴关系",
       "cooperate,collaboration,cooperation,partnership",
       "ىنتىماقتاستىق"
     ],
@@ -22079,7 +22079,7 @@
   {
     "name": "eqpalde",
     "trans": [
-      "有影响",
+      "有影響",
       "influential",
       "ىقپالدى"
     ],
@@ -22196,7 +22196,7 @@
   {
     "name": "yekonomika",
     "trans": [
-      "经济，经济，经济",
+      "经济、经济、经济",
       "economics,economy,economic",
       "ەكونوميكا"
     ],
@@ -22277,7 +22277,7 @@
   {
     "name": "yekspryess",
     "trans": [
-      "表达",
+      "表現",
       "express",
       "ەكسپرەسس"
     ],
@@ -22295,7 +22295,7 @@
   {
     "name": "yelyektr",
     "trans": [
-      "电气，电动",
+      "电气、电动",
       "electrical,electric",
       "ەلەكتر"
     ],
@@ -22349,7 +22349,7 @@
   {
     "name": "yemotsionalde",
     "trans": [
-      "情感上，情感上",
+      "情感上、情感上",
       "emotional,emotionally",
       "ەموتسيونالدى"
     ],
@@ -22484,7 +22484,7 @@
   {
     "name": "xez",
     "trans": [
-      "跟踪，跟踪",
+      "跟踪、跟踪",
       "trail,trace",
       "ٴىز"
     ],
@@ -22502,7 +22502,7 @@
   {
     "name": "xezdyew",
     "trans": [
-      "搜索，任务，搜索",
+      "搜索、任务、搜索",
       "seek,quest,search",
       "ىزدەۋ"
     ],
@@ -22547,7 +22547,7 @@
   {
     "name": "xes",
     "trans": [
-      "案例，外遇，场合，事项",
+      "案例、外遇、场合、事项",
       "case,affair,occasion,matter",
       "ٴىس"
     ],
@@ -22565,7 +22565,7 @@
   {
     "name": "xeskye aserw",
     "trans": [
-      "实现，实施",
+      "实现、实施",
       "realize,implementation",
       "ىسكە اسىرۋ"
     ],
@@ -22574,7 +22574,7 @@
   {
     "name": "xeskye qosw",
     "trans": [
-      "发射",
+      "発射",
       "launch",
       "ىسكە قوسۋ"
     ],
@@ -22583,7 +22583,7 @@
   {
     "name": "xestyew",
     "trans": [
-      "做，做",
+      "做、做",
       "do,make",
       "ىستەۋ"
     ],
@@ -22628,7 +22628,7 @@
   {
     "name": "xeshkxe",
     "trans": [
-      "国内，内部，内部",
+      "国内、内部、内部",
       "domestic,internal,inner",
       "ىشكى"
     ],
@@ -22646,7 +22646,7 @@
   {
     "name": "xeshxenara",
     "trans": [
-      "部分，部分，部分",
+      "部分、部分、部分",
       "partial,partly,partially",
       "ٴىشىنارا"
     ],
@@ -22655,7 +22655,7 @@
   {
     "name": "xeshxendye",
     "trans": [
-      "期间，内部，内部",
+      "期间、内部、内部",
       "during,within,inside",
       "ىشىندە"
     ],
@@ -22682,7 +22682,7 @@
   {
     "name": "ghalem",
     "trans": [
-      "学者，科学家",
+      "学者、科学家",
       "scholar,scientist",
       "عالىم"
     ],
@@ -22790,7 +22790,7 @@
   {
     "name": "qudai",
     "trans": [
-      "神，神",
+      "神、神",
       "God,divine",
       "قۇداي"
     ],
@@ -22799,7 +22799,7 @@
   {
     "name": "qabat",
     "trans": [
-      "地板，层",
+      "地板、层",
       "floor,layer",
       "قابات"
     ],
@@ -22817,7 +22817,7 @@
   {
     "name": "qabeldande",
     "trans": [
-      "认为",
+      "考える",
       "perceived",
       "قابىلداندى"
     ],
@@ -22826,7 +22826,7 @@
   {
     "name": "qabeldaw",
     "trans": [
-      "承担，构思，感知，接受，采用，采用，感知，接受，接受",
+      "承担、构思、感知、接受、采用、采用、感知、接受、接受",
       "undertake,conceive,perception,accept,adopt,adoption,perceive,acceptance,reception",
       "قابىلداۋ"
     ],
@@ -22844,7 +22844,7 @@
   {
     "name": "qabergha",
     "trans": [
-      "壁，肋骨",
+      "壁、肋骨",
       "wall,rib",
       "قابىرعا"
     ],
@@ -22871,7 +22871,7 @@
   {
     "name": "qabxelyettxe",
     "trans": [
-      "能，能",
+      "能、能",
       "able,capable",
       "قابىلەتتى"
     ],
@@ -22880,7 +22880,7 @@
   {
     "name": "qabxelyetxe",
     "trans": [
-      "能力，能力",
+      "能力、能力",
       "capability,ability",
       "قابىلەتى"
     ],
@@ -22898,7 +22898,7 @@
   {
     "name": "qadam",
     "trans": [
-      "楼梯，台阶",
+      "楼梯、台阶",
       "stair,step",
       "قادام"
     ],
@@ -22916,7 +22916,7 @@
   {
     "name": "qajyettxe",
     "trans": [
-      "必需，必需",
+      "必需、必需",
       "required,necessary",
       "قاجەتتى"
     ],
@@ -22925,7 +22925,7 @@
   {
     "name": "qajyettxelxek",
     "trans": [
-      "必要性，需要",
+      "必要性、必要",
       "necessity,need",
       "قاجەتتىلىك"
     ],
@@ -23060,7 +23060,7 @@
   {
     "name": "qaieremdeleq",
     "trans": [
-      "捐赠，慈善",
+      "捐赠、慈善",
       "donation,charity",
       "قايىرىمدىلىق"
     ],
@@ -23087,7 +23087,7 @@
   {
     "name": "qaighele",
     "trans": [
-      "悲惨，悲哀",
+      "悲惨、悲哀",
       "tragic,sad",
       "قايعىلى"
     ],
@@ -23096,7 +23096,7 @@
   {
     "name": "qala",
     "trans": [
-      "城镇，城市",
+      "城镇、城市",
       "town,city",
       "قالا"
     ],
@@ -23105,7 +23105,7 @@
   {
     "name": "qala mange",
     "trans": [
-      "郊区，郊区",
+      "郊区、郊区",
       "suburban,suburb",
       "قالا ماڭى"
     ],
@@ -23123,7 +23123,7 @@
   {
     "name": "qalai",
     "trans": [
-      "如何，作为",
+      "如何、作为",
       "how,as",
       "قالاي"
     ],
@@ -23132,7 +23132,7 @@
   {
     "name": "qalai bolghanda da",
     "trans": [
-      "无论如何，不知何故",
+      "无论如何、不知何故",
       "anyway,somehow",
       "قالاي بولعاندا دا"
     ],
@@ -23150,7 +23150,7 @@
   {
     "name": "qalam",
     "trans": [
-      "笔，羽毛",
+      "笔、羽毛",
       "pen,feather",
       "قالام"
     ],
@@ -23168,7 +23168,7 @@
   {
     "name": "qalderw",
     "trans": [
-      "放弃",
+      "放棄",
       "abandon",
       "قالدىرۋ"
     ],
@@ -23186,7 +23186,7 @@
   {
     "name": "qalpena kyeltxerw",
     "trans": [
-      "恢复，恢复，恢复，恢复",
+      "回復、回復、回復、回復",
       "recover,recovery,regain,restore",
       "قالپىنا كەلتىرۋ"
     ],
@@ -23204,7 +23204,7 @@
   {
     "name": "qalw",
     "trans": [
-      "留下来，留下来",
+      "留下来、留下来",
       "stay,remain",
       "قالۋ"
     ],
@@ -23258,7 +23258,7 @@
   {
     "name": "qalqemale",
     "trans": [
-      "出现",
+      "現れる",
       "emerge",
       "قالقىمالى"
     ],
@@ -23276,7 +23276,7 @@
   {
     "name": "qamtamasez yetw",
     "trans": [
-      "提供，提供",
+      "提供、提供",
       "provision,provide",
       "قامتاماسىز ەتۋ"
     ],
@@ -23285,7 +23285,7 @@
   {
     "name": "qamtw",
     "trans": [
-      "覆盖，覆盖",
+      "覆盖、覆盖",
       "cover,coverage",
       "قامتۋ"
     ],
@@ -23339,7 +23339,7 @@
   {
     "name": "qanaghattanderw",
     "trans": [
-      "满足",
+      "満たす",
       "satisfy",
       "قاناعاتتاندىرۋ"
     ],
@@ -23420,7 +23420,7 @@
   {
     "name": "qarse",
     "trans": [
-      "对立，对立",
+      "对立、对立",
       "opposed,opposite",
       "قارسى"
     ],
@@ -23429,7 +23429,7 @@
   {
     "name": "qaramastan",
     "trans": [
-      "尽管，不管",
+      "尽管、不管",
       "despite,regardless",
       "قاراماستان"
     ],
@@ -23438,7 +23438,7 @@
   {
     "name": "qarapaiem",
     "trans": [
-      "简单，单纯，简单，简单，简单，公正，单纯",
+      "简单、单纯、简单、简单、简单、公正、单纯",
       "easy,merely,simply,plain,simple,just,mere",
       "قاراپايىم"
     ],
@@ -23447,7 +23447,7 @@
   {
     "name": "qarasterw",
     "trans": [
-      "考虑，考虑",
+      "検討、検討",
       "consider,consideration",
       "قاراستىرۋ"
     ],
@@ -23537,7 +23537,7 @@
   {
     "name": "qarse turw",
     "trans": [
-      "对抗，抵抗",
+      "对抗、抵抗",
       "confront,resist",
       "قارسى تۇرۋ"
     ],
@@ -23546,7 +23546,7 @@
   {
     "name": "qarselas",
     "trans": [
-      "对手，对手",
+      "对手、对手",
       "rival,opponent",
       "قارسىلاس"
     ],
@@ -23564,7 +23564,7 @@
   {
     "name": "qarseleq",
     "trans": [
-      "反对，抵抗，反对",
+      "反対、抵抗、反対",
       "opposition,resistance,objection",
       "قارسىلىق"
     ],
@@ -23618,7 +23618,7 @@
   {
     "name": "qatenas",
     "trans": [
-      "引用，关系，关联",
+      "引用、关系、关联",
       "refer,relationship,relate",
       "قاتىناس"
     ],
@@ -23726,7 +23726,7 @@
   {
     "name": "qatal",
     "trans": [
-      "苛刻，严重",
+      "苛刻、严重",
       "harsh,severe",
       "قاتال"
     ],
@@ -23744,7 +23744,7 @@
   {
     "name": "qatang",
     "trans": [
-      "严格，严格",
+      "严格、严格",
       "strictly,strict",
       "قاتاڭ"
     ],
@@ -23753,7 +23753,7 @@
   {
     "name": "qatye",
     "trans": [
-      "错误，错误，错误，错误",
+      "错误、错误、错误、错误",
       "wrong,mistake,error,fault",
       "قاتە"
     ],
@@ -23771,7 +23771,7 @@
   {
     "name": "qatte",
     "trans": [
-      "响亮，强烈，坚实，僵硬，坚定，严重，坚韧，坚定",
+      "响亮、强烈、坚实、僵硬、坚定、严重、坚韧、坚定",
       "loud,strongly,solid,stiff,firm,severely,tough,firmly",
       "قاتتى"
     ],
@@ -23780,7 +23780,7 @@
   {
     "name": "qategyez",
     "trans": [
-      "残忍，凶猛",
+      "残忍、凶猛",
       "cruel,fierce",
       "قاتىگەز"
     ],
@@ -23789,7 +23789,7 @@
   {
     "name": "qatenas",
     "trans": [
-      "关系，态度",
+      "关系、态度",
       "relation,attitude",
       "قاتىناس"
     ],
@@ -23798,7 +23798,7 @@
   {
     "name": "qatesw",
     "trans": [
-      "参与，存在，参与，暗示，参与",
+      "参与、存在、参与、示唆、参与",
       "involvement,presence,participation,implication,participate",
       "قاتىسۋ"
     ],
@@ -23807,7 +23807,7 @@
   {
     "name": "qateswshe",
     "trans": [
-      "参与者，贡献者",
+      "参与者、贡献者",
       "participant,contributor",
       "قاتىسۋشى"
     ],
@@ -23834,7 +23834,7 @@
   {
     "name": "qawxep",
     "trans": [
-      "威胁，危险，危险",
+      "威胁、危险、危险",
       "threat,hazard,danger",
       "ٴقاۋىپ"
     ],
@@ -23843,7 +23843,7 @@
   {
     "name": "qawxepsxez",
     "trans": [
-      "安全，安心，安全",
+      "安全、安心、安全",
       "safely,secure,safe",
       "ٴقاۋىپسىز"
     ],
@@ -23852,7 +23852,7 @@
   {
     "name": "qawxepsxezdxek",
     "trans": [
-      "安保，安全",
+      "安保、安全",
       "security,safety",
       "قاۋىپسىزدىك"
     ],
@@ -23861,7 +23861,7 @@
   {
     "name": "qawxeptxe",
     "trans": [
-      "危险，有风险",
+      "危险、有风险",
       "dangerous,risky",
       "ٴقاۋىپتى"
     ],
@@ -23969,7 +23969,7 @@
   {
     "name": "qien",
     "trans": [
-      "难，重，难",
+      "难、重、难",
       "hard,heavily,difficult",
       "قيىن"
     ],
@@ -23978,7 +23978,7 @@
   {
     "name": "qiendeq",
     "trans": [
-      "困难，麻烦",
+      "困难、麻烦",
       "difficulty,trouble",
       "قيىندىق"
     ],
@@ -23987,7 +23987,7 @@
   {
     "name": "qiial",
     "trans": [
-      "幻想，想象",
+      "幻想、想象",
       "fantasy,imagination",
       "قييال"
     ],
@@ -23996,7 +23996,7 @@
   {
     "name": "qozghaltqesh",
     "trans": [
-      "电机，发动机",
+      "电机、发动机",
       "motor,engine",
       "قوزعالتقىش"
     ],
@@ -24005,7 +24005,7 @@
   {
     "name": "qozghales",
     "trans": [
-      "运动，交通，运动",
+      "運動、交通、運動",
       "movement,traffic,motion",
       "قوزعالىس"
     ],
@@ -24023,7 +24023,7 @@
   {
     "name": "qoima",
     "trans": [
-      "仓库，库存",
+      "仓库、库存",
       "warehouse,stock",
       "قويما"
     ],
@@ -24032,7 +24032,7 @@
   {
     "name": "qol",
     "trans": [
-      "手臂，手",
+      "手臂、手",
       "arm,hand",
       "قول"
     ],
@@ -24050,7 +24050,7 @@
   {
     "name": "qol jyetxemdxe",
     "trans": [
-      "可用，可访问",
+      "可用、可访问",
       "available,accessible",
       "قول جەتىمدى"
     ],
@@ -24104,7 +24104,7 @@
   {
     "name": "qoldaw",
     "trans": [
-      "维持，支持，支持，维护",
+      "维持、支援、支援、维护",
       "sustain,supportive,support,maintain",
       "قولداۋ"
     ],
@@ -24113,7 +24113,7 @@
   {
     "name": "qoldawshe",
     "trans": [
-      "支持者",
+      "支援者",
       "supporter",
       "قولداۋشى"
     ],
@@ -24176,7 +24176,7 @@
   {
     "name": "qonw",
     "trans": [
-      "着陆，着陆",
+      "着陆、着陆",
       "touchdown,landing",
       "قونۋ"
     ],
@@ -24185,7 +24185,7 @@
   {
     "name": "qonestanw",
     "trans": [
-      "解决",
+      "解決",
       "settle",
       "قونىستانۋ"
     ],
@@ -24230,7 +24230,7 @@
   {
     "name": "qorshaw",
     "trans": [
-      "环绕，围栏",
+      "环绕、围栏",
       "surround,fence",
       "قورشاۋ"
     ],
@@ -24239,7 +24239,7 @@
   {
     "name": "qorshaghan orta",
     "trans": [
-      "环境，周边",
+      "環境、周边",
       "environment,surrounding",
       "قورشاعان ورتا"
     ],
@@ -24248,7 +24248,7 @@
   {
     "name": "qoretende",
     "trans": [
-      "结论，结束，撤回",
+      "结论、終わる、撤回",
       "conclusion,conclude,withdrawal",
       "قورىتىندى"
     ],
@@ -24257,7 +24257,7 @@
   {
     "name": "qorghanes",
     "trans": [
-      "保护，防御",
+      "保護、防御",
       "protective,defensive",
       "قورعانىس"
     ],
@@ -24266,7 +24266,7 @@
   {
     "name": "qorghaw",
     "trans": [
-      "防御，保护，保护，防御",
+      "防御、保護、保護、防御",
       "defense,protect,protection,defend",
       "قورعاۋ"
     ],
@@ -24275,7 +24275,7 @@
   {
     "name": "qorghawshe",
     "trans": [
-      "后卫，四分卫",
+      "后卫、四分卫",
       "defender,quarterback",
       "قورعاۋشى"
     ],
@@ -24302,7 +24302,7 @@
   {
     "name": "qorqeneshte",
     "trans": [
-      "可怕，可怕，害怕，可怕，可怕，可怕",
+      "可怕、可怕、害怕、可怕、可怕、可怕",
       "horrible,terrible,afraid,scary,terribly,awful",
       "قورقىنىشتى"
     ],
@@ -24338,7 +24338,7 @@
   {
     "name": "qospase",
     "trans": [
-      "混合，混合，混合",
+      "混合、混合、混合",
       "mixture,mix,blend",
       "قوسپاسى"
     ],
@@ -24347,7 +24347,7 @@
   {
     "name": "qosw",
     "trans": [
-      "包括，包含，添加，启用",
+      "包括、含む、添加、启用",
       "include,comprise,add,enable",
       "قوسۋ"
     ],
@@ -24365,7 +24365,7 @@
   {
     "name": "qoselw",
     "trans": [
-      "加入，连接",
+      "加入、接続",
       "join,connect",
       "قوسىلۋ"
     ],
@@ -24374,7 +24374,7 @@
   {
     "name": "qosemsha",
     "trans": [
-      "添加，应用，附加，额外",
+      "添加、应用、附加、额外",
       "addition,application,additional,extra",
       "قوسىمشا"
     ],
@@ -24401,7 +24401,7 @@
   {
     "name": "qoiw",
     "trans": [
-      "躺，放",
+      "躺、放",
       "lay,put",
       "قويۋ"
     ],
@@ -24437,7 +24437,7 @@
   {
     "name": "qoghamdeq",
     "trans": [
-      "社会，公共",
+      "社会、公共",
       "social,public",
       "قوعامدىق"
     ],
@@ -24446,7 +24446,7 @@
   {
     "name": "qoqes",
     "trans": [
-      "垃圾，垃圾",
+      "垃圾、垃圾",
       "trash,garbage",
       "قوقىس"
     ],
@@ -24482,7 +24482,7 @@
   {
     "name": "qwanesh",
     "trans": [
-      "喜悦，喜悦",
+      "喜悦、喜悦",
       "delight,joy",
       "قۋانىش"
     ],
@@ -24491,7 +24491,7 @@
   {
     "name": "qwaneshte",
     "trans": [
-      "兴奋，担心，高兴",
+      "兴奋、担心、高兴",
       "excited,worried,glad",
       "قۋانىشتى"
     ],
@@ -24509,7 +24509,7 @@
   {
     "name": "qwdalaw",
     "trans": [
-      "追捕，起诉",
+      "追捕、起诉",
       "pursuit,prosecution",
       "قۋدالاۋ"
     ],
@@ -24527,7 +24527,7 @@
   {
     "name": "qww",
     "trans": [
-      "追逐，追逐",
+      "追逐、追逐",
       "pursue,chase",
       "قۋۋ"
     ],
@@ -24545,7 +24545,7 @@
   {
     "name": "qez",
     "trans": [
-      "女朋友，女孩",
+      "女朋友、女孩",
       "girlfriend,girl",
       "قىز"
     ],
@@ -24572,7 +24572,7 @@
   {
     "name": "qezmyet yetw",
     "trans": [
-      "份量，份量",
+      "份量、份量",
       "serving,portion",
       "قىزمەت ەتۋ"
     ],
@@ -24581,7 +24581,7 @@
   {
     "name": "qezmyet kxorsyetw",
     "trans": [
-      "服务，维护，服务",
+      "服务、维护、服务",
       "service,maintenance,serve",
       "قىزمەت كورسەتۋ"
     ],
@@ -24590,7 +24590,7 @@
   {
     "name": "qezmyetkyer",
     "trans": [
-      "员工，工人",
+      "员工、工人",
       "employee,worker",
       "قىزمەتكەر"
     ],
@@ -24599,7 +24599,7 @@
   {
     "name": "qezmyetkyerlyer",
     "trans": [
-      "人员，员工",
+      "人员、员工",
       "personnel,staff",
       "قىزمەتكەرلەر"
     ],
@@ -24608,7 +24608,7 @@
   {
     "name": "qezmyetshxe",
     "trans": [
-      "文员，仆人",
+      "文员、仆人",
       "clerk,servant",
       "قىزمەتشى"
     ],
@@ -24644,7 +24644,7 @@
   {
     "name": "qezeghwsheleq",
     "trans": [
-      "好奇心，兴趣",
+      "好奇心、兴趣",
       "curiosity,interest",
       "قىزىعۋشىلىق"
     ],
@@ -24662,7 +24662,7 @@
   {
     "name": "qezeqte",
     "trans": [
-      "令人兴奋，有趣",
+      "令人兴奋、有趣",
       "exciting,interesting",
       "قىزىقتى"
     ],
@@ -24716,7 +24716,7 @@
   {
     "name": "qembat",
     "trans": [
-      "珍贵，昂贵",
+      "珍贵、昂贵",
       "precious,costly",
       "قىمبات"
     ],
@@ -24761,7 +24761,7 @@
   {
     "name": "qesqa",
     "trans": [
-      "简短，简短",
+      "简短、简短",
       "short,brief",
       "قىسقا"
     ],
@@ -24770,7 +24770,7 @@
   {
     "name": "qesqartw",
     "trans": [
-      "收缩，减少",
+      "收缩、減らす",
       "shrink,reduction",
       "قىسقارتۋ"
     ],
@@ -24779,7 +24779,7 @@
   {
     "name": "qesqasha",
     "trans": [
-      "简短，不久",
+      "简短、不久",
       "briefly,shortly",
       "قىسقاشا"
     ],
@@ -24860,7 +24860,7 @@
   {
     "name": "qulaw",
     "trans": [
-      "跌倒，崩溃",
+      "跌倒、崩溃",
       "fall,collapse",
       "قۇلاۋ"
     ],
@@ -24932,7 +24932,7 @@
   {
     "name": "qumera",
     "trans": [
-      "罐子，水壶",
+      "罐子、水壶",
       "jar,pitcher",
       "قۇمىرا"
     ],
@@ -24968,7 +24968,7 @@
   {
     "name": "qupiia",
     "trans": [
-      "神秘，秘密",
+      "神秘、秘密",
       "mystery,secret",
       "قۇپييا"
     ],
@@ -24986,7 +24986,7 @@
   {
     "name": "qural",
     "trans": [
-      "仪器，工具",
+      "仪器、工具",
       "instrument,tool",
       "قۇرال"
     ],
@@ -24995,7 +24995,7 @@
   {
     "name": "quramenda",
     "trans": [
-      "包含",
+      "含む",
       "contain",
       "قۇرامىندا"
     ],
@@ -25004,7 +25004,7 @@
   {
     "name": "qurasterw",
     "trans": [
-      "化妆，作曲，构成",
+      "化妆、作曲、構成",
       "makeup,compose,constitute",
       "قۇراستىرۋ"
     ],
@@ -25031,7 +25031,7 @@
   {
     "name": "qurmyettxe",
     "trans": [
-      "亲爱的，昂贵的",
+      "亲爱的、昂贵的",
       "dear,expensive",
       "قۇرمەتتى"
     ],
@@ -25139,7 +25139,7 @@
   {
     "name": "qushaqtaw",
     "trans": [
-      "拥抱，拥抱",
+      "拥抱、拥抱",
       "embrace,hug",
       "قۇشاقتاۋ"
     ],
@@ -25157,7 +25157,7 @@
   {
     "name": "quqeq",
     "trans": [
-      "符合资格，权利",
+      "符合资格、权利",
       "eligible,right",
       "قۇقىق"
     ],
@@ -25202,7 +25202,7 @@
   {
     "name": "xuzdxeksxez",
     "trans": [
-      "稳定，持续",
+      "稳定、持续",
       "steadily,continuous",
       "ۇزدىكسىز"
     ],
@@ -25211,7 +25211,7 @@
   {
     "name": "xuzxelxes",
     "trans": [
-      "中断，中断",
+      "中断、中断",
       "interrupt,break",
       "ٴۇزىلىس"
     ],
@@ -25220,7 +25220,7 @@
   {
     "name": "xui",
     "trans": [
-      "家，房子",
+      "家、房子",
       "home,house",
       "ٴۇي"
     ],
@@ -25310,7 +25310,7 @@
   {
     "name": "xuiryetw",
     "trans": [
-      "学习，教",
+      "学习、教",
       "learn,teach",
       "ۇيرەتۋ"
     ],
@@ -25328,7 +25328,7 @@
   {
     "name": "xuixendxe",
     "trans": [
-      "束，堆",
+      "束、堆",
       "bunch,pile",
       "ٴۇيىندى"
     ],
@@ -25337,7 +25337,7 @@
   {
     "name": "xukxem",
     "trans": [
-      "判决，判决",
+      "判决、判决",
       "verdict,judgment",
       "ۇكىم"
     ],
@@ -25355,7 +25355,7 @@
   {
     "name": "xulgxe",
     "trans": [
-      "模型，样品，图案",
+      "模型、样品、图案",
       "model,sample,pattern",
       "ٴۇلگى"
     ],
@@ -25364,7 +25364,7 @@
   {
     "name": "xulyes qosw",
     "trans": [
-      "培养",
+      "育成",
       "foster,contribute,promote",
       "ۇلەس قوسۋ"
     ],
@@ -25382,7 +25382,7 @@
   {
     "name": "xulkyen",
     "trans": [
-      "大，大，巨大，巨大，巨大",
+      "大、大、巨大、巨大、巨大",
       "big,large,tremendous,huge,enormous",
       "ۇلكەن"
     ],
@@ -25418,7 +25418,7 @@
   {
     "name": "xumxetsxez",
     "trans": [
-      "绝望，绝望",
+      "绝望、绝望",
       "desperately,desperate",
       "ٴۇمىتسىز"
     ],
@@ -25427,7 +25427,7 @@
   {
     "name": "xumxettxe",
     "trans": [
-      "鼓励",
+      "励ます",
       "encouraging",
       "ٴۇمىتتى"
     ],
@@ -25490,7 +25490,7 @@
   {
     "name": "xushxen",
     "trans": [
-      "为，超越",
+      "为、超越",
       "for,beyond",
       "ٴۇشىن"
     ],
@@ -25535,7 +25535,7 @@
   {
     "name": "uzendeghe",
     "trans": [
-      "拉伸，长度",
+      "拉伸、长度",
       "stretch,length",
       "ۇزىندىعى"
     ],
@@ -25544,7 +25544,7 @@
   {
     "name": "uiemdasterw",
     "trans": [
-      "组织，组织，安排",
+      "組織、組織、手配",
       "organize,organization,arrange",
       "ۇيىمداستىرۋ"
     ],
@@ -25553,7 +25553,7 @@
   {
     "name": "uiemdasterwsheleq",
     "trans": [
-      "组织",
+      "組織",
       "organizational",
       "ۇيىمداستىرۋشىلىق"
     ],
@@ -25562,7 +25562,7 @@
   {
     "name": "uiemdasterelghan",
     "trans": [
-      "组织",
+      "組織",
       "organized",
       "ۇيىمداستىرىلعان"
     ],
@@ -25616,7 +25616,7 @@
   {
     "name": "ulghaitw",
     "trans": [
-      "增加",
+      "増加",
       "increase",
       "ۇلعايتۋ"
     ],
@@ -25670,7 +25670,7 @@
   {
     "name": "urw",
     "trans": [
-      "拍打，拍打",
+      "拍打、拍打",
       "slap,beat",
       "ۇرۋ"
     ],
@@ -25688,7 +25688,7 @@
   {
     "name": "ustanw",
     "trans": [
-      "跟随，坚持",
+      "跟随、堅持",
       "follow,stick",
       "ۇستانۋ"
     ],
@@ -25697,7 +25697,7 @@
   {
     "name": "ustaw",
     "trans": [
-      "保持，保留，持有，抓住，抓住，抓住",
+      "維持、保留、持有、掴む、掴む、掴む",
       "keep,retain,hold,seize,catch",
       "ۇستاۋ"
     ],
@@ -25706,7 +25706,7 @@
   {
     "name": "usenw",
     "trans": [
-      "推荐，建议，代表，执行，提交，提议，代表",
+      "推荐、提案、代表、実行、提交、提议、代表",
       "recommend,suggest,represent,performance,submit,propose,representation",
       "ۇسىنۋ"
     ],
@@ -25715,7 +25715,7 @@
   {
     "name": "usenelghan",
     "trans": [
-      "提供，建议",
+      "提供、提案",
       "provided,proposed",
       "ۇسىنىلعان"
     ],
@@ -25724,7 +25724,7 @@
   {
     "name": "usenes",
     "trans": [
-      "建议，提供，要约，推荐，提案，句子",
+      "提案、提供、要约、推荐、提案、句子",
       "suggestion,offering,offer,recommendation,proposal,sentence",
       "ۇسىنىس"
     ],
@@ -25760,7 +25760,7 @@
   {
     "name": "ushaq",
     "trans": [
-      "飞机，喷气式飞机，飞机",
+      "飞机、喷气式飞机、飞机",
       "plane,jet,airplane",
       "ۇشاق"
     ],
@@ -25769,7 +25769,7 @@
   {
     "name": "ushw",
     "trans": [
-      "飞行，飞行",
+      "飞行、飞行",
       "fly,flight",
       "ۇشۋ"
     ],
@@ -25814,7 +25814,7 @@
   {
     "name": "uiale",
     "trans": [
-      "移动",
+      "移動",
       "mobile",
       "ۇيالى"
     ],
@@ -25832,7 +25832,7 @@
   {
     "name": "uiat",
     "trans": [
-      "困惑，羞愧",
+      "困惑、羞愧",
       "confuse,shame",
       "ۇيات"
     ],
@@ -25859,7 +25859,7 @@
   {
     "name": "uqsas",
     "trans": [
-      "相似，相似，相似",
+      "相似、相似、相似",
       "alike,resemble,similar",
       "ۇقساس"
     ],
@@ -25922,7 +25922,7 @@
   {
     "name": "xadyemxe",
     "trans": [
-      "美丽，英俊，精彩，漂亮，可爱",
+      "美丽、英俊、精彩、漂亮、可爱",
       "beautiful,handsome,wonderful,pretty,lovely",
       "ادەمى"
     ],
@@ -25949,7 +25949,7 @@
   {
     "name": "xadyettye",
     "trans": [
-      "通常，通常，一般，常规，通常",
+      "通常、通常、一般、常规、通常",
       "normally,usually,generally,routinely,commonly",
       "ادەتتە"
     ],
@@ -26003,7 +26003,7 @@
   {
     "name": "xazxel",
     "trans": [
-      "幽默，笑话",
+      "幽默、笑话",
       "humor,joke",
       "ٴازىل"
     ],
@@ -26012,7 +26012,7 @@
   {
     "name": "xazxergye",
     "trans": [
-      "虽然，然而，直到",
+      "虽然、然而、直到",
       "while,yet,till",
       "ازىرگە"
     ],
@@ -26039,7 +26039,7 @@
   {
     "name": "xaiyel",
     "trans": [
-      "女，女",
+      "女、女",
       "female,woman",
       "ايەل"
     ],
@@ -26102,7 +26102,7 @@
   {
     "name": "xakxemshxelxek",
     "trans": [
-      "行政，行政",
+      "行政、行政",
       "administration,administrative",
       "اكىمشىلىك"
     ],
@@ -26120,7 +26120,7 @@
   {
     "name": "xalyem",
     "trans": [
-      "世界，和平",
+      "世界、和平",
       "world,peace",
       "الەم"
     ],
@@ -26147,7 +26147,7 @@
   {
     "name": "xalsxez",
     "trans": [
-      "虚弱，虚弱，昏厥",
+      "虚弱、虚弱、昏厥",
       "weaken,weak,faint",
       "ٴالسىز"
     ],
@@ -26228,7 +26228,7 @@
   {
     "name": "xar txurlxe",
     "trans": [
-      "变化，各种，不同，不同，多样化",
+      "変化、各种、不同、不同、多样化",
       "vary,various,differ,different,diverse",
       "ٴار تۇرلى"
     ],
@@ -26237,7 +26237,7 @@
   {
     "name": "xaryekyet",
     "trans": [
-      "行动，尝试，行动",
+      "行动、試み、行动",
       "action,attempt,act",
       "ارەكەت"
     ],
@@ -26246,7 +26246,7 @@
   {
     "name": "xaryeng",
     "trans": [
-      "几乎没有，勉强",
+      "几乎没有、勉强",
       "hardly,barely",
       "ارەڭ"
     ],
@@ -26255,7 +26255,7 @@
   {
     "name": "xarinye",
     "trans": [
-      "当然，自然，当然，肯定",
+      "当然、自然、当然、肯定",
       "sure,naturally,certainly,surely",
       "ارينە"
     ],
@@ -26264,7 +26264,7 @@
   {
     "name": "xartxurlxelxek",
     "trans": [
-      "多样性，多样性",
+      "多样性、多样性",
       "diversity,variety",
       "ارتۇرلىلىك"
     ],
@@ -26282,7 +26282,7 @@
   {
     "name": "xarqaisese",
     "trans": [
-      "每个人，每个人，每个人",
+      "每个人、每个人、每个人",
       "every,everyone,each",
       "ٴارقايسىسى"
     ],
@@ -26291,7 +26291,7 @@
   {
     "name": "xarqashan",
     "trans": [
-      "永远，永远",
+      "永远、永远",
       "ever,always",
       "ٴارقاشان"
     ],
@@ -26300,7 +26300,7 @@
   {
     "name": "xasyer",
     "trans": [
-      "印象深刻，印象深刻",
+      "印象深刻、印象深刻",
       "impression,impress",
       "اسەر"
     ],
@@ -26309,7 +26309,7 @@
   {
     "name": "xasyer yetw",
     "trans": [
-      "暴露，影响",
+      "暴露、影響",
       "exposure,affect",
       "اسەر ەتۋ"
     ],
@@ -26318,7 +26318,7 @@
   {
     "name": "xasyerlxe",
     "trans": [
-      "壮观，令人印象深刻",
+      "壮观、令人印象深刻",
       "spectacular,impressive",
       "اسەرلى"
     ],
@@ -26327,7 +26327,7 @@
   {
     "name": "xasyerxe",
     "trans": [
-      "影响，效果，影响",
+      "影響、效果、影響",
       "impact,effect,influence",
       "اسەرى"
     ],
@@ -26444,7 +26444,7 @@
   {
     "name": "xozara xaryekyettyesw",
     "trans": [
-      "交互，交互",
+      "交互、交互",
       "interaction,interact",
       "ٴوزارا ارەكەتتەسۋ"
     ],
@@ -26453,7 +26453,7 @@
   {
     "name": "xozgyeryetxen",
     "trans": [
-      "改变",
+      "変える",
       "changing",
       "وزگەرەتىن"
     ],
@@ -26462,7 +26462,7 @@
   {
     "name": "xozgyertw",
     "trans": [
-      "更改，更改，更改，修改",
+      "更改、更改、更改、修改",
       "alter,variation,change,modify",
       "وزگەرتۋ"
     ],
@@ -26471,7 +26471,7 @@
   {
     "name": "xozdyerxe",
     "trans": [
-      "自己，我们自己",
+      "自己、我们自己",
       "themselves,ourselves",
       "وزدەرى"
     ],
@@ -26498,7 +26498,7 @@
   {
     "name": "xozxe",
     "trans": [
-      "自己，她自己，自我",
+      "自己、她自己、自我",
       "itself,herself,self",
       "ٴوزى"
     ],
@@ -26507,7 +26507,7 @@
   {
     "name": "xozxe",
     "trans": [
-      "我自己，他自己，你自己",
+      "我自己、他自己、你自己",
       "myself,himself,yourself",
       "ٴوزى"
     ],
@@ -26552,7 +26552,7 @@
   {
     "name": "xokxelxe",
     "trans": [
-      "发言人，代表",
+      "发言人、代表",
       "spokesman,representative",
       "وكىلى"
     ],
@@ -26633,7 +26633,7 @@
   {
     "name": "xolshyew",
     "trans": [
-      "尺寸，测量",
+      "尺寸、测量",
       "dimension,measurement",
       "ولشەۋ"
     ],
@@ -26651,7 +26651,7 @@
   {
     "name": "xolxem",
     "trans": [
-      "死亡，死亡率",
+      "死亡、死亡率",
       "death,mortality",
       "ٴولىم"
     ],
@@ -26741,7 +26741,7 @@
   {
     "name": "xondxerwshxe",
     "trans": [
-      "生产商，制造商，制造商",
+      "生产商、制造商、制造商",
       "producer,maker,manufacturer",
       "ٴوندىرۋشى"
     ],
@@ -26750,7 +26750,7 @@
   {
     "name": "xondxerxes",
     "trans": [
-      "制造，生产",
+      "制造、生产",
       "manufacturing,production",
       "ٴوندىرىس"
     ],
@@ -26840,7 +26840,7 @@
   {
     "name": "xormyelyew",
     "trans": [
-      "争抢，攀登",
+      "争抢、攀登",
       "scramble,climb",
       "ورمەلەۋ"
     ],
@@ -26849,7 +26849,7 @@
   {
     "name": "xornyek",
     "trans": [
-      "表达",
+      "表現",
       "expression",
       "ورنەك"
     ],
@@ -26876,7 +26876,7 @@
   {
     "name": "xostxe",
     "trans": [
-      "增加",
+      "増加",
       "increased",
       "ٴوستى"
     ],
@@ -26885,7 +26885,7 @@
   {
     "name": "xosw",
     "trans": [
-      "增加，增长，增长",
+      "増加、增长、增长",
       "increasing,grow,growth",
       "ٴوسۋ"
     ],
@@ -26912,7 +26912,7 @@
   {
     "name": "xotye",
     "trans": [
-      "非常，相当，公平，非常",
+      "非常に、相当、公平、非常に",
       "very,quite,fairly,extremely",
       "وتە"
     ],
@@ -26966,7 +26966,7 @@
   {
     "name": "xotw",
     "trans": [
-      "通道，过道，下行，通过，通过",
+      "通道、过道、下行、通過、通過",
       "passage,aisle,undergo,pass,passing",
       "ٴوتۋ"
     ],
@@ -26993,7 +26993,7 @@
   {
     "name": "xotxenxesh",
     "trans": [
-      "上诉，声明，抗辩",
+      "上诉、声明、抗辩",
       "appeal,statement,plea",
       "ٴوتىنىش"
     ],
@@ -27011,7 +27011,7 @@
   {
     "name": "xongdyew",
     "trans": [
-      "编辑，治理，处理",
+      "编辑、治理、処理",
       "edit,govern,processing",
       "وڭدەۋ"
     ],

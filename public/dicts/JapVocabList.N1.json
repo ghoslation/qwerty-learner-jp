@@ -3567,7 +3567,7 @@
         "trans": [
             "trust, confidence, credence"
         ],
-        "notation": "信任(しんにん)"
+        "notation": "信頼(しんにん)"
     },
     {
         "name": "shunin",
@@ -12282,7 +12282,7 @@
         "trans": [
             "trade, commerce"
         ],
-        "notation": "交易(こうえき)"
+        "notation": "取引(こうえき)"
     },
     {
         "name": "shikou",
@@ -19730,7 +19730,7 @@
         "trans": [
             "work, construction, handicraft, maneuvering"
         ],
-        "notation": "工作(こうさく)"
+        "notation": "仕事(こうさく)"
     },
     {
         "name": "shou",
@@ -20003,7 +20003,7 @@
         "trans": [
             "support, maintenance"
         ],
-        "notation": "支持(しじ)"
+        "notation": "支援(しじ)"
     },
     {
         "name": "megane",
@@ -20990,7 +20990,7 @@
         "trans": [
             "hint, suggestion"
         ],
-        "notation": "暗示(あんじ)"
+        "notation": "示唆(あんじ)"
     },
     {
         "name": "houbi",

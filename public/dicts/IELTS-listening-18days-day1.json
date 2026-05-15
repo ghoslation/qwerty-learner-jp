@@ -21,7 +21,7 @@
     },
     {
         "name": "moderate",
-        "trans": ["adj. 温和的：适度的"]
+        "trans": ["adj. 温和的: 适度的"]
     },
     {
         "name": "waterfall",
@@ -73,15 +73,15 @@
     },
     {
         "name": "cinema",
-        "trans": ["n. 电影：电影院"]
+        "trans": ["n. 电影: 电影院"]
     },
     {
         "name": "tank",
-        "trans": ["n. 坦克；水槽；水池"]
+        "trans": ["n. 坦克; 水槽; 水池"]
     },
     {
         "name": "enjoyable",
-        "trans": ["adj. 快乐的：有乐趣"]
+        "trans": ["adj. 快乐的: 有乐趣"]
     },
     {
         "name": "warehouse",
@@ -105,7 +105,7 @@
     },
     {
         "name": "container",
-        "trans": ["n. 集装箱：容器"]
+        "trans": ["n. 集装箱: 容器"]
     },
     {
         "name": "mirror",
@@ -121,7 +121,7 @@
     },
     {
         "name": "conference",
-        "trans": ["n. 会议，协商"]
+        "trans": ["n. 会议、协商"]
     },
     {
         "name": "limited",
@@ -141,7 +141,7 @@
     },
     {
         "name": "resume",
-        "trans": ["n. 履历，简历"]
+        "trans": ["n. 履历、简历"]
     },
     {
         "name": "type",
@@ -153,7 +153,7 @@
     },
     {
         "name": "correction",
-        "trans": ["n. 改正，修正"]
+        "trans": ["n. 改正、修正"]
     },
     {
         "name": "experience",
@@ -205,7 +205,7 @@
     },
     {
         "name": "choice",
-        "trans": ["n. 选择"]
+        "trans": ["n. 選択"]
     },
     {
         "name": "available",
@@ -213,7 +213,7 @@
     },
     {
         "name": "instruction",
-        "trans": ["n. 说明"]
+        "trans": ["n. 説明"]
     },
     {
         "name": "freezer",
@@ -249,7 +249,7 @@
     },
     {
         "name": "cancel",
-        "trans": ["v. 取消"]
+        "trans": ["v. キャンセル"]
     },
     {
         "name": "performer",
@@ -277,7 +277,7 @@
     },
     {
         "name": "studio",
-        "trans": ["n. 工作室"]
+        "trans": ["n. 仕事室"]
     },
     {
         "name": "interview",
@@ -285,7 +285,7 @@
     },
     {
         "name": "select",
-        "trans": ["v. 选择"]
+        "trans": ["v. 選択"]
     },
     {
         "name": "edit",

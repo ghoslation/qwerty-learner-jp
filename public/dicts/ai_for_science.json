@@ -20,7 +20,7 @@
     {
         "name": "Area Under ROC Curve",
         "trans": [
-            "AUC（ROC曲线下方面积，度量分类模型好坏的标准）"
+            "AUC（ROC曲线下方面积、度量分类模型好坏的标准）"
         ]
     },
     {
@@ -44,7 +44,7 @@
     {
         "name": "Back Propagation",
         "trans": [
-            "反向传播"
+            "反向伝播"
         ]
     },
     {
@@ -92,7 +92,7 @@
     {
         "name": "Boosting",
         "trans": [
-            "Boosting（一种模型训练加速方式）"
+            "Boosting（一种模型訓練加速方式）"
         ]
     },
     {
@@ -122,7 +122,7 @@
     {
         "name": "Computer Vision",
         "trans": [
-            "计算机视觉"
+            "コンピュータ视觉"
         ]
     },
     {
@@ -230,7 +230,7 @@
     {
         "name": "Estimator",
         "trans": [
-            "估计/估计量"
+            "推定/推定量"
         ]
     },
     {
@@ -248,7 +248,7 @@
     {
         "name": "Feature Selection",
         "trans": [
-            "特征选择"
+            "特征選択"
         ]
     },
     {
@@ -428,7 +428,7 @@
     {
         "name": "Long Short Term Memory",
         "trans": [
-            "长短期记忆"
+            "长短期記憶"
         ]
     },
     {
@@ -464,13 +464,13 @@
     {
         "name": "Model Predictive Control",
         "trans": [
-            "模型预测控制"
+            "模型预测制御"
         ]
     },
     {
         "name": "Model Selection",
         "trans": [
-            "模型选择"
+            "模型選択"
         ]
     },
     {
@@ -488,7 +488,7 @@
     {
         "name": "Natural Language Processing",
         "trans": [
-            "自然语言处理"
+            "自然语言処理"
         ]
     },
     {
@@ -644,7 +644,7 @@
     {
         "name": "Receiver Operating Characteristic",
         "trans": [
-            "受试者工作特征"
+            "受试者仕事特征"
         ]
     },
     {
@@ -674,7 +674,7 @@
     {
         "name": "Representation Learning",
         "trans": [
-            "表示学习"
+            "表す学习"
         ]
     },
     {
@@ -734,19 +734,19 @@
     {
         "name": "Support Vector",
         "trans": [
-            "支持向量"
+            "支援向量"
         ]
     },
     {
         "name": "Support Vector Machine",
         "trans": [
-            "支持向量机"
+            "支援向量机"
         ]
     },
     {
         "name": "Support Vector Regression",
         "trans": [
-            "支持向量回归"
+            "支援向量回归"
         ]
     },
     {
@@ -770,13 +770,13 @@
     {
         "name": "Training Sample",
         "trans": [
-            "训练样本"
+            "訓練样本"
         ]
     },
     {
         "name": "Training Set",
         "trans": [
-            "训练集"
+            "訓練集"
         ]
     },
     {
@@ -956,13 +956,13 @@
     {
         "name": "Automating Synthetic Planning",
         "trans": [
-            "自动化综合规划"
+            "自動詞化综合规划"
         ]
     },
     {
         "name": "Automation",
         "trans": [
-            "自动化"
+            "自動詞化"
         ]
     },
     {
@@ -998,7 +998,7 @@
     {
         "name": "Basin Hopping",
         "trans": [
-            "盆地跳跃（算法）"
+            "盆地跳躍（算法）"
         ]
     },
     {
@@ -1028,7 +1028,7 @@
     {
         "name": "Bayesian Molecular",
         "trans": [
-            "贝叶斯分子（设计方法）"
+            "贝叶斯分子（設計方法）"
         ]
     },
     {
@@ -1070,7 +1070,7 @@
     {
         "name": "Bit Collisions",
         "trans": [
-            "字节碰撞/冲突"
+            "字节碰撞/衝突"
         ]
     },
     {
@@ -1088,7 +1088,7 @@
     {
         "name": "Bonding Environments",
         "trans": [
-            "成键环境"
+            "成键環境"
         ]
     },
     {
@@ -1124,7 +1124,7 @@
     {
         "name": "Calculation Uncertainties",
         "trans": [
-            "计算不确定性"
+            "計算不确定性"
         ]
     },
     {
@@ -1178,7 +1178,7 @@
     {
         "name": "Cluster Resolution Feature Selection",
         "trans": [
-            "聚类分辨率特征选择"
+            "聚类分辨率特征選択"
         ]
     },
     {
@@ -1202,7 +1202,7 @@
     {
         "name": "Coefficient of Determination",
         "trans": [
-            "决定系数"
+            "決定系数"
         ]
     },
     {
@@ -1220,43 +1220,43 @@
     {
         "name": "Computational Cost",
         "trans": [
-            "计算成本"
+            "計算成本"
         ]
     },
     {
         "name": "Computational Optimisation",
         "trans": [
-            "计算优化"
+            "計算优化"
         ]
     },
     {
         "name": "Computational Science",
         "trans": [
-            "计算科学"
+            "計算科学"
         ]
     },
     {
         "name": "Computational Toxicology",
         "trans": [
-            "计算毒理学"
+            "計算毒理学"
         ]
     },
     {
         "name": "Computer Science",
         "trans": [
-            "计算机科学"
+            "コンピュータ科学"
         ]
     },
     {
         "name": "Computer Simulations",
         "trans": [
-            "计算机模拟"
+            "コンピュータ模拟"
         ]
     },
     {
         "name": "Computer-Aided",
         "trans": [
-            "计算机辅助"
+            "コンピュータ辅助"
         ]
     },
     {
@@ -1286,7 +1286,7 @@
     {
         "name": "Cross-Validated Coefficient of Determination",
         "trans": [
-            "交叉验证的决定系数"
+            "交叉验证的決定系数"
         ]
     },
     {
@@ -1376,13 +1376,13 @@
     {
         "name": "Data Pre-Processing",
         "trans": [
-            "数据预处理"
+            "数据预処理"
         ]
     },
     {
         "name": "Data Processing",
         "trans": [
-            "数据处理"
+            "数据処理"
         ]
     },
     {
@@ -1400,13 +1400,13 @@
     {
         "name": "Data Representation",
         "trans": [
-            "数据表示"
+            "数据表す"
         ]
     },
     {
         "name": "Data Selection",
         "trans": [
-            "数据选择"
+            "数据選択"
         ]
     },
     {
@@ -1502,7 +1502,7 @@
     {
         "name": "DFT Calculations",
         "trans": [
-            "DFT计算"
+            "DFT計算"
         ]
     },
     {
@@ -1628,7 +1628,7 @@
     {
         "name": "Ethical Considerations",
         "trans": [
-            "道德考虑"
+            "道德検討"
         ]
     },
     {
@@ -1664,7 +1664,7 @@
     {
         "name": "Expected Reduction In Distortion",
         "trans": [
-            "符合预期的失真减少"
+            "符合预期的失真減らす"
         ]
     },
     {
@@ -1682,7 +1682,7 @@
     {
         "name": "Extended-Connectivity Circular Fingerprint",
         "trans": [
-            "扩展连接环形指纹"
+            "扩展接続环形指纹"
         ]
     },
     {
@@ -1724,7 +1724,7 @@
     {
         "name": "Fchl Representation",
         "trans": [
-            "Fchl 表示"
+            "Fchl 表す"
         ]
     },
     {
@@ -1928,7 +1928,7 @@
     {
         "name": "Graph-Based Representation",
         "trans": [
-            "基于图的表示"
+            "基于图的表す"
         ]
     },
     {
@@ -1940,7 +1940,7 @@
     {
         "name": "Graphics Processing Units",
         "trans": [
-            "图形处理器"
+            "图形処理器"
         ]
     },
     {
@@ -2168,7 +2168,7 @@
     {
         "name": "Interpretability",
         "trans": [
-            "可解释性"
+            "可解釈性"
         ]
     },
     {
@@ -2192,7 +2192,7 @@
     {
         "name": "Joint Distribution",
         "trans": [
-            "联合分布"
+            "連合分布"
         ]
     },
     {
@@ -2288,7 +2288,7 @@
     {
         "name": "Language Processing",
         "trans": [
-            "语言处理"
+            "语言処理"
         ]
     },
     {
@@ -2330,7 +2330,7 @@
     {
         "name": "Least Square Support Vector Machine",
         "trans": [
-            "最小二乘支持向量机"
+            "最小二乘支援向量机"
         ]
     },
     {
@@ -2432,7 +2432,7 @@
     {
         "name": "Maximum Likelihood Procedures",
         "trans": [
-            "最大似然估计法"
+            "最大似然推定法"
         ]
     },
     {
@@ -2450,7 +2450,7 @@
     {
         "name": "Mechanical Sympathy",
         "trans": [
-            "机械同感，软硬件协同编程"
+            "机械同感、软硬件协同编程"
         ]
     },
     {
@@ -2558,7 +2558,7 @@
     {
         "name": "Model Training",
         "trans": [
-            "模型训练"
+            "模型訓練"
         ]
     },
     {
@@ -2618,13 +2618,13 @@
     {
         "name": "Multi-Agent Control System",
         "trans": [
-            "多智能体控制系统"
+            "多智能体制御系统"
         ]
     },
     {
         "name": "Multi-Core Desktop Computer",
         "trans": [
-            "多核台式计算机"
+            "多核台式コンピュータ"
         ]
     },
     {
@@ -2642,13 +2642,13 @@
     {
         "name": "Multi-Objective Genetic Algorithm",
         "trans": [
-            "多目标遗传算法"
+            "多目標遗传算法"
         ]
     },
     {
         "name": "Multi-Objective Optimization",
         "trans": [
-            "多目标优化"
+            "多目標优化"
         ]
     },
     {
@@ -2888,7 +2888,7 @@
     {
         "name": "Random Selection",
         "trans": [
-            "随机选择"
+            "随机選択"
         ]
     },
     {
@@ -2930,13 +2930,13 @@
     {
         "name": "Version Control",
         "trans": [
-            "版本控制"
+            "版本制御"
         ]
     },
     {
         "name": "Workflow",
         "trans": [
-            "工作流"
+            "仕事流"
         ]
     },
     {

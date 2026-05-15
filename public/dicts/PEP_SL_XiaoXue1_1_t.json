@@ -275,7 +275,7 @@
     {
         "name": "many",
         "trans": [
-            "多的，许多的"
+            "多的、许多的"
         ],
         "usphone": "ˈmɛni",
         "ukphone": "ˈmɛni"
@@ -402,7 +402,7 @@
     {
         "name": "like",
         "trans": [
-            "喜欢，喜爱"
+            "喜欢、喜爱"
         ],
         "usphone": "laɪk",
         "ukphone": "laɪk"
@@ -410,7 +410,7 @@
     {
         "name": "yes",
         "trans": [
-            "是，是的"
+            "是、是的"
         ],
         "usphone": "jɛs",
         "ukphone": "jɛs"
@@ -418,7 +418,7 @@
     {
         "name": "no",
         "trans": [
-            "不，不是"
+            "不、不是"
         ],
         "usphone": "noʊ",
         "ukphone": "nəʊ"

@@ -185,7 +185,7 @@ const MobilePage: React.FC = () => {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 rounded-full bg-gray-900 px-10 py-5 text-lg font-semibold text-white shadow-xl transition-all duration-300 hover:-translate-y-1 hover:bg-gray-800 hover:shadow-2xl"
             >
-              <span>立即开始</span>
+              <span>今すぐ始める</span>
               <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
               </svg>
@@ -460,7 +460,7 @@ const MobilePage: React.FC = () => {
                   </div>
                   <h3 className="mb-3 text-lg font-semibold text-gray-900 sm:text-xl">多平台无缝体验</h3>
                   <p className="text-sm leading-relaxed text-gray-600 sm:text-base">
-                    支持网页版和 VSCode 插件版本，随时随地开始练习。还提供了便捷的快速部署方案，满足不同用户的使用需求。
+                    支持网页版和 VSCode 插件版本，いつでもどこでも練習を始められます。还提供了便捷的快速部署方案，满足不同用户的使用需求。
                   </p>
                 </div>
               </div>
@@ -1110,10 +1110,10 @@ const MobilePage: React.FC = () => {
           </div>
           <div className="relative z-10 flex flex-col items-center justify-center px-6 text-center">
             <h2 className="mb-8 text-5xl font-bold leading-tight tracking-tight text-white lg:text-6xl xl:text-7xl">
-              立即开始<span className="text-indigo-300">体验</span>
+              今すぐ<span className="text-indigo-300">体験</span>を始める
             </h2>
             <p className="mb-12 max-w-4xl text-xl font-light leading-relaxed text-white/80 lg:text-2xl">
-              开始你的英语学习之旅，让每一次打字都成为进步
+              英語学習の旅を始めましょう。一回一回のタイピングが進歩につながります
             </p>
             <div className="flex flex-col items-center gap-4 sm:flex-row">
               <a
@@ -1122,7 +1122,7 @@ const MobilePage: React.FC = () => {
                 rel="noopener noreferrer"
                 className="hover:shadow-3xl group relative overflow-hidden rounded-full bg-white px-12 py-5 text-xl font-semibold text-gray-900 shadow-2xl transition-all duration-300 hover:-translate-y-1 hover:scale-105"
               >
-                <span className="relative z-10">开始学习 →</span>
+                <span className="relative z-10">学習を始める →</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-gray-100 to-gray-50 opacity-0 transition-opacity duration-300 group-hover:opacity-100"></div>
               </a>
               <div className="flex items-center gap-2 text-sm font-light text-white/60 lg:hidden">

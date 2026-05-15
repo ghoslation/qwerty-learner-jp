@@ -1,7 +1,7 @@
 [
     {
         "name": "compose",
-        "trans": ["构成"]
+        "trans": ["構成"]
     },
     {
         "name": "trace",
@@ -93,7 +93,7 @@
     },
     {
         "name": "injury",
-        "trans": ["伤害"]
+        "trans": ["傷つける"]
     },
     {
         "name": "corporate",
@@ -177,7 +177,7 @@
     },
     {
         "name": "fade",
-        "trans": ["逐渐消失"]
+        "trans": ["逐渐消える"]
     },
     {
         "name": "pirate",

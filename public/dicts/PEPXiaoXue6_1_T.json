@@ -146,7 +146,7 @@
     {
         "name": "down",
         "trans": [
-            "减少"
+            "減らす"
         ],
         "usphone": "daʊn",
         "ukphone": "daʊn"
@@ -594,7 +594,7 @@
     {
         "name": "shall",
         "trans": [
-            "表示征求意见"
+            "表す征求意見"
         ],
         "usphone": "ʃəl",
         "ukphone": "ʃæl; ʃ(ə)l"
@@ -730,7 +730,7 @@
     {
         "name": "stay",
         "trans": [
-            "保持"
+            "維持"
         ],
         "usphone": "ste",
         "ukphone": "steɪ"

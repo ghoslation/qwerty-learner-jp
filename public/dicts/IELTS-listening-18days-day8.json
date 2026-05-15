@@ -44,7 +44,7 @@
         "trans": ["n. 商品"]
     },
     {
-        "trans": ["v. 拒绝"]
+        "trans": ["v. 拒否"]
     },
     {
         "name": "belonging",
@@ -84,7 +84,7 @@
     },
     {
         "name": "organization",
-        "trans": ["n. 组织"]
+        "trans": ["n. 組織"]
     },
     {
         "name": "community",
@@ -104,7 +104,7 @@
     },
     {
         "name": "control",
-        "trans": ["v. 控制"]
+        "trans": ["v. 制御"]
     },
     {
         "name": "reward",
@@ -112,7 +112,7 @@
     },
     {
         "name": "competitive",
-        "trans": ["adj. 竞争的"]
+        "trans": ["adj. 競争的"]
     },
     {
         "name": "waste",
@@ -120,7 +120,7 @@
     },
     {
         "name": "reduce",
-        "trans": ["v. 减少"]
+        "trans": ["v. 減らす"]
     },
     {
         "name": "improvement",
@@ -172,7 +172,7 @@
     },
     {
         "name": "occur",
-        "trans": ["v. 发生"]
+        "trans": ["v. 発生"]
     },
     {
         "name": "brushfire",
@@ -256,7 +256,7 @@
     },
     {
         "name": "alter",
-        "trans": ["v. 改变"]
+        "trans": ["v. 変える"]
     },
     {
         "name": "smooth",

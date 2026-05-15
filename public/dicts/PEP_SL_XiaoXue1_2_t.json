@@ -10,7 +10,7 @@
 {
     "name": "desk",
     "trans": [
-        "书桌，写字台"
+        "书桌、写字台"
     ],
     "usphone": "dɛsk",
     "ukphone": "dɛsk"
@@ -34,7 +34,7 @@
 {
     "name": "under",
     "trans": [
-        "在⋯⋯下面 ；在⋯⋯下方"
+        "在⋯⋯下面 ; 在⋯⋯下方"
     ],
     "usphone": "ˈʌndər",
     "ukphone": "ˈʌndə"
@@ -58,7 +58,7 @@
 {
     "name": "the",
     "trans": [
-        "放在名词前，特指人、事或物"
+        "放在名词前、特指人、事或物"
     ],
     "usphone": "ðə",
     "ukphone": "ðiː"
@@ -82,7 +82,7 @@
 {
     "name": "door",
     "trans": [
-        "门 ；出入口"
+        "门 ; 出入口"
     ],
     "usphone": "dɔr",
     "ukphone": "dɔː"
@@ -90,7 +90,7 @@
 {
     "name": "box",
     "trans": [
-        "箱子 ；盒子"
+        "箱子 ; 盒子"
     ],
     "usphone": "bɑks",
     "ukphone": "bɒks"
@@ -98,7 +98,7 @@
 {
     "name": "near",
     "trans": [
-        "靠近，接近"
+        "靠近、近づく"
     ],
     "usphone": "nɪr",
     "ukphone": "nɪə"
@@ -130,7 +130,7 @@
 {
     "name": "doll",
     "trans": [
-        "玩偶，玩具娃娃"
+        "玩偶、玩具娃娃"
     ],
     "usphone": "dɑl",
     "ukphone": "dɒl"
@@ -138,7 +138,7 @@
 {
     "name": "train",
     "trans": [
-        "列车，火车"
+        "列车、火车"
     ],
     "usphone": "treɪn",
     "ukphone": "treɪn"
@@ -146,7 +146,7 @@
 {
     "name": "car",
     "trans": [
-        "小汽车，轿车"
+        "小汽车、轿车"
     ],
     "usphone": "kɑr",
     "ukphone": "kɑːr"
@@ -154,7 +154,7 @@
 {
     "name": "bear",
     "trans": [
-        "玩具熊 ；熊"
+        "玩具熊 ; 熊"
     ],
     "usphone": "bɛr",
     "ukphone": "bɛə"
@@ -162,7 +162,7 @@
 {
     "name": "can",
     "trans": [
-        "可以 ；能够"
+        "可以 ; 能够"
     ],
     "usphone": "kæn",
     "ukphone": "kæn"
@@ -178,7 +178,7 @@
 {
     "name": "sorry",
     "trans": [
-        "对不起，抱歉"
+        "对不起、抱歉"
     ],
     "usphone": "ˈsɔri",
     "ukphone": "ˈsɒri"
@@ -186,7 +186,7 @@
 {
     "name": "rice",
     "trans": [
-        "米饭 ；米"
+        "米饭 ; 米"
     ],
     "usphone": "raɪs",
     "ukphone": "raɪs"
@@ -210,7 +210,7 @@
 {
     "name": "fish",
     "trans": [
-        "鱼肉 ；鱼"
+        "鱼肉 ; 鱼"
     ],
     "usphone": "fɪʃ",
     "ukphone": "fɪʃ"
@@ -218,7 +218,7 @@
 {
     "name": "chicken",
     "trans": [
-        "鸡肉 ；鸡"
+        "鸡肉 ; 鸡"
     ],
     "usphone": "ˈtʃɪkən",
     "ukphone": "ˈtʃɪkɪn"
@@ -242,7 +242,7 @@
 {
     "name": "want",
     "trans": [
-        "要 ；想要"
+        "要 ; 想要"
     ],
     "usphone": "wɑnt",
     "ukphone": "wɒnt"
@@ -258,7 +258,7 @@
 {
     "name": "juice",
     "trans": [
-        "果汁 ；蔬菜汁"
+        "果汁 ; 蔬菜汁"
     ],
     "usphone": "dʒus",
     "ukphone": "dʒuːs"
@@ -266,7 +266,7 @@
 {
     "name": "tea",
     "trans": [
-        "茶 ；茶叶"
+        "茶 ; 茶叶"
     ],
     "usphone": "ti",
     "ukphone": "tiː"
@@ -274,7 +274,7 @@
 {
     "name": "milk",
     "trans": [
-        "奶 ；牛奶"
+        "奶 ; 牛奶"
     ],
     "usphone": "mɪlk",
     "ukphone": "mɪlk"
@@ -314,7 +314,7 @@
 {
     "name": "T-shirt",
     "trans": [
-        "T 恤衫；短袖圆领汗衫"
+        "T 恤衫; 短袖圆领汗衫"
     ],
     "usphone": "ˈtiˌʃɜrt",
     "ukphone": "ˈtiːˌʃɜːt"
@@ -330,7 +330,7 @@
 {
     "name": "dress",
     "trans": [
-        "连衣裙 ；套裙"
+        "连衣裙 ; 套裙"
     ],
     "usphone": "drɛs",
     "ukphone": "drɛs"
@@ -354,7 +354,7 @@
 {
     "name": "your",
     "trans": [
-        "你的 ；你们的"
+        "你的 ; 你们的"
     ],
     "usphone": "jʊr",
     "ukphone": "jɔːr"

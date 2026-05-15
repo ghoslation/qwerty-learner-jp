@@ -5,7 +5,7 @@
     },
     {
         "name": "alternative",
-        "trans": ["可供选择的"]
+        "trans": ["可供選択的"]
     },
     {
         "name": "intention",
@@ -125,7 +125,7 @@
     },
     {
         "name": "training",
-        "trans": ["训练"]
+        "trans": ["訓練"]
     },
     {
         "name": "colleague",
@@ -145,11 +145,11 @@
     },
     {
         "name": "damage",
-        "trans": ["损害", "损毁"]
+        "trans": ["損害", "损毁"]
     },
     {
         "name": "checklist",
-        "trans": ["清单", "检查表"]
+        "trans": ["清单", "検査表"]
     },
     {
         "name": "figures",
@@ -173,7 +173,7 @@
     },
     {
         "name": "trade",
-        "trans": ["贸易", "交易"]
+        "trans": ["贸易", "取引"]
     },
     {
         "name": "payment",

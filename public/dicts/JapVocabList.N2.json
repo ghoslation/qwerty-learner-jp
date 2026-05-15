@@ -46,7 +46,7 @@
         "trans": [
             "suspension,interruption,stoppage,ban"
         ],
-        "notation": "停止(ていし)"
+        "notation": "止める(ていし)"
     },
     {
         "name": "oodoori",
@@ -6780,7 +6780,7 @@
         "trans": [
             "getting closer,drawing nearer,approaching"
         ],
-        "notation": "接近(せっきん)"
+        "notation": "近づく(せっきん)"
     },
     {
         "name": "kigae",

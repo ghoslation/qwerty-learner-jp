@@ -34,7 +34,7 @@
     {
         "name": "she",
         "trans": [
-            "她；（指雌性动物）它"
+            "她; （指雌性动物）它"
         ],
         "usphone": "ʃi",
         "ukphone": "ʃiː"
@@ -58,7 +58,7 @@
     {
         "name": "he",
         "trans": [
-            "他；它（指雄性动物）"
+            "他; 它（指雄性动物）"
         ],
         "usphone": "hi",
         "ukphone": "hiː"
@@ -90,7 +90,7 @@
     {
         "name": "girl",
         "trans": [
-            "女孩, 少女, 女仆, (商店等的)女工作人员"
+            "女孩, 少女, 女仆, (商店等的)女仕事人员"
         ],
         "usphone": "ɡɝl",
         "ukphone": "gɜːl"
@@ -98,7 +98,7 @@
     {
         "name": "new",
         "trans": [
-            "新的，新近的；新来的；不熟悉的"
+            "新的、新近的; 新来的; 不熟悉的"
         ],
         "usphone": "nu",
         "ukphone": "njuː"
@@ -106,7 +106,7 @@
     {
         "name": "friend",
         "trans": [
-            "朋友，友人；支持者，同情者"
+            "朋友、友人; 支援者、同情者"
         ],
         "usphone": "frɛnd",
         "ukphone": "frend"
@@ -114,7 +114,7 @@
     {
         "name": "today",
         "trans": [
-            "今天；现在，目前"
+            "今天; 现在、目前"
         ],
         "usphone": "tə'de",
         "ukphone": "tə'deɪ"
@@ -122,7 +122,7 @@
     {
         "name": "father",
         "trans": [
-            "父亲；爸爸"
+            "父亲; 爸爸"
         ],
         "usphone": "'fɑðɚ",
         "ukphone": "'fɑːðə"
@@ -130,7 +130,7 @@
     {
         "name": "dad",
         "trans": [
-            "（口语）爸爸；爹爹"
+            "（口语）爸爸; 爹爹"
         ],
         "usphone": "dæd",
         "ukphone": "dæd"
@@ -154,7 +154,7 @@
     {
         "name": "mother",
         "trans": [
-            "母亲；妈妈"
+            "母亲; 妈妈"
         ],
         "usphone": "'mʌðɚ",
         "ukphone": "'mʌðə"
@@ -162,7 +162,7 @@
     {
         "name": "sister",
         "trans": [
-            "姐；妹"
+            "姐; 妹"
         ],
         "usphone": "'sɪstɚ",
         "ukphone": "'sɪstə"
@@ -170,7 +170,7 @@
     {
         "name": "brother",
         "trans": [
-            "兄；弟"
+            "兄; 弟"
         ],
         "usphone": "'brʌðɚ",
         "ukphone": "'brʌðə"
@@ -210,7 +210,7 @@
     {
         "name": "family",
         "trans": [
-            "家；家庭"
+            "家; 家庭"
         ],
         "usphone": "ˈfæməlɪ",
         "ukphone": "ˈfæməlɪ"
@@ -226,7 +226,7 @@
     {
         "name": "fat",
         "trans": [
-            "胖的；肥的"
+            "胖的; 肥的"
         ],
         "usphone": "fæt",
         "ukphone": "fæt"
@@ -242,7 +242,7 @@
     {
         "name": "short",
         "trans": [
-            "矮的；短的"
+            "矮的; 短的"
         ],
         "usphone": "ʃɔrt",
         "ukphone": "ʃɔːt"
@@ -282,7 +282,7 @@
     {
         "name": "so",
         "trans": [
-            "这么；那么"
+            "这么; 那么"
         ],
         "usphone": "so",
         "ukphone": "səʊ"
@@ -402,7 +402,7 @@
     {
         "name": "box",
         "trans": [
-            "盒；箱"
+            "盒; 箱"
         ],
         "usphone": "bɑks",
         "ukphone": "bɒks"

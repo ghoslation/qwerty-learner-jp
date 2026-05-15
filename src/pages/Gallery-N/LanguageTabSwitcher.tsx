@@ -16,11 +16,11 @@ export type LanguageTabOption = {
 }
 
 const options: LanguageTabOption[] = [
-  { id: 'en', name: '英语', flag: enFlag },
-  { id: 'ja', name: '日语', flag: jpFlag },
-  { id: 'de', name: '德语', flag: deFlag },
-  { id: 'kk', name: '哈萨克语', flag: kkFlag },
-  { id: 'id', name: '印尼语', flag: idFlag },
+  { id: 'en', name: '英語', flag: enFlag },
+  { id: 'ja', name: '日本語', flag: jpFlag },
+  { id: 'de', name: 'ドイツ語', flag: deFlag },
+  { id: 'kk', name: 'カザフ語', flag: kkFlag },
+  { id: 'id', name: 'インドネシア語', flag: idFlag },
   { id: 'code', name: 'Code', flag: codeFlag },
 ]
 

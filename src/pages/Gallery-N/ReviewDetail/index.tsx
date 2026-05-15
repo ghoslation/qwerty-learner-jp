@@ -72,11 +72,11 @@ export function ReviewDetail({ errorData, dict }: { errorData: TErrorWordData[];
         <div className="mt-6 flex gap-10">
           {latestReviewRecord && (
             <Button size="sm" onClick={continueReview}>
-              继续当前进度
+              現在の進捗を続ける
             </Button>
           )}
           <Button size="sm" onClick={startReview}>
-            开始{latestReviewRecord && '新的'}复习
+            {latestReviewRecord ? '新しい' : ''}復習を始める
           </Button>
         </div>
       </div>

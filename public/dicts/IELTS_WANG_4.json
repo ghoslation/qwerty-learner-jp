@@ -18,7 +18,7 @@
     {
         "name": "accessible",
         "trans": [
-            "可接近的"
+            "可近づく的"
         ],
         "usphone": "əkˈsesəbl",
         "ukphone": "əkˈsesəbl"
@@ -50,7 +50,7 @@
     {
         "name": "adequate",
         "trans": [
-            "充足的；令人满 意的"
+            "充足的; 令人满 意的"
         ],
         "usphone": "ˈædɪkwət",
         "ukphone": "ˈædɪkwət"
@@ -58,7 +58,7 @@
     {
         "name": "advanced",
         "trans": [
-            "高级的，先进的"
+            "高级的、先进的"
         ],
         "usphone": "əd'vænst",
         "ukphone": "əd'vænst"
@@ -82,7 +82,7 @@
     {
         "name": "alternative",
         "trans": [
-            "可选择的"
+            "可選択的"
         ],
         "usphone": "ɔːlˈtɜːnətɪv",
         "ukphone": "ɔːlˈtɜːrnətɪv"
@@ -130,7 +130,7 @@
     {
         "name": "angry",
         "trans": [
-            "气愤的，生气的"
+            "气愤的、生气的"
         ],
         "usphone": "ˈæŋɡri",
         "ukphone": "ˈæŋɡri"
@@ -170,7 +170,7 @@
     {
         "name": "ascending",
         "trans": [
-            "上升的"
+            "上昇的"
         ],
         "usphone": "ə'sɛndɪŋ",
         "ukphone": "ə'sendiŋ"
@@ -202,7 +202,7 @@
     {
         "name": "available",
         "trans": [
-            "可获得的，有时间的"
+            "可得る的、有時間的"
         ],
         "usphone": "əˈveɪləbl",
         "ukphone": "əˈveɪləbl"
@@ -218,7 +218,7 @@
     {
         "name": "awful",
         "trans": [
-            "可怕的"
+            "恐ろしい"
         ],
         "usphone": "ˈɔːfl",
         "ukphone": "ˈɔːfl"
@@ -226,7 +226,7 @@
     {
         "name": "auto",
         "trans": [
-            "自动的"
+            "自動詞的"
         ],
         "usphone": "ˈɔːtəʊ",
         "ukphone": "ˈɔːtoʊ"
@@ -314,7 +314,7 @@
     {
         "name": "calculating",
         "trans": [
-            "计算的"
+            "計算的"
         ],
         "usphone": "ˈkælkjuleɪtɪŋ",
         "ukphone": "ˈkælkjuleɪtɪŋ"
@@ -450,7 +450,7 @@
     {
         "name": "completed",
         "trans": [
-            "完成的"
+            "完了的"
         ],
         "usphone": "kəmˈpliːtɪd",
         "ukphone": "kəmˈpliːtɪd"
@@ -498,7 +498,7 @@
     {
         "name": "costly",
         "trans": [
-            "昂贵的，费钱的"
+            "昂贵的、费钱的"
         ],
         "usphone": "ˈkɒstli",
         "ukphone": "ˈkɔːstli"
@@ -522,7 +522,7 @@
     {
         "name": "crucial",
         "trans": [
-            "至关重要的，决定性的"
+            "至关重要な、決定性的"
         ],
         "usphone": "ˈkruːʃl",
         "ukphone": "ˈkruːʃl"
@@ -578,7 +578,7 @@
     {
         "name": "dark",
         "trans": [
-            "黑暗的，深色的"
+            "黑暗的、深色的"
         ],
         "usphone": "dɑːk",
         "ukphone": "dɑːrk"
@@ -642,7 +642,7 @@
     {
         "name": "distinct",
         "trans": [
-            "明显的"
+            "明らかな"
         ],
         "usphone": "dɪˈstɪŋkt",
         "ukphone": "dɪˈstɪŋkt"
@@ -650,7 +650,7 @@
     {
         "name": "domestic",
         "trans": [
-            "国内的，家里的，内部的"
+            "国内的、家里的、内部的"
         ],
         "usphone": "dəˈmestɪk",
         "ukphone": "dəˈmestɪk"
@@ -658,7 +658,7 @@
     {
         "name": "dominant",
         "trans": [
-            "最主要的"
+            "最主要な"
         ],
         "usphone": "ˈdɒmɪnənt",
         "ukphone": "ˈdɑːmɪnənt"
@@ -666,7 +666,7 @@
     {
         "name": "eastern",
         "trans": [
-            "东方的，东部的"
+            "东方的、东部的"
         ],
         "usphone": "ˈiːstən",
         "ukphone": "ˈiːstərn"
@@ -722,7 +722,7 @@
     {
         "name": "enormous",
         "trans": [
-            "广泛的，大的"
+            "广泛的、大的"
         ],
         "usphone": "ɪˈnɔːməs",
         "ukphone": "ɪˈnɔːrməs"
@@ -738,7 +738,7 @@
     {
         "name": "environmental",
         "trans": [
-            "环境的"
+            "環境的"
         ],
         "usphone": "ɪnˌvaɪrənˈmentl",
         "ukphone": "ɪnˌvaɪrənˈmentl"
@@ -746,7 +746,7 @@
     {
         "name": "essential",
         "trans": [
-            "基本的"
+            "基本的な"
         ],
         "usphone": "ɪˈsenʃl",
         "ukphone": "ɪˈsenʃl"
@@ -818,7 +818,7 @@
     {
         "name": "fair",
         "trans": [
-            "美丽的；公平的"
+            "美丽的; 公平的"
         ],
         "usphone": "feə",
         "ukphone": "fer"
@@ -826,7 +826,7 @@
     {
         "name": "fake",
         "trans": [
-            "假的，伪造的"
+            "假的、伪造的"
         ],
         "usphone": "feɪk",
         "ukphone": "feɪk"
@@ -866,7 +866,7 @@
     {
         "name": "fashionable",
         "trans": [
-            "流行的，时髦的"
+            "流行的、时髦的"
         ],
         "usphone": "ˈfæʃnəbl",
         "ukphone": "ˈfæʃnəbl"
@@ -954,7 +954,7 @@
     {
         "name": "frequent",
         "trans": [
-            "经常的，频繁的"
+            "经常的、频繁的"
         ],
         "usphone": "ˈfriːkwənt , friˈkwent",
         "ukphone": "ˈfriːkwənt , friˈkwent"
@@ -962,7 +962,7 @@
     {
         "name": "fundamental",
         "trans": [
-            "基本的，基础的"
+            "基本的な、基础的"
         ],
         "usphone": "ˌfʌndəˈmentl",
         "ukphone": "ˌfʌndəˈmentl"
@@ -978,7 +978,7 @@
     {
         "name": "general",
         "trans": [
-            "普通的，笼统的"
+            "普通的、笼统的"
         ],
         "usphone": "ˈdʒenrəl",
         "ukphone": "ˈdʒenrəl"
@@ -1002,7 +1002,7 @@
     {
         "name": "global",
         "trans": [
-            "全球的，整体的"
+            "全球的、整体的"
         ],
         "usphone": "ˈɡləʊbl",
         "ukphone": "ˈɡloʊbl"
@@ -1026,7 +1026,7 @@
     {
         "name": "hazardous",
         "trans": [
-            "冒险的，危险的"
+            "冒险的、危险的"
         ],
         "usphone": "ˈhæzədəs",
         "ukphone": "ˈhæzərdəs"
@@ -1082,7 +1082,7 @@
     {
         "name": "highly-trained",
         "trans": [
-            "高度训练的"
+            "高度訓練的"
         ],
         "usphone": "ˈhaɪliˌtreɪnd",
         "ukphone": "ˈhaɪliˌtreɪnd"
@@ -1098,7 +1098,7 @@
     {
         "name": "least",
         "trans": [
-            "最少的，最小的"
+            "最少的、最小的"
         ],
         "usphone": "liːst",
         "ukphone": "liːst"
@@ -1130,7 +1130,7 @@
     {
         "name": "important",
         "trans": [
-            "重要的"
+            "重要な"
         ],
         "usphone": "ɪmˈpɔːtnt",
         "ukphone": "ɪmˈpɔːrtnt"
@@ -1178,7 +1178,7 @@
     {
         "name": "informative",
         "trans": [
-            "通知的，有信息的"
+            "通知的、有信息的"
         ],
         "usphone": "ɪnˈfɔːmətɪv",
         "ukphone": "ɪnˈfɔːrmətɪv"
@@ -1282,7 +1282,7 @@
     {
         "name": "key",
         "trans": [
-            "重点的，关键的"
+            "重点的、关键的"
         ],
         "usphone": "kiː",
         "ukphone": "kiː"
@@ -1306,7 +1306,7 @@
     {
         "name": "little-known",
         "trans": [
-            "不知名的，无名的"
+            "不知名的、无名的"
         ],
         "usphone": "ˈlɪtəlˌnoʊn",
         "ukphone": "ˈlɪtl̩ˌnəʊn"
@@ -1330,7 +1330,7 @@
     {
         "name": "magical",
         "trans": [
-            "难以想象的，不可思议的"
+            "难以想象的、不可思议的"
         ],
         "usphone": "ˈmædʒɪkl",
         "ukphone": "ˈmædʒɪkl"
@@ -1346,7 +1346,7 @@
     {
         "name": "major",
         "trans": [
-            "主要的"
+            "主要な"
         ],
         "usphone": "ˈmeɪdʒə",
         "ukphone": "ˈmeɪdʒər"
@@ -1402,7 +1402,7 @@
     {
         "name": "military",
         "trans": [
-            "军人的，军队的"
+            "军人的、军队的"
         ],
         "usphone": "ˈmɪlətri",
         "ukphone": "ˈmɪləteri"
@@ -1418,7 +1418,7 @@
     {
         "name": "mobile",
         "trans": [
-            "运动的"
+            "運動的"
         ],
         "usphone": "ˈməʊbaɪl",
         "ukphone": "ˈmoʊbl"
@@ -1466,7 +1466,7 @@
     {
         "name": "neighbouring",
         "trans": [
-            "附近的，临近的"
+            "附近的、临近的"
         ],
         "usphone": "ˈneɪbərɪŋ",
         "ukphone": "ˈneɪbərɪŋ"
@@ -1482,7 +1482,7 @@
     {
         "name": "noble",
         "trans": [
-            "高尚的，贵族的"
+            "高尚的、贵族的"
         ],
         "usphone": "'nobl",
         "ukphone": "'nəʊb(ə)l"
@@ -1530,7 +1530,7 @@
     {
         "name": "occupational",
         "trans": [
-            "职业的"
+            "職業的"
         ],
         "usphone": "ˌɒkjuˈpeɪʃənl",
         "ukphone": "ˌɑːkjuˈpeɪʃənl"
@@ -1554,7 +1554,7 @@
     {
         "name": "optional",
         "trans": [
-            "可选择的"
+            "可選択的"
         ],
         "usphone": "ˈɒpʃənl",
         "ukphone": "ˈɑːpʃənl"
@@ -1634,7 +1634,7 @@
     {
         "name": "physical",
         "trans": [
-            "肉体的；身体的"
+            "肉体的; 身体的"
         ],
         "usphone": "ˈfɪzɪkl",
         "ukphone": "ˈfɪzɪkl"
@@ -1730,7 +1730,7 @@
     {
         "name": "previous",
         "trans": [
-            "以前的，原来的"
+            "以前的、原来的"
         ],
         "usphone": "ˈpriːviəs",
         "ukphone": "ˈpriːviəs"
@@ -1874,7 +1874,7 @@
     {
         "name": "regular",
         "trans": [
-            "定期的；规律的"
+            "定期的; 规律的"
         ],
         "usphone": "ˈreɡjələ",
         "ukphone": "ˈreɡjələr"
@@ -1882,7 +1882,7 @@
     {
         "name": "reinforced",
         "trans": [
-            "加强的"
+            "強化的"
         ],
         "usphone": "ˌriːɪnˈfɔːst",
         "ukphone": "ˌriːɪnˈfɔːrst"
@@ -1906,7 +1906,7 @@
     {
         "name": "reliable",
         "trans": [
-            "可信赖的，可靠的，可依赖的"
+            "可信赖的、可靠的、可依赖的"
         ],
         "usphone": "rɪˈlaɪəbl",
         "ukphone": "rɪˈlaɪəbl"
@@ -1938,7 +1938,7 @@
     {
         "name": "rising",
         "trans": [
-            "上升的"
+            "上昇的"
         ],
         "usphone": "ˈraɪzɪŋ",
         "ukphone": "ˈraɪzɪŋ"
@@ -2106,7 +2106,7 @@
     {
         "name": "sharp",
         "trans": [
-            "锋利的；紧急的"
+            "锋利的; 紧急的"
         ],
         "usphone": "ʃɑːp",
         "ukphone": "ʃɑːrp"
@@ -2226,7 +2226,7 @@
     {
         "name": "spacious",
         "trans": [
-            "宽敞的，宽广的"
+            "宽敞的、宽广的"
         ],
         "usphone": "ˈspeɪʃəs",
         "ukphone": "ˈspeɪʃəs"
@@ -2250,7 +2250,7 @@
     {
         "name": "specialised",
         "trans": [
-            "特别的，专门的"
+            "特别的、专门的"
         ],
         "usphone": "'speʃəlaɪzd",
         "ukphone": "'speʃəlaɪzd"
@@ -2258,7 +2258,7 @@
     {
         "name": "species",
         "trans": [
-            "种类，物种"
+            "種類、物种"
         ],
         "usphone": "ˈspiːʃiːz",
         "ukphone": "ˈspiːʃiːz"
@@ -2298,7 +2298,7 @@
     {
         "name": "stout",
         "trans": [
-            "（形容人）结实 的，强壮的"
+            "（形容人）结实 的、强壮的"
         ],
         "usphone": "staʊt",
         "ukphone": "staʊt"
@@ -2442,7 +2442,7 @@
     {
         "name": "unanimous",
         "trans": [
-            "意见一致的"
+            "意見一致的"
         ],
         "usphone": "juˈnænɪməs",
         "ukphone": "juˈnænɪməs"
@@ -2498,7 +2498,7 @@
     {
         "name": "united",
         "trans": [
-            "联合的"
+            "連合的"
         ],
         "usphone": "jʊ'naɪtɪd",
         "ukphone": "jʊ'naɪtɪd"
@@ -2546,7 +2546,7 @@
     {
         "name": "usual",
         "trans": [
-            "平常的，普通的"
+            "平常的、普通的"
         ],
         "usphone": "ˈjuːʒuəl",
         "ukphone": "ˈjuːʒuəl"
@@ -2562,7 +2562,7 @@
     {
         "name": "violent",
         "trans": [
-            "猛烈的，暴力的"
+            "猛烈的、暴力的"
         ],
         "usphone": "ˈvaɪələnt",
         "ukphone": "ˈvaɪələnt"
@@ -2674,7 +2674,7 @@
     {
         "name": "almost",
         "trans": [
-            "几乎，差不多"
+            "几乎、差不多"
         ],
         "usphone": "ˈɔːlməʊst",
         "ukphone": "ˈɔːlmoʊst"

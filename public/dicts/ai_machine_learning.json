@@ -8,13 +8,13 @@
   {
       "name": "Accept-Reject Sampling Method",
       "trans": [
-          "接受-拒绝抽样法/接受-拒绝采样法"
+          "接受-拒否抽样法/接受-拒否采样法"
       ]
   },
   {
       "name": "Accumulated Error Backpropagation",
       "trans": [
-          "累积误差反向传播"
+          "累积误差反向伝播"
       ]
   },
   {
@@ -122,7 +122,7 @@
   {
       "name": "Area Under ROC Curve",
       "trans": [
-          "AUC（ROC曲线下方面积，度量分类模型好坏的标准）"
+          "AUC（ROC曲线下方面积、度量分类模型好坏的标准）"
       ]
   },
   {
@@ -176,7 +176,7 @@
   {
       "name": "Automatic Differentiation",
       "trans": [
-          "自动微分"
+          "自動詞微分"
       ]
   },
   {
@@ -188,19 +188,19 @@
   {
       "name": "Back Propagation",
       "trans": [
-          "反向传播"
+          "反向伝播"
       ]
   },
   {
       "name": "Back Propagation Algorithm",
       "trans": [
-          "反向传播算法"
+          "反向伝播算法"
       ]
   },
   {
       "name": "Back Propagation Through Time",
       "trans": [
-          "随时间反向传播"
+          "随時間反向伝播"
       ]
   },
   {
@@ -332,7 +332,7 @@
   {
       "name": "Belief Propagation",
       "trans": [
-          "信念传播"
+          "信念伝播"
       ]
   },
   {
@@ -452,7 +452,7 @@
   {
       "name": "Boosting",
       "trans": [
-          "Boosting（一种模型训练加速方式）"
+          "Boosting（一种模型訓練加速方式）"
       ]
   },
   {
@@ -590,7 +590,7 @@
   {
       "name": "Co-Training",
       "trans": [
-          "协同训练"
+          "协同訓練"
       ]
   },
   {
@@ -608,25 +608,25 @@
   {
       "name": "Competitive Learning",
       "trans": [
-          "竞争型学习"
+          "競争型学习"
       ]
   },
   {
       "name": "Comprehensibility",
       "trans": [
-          "可解释性"
+          "可解釈性"
       ]
   },
   {
       "name": "Computation Graph",
       "trans": [
-          "计算图"
+          "計算图"
       ]
   },
   {
       "name": "Computational Learning Theory",
       "trans": [
-          "计算学习理论"
+          "計算学习理论"
       ]
   },
   {
@@ -680,13 +680,13 @@
   {
       "name": "Connection Weight",
       "trans": [
-          "连接权"
+          "接続权"
       ]
   },
   {
       "name": "Connectionism",
       "trans": [
-          "连接主义"
+          "接続主义"
       ]
   },
   {
@@ -1016,7 +1016,7 @@
   {
       "name": "Density Estimation",
       "trans": [
-          "密度估计"
+          "密度推定"
       ]
   },
   {
@@ -1112,7 +1112,7 @@
   {
       "name": "Distributed Representation",
       "trans": [
-          "分布式表示"
+          "分布式表す"
       ]
   },
   {
@@ -1142,7 +1142,7 @@
   {
       "name": "Domain Adaptation",
       "trans": [
-          "领域自适应"
+          "領域自适应"
       ]
   },
   {
@@ -1340,13 +1340,13 @@
   {
       "name": "Error Backpropagation Algorithm",
       "trans": [
-          "误差反向传播算法"
+          "误差反向伝播算法"
       ]
   },
   {
       "name": "Error Backpropagation",
       "trans": [
-          "误差反向传播"
+          "误差反向伝播"
       ]
   },
   {
@@ -1370,7 +1370,7 @@
   {
       "name": "Estimator",
       "trans": [
-          "估计/估计量"
+          "推定/推定量"
       ]
   },
   {
@@ -1472,7 +1472,7 @@
   {
       "name": "Feature Selection",
       "trans": [
-          "特征选择"
+          "特征選択"
       ]
   },
   {
@@ -1532,7 +1532,7 @@
   {
       "name": "Forward Propagation",
       "trans": [
-          "前向传播/正向传播"
+          "前向伝播/正向伝播"
       ]
   },
   {
@@ -1946,7 +1946,7 @@
   {
       "name": "Inductive Logic Programming",
       "trans": [
-          "归纳逻辑程序设计"
+          "归纳逻辑程序設計"
       ]
   },
   {
@@ -2018,7 +2018,7 @@
   {
       "name": "Joint Probability Distribution",
       "trans": [
-          "联合概率分布"
+          "連合概率分布"
       ]
   },
   {
@@ -2264,7 +2264,7 @@
   {
       "name": "Link Function",
       "trans": [
-          "联系函数"
+          "連絡函数"
       ]
   },
   {
@@ -2288,7 +2288,7 @@
   {
       "name": "Local Representation",
       "trans": [
-          "局部式表示/局部式表征"
+          "局部式表す/局部式表征"
       ]
   },
   {
@@ -2336,19 +2336,19 @@
   {
       "name": "Long Short Term Memory",
       "trans": [
-          "长短期记忆"
+          "长短期記憶"
       ]
   },
   {
       "name": "Long Short-Term Memory Network",
       "trans": [
-          "长短期记忆网络"
+          "长短期記憶网络"
       ]
   },
   {
       "name": "Loopy Belief Propagation",
       "trans": [
-          "环状信念传播"
+          "环状信念伝播"
       ]
   },
   {
@@ -2498,7 +2498,7 @@
   {
       "name": "Maximum Likelihood Estimation",
       "trans": [
-          "极大似然估计"
+          "极大似然推定"
       ]
   },
   {
@@ -2534,7 +2534,7 @@
   {
       "name": "Memory Network",
       "trans": [
-          "记忆网络"
+          "記憶网络"
       ]
   },
   {
@@ -2600,7 +2600,7 @@
   {
       "name": "Model Selection",
       "trans": [
-          "模型选择"
+          "模型選択"
       ]
   },
   {
@@ -2780,7 +2780,7 @@
   {
       "name": "Noise-Contrastive Estimation",
       "trans": [
-          "噪声对比估计"
+          "噪声对比推定"
       ]
   },
   {
@@ -2852,7 +2852,7 @@
   {
       "name": "Object Detection",
       "trans": [
-          "目标检测"
+          "目標检测"
       ]
   },
   {
@@ -2894,7 +2894,7 @@
   {
       "name": "One-Dependent Estimator",
       "trans": [
-          "独依赖估计"
+          "独依赖推定"
       ]
   },
   {
@@ -2936,7 +2936,7 @@
   {
       "name": "Out-Of-Bag Estimate",
       "trans": [
-          "包外估计"
+          "包外推定"
       ]
   },
   {
@@ -2984,7 +2984,7 @@
   {
       "name": "Parallel Distributed Processing",
       "trans": [
-          "分布式并行处理"
+          "分布式并行処理"
       ]
   },
   {
@@ -2996,7 +2996,7 @@
   {
       "name": "Parameter Estimation",
       "trans": [
-          "参数估计"
+          "参数推定"
       ]
   },
   {
@@ -3128,7 +3128,7 @@
   {
       "name": "Pre-Training",
       "trans": [
-          "预训练"
+          "预訓練"
       ]
   },
   {
@@ -3356,19 +3356,19 @@
   {
       "name": "Representation",
       "trans": [
-          "表示"
+          "表す"
       ]
   },
   {
       "name": "Representation Learning",
       "trans": [
-          "表示学习"
+          "表す学习"
       ]
   },
   {
       "name": "Representer Theorem",
       "trans": [
-          "表示定理"
+          "表す定理"
       ]
   },
   {
@@ -3392,7 +3392,7 @@
   {
       "name": "Residual Connection",
       "trans": [
-          "残差连接"
+          "残差接続"
       ]
   },
   {
@@ -3482,7 +3482,7 @@
   {
       "name": "Selective Ensemble",
       "trans": [
-          "选择性集成"
+          "選択性集成"
       ]
   },
   {
@@ -3500,13 +3500,13 @@
   {
       "name": "Self-Organizing Map",
       "trans": [
-          "自组织映射网"
+          "自組織映射网"
       ]
   },
   {
       "name": "Self-Training",
       "trans": [
-          "自训练"
+          "自訓練"
       ]
   },
   {
@@ -3542,7 +3542,7 @@
   {
       "name": "Semi-Supervised Support Vector Machine",
       "trans": [
-          "半监督支持向量机"
+          "半监督支援向量机"
       ]
   },
   {
@@ -3674,7 +3674,7 @@
   {
       "name": "Sparse Representation",
       "trans": [
-          "稀疏表示"
+          "稀疏表す"
       ]
   },
   {
@@ -3824,19 +3824,19 @@
   {
       "name": "Support Vector",
       "trans": [
-          "支持向量"
+          "支援向量"
       ]
   },
   {
       "name": "Support Vector Expansion",
       "trans": [
-          "支持向量展式"
+          "支援向量展式"
       ]
   },
   {
       "name": "Support Vector Machine",
       "trans": [
-          "支持向量机"
+          "支援向量机"
       ]
   },
   {
@@ -3866,7 +3866,7 @@
   {
       "name": "Tangent Propagation",
       "trans": [
-          "正切传播"
+          "正切伝播"
       ]
   },
   {
@@ -3920,7 +3920,7 @@
   {
       "name": "Threshold-Moving",
       "trans": [
-          "阈值移动"
+          "阈值移動"
       ]
   },
   {
@@ -3944,13 +3944,13 @@
   {
       "name": "Time Homogenous Markov Chain",
       "trans": [
-          "时间齐次马尔可夫链"
+          "時間齐次马尔可夫链"
       ]
   },
   {
       "name": "Time Step",
       "trans": [
-          "时间步"
+          "時間步"
       ]
   },
   {
@@ -3998,25 +3998,25 @@
   {
       "name": "Training",
       "trans": [
-          "训练"
+          "訓練"
       ]
   },
   {
       "name": "Training Error",
       "trans": [
-          "训练误差"
+          "訓練误差"
       ]
   },
   {
       "name": "Training Sample",
       "trans": [
-          "训练样本"
+          "訓練样本"
       ]
   },
   {
       "name": "Training Set",
       "trans": [
-          "训练集"
+          "訓練集"
       ]
   },
   {
@@ -4142,7 +4142,7 @@
   {
       "name": "Unsupervised Layer-Wise Training",
       "trans": [
-          "无监督逐层训练"
+          "无监督逐层訓練"
       ]
   },
   {
@@ -4196,7 +4196,7 @@
   {
       "name": "Vanishing Gradient Problem",
       "trans": [
-          "梯度消失问题"
+          "梯度消える问题"
       ]
   },
   {

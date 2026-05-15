@@ -33,7 +33,7 @@
     },
     {
         "name": "cultivation",
-        "trans": ["培养", "耕作"]
+        "trans": ["育成", "耕作"]
     },
     {
         "name": "relationship",
@@ -117,7 +117,7 @@
     },
     {
         "name": "training",
-        "trans": ["训练"]
+        "trans": ["訓練"]
     },
     {
         "name": "fear",
@@ -129,11 +129,11 @@
     },
     {
         "name": "competition",
-        "trans": ["竞争"]
+        "trans": ["競争"]
     },
     {
         "name": "conflict",
-        "trans": ["冲突"]
+        "trans": ["衝突"]
     },
     {
         "name": "a sense of community",
@@ -153,7 +153,7 @@
     },
     {
         "name": "completion",
-        "trans": ["完成"]
+        "trans": ["完了"]
     },
     {
         "name": "psychology",
@@ -253,7 +253,7 @@
     },
     {
         "name": "extreme sport",
-        "trans": ["极限运动"]
+        "trans": ["极限運動"]
     },
     {
         "name": "equipment",
@@ -269,7 +269,7 @@
     },
     {
         "name": "restricted",
-        "trans": ["有受限制的"]
+        "trans": ["有受制限的"]
     },
     {
         "name": "confront",
@@ -285,7 +285,7 @@
     },
     {
         "name": "tend to",
-        "trans": ["倾向于"]
+        "trans": ["傾向于"]
     },
     {
         "name": "authority",

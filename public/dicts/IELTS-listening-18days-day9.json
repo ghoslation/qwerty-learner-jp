@@ -33,7 +33,7 @@
     },
     {
         "name": "display",
-        "trans": ["显示"]
+        "trans": ["表す"]
     },
     {
         "name": "TV surveillance",
@@ -161,7 +161,7 @@
     },
     {
         "name": "influential",
-        "trans": ["有影响力的"]
+        "trans": ["有影響力的"]
     },
     {
         "name": "regulation",
@@ -169,7 +169,7 @@
     },
     {
         "name": "certificate",
-        "trans": ["证明…"]
+        "trans": ["証明…"]
     },
     {
         "name": "statement",
@@ -177,7 +177,7 @@
     },
     {
         "name": "calculate",
-        "trans": ["计算"]
+        "trans": ["計算"]
     },
     {
         "name": "assume",
@@ -249,7 +249,7 @@
     },
     {
         "name": "assistance",
-        "trans": ["帮助"]
+        "trans": ["助ける"]
     },
     {
         "name": "ambulance",
@@ -289,7 +289,7 @@
     },
     {
         "name": "illustration",
-        "trans": ["说明", "图解"]
+        "trans": ["説明", "图解"]
     },
     {
         "name": "carer",
@@ -301,6 +301,6 @@
     },
     {
         "name": "career",
-        "trans": ["生涯", "职业"]
+        "trans": ["生涯", "職業"]
     }
 ]

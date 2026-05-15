@@ -105,7 +105,7 @@
   },
   {
     "name": "designed",
-    "trans": ["设计"]
+    "trans": ["設計"]
   },
   {
     "name": "emergency",
@@ -213,7 +213,7 @@
   },
   {
     "name": "sport",
-    "trans": ["运动场"]
+    "trans": ["運動场"]
   },
   {
     "name": "suburban",
@@ -601,7 +601,7 @@
   },
   {
     "name": "movement",
-    "trans": ["移动"]
+    "trans": ["移動"]
   },
   {
     "name": "tonal",
@@ -861,7 +861,7 @@
   },
   {
     "name": "stinger",
-    "trans": ["重音强调"]
+    "trans": ["重音強調"]
   },
   {
     "name": "synthetic",
@@ -933,7 +933,7 @@
   },
   {
     "name": "revolving",
-    "trans": ["旋转门"]
+    "trans": ["回転门"]
   },
   {
     "name": "sliding",
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "automatic",
-    "trans": ["自动化武器"]
+    "trans": ["自動詞化武器"]
   },
   {
     "name": "cannon",
@@ -1269,7 +1269,7 @@
   },
   {
     "name": "escalator",
-    "trans": ["自动扶梯"]
+    "trans": ["自動詞扶梯"]
   },
   {
     "name": "fan",

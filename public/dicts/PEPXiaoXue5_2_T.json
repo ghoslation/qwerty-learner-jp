@@ -18,7 +18,7 @@
     {
         "name": "play sports",
         "trans": [
-            "进行体育运动"
+            "进行体育運動"
         ],
         "usphone": "",
         "ukphone": ""
@@ -26,7 +26,7 @@
     {
         "name": "exercise",
         "trans": [
-            "练习；运动；运用"
+            "练习; 運動; 运用"
         ],
         "usphone": "'ɛksɚsaɪz",
         "ukphone": "'eksəsaɪz"
@@ -114,7 +114,7 @@
     {
         "name": "start",
         "trans": [
-            "开始"
+            "始める"
         ],
         "usphone": "stɑrt",
         "ukphone": "stɑːt"
@@ -178,7 +178,7 @@
     {
         "name": "work",
         "trans": [
-            "工作"
+            "仕事"
         ],
         "usphone": "wɝk",
         "ukphone": "wɜːk"
@@ -218,7 +218,7 @@
     {
         "name": "need",
         "trans": [
-            "需要"
+            "必要"
         ],
         "usphone": "nid",
         "ukphone": "niːd"
@@ -244,8 +244,8 @@
         "trans": [
             "居住"
         ],
-        "usphone": "laɪv；lɪv",
-        "ukphone": "laɪv；lɪv"
+        "usphone": "laɪv; lɪv",
+        "ukphone": "laɪv; lɪv"
     },
     {
         "name": "island",
@@ -610,7 +610,7 @@
     {
         "name": "sports meet",
         "trans": [
-            "运动会"
+            "運動会"
         ],
         "usphone": "",
         "ukphone": ""
@@ -650,7 +650,7 @@
     {
         "name": "contest",
         "trans": [
-            "比赛"
+            "試合"
         ],
         "usphone": "kən'tɛst",
         "ukphone": "'kɒntest"
@@ -1098,7 +1098,7 @@
     {
         "name": "keep",
         "trans": [
-            "保持"
+            "維持"
         ],
         "usphone": "kip",
         "ukphone": "kiːp"
@@ -1114,7 +1114,7 @@
     {
         "name": "keep your desk clean",
         "trans": [
-            "保持课桌干净"
+            "維持课桌干净"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1162,7 +1162,7 @@
     {
         "name": "show",
         "trans": [
-            "指导，引导"
+            "指导、引导"
         ],
         "usphone": "ʃo",
         "ukphone": "ʃəʊ"
@@ -1194,7 +1194,7 @@
     {
         "name": "say",
         "trans": [
-            "说；讲"
+            "说; 讲"
         ],
         "usphone": "se",
         "ukphone": "seɪ"

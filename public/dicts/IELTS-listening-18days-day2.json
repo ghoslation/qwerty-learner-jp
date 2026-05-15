@@ -237,7 +237,7 @@
     },
     {
         "name": "advice",
-        "trans": ["n. 建议"]
+        "trans": ["n. 提案"]
     },
     {
         "name": "museum",
@@ -269,11 +269,11 @@
     },
     {
         "name": "suggestion",
-        "trans": ["n. 建议"]
+        "trans": ["n. 提案"]
     },
     {
         "name": "alternative",
-        "trans": ["adj. 选择性的"]
+        "trans": ["adj. 選択性的"]
     },
     {
         "name": "job agency",
@@ -289,7 +289,7 @@
     },
     {
         "name": "contact",
-        "trans": ["v. 联系"]
+        "trans": ["v. 連絡"]
     },
     {
         "name": "flat",

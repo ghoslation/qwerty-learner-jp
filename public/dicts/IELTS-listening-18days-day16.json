@@ -9,7 +9,7 @@
     },
     {
         "name": "impact",
-        "trans": ["影响"]
+        "trans": ["影響"]
     },
     {
         "name": "sociable",
@@ -105,7 +105,7 @@
     },
     {
         "name": "destruction",
-        "trans": ["破坏"]
+        "trans": ["破壊"]
     },
     {
         "name": "subsidy",
@@ -121,7 +121,7 @@
     },
     {
         "name": "calculator",
-        "trans": ["计算器"]
+        "trans": ["計算器"]
     },
     {
         "name": "caterpillar",
@@ -177,7 +177,7 @@
     },
     {
         "name": "goal",
-        "trans": ["目标"]
+        "trans": ["目標"]
     },
     {
         "name": "suppressing",
@@ -205,7 +205,7 @@
     },
     {
         "name": "reinforce",
-        "trans": ["加强"]
+        "trans": ["強化"]
     },
     {
         "name": "distance",
@@ -217,7 +217,7 @@
     },
     {
         "name": "competitor",
-        "trans": ["竞争者"]
+        "trans": ["競争者"]
     },
     {
         "name": "skyscraper",
@@ -301,7 +301,7 @@
     },
     {
         "name": "boost",
-        "trans": ["促进"]
+        "trans": ["促進"]
     },
     {
         "name": "immigration",

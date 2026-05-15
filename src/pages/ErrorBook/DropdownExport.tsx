@@ -15,7 +15,7 @@ const DropdownExport: FC<DropdownProps> = ({ renderRecords }) => {
 
   const formatTimestamp = (date: any) => {
     const year = date.getFullYear()
-    const month = String(date.getMonth() + 1).padStart(2, '0') // 月份从0开始
+    const month = String(date.getMonth() + 1).padStart(2, '0') // 月は0から始まる
     const day = String(date.getDate()).padStart(2, '0')
     const hours = String(date.getHours()).padStart(2, '0')
     const minutes = String(date.getMinutes()).padStart(2, '0')
@@ -28,7 +28,7 @@ const DropdownExport: FC<DropdownProps> = ({ renderRecords }) => {
     setIsExporting(true)
 
     try {
-      // 获取所有需要的词典数据
+      // 必要なすべての辞書データを取得
       const dictUrls: string[] = []
       renderRecords.forEach((item: any) => {
         const dictInfo = idDictionaryMap[item.dict]
@@ -37,7 +37,7 @@ const DropdownExport: FC<DropdownProps> = ({ renderRecords }) => {
         }
       })
 
-      // 并行获取所有词典数据
+      // すべての辞書データを並列取得
       const dictDataPromises = dictUrls.map(async (url) => {
         try {
           const data = await wordListFetcher(url)
@@ -92,7 +92,7 @@ const DropdownExport: FC<DropdownProps> = ({ renderRecords }) => {
       }
     } catch (error) {
       console.error('Export failed:', error)
-      alert('导出失败，请重试')
+      alert('エクスポートに失敗しました。再試行してください')
     } finally {
       setIsExporting(false)
     }
@@ -103,7 +103,7 @@ const DropdownExport: FC<DropdownProps> = ({ renderRecords }) => {
       <DropdownMenu.Root>
         <DropdownMenu.Trigger asChild>
           <button className="my-btn-primary h-8 shadow transition hover:bg-indigo-600 disabled:opacity-50" disabled={isExporting}>
-            {isExporting ? '导出中...' : '导出'}
+            {isExporting ? 'エクスポート中...' : 'エクスポート'}
           </button>
         </DropdownMenu.Trigger>
         <DropdownMenu.Content className="mt-1 rounded bg-indigo-500 text-white shadow-lg">

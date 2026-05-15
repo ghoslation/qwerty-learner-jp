@@ -61,7 +61,7 @@ export default function LoopWordSwitcher() {
           <Popover.Panel className="absolute left-1/2 z-10 mt-2 flex max-w-max -translate-x-1/2 px-4 ">
             <div className="shadow-upper box-border flex w-60 select-none flex-col items-center justify-center gap-4 rounded-xl bg-white p-4 drop-shadow dark:bg-gray-800">
               <div className="flex w-full  flex-col  items-start gap-2 py-0">
-                <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">选择单词的循环次数</span>
+                <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">単語のループ回数を選択</span>
                 <div className="flex w-full flex-row items-center justify-between">
                   <RadioGroup.Root
                     className="flex w-full flex-col gap-2.5"
@@ -83,7 +83,7 @@ export default function LoopWordSwitcher() {
                           htmlFor={`r${index}`}
                           onClick={() => onChangeLoopTimes(value)}
                         >
-                          {value === Number.MAX_SAFE_INTEGER ? '无限' : value}
+                          {value === Number.MAX_SAFE_INTEGER ? '無限' : value}
                         </label>
                       </div>
                     ))}

@@ -44,7 +44,7 @@ const ResultScreen = () => {
   const isReviewMode = useAtomValue(isReviewModeAtom)
 
   useEffect(() => {
-    // tick a zero timer to calc the stats
+    // 統計計算用にゼロタイマーを tick
     dispatch({ type: TypingStateActionType.TICK_TIMER, addTime: 0 })
   }, [dispatch])
 
@@ -72,7 +72,7 @@ const ResultScreen = () => {
         writeFileXLSX(wb, `${currentDictInfo.name}第${currentChapter + 1}章.xlsx`)
       })
       .catch(() => {
-        console.log('写入 xlsx 模块导入失败')
+        console.log('xlsx モジュールのインポートに失敗しました')
       })
   }, [currentChapter, currentDictInfo.name, state.chapterData])
 
@@ -182,7 +182,7 @@ const ResultScreen = () => {
   useHotkeys(
     'space',
     (e) => {
-      // 火狐浏览器的阻止事件无效，会导致按空格键后 再次输入正确的第一个字母会报错
+      // FirefoxのpreventDefaultが効かず、スペースキー後に正しい最初の文字を入力するとエラーになる
       e.stopPropagation()
       repeatButtonHandler()
     },
@@ -220,15 +220,15 @@ const ResultScreen = () => {
         <div className="flex h-screen items-center justify-center">
           <div className="my-card fixed flex w-[90vw] max-w-6xl flex-col overflow-hidden rounded-3xl bg-white pb-14 pl-10 pr-5 pt-10 shadow-lg dark:bg-gray-800 md:w-4/5 lg:w-3/5">
             <div className="text-center font-sans text-xl font-normal text-gray-900 dark:text-gray-400 md:text-2xl">
-              {`${currentDictInfo.name} ${isReviewMode ? '错题复习' : '第' + (currentChapter + 1) + '章'}`}
+              {`${currentDictInfo.name} ${isReviewMode ? '誤答復習' : '第' + (currentChapter + 1) + '章'}`}
             </div>
             <button className="absolute right-7 top-5" onClick={exitButtonHandler}>
               <IconX className="text-gray-400" />
             </button>
             <div className="mt-10 flex flex-row gap-2 overflow-hidden">
               <div className="flex flex-shrink-0 flex-grow-0 flex-col gap-3 px-4 sm:px-1 md:px-2 lg:px-4">
-                <RemarkRing remark={`${state.timerData.accuracy}%`} caption="正确率" percentage={state.timerData.accuracy} />
-                <RemarkRing remark={timeString} caption="章节耗时" />
+                <RemarkRing remark={`${state.timerData.accuracy}%`} caption="正解率" percentage={state.timerData.accuracy} />
+                <RemarkRing remark={timeString} caption="章の所要時間" />
                 <RemarkRing remark={state.timerData.wpm + ''} caption="WPM" />
               </div>
               <div className="z-10 ml-6 flex-1 overflow-visible rounded-xl bg-indigo-50 dark:bg-gray-700">
@@ -265,7 +265,7 @@ const ResultScreen = () => {
                   }}
                   className="cursor-pointer"
                   type="button"
-                  title="捐赠我们的项目"
+                  title="プロジェクトに寄付"
                 >
                   <IconCoffee fontSize={17} className={`text-gray-500 hover:text-amber-500  focus:outline-none ${styles.imgShake}`} />
                 </button>
@@ -277,7 +277,7 @@ const ResultScreen = () => {
                   }}
                   className="cursor-pointer text-gray-500 dark:text-gray-400"
                   type="button"
-                  title="加入我们的社区"
+                  title="コミュニティに参加"
                 >
                   <IconWechat fontSize={16} className="text-gray-500 hover:text-green-500 focus:outline-none" />
                 </button>
@@ -290,37 +290,37 @@ const ResultScreen = () => {
             <div className="mt-10 flex w-full justify-center gap-5 px-5 text-xl">
               {!isReviewMode && (
                 <>
-                  <Tooltip content="快捷键：shift + enter">
+                  <Tooltip content="ショートカット: Shift + Enter">
                     <button
                       className="my-btn-primary h-12 border-2 border-solid border-gray-300 bg-white text-base text-gray-700 dark:border-gray-700 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-700"
                       type="button"
                       onClick={dictationButtonHandler}
-                      title="默写本章节"
+                      title="この章を書き取り"
                     >
-                      默写本章节
+                      この章を書き取り
                     </button>
                   </Tooltip>
-                  <Tooltip content="快捷键：space">
+                  <Tooltip content="ショートカット: Space">
                     <button
                       className="my-btn-primary h-12 border-2 border-solid border-gray-300 bg-white text-base text-gray-700 dark:border-gray-700 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-700"
                       type="button"
                       onClick={repeatButtonHandler}
-                      title="重复本章节"
+                      title="この章を繰り返す"
                     >
-                      重复本章节
+                      この章を繰り返す
                     </button>
                   </Tooltip>
                 </>
               )}
               {!isLastChapter && !isReviewMode && (
-                <Tooltip content="快捷键：enter">
+                <Tooltip content="ショートカット: Enter">
                   <button
                     className={`{ isLastChapter ? 'cursor-not-allowed opacity-50' : ''} my-btn-primary h-12 text-base font-bold `}
                     type="button"
                     onClick={nextButtonHandler}
-                    title="下一章节"
+                    title="次の章"
                   >
-                    下一章节
+                    次の章
                   </button>
                 </Tooltip>
               )}
@@ -330,9 +330,9 @@ const ResultScreen = () => {
                   className="my-btn-primary h-12 text-base font-bold"
                   type="button"
                   onClick={onNavigateToGallery}
-                  title="练习其他章节"
+                  title="他の章を練習"
                 >
-                  练习其他章节
+                  他の章を練習
                 </button>
               )}
             </div>

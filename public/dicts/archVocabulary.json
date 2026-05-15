@@ -2,7 +2,7 @@
     {
         "name": "Environmental Design",
         "trans": [
-            "环境设计"
+            "環境設計"
         ]
     },
     {
@@ -14,19 +14,19 @@
     {
         "name": "Urban and Regional Planning",
         "trans": [
-            "城市和区域规划 ，社区和区域规划，城市规划"
+            "城市和区域规划 、社区和区域规划、城市规划"
         ]
     },
     {
         "name": "Community and Regional Planning",
         "trans": [
-            "城市和区域规划 ，社区和区域规划，城市规划"
+            "城市和区域规划 、社区和区域规划、城市规划"
         ]
     },
     {
         "name": "city planning",
         "trans": [
-            "城市和区域规划 ，社区和区域规划，城市规划"
+            "城市和区域规划 、社区和区域规划、城市规划"
         ]
     },
     {
@@ -38,7 +38,7 @@
     {
         "name": "Urban Design",
         "trans": [
-            "城市设计"
+            "城市設計"
         ]
     },
     {
@@ -56,7 +56,7 @@
     {
         "name": "Sustainable Architecture and passive solar design",
         "trans": [
-            "可持续建筑与被动式太阳能设计"
+            "可持续建筑与被动式太阳能設計"
         ]
     },
     {
@@ -124,7 +124,7 @@
     {
         "name": "lecturer/senior lecturer",
         "trans": [
-            "讲师 ，高级讲师"
+            "讲师 、高级讲师"
         ]
     },
     {
@@ -160,19 +160,19 @@
     {
         "name": "Graphic Design",
         "trans": [
-            "平面设计"
+            "平面設計"
         ]
     },
     {
         "name": "Industrial Design",
         "trans": [
-            "工业设计"
+            "工业設計"
         ]
     },
     {
         "name": "Interior Design",
         "trans": [
-            "室内设计"
+            "室内設計"
         ]
     },
     {
@@ -190,7 +190,7 @@
     {
         "name": "Urban Design",
         "trans": [
-            "城市设计"
+            "城市設計"
         ]
     },
     {
@@ -218,13 +218,13 @@
     {
         "name": "consultants",
         "trans": [
-            "顾问 ，咨询人员"
+            "顾问 、咨询人员"
         ]
     },
     {
         "name": "profession",
         "trans": [
-            "专业 ，行业"
+            "专业 、行业"
         ],
         "usphone": "prə'fɛʃən",
         "ukphone": "prə'feʃn"
@@ -232,7 +232,7 @@
     {
         "name": "health, safety and welfare",
         "trans": [
-            "幸福 ，福利"
+            "幸福 、福利"
         ]
     },
     {
@@ -252,7 +252,7 @@
     {
         "name": "studio",
         "trans": [
-            "工作室"
+            "仕事室"
         ],
         "usphone": "'studɪo",
         "ukphone": "'stjuːdɪəʊ"
@@ -266,7 +266,7 @@
     {
         "name": "Lighting Designer",
         "trans": [
-            "灯光设计师"
+            "灯光設計师"
         ]
     },
     {
@@ -290,7 +290,7 @@
     {
         "name": "Interior Designer",
         "trans": [
-            "室内设计师"
+            "室内設計师"
         ]
     },
     {
@@ -308,13 +308,13 @@
     {
         "name": "inclusive design",
         "trans": [
-            "包容性设计"
+            "包容性設計"
         ]
     },
     {
         "name": "universal design",
         "trans": [
-            "通用设计"
+            "通用設計"
         ]
     },
     {
@@ -350,7 +350,7 @@
     {
         "name": "environmental planning",
         "trans": [
-            "环境规划"
+            "環境规划"
         ]
     },
     {
@@ -380,7 +380,7 @@
     {
         "name": "historic preservation",
         "trans": [
-            "保护规划"
+            "保護规划"
         ]
     },
     {
@@ -432,7 +432,7 @@
     {
         "name": "regulatory detailed planning",
         "trans": [
-            "控制性详细规划"
+            "制御性详细规划"
         ]
     },
     {
@@ -556,7 +556,7 @@
     {
         "name": "accessible",
         "trans": [
-            "可进入的"
+            "可入る的"
         ],
         "usphone": "ək'sɛsəbl",
         "ukphone": "ək'sesəbl"
@@ -660,7 +660,7 @@
     {
         "name": "historic preservation",
         "trans": [
-            "历史性保护"
+            "历史性保護"
         ]
     },
     {
@@ -748,7 +748,7 @@
     {
         "name": "form, space, and order",
         "trans": [
-            "形式 ，空间和秩序"
+            "形式 、空间和秩序"
         ]
     },
     {
@@ -950,7 +950,7 @@
     {
         "name": "mullion",
         "trans": [
-            "横柜 ，竖柜"
+            "横柜 、竖柜"
         ]
     },
     {
@@ -1346,7 +1346,7 @@
     {
         "name": "sustainability",
         "trans": [
-            "可持续发展"
+            "可持续発展"
         ],
         "usphone": "sə,stenə'bɪlɪti",
         "ukphone": "sə,stenə'bɪlɪti"
@@ -1454,7 +1454,7 @@
     {
         "name": "environmental engineer",
         "trans": [
-            "环境工程师"
+            "環境工程师"
         ]
     },
     {
@@ -1576,19 +1576,19 @@
     {
         "name": "dead load",
         "trans": [
-            "恒载 ；静负荷"
+            "恒载 ; 静负荷"
         ]
     },
     {
         "name": "live load",
         "trans": [
-            "活载荷 ；活负载；动荷"
+            "活载荷 ; 活负载; 动荷"
         ]
     },
     {
         "name": "environmental load",
         "trans": [
-            "环境负载"
+            "環境负载"
         ]
     },
     {
@@ -1798,13 +1798,13 @@
     {
         "name": "water treatment",
         "trans": [
-            "水处理"
+            "水処理"
         ]
     },
     {
         "name": "heating,ventilating,air conditioning(HVAC)",
         "trans": [
-            "采暖 ，通风，空调"
+            "采暖 、通风、空调"
         ]
     },
     {
@@ -1962,7 +1962,7 @@
     {
         "name": "escalator",
         "trans": [
-            "自动扶梯"
+            "自動詞扶梯"
         ],
         "usphone": "'ɛskə'letɚ",
         "ukphone": "'eskəleɪtə"
@@ -2016,7 +2016,7 @@
     {
         "name": "restorative landscape",
         "trans": [
-            "恢复性景观"
+            "回復性景观"
         ]
     },
     {
@@ -2174,7 +2174,7 @@
     {
         "name": "restored",
         "trans": [
-            "恢复修复"
+            "回復修复"
         ],
         "usphone": "ri'stɔ:d",
         "ukphone": "rɪ'stɔːrd"
@@ -2236,7 +2236,7 @@
     {
         "name": "blend with",
         "trans": [
-            "混合 ，融为一体"
+            "混合 、融为一体"
         ]
     },
     {
@@ -2316,7 +2316,7 @@
     {
         "name": "canopy",
         "trans": [
-            "雨棚 ，天棚"
+            "雨棚 、天棚"
         ],
         "usphone": "'kænəpi",
         "ukphone": "'kænəpi"
@@ -2330,7 +2330,7 @@
     {
         "name": "coarse, medium and fine",
         "trans": [
-            "粗糙的 ，中等的，好的"
+            "粗糙的 、中等的、好的"
         ]
     },
     {
@@ -2386,7 +2386,7 @@
     {
         "name": "water infiltration",
         "trans": [
-            "渗水试验"
+            "渗水試験"
         ]
     },
     {
@@ -2422,7 +2422,7 @@
     {
         "name": "commodity",
         "trans": [
-            "有益 ，适用，有价值"
+            "有益 、适用、有价值"
         ],
         "usphone": "kə'mɑdəti",
         "ukphone": "kə'mɑːdəti"
@@ -2438,7 +2438,7 @@
     {
         "name": "delight",
         "trans": [
-            "使 ...快乐，乐趣"
+            "使 ...快乐、乐趣"
         ],
         "usphone": "dɪ'laɪt",
         "ukphone": "dɪ'laɪt"
@@ -2474,13 +2474,13 @@
     {
         "name": "schematic design",
         "trans": [
-            "方案设计"
+            "方案設計"
         ]
     },
     {
         "name": "design development",
         "trans": [
-            "设计深化"
+            "設計深化"
         ]
     },
     {
@@ -2512,7 +2512,7 @@
     {
         "name": "post occupation evaluation",
         "trans": [
-            "使用后评价"
+            "使用后評価"
         ]
     },
     {
@@ -2524,7 +2524,7 @@
     {
         "name": "interaction",
         "trans": [
-            "互动 ，交流"
+            "互动 、交流"
         ]
     },
     {
@@ -2588,7 +2588,7 @@
     {
         "name": "length, breadth, width",
         "trans": [
-            "广度 ，宽度，宽度"
+            "广度 、宽度、宽度"
         ]
     },
     {
@@ -2602,7 +2602,7 @@
     {
         "name": "motion",
         "trans": [
-            "移动"
+            "移動"
         ],
         "usphone": "'moʃən",
         "ukphone": "'mouʃn"
@@ -2648,7 +2648,7 @@
     {
         "name": "four dimension (time and motion)",
         "trans": [
-            "四维 (时间和运动)"
+            "四维 (時間和運動)"
         ]
     },
     {
@@ -2660,7 +2660,7 @@
     {
         "name": "intersection",
         "trans": [
-            "交叉口 ，十字路口"
+            "交叉口 、十字路口"
         ],
         "usphone": ",ɪntɚ'sɛkʃən",
         "ukphone": "ˌɪntər'sekʃn"
@@ -2852,7 +2852,7 @@
     {
         "name": "built environment",
         "trans": [
-            "建成环境"
+            "建成環境"
         ]
     },
     {
@@ -2950,7 +2950,7 @@
     {
         "name": "reinforce",
         "trans": [
-            "加强"
+            "強化"
         ],
         "usphone": ",riɪn'fɔrs",
         "ukphone": "ˌriːɪn'fɔːrs"
@@ -3062,7 +3062,7 @@
     {
         "name": "regulating line",
         "trans": [
-            "控制线"
+            "制御线"
         ]
     },
     {
@@ -3084,7 +3084,7 @@
     {
         "name": "vernacular design",
         "trans": [
-            "乡土设计"
+            "乡土設計"
         ]
     },
     {
@@ -3458,7 +3458,7 @@
     {
         "name": "realm",
         "trans": [
-            "领域"
+            "領域"
         ],
         "usphone": "rɛlm",
         "ukphone": "relm"
@@ -3818,7 +3818,7 @@
     {
         "name": "universal design",
         "trans": [
-            "通用设计"
+            "通用設計"
         ]
     },
     {
@@ -3832,7 +3832,7 @@
     {
         "name": "universal access",
         "trans": [
-            "无障碍设计"
+            "无障碍設計"
         ]
     },
     {
@@ -3980,7 +3980,7 @@
     {
         "name": "historic preservation",
         "trans": [
-            "历史性保护"
+            "历史性保護"
         ]
     },
     {
@@ -4306,7 +4306,7 @@
     {
         "name": "trombe wall",
         "trans": [
-            "龙骨墙 ，特隆布墙"
+            "龙骨墙 、特隆布墙"
         ]
     },
     {
@@ -4320,7 +4320,7 @@
     {
         "name": "parapet wall",
         "trans": [
-            "矮墙 ，女儿墙"
+            "矮墙 、女儿墙"
         ]
     },
     {

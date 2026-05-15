@@ -20,16 +20,16 @@ export const DictChapterButton = () => {
   }
   return (
     <>
-      <Tooltip content="词典切换">
+      <Tooltip content="辞書切替">
         <NavLink
           className="block rounded-lg px-3 py-1 text-lg transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white focus:outline-none dark:text-white dark:text-opacity-60 dark:hover:text-opacity-100"
           to="/gallery"
         >
-          {currentDictInfo.name} {isReviewMode && '错题复习'}
+          {currentDictInfo.name} {isReviewMode && '誤答復習'}
         </NavLink>
       </Tooltip>
       {!isReviewMode && (
-        <Tooltip content="章节切换">
+        <Tooltip content="章切替">
           <Listbox value={currentChapter} onChange={setCurrentChapter}>
             <Listbox.Button
               onKeyDown={handleKeyDown}
