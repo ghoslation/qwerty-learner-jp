@@ -1,10 +1,14 @@
 import DictionaryGroup from './CategoryDicts'
+import { CodeLevelSwitcher } from './CodeLevelSwitcher'
 import DictRequest from './DictRequest'
+import { EnglishLevelSwitcher } from './EnglishLevelSwitcher'
 import { LanguageTabSwitcher } from './LanguageTabSwitcher'
+import { getCodeDictionaryLevel } from './codeLevel'
+import { getEnglishDictionaryLevel } from './englishLevel'
 import Layout from '@/components/Layout'
 import { dictionaries } from '@/resources/dictionary'
 import { currentDictInfoAtom } from '@/store'
-import type { Dictionary, LanguageCategoryType } from '@/typings'
+import type { CodeLevelType, Dictionary, EnglishLevelType, LanguageCategoryType } from '@/typings'
 import groupBy, { groupByDictTags } from '@/utils/groupBy'
 import * as ScrollArea from '@radix-ui/react-scroll-area'
 import { useAtomValue } from 'jotai'
@@ -18,10 +22,14 @@ import IconX from '~icons/tabler/x'
 
 export type GalleryState = {
   currentLanguageTab: LanguageCategoryType
+  currentEnglishLevel: EnglishLevelType
+  currentCodeLevel: CodeLevelType
 }
 
 const initialGalleryState: GalleryState = {
   currentLanguageTab: 'en',
+  currentEnglishLevel: 'elementaryLower',
+  currentCodeLevel: 'kids',
 }
 
 export const GalleryContext = createContext<{
@@ -35,7 +43,13 @@ export default function GalleryPage() {
   const currentDictInfo = useAtomValue(currentDictInfoAtom)
 
   const { groupedByCategoryAndTag } = useMemo(() => {
-    const currentLanguageCategoryDicts = dictionaries.filter((dict) => dict.languageCategory === galleryState.currentLanguageTab)
+    const currentLanguageCategoryDicts = dictionaries.filter((dict) => {
+      if (dict.languageCategory !== galleryState.currentLanguageTab) return false
+      if (galleryState.currentLanguageTab === 'code') return getCodeDictionaryLevel(dict) === galleryState.currentCodeLevel
+      if (galleryState.currentLanguageTab !== 'en') return true
+
+      return getEnglishDictionaryLevel(dict) === galleryState.currentEnglishLevel
+    })
     const groupedByCategory = Object.entries(groupBy(currentLanguageCategoryDicts, (dict) => dict.category))
     const groupedByCategoryAndTag = groupedByCategory.map(
       ([category, dicts]) => [category, groupByDictTags(dicts)] as [string, Record<string, Dictionary[]>],
@@ -44,7 +58,7 @@ export default function GalleryPage() {
     return {
       groupedByCategoryAndTag,
     }
-  }, [galleryState.currentLanguageTab])
+  }, [galleryState.currentCodeLevel, galleryState.currentEnglishLevel, galleryState.currentLanguageTab])
 
   const onBack = useCallback(() => {
     navigate('/')
@@ -56,6 +70,12 @@ export default function GalleryPage() {
     if (currentDictInfo) {
       setGalleryState((state) => {
         state.currentLanguageTab = currentDictInfo.languageCategory
+        if (currentDictInfo.languageCategory === 'en') {
+          state.currentEnglishLevel = getEnglishDictionaryLevel(currentDictInfo)
+        }
+        if (currentDictInfo.languageCategory === 'code') {
+          state.currentCodeLevel = getCodeDictionaryLevel(currentDictInfo)
+        }
       })
     }
   }, [currentDictInfo, setGalleryState])
@@ -67,8 +87,12 @@ export default function GalleryPage() {
           <IconX className="absolute right-20 top-10 mr-2 h-7 w-7 cursor-pointer text-gray-400" onClick={onBack} />
           <div className="mt-20 flex w-full flex-1 flex-col items-center justify-center overflow-y-auto">
             <div className="flex h-full flex-col overflow-y-auto">
-              <div className="flex h-20 w-full items-center justify-between pb-6 pr-20">
-                <LanguageTabSwitcher />
+              <div className="min-h-20 flex w-full items-start justify-between gap-6 pb-6 pr-20">
+                <div className="flex flex-col gap-3">
+                  <LanguageTabSwitcher />
+                  {galleryState.currentLanguageTab === 'en' && <EnglishLevelSwitcher />}
+                  {galleryState.currentLanguageTab === 'code' && <CodeLevelSwitcher />}
+                </div>
                 <DictRequest />
               </div>
               <ScrollArea.Root className="flex-1 overflow-y-auto">

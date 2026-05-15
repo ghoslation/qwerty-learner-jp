@@ -1,1372 +1,1384 @@
 [
-  {
-    "name": "guitar",
-    "usphone": "ɡɪˈtɑːr",
-    "ukphone": "ɡɪˈtɑː(r)",
-    "trans": [
-      "吉他"
-    ]
-  },
-  {
-    "name": "collect",
-    "usphone": "kəˈlekt",
-    "ukphone": "kəˈlekt",
-    "trans": [
-      "收集"
-    ]
-  },
-  {
-    "name": "drawing",
-    "usphone": "ˈdrɔːɪŋ",
-    "ukphone": "ˈdrɔːɪŋ",
-    "trans": [
-      "图画"
-    ]
-  },
-  {
-    "name": "reading",
-    "usphone": "ˈriːdɪŋ",
-    "ukphone": "ˈriːdɪŋ",
-    "trans": [
-      "阅读"
-    ]
-  },
-  {
-    "name": "sewing",
-    "usphone": "ˈsoʊɪŋ",
-    "ukphone": "ˈsəʊɪŋ",
-    "trans": [
-      "缝纫"
-    ]
-  },
-  {
-    "name": "camping",
-    "usphone": "ˈkæmpɪŋ",
-    "ukphone": "ˈkæmpɪŋ",
-    "trans": [
-      "露营"
-    ]
-  },
-  {
-    "name": "fishing",
-    "usphone": "ˈfɪʃɪŋ",
-    "ukphone": "ˈfɪʃɪŋ",
-    "trans": [
-      "钓鱼, 渔业"
-    ]
-  },
-  {
-    "name": "never",
-    "usphone": "ˈnevər",
-    "ukphone": "ˈnevə(r)",
-    "trans": [
-      "从未, 永不, 决不"
-    ]
-  },
-  {
-    "name": "often",
-    "usphone": "ˈɔːfn",
-    "ukphone": "ˈɒfn",
-    "trans": [
-      "常常, 时常"
-    ]
-  },
-  {
-    "name": "sometimes",
-    "usphone": "ˈsʌmtaɪmz",
-    "ukphone": "ˈsʌmtaɪmz",
-    "trans": [
-      "有时, 往往, 时常"
-    ]
-  },
-  {
-    "name": "traveling",
-    "trans": [
-      "旅行"
-    ]
-  },
-  {
-    "name": "writing",
-    "usphone": "ˈraɪtɪŋ",
-    "ukphone": "ˈraɪtɪŋ",
-    "trans": [
-      "书写, 写, 写作"
-    ]
-  },
-  {
-    "name": "cello",
-    "usphone": "ˈtʃeloʊ",
-    "ukphone": "ˈtʃeləʊ",
-    "trans": [
-      "大提琴"
-    ]
-  },
-  {
-    "name": "drums",
-    "trans": [
-      "鼓"
-    ]
-  },
-  {
-    "name": "flute",
-    "usphone": "fluːt",
-    "ukphone": "fluːt",
-    "trans": [
-      "长笛"
-    ]
-  },
-  {
-    "name": "piano",
-    "usphone": "piˈænoʊ",
-    "ukphone": "piˈænəʊ",
-    "trans": [
-      "钢琴"
-    ]
-  },
-  {
-    "name": "saxophone",
-    "usphone": "ˈsæksəfoʊn",
-    "ukphone": "ˈsæksəfəʊn",
-    "trans": [
-      "萨克斯管"
-    ]
-  },
-  {
-    "name": "trumpet",
-    "usphone": "ˈtrʌmpɪt",
-    "ukphone": "ˈtrʌmpɪt",
-    "trans": [
-      "小号"
-    ]
-  },
-  {
-    "name": "violin",
-    "usphone": "ˌvaɪəˈlɪn",
-    "ukphone": "ˌvaɪəˈlɪn",
-    "trans": [
-      "小提琴"
-    ]
-  },
-  {
-    "name": "interest",
-    "usphone": "ˈɪntrəst",
-    "ukphone": "ˈɪntrəst",
-    "trans": [
-      "兴趣, 爱好"
-    ]
-  },
-  {
-    "name": "hobby",
-    "usphone": "ˈhɑːbi",
-    "ukphone": "ˈhɒbi",
-    "trans": [
-      "爱好, 喜好"
-    ]
-  },
-  {
-    "name": "photography",
-    "usphone": "fəˈtɑːɡrəfi",
-    "ukphone": "fəˈtɒɡrəfi",
-    "trans": [
-      "摄影"
-    ]
-  },
-  {
-    "name": "running",
-    "usphone": "ˈrʌnɪŋ",
-    "ukphone": "ˈrʌnɪŋ",
-    "trans": [
-      "赛跑"
-    ]
-  },
-  {
-    "name": "cooking",
-    "usphone": "ˈkʊkɪŋ",
-    "ukphone": "ˈkʊkɪŋ",
-    "trans": [
-      "烹调"
-    ]
-  },
-  {
-    "name": "painting",
-    "usphone": "ˈpeɪntɪŋ",
-    "ukphone": "ˈpeɪntɪŋ",
-    "trans": [
-      "油画"
-    ]
-  },
-  {
-    "name": "always",
-    "usphone": "ˈɔːlweɪz",
-    "ukphone": "ˈɔːlweɪz",
-    "trans": [
-      "总是, 永远"
-    ]
-  },
-  {
-    "name": "usually",
-    "usphone": "ˈjuːʒuəli",
-    "ukphone": "ˈjuːʒuəli",
-    "trans": [
-      "经常, 通常"
-    ]
-  },
-  {
-    "name": "rarely",
-    "usphone": "ˈrerli",
-    "ukphone": "ˈreəli",
-    "trans": [
-      "很少, 难得"
-    ]
-  },
-  {
-    "name": "exhibition",
-    "usphone": "ˌeksɪˈbɪʃn",
-    "ukphone": "ˌeksɪˈbɪʃn",
-    "trans": [
-      "展览"
-    ]
-  },
-  {
-    "name": "festival",
-    "usphone": "ˈfestɪvl",
-    "ukphone": "ˈfestɪvl",
-    "trans": [
-      "节日, 表演"
-    ]
-  },
-  {
-    "name": "address",
-    "usphone": "əˈdres",
-    "ukphone": "əˈdres",
-    "trans": [
-      "地址"
-    ]
-  },
-  {
-    "name": "east",
-    "usphone": "iːst",
-    "ukphone": "iːst",
-    "trans": [
-      "东部, 东方, 东面"
-    ]
-  },
-  {
-    "name": "ferry",
-    "usphone": "ˈferi",
-    "ukphone": "ˈferi",
-    "trans": [
-      "渡船"
-    ]
-  },
-  {
-    "name": "north",
-    "usphone": "nɔːrθ",
-    "ukphone": "nɔːθ",
-    "trans": [
-      "北, 北方"
-    ]
-  },
-  {
-    "name": "south",
-    "usphone": "saʊθ",
-    "ukphone": "saʊθ",
-    "trans": [
-      "南方, 南部"
-    ]
-  },
-  {
-    "name": "streetcar",
-    "usphone": "ˈstriːtkɑːr",
-    "ukphone": "ˈstriːtkɑː(r)",
-    "trans": [
-      "电车"
-    ]
-  },
-  {
-    "name": "west",
-    "usphone": "west",
-    "ukphone": "west",
-    "trans": [
-      "西方, 西部"
-    ]
-  },
-  {
-    "name": "beach",
-    "usphone": "biːtʃ",
-    "ukphone": "biːtʃ",
-    "trans": [
-      "海滩"
-    ]
-  },
-  {
-    "name": "coast",
-    "usphone": "koʊst",
-    "ukphone": "kəʊst",
-    "trans": [
-      "海岸"
-    ]
-  },
-  {
-    "name": "desert",
-    "usphone": "ˈdezərt",
-    "ukphone": "ˈdezət",
-    "trans": [
-      "戈壁, 沙漠"
-    ]
-  },
-  {
-    "name": "forest",
-    "usphone": "ˈfɔːrɪst",
-    "ukphone": "ˈfɒrɪst",
-    "trans": [
-      "森林"
-    ]
-  },
-  {
-    "name": "hill",
-    "usphone": "hɪl",
-    "ukphone": "hɪl",
-    "trans": [
-      "小山, 山丘"
-    ]
-  },
-  {
-    "name": "hometown",
-    "usphone": "ˈhoʊmtaʊn",
-    "ukphone": "ˈhəʊmtaʊn",
-    "trans": [
-      "家乡"
-    ]
-  },
-  {
-    "name": "lake",
-    "usphone": "leɪk",
-    "ukphone": "leɪk",
-    "trans": [
-      "湖, 湖水"
-    ]
-  },
-  {
-    "name": "mountain",
-    "usphone": "ˈmaʊntn",
-    "ukphone": "ˈmaʊntən",
-    "trans": [
-      "山, 山脉"
-    ]
-  },
-  {
-    "name": "ocean",
-    "usphone": "ˈoʊʃn",
-    "ukphone": "ˈəʊʃn",
-    "trans": [
-      "海洋, 海"
-    ]
-  },
-  {
-    "name": "river",
-    "usphone": "ˈrɪvər",
-    "ukphone": "ˈrɪvə(r)",
-    "trans": [
-      "河, 河流, 江"
-    ]
-  },
-  {
-    "name": "valley",
-    "usphone": "ˈvæli",
-    "ukphone": "ˈvæli",
-    "trans": [
-      "山谷, 溪谷, 流域"
-    ]
-  },
-  {
-    "name": "between",
-    "usphone": "bɪˈtwiːn",
-    "ukphone": "bɪˈtwiːn",
-    "trans": [
-      "在......中间, 在 之间"
-    ]
-  },
-  {
-    "name": "behind",
-    "usphone": "bɪˈhaɪnd",
-    "ukphone": "bɪˈhaɪnd",
-    "trans": [
-      "在 后面"
-    ]
-  },
-  {
-    "name": "across",
-    "usphone": "əˈkrɔːs",
-    "ukphone": "əˈkrɒs",
-    "trans": [
-      "穿过, 走过"
-    ]
-  },
-  {
-    "name": "right",
-    "usphone": "raɪt",
-    "ukphone": "raɪt",
-    "trans": [
-      "右边地"
-    ]
-  },
-  {
-    "name": "straight",
-    "usphone": "streɪt",
-    "ukphone": "streɪt",
-    "trans": [
-      "笔直的"
-    ]
-  },
-  {
-    "name": "correct",
-    "usphone": "kəˈrekt",
-    "ukphone": "kəˈrekt",
-    "trans": [
-      "正确的, 准确的"
-    ]
-  },
-  {
-    "name": "right",
-    "usphone": "raɪt",
-    "ukphone": "raɪt",
-    "trans": [
-      "正确的, 对的"
-    ]
-  },
-  {
-    "name": "far",
-    "usphone": "fɑːr",
-    "ukphone": "fɑː(r)",
-    "trans": [
-      "很远地"
-    ]
-  },
-  {
-    "name": "mile",
-    "usphone": "maɪl",
-    "ukphone": "maɪl",
-    "trans": [
-      "英里"
-    ]
-  },
-  {
-    "name": "perfect",
-    "usphone": "ˈpɜːrfɪkt",
-    "ukphone": "ˈpɜːfɪkt",
-    "trans": [
-      "完美的, 无暇的"
-    ]
-  },
-  {
-    "name": "rate",
-    "usphone": "reɪt",
-    "ukphone": "reɪt",
-    "trans": [
-      "速率, 速度"
-    ]
-  },
-  {
-    "name": "reasonable",
-    "usphone": "ˈriːznəbl",
-    "ukphone": "ˈriːznəbl",
-    "trans": [
-      "合理的, 适当的"
-    ]
-  },
-  {
-    "name": "recommend",
-    "usphone": "ˌrekəˈmend",
-    "ukphone": "ˌrekəˈmend",
-    "trans": [
-      "提案, 推荐"
-    ]
-  },
-  {
-    "name": "reservation",
-    "usphone": "ˌrezərˈveɪʃn",
-    "ukphone": "ˌrezəˈveɪʃn",
-    "trans": [
-      "预订"
-    ]
-  },
-  {
-    "name": "reserve",
-    "usphone": "rɪˈzɜːrv",
-    "ukphone": "rɪˈzɜːv",
-    "trans": [
-      "预约"
-    ]
-  },
-  {
-    "name": "actually",
-    "usphone": "ˈæktʃuəli",
-    "ukphone": "ˈæktʃuəli",
-    "trans": [
-      "事实上, 到底"
-    ]
-  },
-  {
-    "name": "clerk",
-    "usphone": "klɜːrk",
-    "ukphone": "klɑːk",
-    "trans": [
-      "记账员"
-    ]
-  },
-  {
-    "name": "elevator",
-    "usphone": "ˈelɪveɪtər",
-    "ukphone": "ˈelɪveɪtə(r)",
-    "trans": [
-      "电梯"
-    ]
-  },
-  {
-    "name": "lobby",
-    "usphone": "ˈlɑːbi",
-    "ukphone": "ˈlɒbi",
-    "trans": [
-      "门厅,(入口的)厅堂, 前厅"
-    ]
-  },
-  {
-    "name": "luggage",
-    "usphone": "ˈlʌɡɪdʒ",
-    "ukphone": "ˈlʌɡɪdʒ",
-    "trans": [
-      "行李"
-    ]
-  },
-  {
-    "name": "passport",
-    "usphone": "ˈpæspɔːrt",
-    "ukphone": "ˈpɑːspɔːt",
-    "trans": [
-      "护照"
-    ]
-  },
-  {
-    "name": "suitcase",
-    "usphone": "ˈsuːtkeɪs",
-    "ukphone": "ˈsuːtkeɪs",
-    "trans": [
-      "手提箱"
-    ]
-  },
-  {
-    "name": "umbrella",
-    "usphone": "ʌmˈbrelə",
-    "ukphone": "ʌmˈbrelə",
-    "trans": [
-      "雨伞, 伞状物"
-    ]
-  },
-  {
-    "name": "hotel",
-    "usphone": "hoʊˈtel",
-    "ukphone": "həʊˈtel",
-    "trans": [
-      "宾馆, 旅馆, 旅店"
-    ]
-  },
-  {
-    "name": "bill",
-    "usphone": "bɪl",
-    "ukphone": "bɪl",
-    "trans": [
-      "账单"
-    ]
-  },
-  {
-    "name": "high",
-    "usphone": "haɪ",
-    "ukphone": "haɪ",
-    "trans": [
-      "高的, 比一般高的"
-    ]
-  },
-  {
-    "name": "pay",
-    "usphone": "peɪ",
-    "ukphone": "peɪ",
-    "trans": [
-      "支付"
-    ]
-  },
-  {
-    "name": "receipt",
-    "usphone": "rɪˈsiːt",
-    "ukphone": "rɪˈsiːt",
-    "trans": [
-      "收据"
-    ]
-  },
-  {
-    "name": "review",
-    "usphone": "rɪˈvjuː",
-    "ukphone": "rɪˈvjuː",
-    "trans": [
-      "検査, 评审"
-    ]
-  },
-  {
-    "name": "downtown",
-    "usphone": "ˌdaʊnˈtaʊn",
-    "ukphone": "ˌdaʊnˈtaʊn",
-    "trans": [
-      "市中心"
-    ]
-  },
-  {
-    "name": "around",
-    "usphone": "əˈraʊnd",
-    "ukphone": "əˈraʊnd",
-    "trans": [
-      "大约"
-    ]
-  },
-  {
-    "name": "pretty",
-    "usphone": "ˈprɪti",
-    "ukphone": "ˈprɪti",
-    "trans": [
-      "很, 极, 非常に"
-    ]
-  },
-  {
-    "name": "close",
-    "usphone": "kloʊs",
-    "ukphone": "kləʊs",
-    "trans": [
-      "近的; 近づく的"
-    ]
-  },
-  {
-    "name": "expensive",
-    "usphone": "ɪkˈspensɪv",
-    "ukphone": "ɪkˈspensɪv",
-    "trans": [
-      "贵的"
-    ]
-  },
-  {
-    "name": "comfortable",
-    "usphone": "ˈkʌmftəbl",
-    "ukphone": "ˈkʌmftəbl",
-    "trans": [
-      "舒适的"
-    ]
-  },
-  {
-    "name": "key",
-    "usphone": "kiː",
-    "ukphone": "kiː",
-    "trans": [
-      "钥匙"
-    ]
-  },
-  {
-    "name": "card",
-    "usphone": "kɑːrd",
-    "ukphone": "kɑːd",
-    "trans": [
-      "名片"
-    ]
-  },
-  {
-    "name": "amount",
-    "usphone": "əˈmaʊnt",
-    "ukphone": "əˈmaʊnt",
-    "trans": [
-      "总额"
-    ]
-  },
-  {
-    "name": "cake",
-    "usphone": "keɪk",
-    "ukphone": "keɪk",
-    "trans": [
-      "蛋糕, 糕饼"
-    ]
-  },
-  {
-    "name": "gift",
-    "usphone": "ɡɪft",
-    "ukphone": "ɡɪft",
-    "trans": [
-      "礼物"
-    ]
-  },
-  {
-    "name": "snack",
-    "usphone": "snæk",
-    "ukphone": "snæk",
-    "trans": [
-      "小吃"
-    ]
-  },
-  {
-    "name": "soda",
-    "usphone": "ˈsoʊdə",
-    "ukphone": "ˈsəʊdə",
-    "trans": [
-      "汽水"
-    ]
-  },
-  {
-    "name": "wine",
-    "usphone": "waɪn",
-    "ukphone": "waɪn",
-    "trans": [
-      "葡萄酒, 果酒, 酒"
-    ]
-  },
-  {
-    "name": "amazing",
-    "usphone": "əˈmeɪzɪŋ",
-    "ukphone": "əˈmeɪzɪŋ",
-    "trans": [
-      "令人惊奇的"
-    ]
-  },
-  {
-    "name": "definitely",
-    "usphone": "ˈdefɪnətli",
-    "ukphone": "ˈdefɪnətli",
-    "trans": [
-      "肯定地"
-    ]
-  },
-  {
-    "name": "entertaining",
-    "usphone": "ˌentərˈteɪnɪŋ",
-    "ukphone": "ˌentəˈteɪnɪŋ",
-    "trans": [
-      "令人愉快的"
-    ]
-  },
-  {
-    "name": "exactly",
-    "usphone": "ɪɡˈzæktli",
-    "ukphone": "ɪɡˈzæktli",
-    "trans": [
-      "确切地、准确地"
-    ]
-  },
-  {
-    "name": "different",
-    "usphone": "ˈdɪfrənt",
-    "ukphone": "ˈdɪfrənt",
-    "trans": [
-      "不同的, 各种各样的"
-    ]
-  },
-  {
-    "name": "dull",
-    "usphone": "dʌl",
-    "ukphone": "dʌl",
-    "trans": [
-      "无聊的"
-    ]
-  },
-  {
-    "name": "funny",
-    "usphone": "ˈfʌni",
-    "ukphone": "ˈfʌni",
-    "trans": [
-      "有趣的, 滑稽的"
-    ]
-  },
-  {
-    "name": "gorgeous",
-    "usphone": "ˈɡɔːrdʒəs",
-    "ukphone": "ˈɡɔːdʒəs",
-    "trans": [
-      "华丽的"
-    ]
-  },
-  {
-    "name": "hideous",
-    "usphone": "ˈhɪdiəs",
-    "ukphone": "ˈhɪdiəs",
-    "trans": [
-      "狰狞"
-    ]
-  },
-  {
-    "name": "last",
-    "usphone": "læst",
-    "ukphone": "lɑːst",
-    "trans": [
-      "持续"
-    ]
-  },
-  {
-    "name": "ordinary",
-    "usphone": "ˈɔːrdneri",
-    "ukphone": "ˈɔːdnri",
-    "trans": [
-      "普通的, 平常的, 平凡的"
-    ]
-  },
-  {
-    "name": "special",
-    "usphone": "ˈspeʃl",
-    "ukphone": "ˈspeʃl",
-    "trans": [
-      "特殊的, 特别的, 专门的"
-    ]
-  },
-  {
-    "name": "beer",
-    "usphone": "bɪr",
-    "ukphone": "bɪə(r)",
-    "trans": [
-      "啤酒"
-    ]
-  },
-  {
-    "name": "busy",
-    "usphone": "ˈbɪzi",
-    "ukphone": "ˈbɪzi",
-    "trans": [
-      "忙碌的"
-    ]
-  },
-  {
-    "name": "free",
-    "usphone": "friː",
-    "ukphone": "friː",
-    "trans": [
-      "有空的"
-    ]
-  },
-  {
-    "name": "poor",
-    "usphone": "pɔːr",
-    "ukphone": "pɔː(r)",
-    "trans": [
-      "不幸的, 可怜的"
-    ]
-  },
-  {
-    "name": "wonderful",
-    "usphone": "ˈwʌndərfl",
-    "ukphone": "ˈwʌndəfl",
-    "trans": [
-      "奇妙的, 令人惊奇的, 素晴らしい"
-    ]
-  },
-  {
-    "name": "incredible",
-    "usphone": "ɪnˈkredəbl",
-    "ukphone": "ɪnˈkredəbl",
-    "trans": [
-      "不可信的;不可思议的,惊人的"
-    ]
-  },
-  {
-    "name": "awful",
-    "usphone": "ˈɔːfl",
-    "ukphone": "ˈɔːfl",
-    "trans": [
-      "恐ろしい, 糟糕的"
-    ]
-  },
-  {
-    "name": "crowded",
-    "usphone": "ˈkraʊdɪd",
-    "ukphone": "ˈkraʊdɪd",
-    "trans": [
-      "拥挤的"
-    ]
-  },
-  {
-    "name": "during",
-    "usphone": "ˈdʊrɪŋ",
-    "ukphone": "ˈdjʊərɪŋ",
-    "trans": [
-      "在 期间"
-    ]
-  },
-  {
-    "name": "serious",
-    "usphone": "ˈsɪriəs",
-    "ukphone": "ˈsɪəriəs",
-    "trans": [
-      "严谨的, 郑重的、严肃的、认真的"
-    ]
-  },
-  {
-    "name": "same",
-    "usphone": "seɪm",
-    "ukphone": "seɪm",
-    "trans": [
-      "相同的, 同样的"
-    ]
-  },
-  {
-    "name": "quiet",
-    "usphone": "ˈkwaɪət",
-    "ukphone": "ˈkwaɪət",
-    "trans": [
-      "安静的, 宁静的, 静止的"
-    ]
-  },
-  {
-    "name": "noisy",
-    "usphone": "ˈnɔɪzi",
-    "ukphone": "ˈnɔɪzi",
-    "trans": [
-      "喧闹的, 嘈杂的"
-    ]
-  },
-  {
-    "name": "attractive",
-    "usphone": "əˈtræktɪv",
-    "ukphone": "əˈtræktɪv",
-    "trans": [
-      "引き付ける人的, 诱人的"
-    ]
-  },
-  {
-    "name": "damaged",
-    "trans": [
-      "破壊, 损坏"
-    ]
-  },
-  {
-    "name": "fancy",
-    "usphone": "ˈfænsi",
-    "ukphone": "ˈfænsi",
-    "trans": [
-      "奇特的"
-    ]
-  },
-  {
-    "name": "powerful",
-    "usphone": "ˈpaʊərfl",
-    "ukphone": "ˈpaʊəfl",
-    "trans": [
-      "强有力的, 强大的, 有权的, 强健的"
-    ]
-  },
-  {
-    "name": "reliable",
-    "usphone": "rɪˈlaɪəbl",
-    "ukphone": "rɪˈlaɪəbl",
-    "trans": [
-      "可信赖的; 可靠的"
-    ]
-  },
-  {
-    "name": "weak",
-    "usphone": "wiːk",
-    "ukphone": "wiːk",
-    "trans": [
-      "弱的, 无实力的, 容易被击败的"
-    ]
-  },
-  {
-    "name": "cash",
-    "usphone": "kæʃ",
-    "ukphone": "kæʃ",
-    "trans": [
-      "现金"
-    ]
-  },
-  {
-    "name": "broken",
-    "usphone": "ˈbroʊkən",
-    "ukphone": "ˈbrəʊkən",
-    "trans": [
-      "被破壊的, 受伤的, 断裂的"
-    ]
-  },
-  {
-    "name": "exchange",
-    "usphone": "ɪksˈtʃeɪndʒ",
-    "ukphone": "ɪksˈtʃeɪndʒ",
-    "trans": [
-      "交换, 换货"
-    ]
-  },
-  {
-    "name": "hole",
-    "usphone": "hoʊl",
-    "ukphone": "həʊl",
-    "trans": [
-      "孔"
-    ]
-  },
-  {
-    "name": "return",
-    "usphone": "rɪˈtɜːrn",
-    "ukphone": "rɪˈtɜːn",
-    "trans": [
-      "退还, 返还, 归还"
-    ]
-  },
-  {
-    "name": "stained",
-    "usphone": "steɪnd",
-    "ukphone": "steɪnd",
-    "trans": [
-      "玷污的,褪色的"
-    ]
-  },
-  {
-    "name": "decrease",
-    "usphone": "dɪˈkriːs",
-    "ukphone": "dɪˈkriːs",
-    "trans": [
-      "減らす, 下降"
-    ]
-  },
-  {
-    "name": "education",
-    "usphone": "ˌedʒuˈkeɪʃn",
-    "ukphone": "ˌedʒuˈkeɪʃn",
-    "trans": [
-      "教育"
-    ]
-  },
-  {
-    "name": "housing",
-    "usphone": "ˈhaʊzɪŋ",
-    "ukphone": "ˈhaʊzɪŋ",
-    "trans": [
-      "房屋"
-    ]
-  },
-  {
-    "name": "increase",
-    "usphone": "ɪnˈkriːs",
-    "ukphone": "ɪnˈkriːs",
-    "trans": [
-      "増加, 增多"
-    ]
-  },
-  {
-    "name": "technology",
-    "usphone": "tekˈnɑːlədʒi",
-    "ukphone": "tekˈnɒlədʒi",
-    "trans": [
-      "技术, 工艺"
-    ]
-  },
-  {
-    "name": "plain",
-    "usphone": "pleɪn",
-    "ukphone": "pleɪn",
-    "trans": [
-      "清楚的, 简单的, 平常的, 明白的"
-    ]
-  },
-  {
-    "name": "ugly",
-    "usphone": "ˈʌɡli",
-    "ukphone": "ˈʌɡli",
-    "trans": [
-      "丑陋的, 难看的"
-    ]
-  },
-  {
-    "name": "safe",
-    "usphone": "seɪf",
-    "ukphone": "seɪf",
-    "trans": [
-      "无危险的"
-    ]
-  },
-  {
-    "name": "dangerous",
-    "usphone": "ˈdeɪndʒərəs",
-    "ukphone": "ˈdeɪndʒərəs",
-    "trans": [
-      "危险的"
-    ]
-  },
-  {
-    "name": "expensive",
-    "usphone": "ɪkˈspensɪv",
-    "ukphone": "ɪkˈspensɪv",
-    "trans": [
-      "贵的"
-    ]
-  },
-  {
-    "name": "cheap",
-    "usphone": "tʃiːp",
-    "ukphone": "tʃiːp",
-    "trans": [
-      "便宜的"
-    ]
-  },
-  {
-    "name": "credit",
-    "usphone": "ˈkredɪt",
-    "ukphone": "ˈkredɪt",
-    "trans": [
-      "赊欠, 赊购"
-    ]
-  },
-  {
-    "name": "problem",
-    "usphone": "ˈprɑːbləm",
-    "ukphone": "ˈprɒbləm",
-    "trans": [
-      "问题, 困难"
-    ]
-  },
-  {
-    "name": "matter",
-    "usphone": "ˈmætər",
-    "ukphone": "ˈmætə(r)",
-    "trans": [
-      "麻烦, 问题"
-    ]
-  },
-  {
-    "name": "refund",
-    "usphone": "ˈriːfʌnd",
-    "ukphone": "ˈriːfʌnd",
-    "trans": [
-      "退款; 偿还金"
-    ]
-  },
-  {
-    "name": "editor",
-    "usphone": "ˈedɪtər",
-    "ukphone": "ˈedɪtə(r)",
-    "trans": [
-      "编辑"
-    ]
-  },
-  {
-    "name": "last",
-    "usphone": "læst",
-    "ukphone": "lɑːst",
-    "trans": [
-      "最后的"
-    ]
-  },
-  {
-    "name": "pay",
-    "usphone": "peɪ",
-    "ukphone": "peɪ",
-    "trans": [
-      "薪水, 工资"
-    ]
-  },
-  {
-    "name": "programmer",
-    "usphone": "ˈproʊɡræmər",
-    "ukphone": "ˈprəʊɡræmə(r)",
-    "trans": [
-      "程序员"
-    ]
-  },
-  {
-    "name": "supervisor",
-    "usphone": "ˈsuːpərvaɪzər",
-    "ukphone": "ˈsuːpəvaɪzə(r)",
-    "trans": [
-      "监督人,主管人"
-    ]
-  },
-  {
-    "name": "writer",
-    "usphone": "ˈraɪtər",
-    "ukphone": "ˈraɪtə(r)",
-    "trans": [
-      "作者, 作家, 著者"
-    ]
-  },
-  {
-    "name": "introduce",
-    "usphone": "ˈduːs",
-    "ukphone": "ˌɪntrəˈdjuːs",
-    "trans": [
-      "介绍, 引荐"
-    ]
-  },
-  {
-    "name": "finance",
-    "usphone": "ˈfaɪnæns",
-    "ukphone": "ˈfaɪnæns",
-    "trans": [
-      "资金"
-    ]
-  },
-  {
-    "name": "legal",
-    "usphone": "ˈliːɡl",
-    "ukphone": "ˈliːɡl",
-    "trans": [
-      "法律上的, 有关法律的"
-    ]
-  },
-  {
-    "name": "president",
-    "usphone": "ˈprezɪdənt",
-    "ukphone": "ˈprezɪdənt",
-    "trans": [
-      "总统, 主席"
-    ]
-  },
-  {
-    "name": "purchasing",
-    "usphone": "ˈpɜːrtʃəsɪŋ",
-    "ukphone": "ˈpɜːtʃəsɪŋ",
-    "trans": [
-      "购买, 采购"
-    ]
-  },
-  {
-    "name": "interview",
-    "usphone": "ˈɪntərvjuː",
-    "ukphone": "ˈɪntəvjuː",
-    "trans": [
-      "面试"
-    ]
-  },
-  {
-    "name": "production",
-    "usphone": "prəˈdʌkʃn",
-    "ukphone": "prəˈdʌkʃn",
-    "trans": [
-      "产品, 作品, 成果"
-    ]
-  },
-  {
-    "name": "resume",
-    "usphone": "ˈrezəmeɪ",
-    "ukphone": "ˈrezjumeɪ",
-    "trans": [
-      "摘要, 概要, 简历"
-    ]
-  },
-  {
-    "name": "title",
-    "usphone": "ˈtaɪtl",
-    "ukphone": "ˈtaɪtl",
-    "trans": [
-      "标题"
-    ]
-  },
-  {
-    "name": "actor",
-    "usphone": "ˈæktər",
-    "ukphone": "ˈæktə(r)",
-    "trans": [
-      "男演员"
-    ]
-  },
-  {
-    "name": "banker",
-    "usphone": "ˈbæŋkər",
-    "ukphone": "ˈbæŋkə(r)",
-    "trans": [
-      "银行家,银行雇员"
-    ]
-  },
-  {
-    "name": "cleaner",
-    "usphone": "ˈkliːnər",
-    "ukphone": "ˈkliːnə(r)",
-    "trans": [
-      "清洁工,清洁剂,干洗店"
-    ]
-  },
-  {
-    "name": "designer",
-    "usphone": "dɪˈzaɪnər",
-    "ukphone": "dɪˈzaɪnə(r)",
-    "trans": [
-      "設計师"
-    ]
-  },
-  {
-    "name": "director",
-    "usphone": "dəˈrektər",
-    "ukphone": "dəˈrektə(r)",
-    "trans": [
-      "主任, 主管"
-    ]
-  },
-  {
-    "name": "driver",
-    "usphone": "ˈdraɪvər",
-    "ukphone": "ˈdraɪvə(r)",
-    "trans": [
-      "司机"
-    ]
-  },
-  {
-    "name": "manager",
-    "usphone": "ˈmænɪdʒər",
-    "ukphone": "ˈmænɪdʒə(r)",
-    "trans": [
-      "主管, 经理, 负责人"
-    ]
-  },
-  {
-    "name": "illustrator",
-    "usphone": "ˈɪləstreɪtər",
-    "ukphone": "ˈɪləstreɪtə(r)",
-    "trans": [
-      "插画师"
-    ]
-  },
-  {
-    "name": "before",
-    "usphone": "bɪˈfɔːr",
-    "ukphone": "bɪˈfɔː(r)",
-    "trans": [
-      "在......之前, 在 面前"
-    ]
-  },
-  {
-    "name": "after",
-    "usphone": "ˈæftər",
-    "ukphone": "ˈɑːftə(r)",
-    "trans": [
-      "after"
-    ]
-  },
-  {
-    "name": "operation",
-    "usphone": "ˌɑːpəˈreɪʃn",
-    "ukphone": "ˌɒpəˈreɪʃn",
-    "trans": [
-      "经营, 营运"
-    ]
-  },
-  {
-    "name": "responsible",
-    "usphone": "rɪˈspɑːnsəbl",
-    "ukphone": "rɪˈspɒnsəbl",
-    "trans": [
-      "有责任的"
-    ]
-  },
-  {
-    "name": "server",
-    "usphone": "ˈsɜːrvər",
-    "ukphone": "ˈsɜːvə(r)",
-    "trans": [
-      "服务器"
-    ]
-  },
-  {
-    "name": "welcome",
-    "usphone": "ˈwelkəm",
-    "ukphone": "ˈwelkəm",
-    "trans": [
-      "迎接, 欢迎"
-    ]
-  }
+    {
+        "name": "guitar",
+        "usphone": "ɡɪˈtɑːr",
+        "ukphone": "ɡɪˈtɑː(r)",
+        "trans": [
+            "ギター"
+        ]
+    },
+    {
+        "name": "collect",
+        "usphone": "kəˈlekt",
+        "ukphone": "kəˈlekt",
+        "trans": [
+            "<ruby>集<rt>あつ</rt></ruby>める"
+        ]
+    },
+    {
+        "name": "drawing",
+        "usphone": "ˈdrɔːɪŋ",
+        "ukphone": "ˈdrɔːɪŋ",
+        "trans": [
+            "<ruby>絵<rt>え</rt></ruby>"
+        ]
+    },
+    {
+        "name": "reading",
+        "usphone": "ˈriːdɪŋ",
+        "ukphone": "ˈriːdɪŋ",
+        "trans": [
+            "<ruby>読書<rt>どくしょ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "sewing",
+        "usphone": "ˈsoʊɪŋ",
+        "ukphone": "ˈsəʊɪŋ",
+        "trans": [
+            "<ruby>裁縫<rt>さいほう</rt></ruby>"
+        ]
+    },
+    {
+        "name": "camping",
+        "usphone": "ˈkæmpɪŋ",
+        "ukphone": "ˈkæmpɪŋ",
+        "trans": [
+            "キャンプ"
+        ]
+    },
+    {
+        "name": "fishing",
+        "usphone": "ˈfɪʃɪŋ",
+        "ukphone": "ˈfɪʃɪŋ",
+        "trans": [
+            "<ruby>釣<rt>つ</rt></ruby>り"
+        ]
+    },
+    {
+        "name": "never",
+        "usphone": "ˈnevər",
+        "ukphone": "ˈnevə(r)",
+        "trans": [
+            "けっして〜ない"
+        ]
+    },
+    {
+        "name": "often",
+        "usphone": "ˈɔːfn",
+        "ukphone": "ˈɒfn",
+        "trans": [
+            "よく／しばしば"
+        ]
+    },
+    {
+        "name": "sometimes",
+        "usphone": "ˈsʌmtaɪmz",
+        "ukphone": "ˈsʌmtaɪmz",
+        "trans": [
+            "ときどき"
+        ]
+    },
+    {
+        "name": "traveling",
+        "trans": [
+            "<ruby>旅行<rt>りょこう</rt></ruby>"
+        ]
+    },
+    {
+        "name": "writing",
+        "usphone": "ˈraɪtɪŋ",
+        "ukphone": "ˈraɪtɪŋ",
+        "trans": [
+            "<ruby>書<rt>か</rt></ruby>くこと"
+        ]
+    },
+    {
+        "name": "cello",
+        "usphone": "ˈtʃeloʊ",
+        "ukphone": "ˈtʃeləʊ",
+        "trans": [
+            "チェロ"
+        ]
+    },
+    {
+        "name": "drums",
+        "trans": [
+            "ドラム"
+        ]
+    },
+    {
+        "name": "flute",
+        "usphone": "fluːt",
+        "ukphone": "fluːt",
+        "trans": [
+            "フルート"
+        ]
+    },
+    {
+        "name": "piano",
+        "usphone": "piˈænoʊ",
+        "ukphone": "piˈænəʊ",
+        "trans": [
+            "ピアノ"
+        ]
+    },
+    {
+        "name": "saxophone",
+        "usphone": "ˈsæksəfoʊn",
+        "ukphone": "ˈsæksəfəʊn",
+        "trans": [
+            "サックス"
+        ]
+    },
+    {
+        "name": "trumpet",
+        "usphone": "ˈtrʌmpɪt",
+        "ukphone": "ˈtrʌmpɪt",
+        "trans": [
+            "トランペット"
+        ]
+    },
+    {
+        "name": "violin",
+        "usphone": "ˌvaɪəˈlɪn",
+        "ukphone": "ˌvaɪəˈlɪn",
+        "trans": [
+            "バイオリン"
+        ]
+    },
+    {
+        "name": "interest",
+        "usphone": "ˈɪntrəst",
+        "ukphone": "ˈɪntrəst",
+        "trans": [
+            "<ruby>興味<rt>きょうみ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "hobby",
+        "usphone": "ˈhɑːbi",
+        "ukphone": "ˈhɒbi",
+        "trans": [
+            "<ruby>趣味<rt>しゅみ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "photography",
+        "usphone": "fəˈtɑːɡrəfi",
+        "ukphone": "fəˈtɒɡrəfi",
+        "trans": [
+            "<ruby>写真<rt>しゃしん</rt></ruby>をとること"
+        ]
+    },
+    {
+        "name": "running",
+        "usphone": "ˈrʌnɪŋ",
+        "ukphone": "ˈrʌnɪŋ",
+        "trans": [
+            "<ruby>走<rt>はし</rt></ruby>ること"
+        ]
+    },
+    {
+        "name": "cooking",
+        "usphone": "ˈkʊkɪŋ",
+        "ukphone": "ˈkʊkɪŋ",
+        "trans": [
+            "<ruby>料理<rt>りょうり</rt></ruby>"
+        ]
+    },
+    {
+        "name": "painting",
+        "usphone": "ˈpeɪntɪŋ",
+        "ukphone": "ˈpeɪntɪŋ",
+        "trans": [
+            "<ruby>絵<rt>え</rt></ruby>"
+        ]
+    },
+    {
+        "name": "always",
+        "usphone": "ˈɔːlweɪz",
+        "ukphone": "ˈɔːlweɪz",
+        "trans": [
+            "いつも"
+        ]
+    },
+    {
+        "name": "usually",
+        "usphone": "ˈjuːʒuəli",
+        "ukphone": "ˈjuːʒuəli",
+        "trans": [
+            "ふつうは"
+        ]
+    },
+    {
+        "name": "rarely",
+        "usphone": "ˈrerli",
+        "ukphone": "ˈreəli",
+        "trans": [
+            "めったに〜ない"
+        ]
+    },
+    {
+        "name": "exhibition",
+        "usphone": "ˌeksɪˈbɪʃn",
+        "ukphone": "ˌeksɪˈbɪʃn",
+        "trans": [
+            "<ruby>展覧会<rt>てんらんかい</rt></ruby>"
+        ]
+    },
+    {
+        "name": "festival",
+        "usphone": "ˈfestɪvl",
+        "ukphone": "ˈfestɪvl",
+        "trans": [
+            "お<ruby>祭<rt>まつ</rt></ruby>り"
+        ]
+    },
+    {
+        "name": "address",
+        "usphone": "əˈdres",
+        "ukphone": "əˈdres",
+        "trans": [
+            "<ruby>住所<rt>じゅうしょ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "east",
+        "usphone": "iːst",
+        "ukphone": "iːst",
+        "trans": [
+            "<ruby>東<rt>ひがし</rt></ruby>"
+        ]
+    },
+    {
+        "name": "ferry",
+        "usphone": "ˈferi",
+        "ukphone": "ˈferi",
+        "trans": [
+            "フェリー"
+        ]
+    },
+    {
+        "name": "north",
+        "usphone": "nɔːrθ",
+        "ukphone": "nɔːθ",
+        "trans": [
+            "<ruby>北<rt>きた</rt></ruby>"
+        ]
+    },
+    {
+        "name": "south",
+        "usphone": "saʊθ",
+        "ukphone": "saʊθ",
+        "trans": [
+            "<ruby>南<rt>みなみ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "streetcar",
+        "usphone": "ˈstriːtkɑːr",
+        "ukphone": "ˈstriːtkɑː(r)",
+        "trans": [
+            "<ruby>路面電車<rt>ろめんでんしゃ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "west",
+        "usphone": "west",
+        "ukphone": "west",
+        "trans": [
+            "<ruby>西<rt>にし</rt></ruby>"
+        ]
+    },
+    {
+        "name": "beach",
+        "usphone": "biːtʃ",
+        "ukphone": "biːtʃ",
+        "trans": [
+            "<ruby>海辺<rt>うみべ</rt></ruby>",
+            "<ruby>浜辺<rt>はまべ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "coast",
+        "usphone": "koʊst",
+        "ukphone": "kəʊst",
+        "trans": [
+            "<ruby>海岸<rt>かいがん</rt></ruby>"
+        ]
+    },
+    {
+        "name": "desert",
+        "usphone": "ˈdezərt",
+        "ukphone": "ˈdezət",
+        "trans": [
+            "<ruby>砂漠<rt>さばく</rt></ruby>"
+        ]
+    },
+    {
+        "name": "forest",
+        "usphone": "ˈfɔːrɪst",
+        "ukphone": "ˈfɒrɪst",
+        "trans": [
+            "<ruby>森<rt>もり</rt></ruby>"
+        ]
+    },
+    {
+        "name": "hill",
+        "usphone": "hɪl",
+        "ukphone": "hɪl",
+        "trans": [
+            "<ruby>丘<rt>おか</rt></ruby>"
+        ]
+    },
+    {
+        "name": "hometown",
+        "usphone": "ˈhoʊmtaʊn",
+        "ukphone": "ˈhəʊmtaʊn",
+        "trans": [
+            "<ruby>故郷<rt>ふるさと</rt></ruby>"
+        ]
+    },
+    {
+        "name": "lake",
+        "usphone": "leɪk",
+        "ukphone": "leɪk",
+        "trans": [
+            "<ruby>湖<rt>みずうみ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "mountain",
+        "usphone": "ˈmaʊntn",
+        "ukphone": "ˈmaʊntən",
+        "trans": [
+            "<ruby>山<rt>やま</rt></ruby>"
+        ]
+    },
+    {
+        "name": "ocean",
+        "usphone": "ˈoʊʃn",
+        "ukphone": "ˈəʊʃn",
+        "trans": [
+            "<ruby>海<rt>うみ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "river",
+        "usphone": "ˈrɪvər",
+        "ukphone": "ˈrɪvə(r)",
+        "trans": [
+            "<ruby>川<rt>かわ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "valley",
+        "usphone": "ˈvæli",
+        "ukphone": "ˈvæli",
+        "trans": [
+            "<ruby>谷<rt>たに</rt></ruby>"
+        ]
+    },
+    {
+        "name": "between",
+        "usphone": "bɪˈtwiːn",
+        "ukphone": "bɪˈtwiːn",
+        "trans": [
+            "〜の<ruby>間<rt>あいだ</rt></ruby>に"
+        ]
+    },
+    {
+        "name": "behind",
+        "usphone": "bɪˈhaɪnd",
+        "ukphone": "bɪˈhaɪnd",
+        "trans": [
+            "〜の<ruby>後<rt>うし</rt></ruby>ろに"
+        ]
+    },
+    {
+        "name": "across",
+        "usphone": "əˈkrɔːs",
+        "ukphone": "əˈkrɒs",
+        "trans": [
+            "〜を<ruby>横切<rt>よこぎ</rt></ruby>って"
+        ]
+    },
+    {
+        "name": "right",
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "trans": [
+            "<ruby>右<rt>みぎ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "straight",
+        "usphone": "streɪt",
+        "ukphone": "streɪt",
+        "trans": [
+            "まっすぐに"
+        ]
+    },
+    {
+        "name": "correct",
+        "usphone": "kəˈrekt",
+        "ukphone": "kəˈrekt",
+        "trans": [
+            "<ruby>正<rt>ただ</rt></ruby>しい"
+        ]
+    },
+    {
+        "name": "right",
+        "usphone": "raɪt",
+        "ukphone": "raɪt",
+        "trans": [
+            "<ruby>右<rt>みぎ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "far",
+        "usphone": "fɑːr",
+        "ukphone": "fɑː(r)",
+        "trans": [
+            "<ruby>遠<rt>とお</rt></ruby>い"
+        ]
+    },
+    {
+        "name": "mile",
+        "usphone": "maɪl",
+        "ukphone": "maɪl",
+        "trans": [
+            "マイル"
+        ]
+    },
+    {
+        "name": "perfect",
+        "usphone": "ˈpɜːrfɪkt",
+        "ukphone": "ˈpɜːfɪkt",
+        "trans": [
+            "かんぺきな"
+        ]
+    },
+    {
+        "name": "rate",
+        "usphone": "reɪt",
+        "ukphone": "reɪt",
+        "trans": [
+            "<ruby>割合<rt>わりあい</rt></ruby>"
+        ]
+    },
+    {
+        "name": "reasonable",
+        "usphone": "ˈriːznəbl",
+        "ukphone": "ˈriːznəbl",
+        "trans": [
+            "<ruby>手<rt>て</rt></ruby>ごろな"
+        ]
+    },
+    {
+        "name": "recommend",
+        "usphone": "ˌrekəˈmend",
+        "ukphone": "ˌrekəˈmend",
+        "trans": [
+            "おすすめする"
+        ]
+    },
+    {
+        "name": "reservation",
+        "usphone": "ˌrezərˈveɪʃn",
+        "ukphone": "ˌrezəˈveɪʃn",
+        "trans": [
+            "<ruby>予約<rt>よやく</rt></ruby>"
+        ]
+    },
+    {
+        "name": "reserve",
+        "usphone": "rɪˈzɜːrv",
+        "ukphone": "rɪˈzɜːv",
+        "trans": [
+            "<ruby>予約<rt>よやく</rt></ruby>する"
+        ]
+    },
+    {
+        "name": "actually",
+        "usphone": "ˈæktʃuəli",
+        "ukphone": "ˈæktʃuəli",
+        "trans": [
+            "じつは"
+        ]
+    },
+    {
+        "name": "clerk",
+        "usphone": "klɜːrk",
+        "ukphone": "klɑːk",
+        "trans": [
+            "<ruby>店員<rt>てんいん</rt></ruby>"
+        ]
+    },
+    {
+        "name": "elevator",
+        "usphone": "ˈelɪveɪtər",
+        "ukphone": "ˈelɪveɪtə(r)",
+        "trans": [
+            "エレベーター"
+        ]
+    },
+    {
+        "name": "lobby",
+        "usphone": "ˈlɑːbi",
+        "ukphone": "ˈlɒbi",
+        "trans": [
+            "ロビー"
+        ]
+    },
+    {
+        "name": "luggage",
+        "usphone": "ˈlʌɡɪdʒ",
+        "ukphone": "ˈlʌɡɪdʒ",
+        "trans": [
+            "<ruby>荷物<rt>にもつ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "passport",
+        "usphone": "ˈpæspɔːrt",
+        "ukphone": "ˈpɑːspɔːt",
+        "trans": [
+            "パスポート"
+        ]
+    },
+    {
+        "name": "suitcase",
+        "usphone": "ˈsuːtkeɪs",
+        "ukphone": "ˈsuːtkeɪs",
+        "trans": [
+            "スーツケース"
+        ]
+    },
+    {
+        "name": "umbrella",
+        "usphone": "ʌmˈbrelə",
+        "ukphone": "ʌmˈbrelə",
+        "trans": [
+            "かさ"
+        ]
+    },
+    {
+        "name": "hotel",
+        "usphone": "hoʊˈtel",
+        "ukphone": "həʊˈtel",
+        "trans": [
+            "ホテル"
+        ]
+    },
+    {
+        "name": "bill",
+        "usphone": "bɪl",
+        "ukphone": "bɪl",
+        "trans": [
+            "<ruby>請求書<rt>せいきゅうしょ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "high",
+        "usphone": "haɪ",
+        "ukphone": "haɪ",
+        "trans": [
+            "<ruby>高<rt>たか</rt></ruby>い"
+        ]
+    },
+    {
+        "name": "pay",
+        "usphone": "peɪ",
+        "ukphone": "peɪ",
+        "trans": [
+            "<ruby>払<rt>はら</rt></ruby>う"
+        ]
+    },
+    {
+        "name": "receipt",
+        "usphone": "rɪˈsiːt",
+        "ukphone": "rɪˈsiːt",
+        "trans": [
+            "レシート"
+        ]
+    },
+    {
+        "name": "review",
+        "usphone": "rɪˈvjuː",
+        "ukphone": "rɪˈvjuː",
+        "trans": [
+            "<ruby>復習<rt>ふくしゅう</rt></ruby>する"
+        ]
+    },
+    {
+        "name": "downtown",
+        "usphone": "ˌdaʊnˈtaʊn",
+        "ukphone": "ˌdaʊnˈtaʊn",
+        "trans": [
+            "<ruby>町<rt>まち</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>"
+        ]
+    },
+    {
+        "name": "around",
+        "usphone": "əˈraʊnd",
+        "ukphone": "əˈraʊnd",
+        "trans": [
+            "〜のまわりに",
+            "だいたい"
+        ]
+    },
+    {
+        "name": "pretty",
+        "usphone": "ˈprɪti",
+        "ukphone": "ˈprɪti",
+        "trans": [
+            "かわいい",
+            "きれいな"
+        ]
+    },
+    {
+        "name": "close",
+        "usphone": "kloʊs",
+        "ukphone": "kləʊs",
+        "trans": [
+            "しめる"
+        ]
+    },
+    {
+        "name": "expensive",
+        "usphone": "ɪkˈspensɪv",
+        "ukphone": "ɪkˈspensɪv",
+        "trans": [
+            "<ruby>高<rt>たか</rt></ruby>い"
+        ]
+    },
+    {
+        "name": "comfortable",
+        "usphone": "ˈkʌmftəbl",
+        "ukphone": "ˈkʌmftəbl",
+        "trans": [
+            "<ruby>心地<rt>ここち</rt></ruby>よい"
+        ]
+    },
+    {
+        "name": "key",
+        "usphone": "kiː",
+        "ukphone": "kiː",
+        "trans": [
+            "かぎ"
+        ]
+    },
+    {
+        "name": "card",
+        "usphone": "kɑːrd",
+        "ukphone": "kɑːd",
+        "trans": [
+            "カード"
+        ]
+    },
+    {
+        "name": "amount",
+        "usphone": "əˈmaʊnt",
+        "ukphone": "əˈmaʊnt",
+        "trans": [
+            "<ruby>量<rt>りょう</rt></ruby>"
+        ]
+    },
+    {
+        "name": "cake",
+        "usphone": "keɪk",
+        "ukphone": "keɪk",
+        "trans": [
+            "ケーキ"
+        ]
+    },
+    {
+        "name": "gift",
+        "usphone": "ɡɪft",
+        "ukphone": "ɡɪft",
+        "trans": [
+            "プレゼント"
+        ]
+    },
+    {
+        "name": "snack",
+        "usphone": "snæk",
+        "ukphone": "snæk",
+        "trans": [
+            "おやつ"
+        ]
+    },
+    {
+        "name": "soda",
+        "usphone": "ˈsoʊdə",
+        "ukphone": "ˈsəʊdə",
+        "trans": [
+            "ソーダ"
+        ]
+    },
+    {
+        "name": "wine",
+        "usphone": "waɪn",
+        "ukphone": "waɪn",
+        "trans": [
+            "ワイン"
+        ]
+    },
+    {
+        "name": "amazing",
+        "usphone": "əˈmeɪzɪŋ",
+        "ukphone": "əˈmeɪzɪŋ",
+        "trans": [
+            "すごい"
+        ]
+    },
+    {
+        "name": "definitely",
+        "usphone": "ˈdefɪnətli",
+        "ukphone": "ˈdefɪnətli",
+        "trans": [
+            "きっと",
+            "<ruby>確<rt>たし</rt></ruby>かに"
+        ]
+    },
+    {
+        "name": "entertaining",
+        "usphone": "ˌentərˈteɪnɪŋ",
+        "ukphone": "ˌentəˈteɪnɪŋ",
+        "trans": [
+            "<ruby>楽<rt>たの</rt></ruby>しい"
+        ]
+    },
+    {
+        "name": "exactly",
+        "usphone": "ɪɡˈzæktli",
+        "ukphone": "ɪɡˈzæktli",
+        "trans": [
+            "ぴったり"
+        ]
+    },
+    {
+        "name": "different",
+        "usphone": "ˈdɪfrənt",
+        "ukphone": "ˈdɪfrənt",
+        "trans": [
+            "ちがう"
+        ]
+    },
+    {
+        "name": "dull",
+        "usphone": "dʌl",
+        "ukphone": "dʌl",
+        "trans": [
+            "たいくつな"
+        ]
+    },
+    {
+        "name": "funny",
+        "usphone": "ˈfʌni",
+        "ukphone": "ˈfʌni",
+        "trans": [
+            "おもしろい"
+        ]
+    },
+    {
+        "name": "gorgeous",
+        "usphone": "ˈɡɔːrdʒəs",
+        "ukphone": "ˈɡɔːdʒəs",
+        "trans": [
+            "とてもきれいな"
+        ]
+    },
+    {
+        "name": "hideous",
+        "usphone": "ˈhɪdiəs",
+        "ukphone": "ˈhɪdiəs",
+        "trans": [
+            "ひどくみにくい"
+        ]
+    },
+    {
+        "name": "last",
+        "usphone": "læst",
+        "ukphone": "lɑːst",
+        "trans": [
+            "<ruby>最後<rt>さいご</rt></ruby>の"
+        ]
+    },
+    {
+        "name": "ordinary",
+        "usphone": "ˈɔːrdneri",
+        "ukphone": "ˈɔːdnri",
+        "trans": [
+            "ふつうの"
+        ]
+    },
+    {
+        "name": "special",
+        "usphone": "ˈspeʃl",
+        "ukphone": "ˈspeʃl",
+        "trans": [
+            "<ruby>特別<rt>とくべつ</rt></ruby>な"
+        ]
+    },
+    {
+        "name": "beer",
+        "usphone": "bɪr",
+        "ukphone": "bɪə(r)",
+        "trans": [
+            "ビール"
+        ]
+    },
+    {
+        "name": "busy",
+        "usphone": "ˈbɪzi",
+        "ukphone": "ˈbɪzi",
+        "trans": [
+            "いそがしい"
+        ]
+    },
+    {
+        "name": "free",
+        "usphone": "friː",
+        "ukphone": "friː",
+        "trans": [
+            "ひまな"
+        ]
+    },
+    {
+        "name": "poor",
+        "usphone": "pɔːr",
+        "ukphone": "pɔː(r)",
+        "trans": [
+            "かわいそうな"
+        ]
+    },
+    {
+        "name": "wonderful",
+        "usphone": "ˈwʌndərfl",
+        "ukphone": "ˈwʌndəfl",
+        "trans": [
+            "すばらしい"
+        ]
+    },
+    {
+        "name": "incredible",
+        "usphone": "ɪnˈkredəbl",
+        "ukphone": "ɪnˈkredəbl",
+        "trans": [
+            "<ruby>信<rt>しん</rt></ruby>じられない"
+        ]
+    },
+    {
+        "name": "awful",
+        "usphone": "ˈɔːfl",
+        "ukphone": "ˈɔːfl",
+        "trans": [
+            "ひどい"
+        ]
+    },
+    {
+        "name": "crowded",
+        "usphone": "ˈkraʊdɪd",
+        "ukphone": "ˈkraʊdɪd",
+        "trans": [
+            "こんでいる"
+        ]
+    },
+    {
+        "name": "during",
+        "usphone": "ˈdʊrɪŋ",
+        "ukphone": "ˈdjʊərɪŋ",
+        "trans": [
+            "〜の<ruby>間<rt>あいだ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "serious",
+        "usphone": "ˈsɪriəs",
+        "ukphone": "ˈsɪəriəs",
+        "trans": [
+            "まじめな"
+        ]
+    },
+    {
+        "name": "same",
+        "usphone": "seɪm",
+        "ukphone": "seɪm",
+        "trans": [
+            "<ruby>同<rt>おな</rt></ruby>じ"
+        ]
+    },
+    {
+        "name": "quiet",
+        "usphone": "ˈkwaɪət",
+        "ukphone": "ˈkwaɪət",
+        "trans": [
+            "<ruby>静<rt>しず</rt></ruby>かな"
+        ]
+    },
+    {
+        "name": "noisy",
+        "usphone": "ˈnɔɪzi",
+        "ukphone": "ˈnɔɪzi",
+        "trans": [
+            "うるさい"
+        ]
+    },
+    {
+        "name": "attractive",
+        "usphone": "əˈtræktɪv",
+        "ukphone": "əˈtræktɪv",
+        "trans": [
+            "みりょくのある"
+        ]
+    },
+    {
+        "name": "damaged",
+        "trans": [
+            "こわれた"
+        ]
+    },
+    {
+        "name": "fancy",
+        "usphone": "ˈfænsi",
+        "ukphone": "ˈfænsi",
+        "trans": [
+            "おしゃれな"
+        ]
+    },
+    {
+        "name": "powerful",
+        "usphone": "ˈpaʊərfl",
+        "ukphone": "ˈpaʊəfl",
+        "trans": [
+            "<ruby>力強<rt>ちからづよ</rt></ruby>い"
+        ]
+    },
+    {
+        "name": "reliable",
+        "usphone": "rɪˈlaɪəbl",
+        "ukphone": "rɪˈlaɪəbl",
+        "trans": [
+            "<ruby>信頼<rt>しんらい</rt></ruby>できる"
+        ]
+    },
+    {
+        "name": "weak",
+        "usphone": "wiːk",
+        "ukphone": "wiːk",
+        "trans": [
+            "<ruby>弱<rt>よわ</rt></ruby>い"
+        ]
+    },
+    {
+        "name": "cash",
+        "usphone": "kæʃ",
+        "ukphone": "kæʃ",
+        "trans": [
+            "<ruby>現金<rt>げんきん</rt></ruby>"
+        ]
+    },
+    {
+        "name": "broken",
+        "usphone": "ˈbroʊkən",
+        "ukphone": "ˈbrəʊkən",
+        "trans": [
+            "こわれた"
+        ]
+    },
+    {
+        "name": "exchange",
+        "usphone": "ɪksˈtʃeɪndʒ",
+        "ukphone": "ɪksˈtʃeɪndʒ",
+        "trans": [
+            "<ruby>交換<rt>こうかん</rt></ruby>する"
+        ]
+    },
+    {
+        "name": "hole",
+        "usphone": "hoʊl",
+        "ukphone": "həʊl",
+        "trans": [
+            "<ruby>穴<rt>あな</rt></ruby>"
+        ]
+    },
+    {
+        "name": "return",
+        "usphone": "rɪˈtɜːrn",
+        "ukphone": "rɪˈtɜːn",
+        "trans": [
+            "<ruby>戻<rt>もど</rt></ruby>る"
+        ]
+    },
+    {
+        "name": "stained",
+        "usphone": "steɪnd",
+        "ukphone": "steɪnd",
+        "trans": [
+            "よごれた"
+        ]
+    },
+    {
+        "name": "decrease",
+        "usphone": "dɪˈkriːs",
+        "ukphone": "dɪˈkriːs",
+        "trans": [
+            "<ruby>減<rt>へ</rt></ruby>る"
+        ]
+    },
+    {
+        "name": "education",
+        "usphone": "ˌedʒuˈkeɪʃn",
+        "ukphone": "ˌedʒuˈkeɪʃn",
+        "trans": [
+            "<ruby>教育<rt>きょういく</rt></ruby>"
+        ]
+    },
+    {
+        "name": "housing",
+        "usphone": "ˈhaʊzɪŋ",
+        "ukphone": "ˈhaʊzɪŋ",
+        "trans": [
+            "<ruby>住宅<rt>じゅうたく</rt></ruby>"
+        ]
+    },
+    {
+        "name": "increase",
+        "usphone": "ɪnˈkriːs",
+        "ukphone": "ɪnˈkriːs",
+        "trans": [
+            "<ruby>増<rt>ふ</rt></ruby>える",
+            "<ruby>増<rt>ふ</rt></ruby>やす"
+        ]
+    },
+    {
+        "name": "technology",
+        "usphone": "tekˈnɑːlədʒi",
+        "ukphone": "tekˈnɒlədʒi",
+        "trans": [
+            "<ruby>技術<rt>ぎじゅつ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "plain",
+        "usphone": "pleɪn",
+        "ukphone": "pleɪn",
+        "trans": [
+            "シンプルな"
+        ]
+    },
+    {
+        "name": "ugly",
+        "usphone": "ˈʌɡli",
+        "ukphone": "ˈʌɡli",
+        "trans": [
+            "みにくい"
+        ]
+    },
+    {
+        "name": "safe",
+        "usphone": "seɪf",
+        "ukphone": "seɪf",
+        "trans": [
+            "<ruby>安全<rt>あんぜん</rt></ruby>な"
+        ]
+    },
+    {
+        "name": "dangerous",
+        "usphone": "ˈdeɪndʒərəs",
+        "ukphone": "ˈdeɪndʒərəs",
+        "trans": [
+            "あぶない"
+        ]
+    },
+    {
+        "name": "expensive",
+        "usphone": "ɪkˈspensɪv",
+        "ukphone": "ɪkˈspensɪv",
+        "trans": [
+            "<ruby>高<rt>たか</rt></ruby>い"
+        ]
+    },
+    {
+        "name": "cheap",
+        "usphone": "tʃiːp",
+        "ukphone": "tʃiːp",
+        "trans": [
+            "<ruby>安<rt>やす</rt></ruby>い"
+        ]
+    },
+    {
+        "name": "credit",
+        "usphone": "ˈkredɪt",
+        "ukphone": "ˈkredɪt",
+        "trans": [
+            "クレジット"
+        ]
+    },
+    {
+        "name": "problem",
+        "usphone": "ˈprɑːbləm",
+        "ukphone": "ˈprɒbləm",
+        "trans": [
+            "<ruby>問題<rt>もんだい</rt></ruby>"
+        ]
+    },
+    {
+        "name": "matter",
+        "usphone": "ˈmætər",
+        "ukphone": "ˈmætə(r)",
+        "trans": [
+            "<ruby>問題<rt>もんだい</rt></ruby>",
+            "<ruby>事<rt>こと</rt></ruby>"
+        ]
+    },
+    {
+        "name": "refund",
+        "usphone": "ˈriːfʌnd",
+        "ukphone": "ˈriːfʌnd",
+        "trans": [
+            "<ruby>返金<rt>へんきん</rt></ruby>"
+        ]
+    },
+    {
+        "name": "editor",
+        "usphone": "ˈedɪtər",
+        "ukphone": "ˈedɪtə(r)",
+        "trans": [
+            "<ruby>編集者<rt>へんしゅうしゃ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "last",
+        "usphone": "læst",
+        "ukphone": "lɑːst",
+        "trans": [
+            "<ruby>最後<rt>さいご</rt></ruby>の"
+        ]
+    },
+    {
+        "name": "pay",
+        "usphone": "peɪ",
+        "ukphone": "peɪ",
+        "trans": [
+            "<ruby>払<rt>はら</rt></ruby>う"
+        ]
+    },
+    {
+        "name": "programmer",
+        "usphone": "ˈproʊɡræmər",
+        "ukphone": "ˈprəʊɡræmə(r)",
+        "trans": [
+            "プログラマー"
+        ]
+    },
+    {
+        "name": "supervisor",
+        "usphone": "ˈsuːpərvaɪzər",
+        "ukphone": "ˈsuːpəvaɪzə(r)",
+        "trans": [
+            "<ruby>監督者<rt>かんとくしゃ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "writer",
+        "usphone": "ˈraɪtər",
+        "ukphone": "ˈraɪtə(r)",
+        "trans": [
+            "<ruby>作家<rt>さっか</rt></ruby>"
+        ]
+    },
+    {
+        "name": "introduce",
+        "usphone": "ˈduːs",
+        "ukphone": "ˌɪntrəˈdjuːs",
+        "trans": [
+            "<ruby>紹介<rt>しょうかい</rt></ruby>する"
+        ]
+    },
+    {
+        "name": "finance",
+        "usphone": "ˈfaɪnæns",
+        "ukphone": "ˈfaɪnæns",
+        "trans": [
+            "お<ruby>金<rt>かね</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby>"
+        ]
+    },
+    {
+        "name": "legal",
+        "usphone": "ˈliːɡl",
+        "ukphone": "ˈliːɡl",
+        "trans": [
+            "<ruby>法律<rt>ほうりつ</rt></ruby>の",
+            "<ruby>合法<rt>ごうほう</rt></ruby>の"
+        ]
+    },
+    {
+        "name": "president",
+        "usphone": "ˈprezɪdənt",
+        "ukphone": "ˈprezɪdənt",
+        "trans": [
+            "<ruby>社長<rt>しゃちょう</rt></ruby>",
+            "<ruby>大統領<rt>だいとうりょう</rt></ruby>"
+        ]
+    },
+    {
+        "name": "purchasing",
+        "usphone": "ˈpɜːrtʃəsɪŋ",
+        "ukphone": "ˈpɜːtʃəsɪŋ",
+        "trans": [
+            "<ruby>買<rt>か</rt></ruby>うこと"
+        ]
+    },
+    {
+        "name": "interview",
+        "usphone": "ˈɪntərvjuː",
+        "ukphone": "ˈɪntəvjuː",
+        "trans": [
+            "インタビュー"
+        ]
+    },
+    {
+        "name": "production",
+        "usphone": "prəˈdʌkʃn",
+        "ukphone": "prəˈdʌkʃn",
+        "trans": [
+            "<ruby>生産<rt>せいさん</rt></ruby>"
+        ]
+    },
+    {
+        "name": "resume",
+        "usphone": "ˈrezəmeɪ",
+        "ukphone": "ˈrezjumeɪ",
+        "trans": [
+            "<ruby>再開<rt>さいかい</rt></ruby>する"
+        ]
+    },
+    {
+        "name": "title",
+        "usphone": "ˈtaɪtl",
+        "ukphone": "ˈtaɪtl",
+        "trans": [
+            "<ruby>題名<rt>だいめい</rt></ruby>"
+        ]
+    },
+    {
+        "name": "actor",
+        "usphone": "ˈæktər",
+        "ukphone": "ˈæktə(r)",
+        "trans": [
+            "<ruby>俳優<rt>はいゆう</rt></ruby>"
+        ]
+    },
+    {
+        "name": "banker",
+        "usphone": "ˈbæŋkər",
+        "ukphone": "ˈbæŋkə(r)",
+        "trans": [
+            "<ruby>銀行員<rt>ぎんこういん</rt></ruby>"
+        ]
+    },
+    {
+        "name": "cleaner",
+        "usphone": "ˈkliːnər",
+        "ukphone": "ˈkliːnə(r)",
+        "trans": [
+            "そうじをする<ruby>人<rt>ひと</rt></ruby>"
+        ]
+    },
+    {
+        "name": "designer",
+        "usphone": "dɪˈzaɪnər",
+        "ukphone": "dɪˈzaɪnə(r)",
+        "trans": [
+            "デザイナー"
+        ]
+    },
+    {
+        "name": "director",
+        "usphone": "dəˈrektər",
+        "ukphone": "dəˈrektə(r)",
+        "trans": [
+            "<ruby>監督<rt>かんとく</rt></ruby>",
+            "<ruby>責任者<rt>せきにんしゃ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "driver",
+        "usphone": "ˈdraɪvər",
+        "ukphone": "ˈdraɪvə(r)",
+        "trans": [
+            "<ruby>運転手<rt>うんてんしゅ</rt></ruby>／ドライバー"
+        ]
+    },
+    {
+        "name": "manager",
+        "usphone": "ˈmænɪdʒər",
+        "ukphone": "ˈmænɪdʒə(r)",
+        "trans": [
+            "マネージャー",
+            "<ruby>管理者<rt>かんりしゃ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "illustrator",
+        "usphone": "ˈɪləstreɪtər",
+        "ukphone": "ˈɪləstreɪtə(r)",
+        "trans": [
+            "イラストレーター"
+        ]
+    },
+    {
+        "name": "before",
+        "usphone": "bɪˈfɔːr",
+        "ukphone": "bɪˈfɔː(r)",
+        "trans": [
+            "〜の<ruby>前<rt>まえ</rt></ruby>に"
+        ]
+    },
+    {
+        "name": "after",
+        "usphone": "ˈæftər",
+        "ukphone": "ˈɑːftə(r)",
+        "trans": [
+            "〜のあとで"
+        ]
+    },
+    {
+        "name": "operation",
+        "usphone": "ˌɑːpəˈreɪʃn",
+        "ukphone": "ˌɒpəˈreɪʃn",
+        "trans": [
+            "<ruby>手術<rt>しゅじゅつ</rt></ruby>",
+            "<ruby>操作<rt>そうさ</rt></ruby>"
+        ]
+    },
+    {
+        "name": "responsible",
+        "usphone": "rɪˈspɑːnsəbl",
+        "ukphone": "rɪˈspɒnsəbl",
+        "trans": [
+            "<ruby>責任<rt>せきにん</rt></ruby>がある"
+        ]
+    },
+    {
+        "name": "server",
+        "usphone": "ˈsɜːrvər",
+        "ukphone": "ˈsɜːvə(r)",
+        "trans": [
+            "サーバー"
+        ]
+    },
+    {
+        "name": "welcome",
+        "usphone": "ˈwelkəm",
+        "ukphone": "ˈwelkəm",
+        "trans": [
+            "ようこそ",
+            "<ruby>歓迎<rt>かんげい</rt></ruby>される"
+        ]
+    }
 ]

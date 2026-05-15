@@ -4,7 +4,7 @@
         "usphone": "skuːl",
         "ukphone": "skuːl",
         "trans": [
-            "培训基地"
+            "<ruby>学校<rt>がっこう</rt></ruby>"
         ]
     },
     {
@@ -12,7 +12,7 @@
         "usphone": "baɪ",
         "ukphone": "baɪ",
         "trans": [
-            "再见"
+            "さようなら"
         ]
     },
     {
@@ -20,7 +20,7 @@
         "usphone": "həˈloʊ",
         "ukphone": "həˈləʊ",
         "trans": [
-            "你好(用于打招呼)"
+            "こんにちは"
         ]
     },
     {
@@ -28,7 +28,7 @@
         "usphone": "hi",
         "ukphone": "hi",
         "trans": [
-            "他(代词)"
+            "<ruby>彼<rt>かれ</rt></ruby>"
         ]
     },
     {
@@ -36,7 +36,7 @@
         "usphone": "ʃi",
         "ukphone": "ʃi",
         "trans": [
-            "她"
+            "<ruby>彼女<rt>かのじょ</rt></ruby>"
         ]
     },
     {
@@ -44,7 +44,7 @@
         "usphone": "foʊn",
         "ukphone": "fəʊn",
         "trans": [
-            "电话"
+            "<ruby>電話<rt>でんわ</rt></ruby>"
         ]
     },
     {
@@ -52,7 +52,7 @@
         "usphone": "ˈtelɪfoʊn",
         "ukphone": "ˈtelɪfəʊn",
         "trans": [
-            "电话"
+            "<ruby>電話<rt>でんわ</rt></ruby>"
         ]
     },
     {
@@ -60,7 +60,8 @@
         "usphone": "ðeɪ",
         "ukphone": "ðeɪ",
         "trans": [
-            "他们, 它们"
+            "<ruby>彼<rt>かれ</rt></ruby>ら",
+            "<ruby>彼女<rt>かのじょ</rt></ruby>たち"
         ]
     },
     {
@@ -68,7 +69,8 @@
         "usphone": "jə",
         "ukphone": "ju",
         "trans": [
-            "你, 你们"
+            "あなた",
+            "あなたたち"
         ]
     },
     {
@@ -76,7 +78,8 @@
         "usphone": "ˈstuːdnt",
         "ukphone": "ˈstjuːdnt",
         "trans": [
-            "学生"
+            "<ruby>生徒<rt>せいと</rt></ruby>",
+            "<ruby>学生<rt>がくせい</rt></ruby>"
         ]
     },
     {
@@ -84,7 +87,7 @@
         "usphone": "eɪt",
         "ukphone": "eɪt",
         "trans": [
-            "数字8"
+            "<ruby>八<rt>はち</rt></ruby>"
         ]
     },
     {
@@ -92,7 +95,7 @@
         "usphone": "ˌeɪˈtiːn",
         "ukphone": "ˌeɪˈtiːn",
         "trans": [
-            "数字18"
+            "<ruby>十八<rt>じゅうはち</rt></ruby>"
         ]
     },
     {
@@ -100,7 +103,7 @@
         "usphone": "ɪˈlevn",
         "ukphone": "ɪˈlevn",
         "trans": [
-            "数字11"
+            "<ruby>十一<rt>じゅういち</rt></ruby>"
         ]
     },
     {
@@ -108,7 +111,7 @@
         "usphone": "ˌfɪfˈtiːn",
         "ukphone": "ˌfɪfˈtiːn",
         "trans": [
-            "数字15"
+            "<ruby>十五<rt>じゅうご</rt></ruby>"
         ]
     },
     {
@@ -116,7 +119,7 @@
         "usphone": "faɪn",
         "ukphone": "faɪn",
         "trans": [
-            "身体好的"
+            "<ruby>元気<rt>げんき</rt></ruby>な"
         ]
     },
     {
@@ -124,7 +127,7 @@
         "usphone": "faɪv",
         "ukphone": "faɪv",
         "trans": [
-            "数字5"
+            "<ruby>五<rt>ご</rt></ruby>"
         ]
     },
     {
@@ -132,7 +135,7 @@
         "usphone": "fɔːr",
         "ukphone": "fɔː(r)",
         "trans": [
-            "数字4"
+            "<ruby>四<rt>よん</rt></ruby>"
         ]
     },
     {
@@ -140,7 +143,7 @@
         "usphone": "ˌfɔːrˈtiːn",
         "ukphone": "ˌfɔːˈtiːn",
         "trans": [
-            "数字14"
+            "<ruby>十四<rt>じゅうよん</rt></ruby>"
         ]
     },
     {
@@ -148,7 +151,7 @@
         "usphone": "haɪ",
         "ukphone": "haɪ",
         "trans": [
-            "你好"
+            "やあ／こんにちは"
         ]
     },
     {
@@ -156,7 +159,8 @@
         "usphone": "haʊ",
         "ukphone": "haʊ",
         "trans": [
-            "怎么样, 如何"
+            "どのくらい",
+            "どう"
         ]
     },
     {
@@ -164,7 +168,7 @@
         "usphone": "miːt",
         "ukphone": "miːt",
         "trans": [
-            "(初次)认识, 会见"
+            "<ruby>会<rt>あ</rt></ruby>う"
         ]
     },
     {
@@ -172,7 +176,7 @@
         "usphone": "maɪ",
         "ukphone": "maɪ",
         "trans": [
-            "我的"
+            "わたしの"
         ]
     },
     {
@@ -180,7 +184,7 @@
         "usphone": "neɪm",
         "ukphone": "neɪm",
         "trans": [
-            "名字, 姓名, 名称"
+            "<ruby>名前<rt>なまえ</rt></ruby>"
         ]
     },
     {
@@ -188,7 +192,7 @@
         "usphone": "naɪs",
         "ukphone": "naɪs",
         "trans": [
-            "引き付ける人的, 美好的, 令人愉快的"
+            "すてきな"
         ]
     },
     {
@@ -196,7 +200,7 @@
         "usphone": "naɪn",
         "ukphone": "naɪn",
         "trans": [
-            "(数字)9"
+            "<ruby>九<rt>きゅう</rt></ruby>"
         ]
     },
     {
@@ -204,7 +208,7 @@
         "usphone": "ˌnaɪnˈtiːn",
         "ukphone": "ˌnaɪnˈtiːn",
         "trans": [
-            "(数字)19"
+            "<ruby>十九<rt>じゅうきゅう</rt></ruby>"
         ]
     },
     {
@@ -212,7 +216,8 @@
         "usphone": "ˈnʌmbər",
         "ukphone": "ˈnʌmbə(r)",
         "trans": [
-            "数, 数字"
+            "<ruby>数<rt>かず</rt></ruby>",
+            "<ruby>番号<rt>ばんごう</rt></ruby>"
         ]
     },
     {
@@ -220,7 +225,7 @@
         "usphone": "wʌn",
         "ukphone": "wʌn",
         "trans": [
-            "一, 一个"
+            "<ruby>一<rt>いち</rt></ruby>"
         ]
     },
     {
@@ -228,7 +233,7 @@
         "usphone": "ˈsevn",
         "ukphone": "ˈsevn",
         "trans": [
-            "(数字)7"
+            "<ruby>七<rt>なな</rt></ruby>"
         ]
     },
     {
@@ -236,7 +241,7 @@
         "usphone": "ˌsevnˈtiːn",
         "ukphone": "ˌsevnˈtiːn",
         "trans": [
-            "(数字)17"
+            "<ruby>十七<rt>じゅうなな</rt></ruby>"
         ]
     },
     {
@@ -244,7 +249,7 @@
         "usphone": "sɪks",
         "ukphone": "sɪks",
         "trans": [
-            "(数字)6"
+            "<ruby>六<rt>ろく</rt></ruby>"
         ]
     },
     {
@@ -252,7 +257,7 @@
         "usphone": "ˌsɪksˈtiːn",
         "ukphone": "ˌsɪksˈtiːn",
         "trans": [
-            "(数字)16"
+            "<ruby>十六<rt>じゅうろく</rt></ruby>"
         ]
     },
     {
@@ -260,7 +265,7 @@
         "usphone": "spel",
         "ukphone": "spel",
         "trans": [
-            "拼写"
+            "つづる"
         ]
     },
     {
@@ -268,7 +273,7 @@
         "usphone": "ten",
         "ukphone": "ten",
         "trans": [
-            "数字10"
+            "<ruby>十<rt>じゅう</rt></ruby>"
         ]
     },
     {
@@ -276,7 +281,7 @@
         "usphone": "θæŋks",
         "ukphone": "θæŋks",
         "trans": [
-            "多谢, 谢谢"
+            "ありがとう"
         ]
     },
     {
@@ -284,7 +289,8 @@
         "usphone": "ðæt",
         "ukphone": "ðæt",
         "trans": [
-            "那, 那个"
+            "あれ",
+            "その"
         ]
     },
     {
@@ -292,7 +298,7 @@
         "usphone": "ˌθɜːrˈtiːn",
         "ukphone": "ˌθɜːˈtiːn",
         "trans": [
-            "(数字)13"
+            "<ruby>十三<rt>じゅうさん</rt></ruby>"
         ]
     },
     {
@@ -300,7 +306,8 @@
         "usphone": "ðɪs",
         "ukphone": "ðɪs",
         "trans": [
-            "这, 这个, 这里"
+            "これ",
+            "この"
         ]
     },
     {
@@ -308,7 +315,7 @@
         "usphone": "θriː",
         "ukphone": "θriː",
         "trans": [
-            "数字3"
+            "<ruby>三<rt>さん</rt></ruby>"
         ]
     },
     {
@@ -316,7 +323,7 @@
         "usphone": "twelv",
         "ukphone": "twelv",
         "trans": [
-            "数字12"
+            "<ruby>十二<rt>じゅうに</rt></ruby>"
         ]
     },
     {
@@ -324,7 +331,7 @@
         "usphone": "ˈtwenti",
         "ukphone": "ˈtwenti",
         "trans": [
-            "数字20"
+            "<ruby>二十<rt>にじゅう</rt></ruby>"
         ]
     },
     {
@@ -332,7 +339,7 @@
         "usphone": "tuː",
         "ukphone": "tuː",
         "trans": [
-            "数字2"
+            "<ruby>二<rt>に</rt></ruby>"
         ]
     },
     {
@@ -340,7 +347,7 @@
         "usphone": "wɑːt",
         "ukphone": "wɒt",
         "trans": [
-            "什么, 怎么"
+            "<ruby>何<rt>なに</rt></ruby>"
         ]
     },
     {
@@ -348,7 +355,8 @@
         "usphone": "jʊr",
         "ukphone": "jɔː(r)",
         "trans": [
-            "你的, 你们的"
+            "あなたの",
+            "あなたたちの"
         ]
     },
     {
@@ -356,7 +364,7 @@
         "usphone": "ˈzɪroʊ",
         "ukphone": "ˈzɪərəʊ",
         "trans": [
-            "数字零(0)"
+            "0／ゼロ"
         ]
     },
     {
@@ -364,7 +372,7 @@
         "usphone": "kəmˈpjuːtər",
         "ukphone": "kəmˈpjuːtə(r)",
         "trans": [
-            "电脑"
+            "コンピューター"
         ]
     },
     {
@@ -372,7 +380,7 @@
         "usphone": "ˈnoʊtbʊk",
         "ukphone": "ˈnəʊtbʊk",
         "trans": [
-            "笔记本"
+            "ノート"
         ]
     },
     {
@@ -380,7 +388,7 @@
         "usphone": "hɪz",
         "ukphone": "hɪz",
         "trans": [
-            "他的(所有格)"
+            "<ruby>彼<rt>かれ</rt></ruby>の"
         ]
     },
     {
@@ -388,7 +396,7 @@
         "usphone": "kjuːt",
         "ukphone": "kjuːt",
         "trans": [
-            "可爱的,漂亮的"
+            "かわいい"
         ]
     },
     {
@@ -396,7 +404,8 @@
         "usphone": "bluː",
         "ukphone": "bluː",
         "trans": [
-            "天蓝色的"
+            "<ruby>青<rt>あお</rt></ruby>",
+            "<ruby>青<rt>あお</rt></ruby>い"
         ]
     },
     {
@@ -404,7 +413,7 @@
         "usphone": "bʊk",
         "ukphone": "bʊk",
         "trans": [
-            "书, 书籍"
+            "<ruby>本<rt>ほん</rt></ruby>"
         ]
     },
     {
@@ -412,7 +421,7 @@
         "usphone": "bɑːks",
         "ukphone": "bɒks",
         "trans": [
-            "箱子, 盒子"
+            "<ruby>箱<rt>はこ</rt></ruby>"
         ]
     },
     {
@@ -420,7 +429,8 @@
         "usphone": "braʊn",
         "ukphone": "braʊn",
         "trans": [
-            "棕色的, 褐色的"
+            "<ruby>茶色<rt>ちゃいろ</rt></ruby>",
+            "<ruby>茶色<rt>ちゃいろ</rt></ruby>い"
         ]
     },
     {
@@ -428,7 +438,7 @@
         "usphone": "bʊk",
         "ukphone": "bʊk",
         "trans": [
-            "书, 书籍"
+            "<ruby>本<rt>ほん</rt></ruby>"
         ]
     },
     {
@@ -436,7 +446,7 @@
         "usphone": "pen",
         "ukphone": "pen",
         "trans": [
-            "钢笔"
+            "ペン"
         ]
     },
     {
@@ -444,7 +454,7 @@
         "usphone": "ˈhedfoʊnz",
         "ukphone": "ˈhedfəʊnz",
         "trans": [
-            "头戴耳机"
+            "ヘッドホン"
         ]
     },
     {
@@ -452,7 +462,7 @@
         "usphone": "desk",
         "ukphone": "desk",
         "trans": [
-            "办公桌, 书桌"
+            "<ruby>机<rt>つくえ</rt></ruby>"
         ]
     },
     {
@@ -460,7 +470,7 @@
         "usphone": "hər",
         "ukphone": "hə(r)",
         "trans": [
-            "她的"
+            "<ruby>彼女<rt>かのじょ</rt></ruby>の"
         ]
     },
     {
@@ -468,7 +478,7 @@
         "usphone": "ˈelɪveɪtər",
         "ukphone": "ˈelɪveɪtə(r)",
         "trans": [
-            "电梯"
+            "エレベーター"
         ]
     },
     {
@@ -476,7 +486,8 @@
         "usphone": "ˈkɪtʃɪn",
         "ukphone": "ˈkɪtʃɪn",
         "trans": [
-            "厨房"
+            "<ruby>台所<rt>だいどころ</rt></ruby>",
+            "キッチン"
         ]
     },
     {
@@ -484,7 +495,8 @@
         "usphone": "ˈɔːfɪs",
         "ukphone": "ˈɒfɪs",
         "trans": [
-            "办公室"
+            "<ruby>事務所<rt>じむしょ</rt></ruby>",
+            "オフィス"
         ]
     },
     {
@@ -492,7 +504,7 @@
         "usphone": "ˈwɪndoʊ",
         "ukphone": "ˈwɪndəʊ",
         "trans": [
-            "窗户, 视窗, 窗口, 橱窗"
+            "<ruby>窓<rt>まど</rt></ruby>"
         ]
     },
     {
@@ -500,7 +512,8 @@
         "usphone": "blæk",
         "ukphone": "blæk",
         "trans": [
-            "黑色的"
+            "<ruby>黒<rt>くろ</rt></ruby>",
+            "<ruby>黒<rt>くろ</rt></ruby>い"
         ]
     },
     {
@@ -508,7 +521,7 @@
         "usphone": "ˈbʌtn",
         "ukphone": "ˈbʌtn",
         "trans": [
-            "纽扣, 按钮"
+            "ボタン"
         ]
     },
     {
@@ -516,7 +529,7 @@
         "usphone": "tʃer",
         "ukphone": "tʃeə(r)",
         "trans": [
-            "椅子"
+            "<ruby>椅子<rt>いす</rt></ruby>"
         ]
     },
     {
@@ -524,7 +537,7 @@
         "usphone": "kloʊz",
         "ukphone": "kləʊz",
         "trans": [
-            "合上, 收起"
+            "しめる"
         ]
     },
     {
@@ -532,7 +545,7 @@
         "usphone": "ˈɪrfoʊnz",
         "ukphone": "ˈɪəfəʊnz",
         "trans": [
-            "耳机"
+            "イヤホン"
         ]
     },
     {
@@ -540,7 +553,7 @@
         "usphone": "ˈeɪti",
         "ukphone": "ˈeɪti",
         "trans": [
-            "数字80"
+            "<ruby>八十<rt>はちじゅう</rt></ruby>"
         ]
     },
     {
@@ -548,7 +561,7 @@
         "usphone": "ˈfɪfti",
         "ukphone": "ˈfɪfti",
         "trans": [
-            "数字50"
+            "<ruby>五十<rt>ごじゅう</rt></ruby>"
         ]
     },
     {
@@ -556,7 +569,7 @@
         "usphone": "ˈfɔːrti",
         "ukphone": "ˈfɔːti",
         "trans": [
-            "(数字)40"
+            "<ruby>四十<rt>よんじゅう</rt></ruby>"
         ]
     },
     {
@@ -564,7 +577,8 @@
         "usphone": "ɡriːn",
         "ukphone": "ɡriːn",
         "trans": [
-            "绿的, 绿色的"
+            "<ruby>緑<rt>みどり</rt></ruby>",
+            "<ruby>緑色<rt>みどりいろ</rt></ruby>の"
         ]
     },
     {
@@ -572,7 +586,7 @@
         "usphone": "ˈkiːbɔːrd",
         "ukphone": "ˈkiːbɔːd",
         "trans": [
-            "(打字机, 电脑等的)键盘"
+            "キーボード"
         ]
     },
     {
@@ -580,7 +594,7 @@
         "usphone": "ˈlɪsn",
         "ukphone": "ˈlɪsn",
         "trans": [
-            "听, 留神听"
+            "<ruby>聞<rt>き</rt></ruby>く"
         ]
     },
     {
@@ -588,7 +602,7 @@
         "usphone": "ˈmaɪkrəfoʊn",
         "ukphone": "ˈmaɪkrəfəʊn",
         "trans": [
-            "话筒"
+            "マイク"
         ]
     },
     {
@@ -596,7 +610,7 @@
         "usphone": "maʊs",
         "ukphone": "maʊs",
         "trans": [
-            "老鼠, 鼠标"
+            "ネズミ／マウス"
         ]
     },
     {
@@ -604,7 +618,7 @@
         "usphone": "ˈnaɪnti",
         "ukphone": "ˈnaɪnti",
         "trans": [
-            "(数字)90"
+            "<ruby>九十<rt>きゅうじゅう</rt></ruby>"
         ]
     },
     {
@@ -612,7 +626,7 @@
         "usphone": "ˈoʊpən",
         "ukphone": "ˈəʊpən",
         "trans": [
-            "打开(门, 窗等)"
+            "<ruby>開<rt>あ</rt></ruby>ける"
         ]
     },
     {
@@ -620,7 +634,8 @@
         "usphone": "ˈɔːrɪndʒ",
         "ukphone": "ˈɒrɪndʒ",
         "trans": [
-            "橙色的, 橘黄色的"
+            "オレンジ",
+            "オレンジ<ruby>色<rt>いろ</rt></ruby>"
         ]
     },
     {
@@ -628,7 +643,7 @@
         "usphone": "ˈpensl",
         "ukphone": "ˈpensl",
         "trans": [
-            "铅笔"
+            "えんぴつ"
         ]
     },
     {
@@ -636,7 +651,7 @@
         "usphone": "pɪŋk",
         "ukphone": "pɪŋk",
         "trans": [
-            "粉红色的, 淡红色的"
+            "ピンク"
         ]
     },
     {
@@ -644,7 +659,7 @@
         "usphone": "ˈpɜːrpl",
         "ukphone": "ˈpɜːpl",
         "trans": [
-            "紫色的"
+            "<ruby>紫<rt>むらさき</rt></ruby>"
         ]
     },
     {
@@ -652,7 +667,7 @@
         "usphone": "riːd",
         "ukphone": "riːd",
         "trans": [
-            "阅读、读书（能力）"
+            "<ruby>読<rt>よ</rt></ruby>む"
         ]
     },
     {
@@ -660,7 +675,8 @@
         "usphone": "red",
         "ukphone": "red",
         "trans": [
-            "红色的"
+            "<ruby>赤<rt>あか</rt></ruby>",
+            "<ruby>赤<rt>あか</rt></ruby>い"
         ]
     },
     {
@@ -668,7 +684,7 @@
         "usphone": "seɪ",
         "ukphone": "seɪ",
         "trans": [
-            "说"
+            "<ruby>言<rt>い</rt></ruby>う"
         ]
     },
     {
@@ -676,7 +692,7 @@
         "usphone": "skriːn",
         "ukphone": "skriːn",
         "trans": [
-            "屏幕"
+            "<ruby>画面<rt>がめん</rt></ruby>"
         ]
     },
     {
@@ -684,7 +700,7 @@
         "usphone": "ˈsevnti",
         "ukphone": "ˈsevnti",
         "trans": [
-            "(数字)70"
+            "<ruby>七十<rt>ななじゅう</rt></ruby>"
         ]
     },
     {
@@ -692,7 +708,7 @@
         "usphone": "ˈsɪksti",
         "ukphone": "ˈsɪksti",
         "trans": [
-            "(数字)60"
+            "<ruby>六十<rt>ろくじゅう</rt></ruby>"
         ]
     },
     {
@@ -700,7 +716,7 @@
         "usphone": "ˈteɪbl",
         "ukphone": "ˈteɪbl",
         "trans": [
-            "桌子"
+            "テーブル"
         ]
     },
     {
@@ -708,7 +724,7 @@
         "usphone": "ˈtelɪfoʊn",
         "ukphone": "ˈtelɪfəʊn",
         "trans": [
-            "电话"
+            "<ruby>電話<rt>でんわ</rt></ruby>"
         ]
     },
     {
@@ -716,7 +732,7 @@
         "usphone": "ˈθɜːrti",
         "ukphone": "ˈθɜːti",
         "trans": [
-            "(数字)30"
+            "<ruby>三十<rt>さんじゅう</rt></ruby>"
         ]
     },
     {
@@ -724,7 +740,8 @@
         "usphone": "waɪt",
         "ukphone": "waɪt",
         "trans": [
-            "白色的"
+            "<ruby>白<rt>しろ</rt></ruby>",
+            "<ruby>白<rt>しろ</rt></ruby>い"
         ]
     },
     {
@@ -732,7 +749,7 @@
         "usphone": "raɪt",
         "ukphone": "raɪt",
         "trans": [
-            "写, 写字, 书写"
+            "<ruby>書<rt>か</rt></ruby>く"
         ]
     },
     {
@@ -740,7 +757,8 @@
         "usphone": "ˈjeloʊ",
         "ukphone": "ˈjeləʊ",
         "trans": [
-            "黄色的"
+            "<ruby>黄色<rt>きいろ</rt></ruby>",
+            "<ruby>黄色<rt>きいろ</rt></ruby>い"
         ]
     },
     {
@@ -748,7 +766,7 @@
         "usphone": "ɔːˈstreɪliən",
         "ukphone": "ɒˈstreɪliən",
         "trans": [
-            "澳大利亚的"
+            "オーストラリアの"
         ]
     },
     {
@@ -756,7 +774,7 @@
         "usphone": "ˈbrɪtɪʃ",
         "ukphone": "ˈbrɪtɪʃ",
         "trans": [
-            "英国的"
+            "イギリスの"
         ]
     },
     {
@@ -764,7 +782,7 @@
         "usphone": "ˈkraʊdɪd",
         "ukphone": "ˈkraʊdɪd",
         "trans": [
-            "拥挤的"
+            "こんでいる"
         ]
     },
     {
@@ -772,7 +790,7 @@
         "usphone": "ˈbɔːrɪŋ",
         "ukphone": "ˈbɔːrɪŋ",
         "trans": [
-            "令人厌烦的, 无聊的"
+            "たいくつな"
         ]
     },
     {
@@ -780,7 +798,7 @@
         "usphone": "ˈbɪldɪŋ",
         "ukphone": "ˈbɪldɪŋ",
         "trans": [
-            "建筑, 建筑物"
+            "<ruby>建物<rt>たてもの</rt></ruby>"
         ]
     },
     {
@@ -788,7 +806,7 @@
         "usphone": "ʃɑːp",
         "ukphone": "ʃɒp",
         "trans": [
-            "商店"
+            "お<ruby>店<rt>みせ</rt></ruby>"
         ]
     },
     {
@@ -796,7 +814,7 @@
         "usphone": "mjuˈziːəm",
         "ukphone": "mjuˈziːəm",
         "trans": [
-            "博物馆, 展览馆"
+            "<ruby>博物館<rt>はくぶつかん</rt></ruby>"
         ]
     },
     {
@@ -804,7 +822,7 @@
         "usphone": "bi",
         "ukphone": "bi",
         "trans": [
-            "存在"
+            "〜である"
         ]
     },
     {
@@ -812,7 +830,7 @@
         "usphone": "baɪ",
         "ukphone": "baɪ",
         "trans": [
-            "再见"
+            "さようなら"
         ]
     },
     {
@@ -820,7 +838,7 @@
         "usphone": "frəm",
         "ukphone": "frəm",
         "trans": [
-            "从......, 自..."
+            "〜から"
         ]
     },
     {
@@ -828,7 +846,7 @@
         "usphone": "hi",
         "ukphone": "hi",
         "trans": [
-            "他(代词)"
+            "<ruby>彼<rt>かれ</rt></ruby>"
         ]
     },
     {
@@ -836,7 +854,7 @@
         "usphone": "həˈloʊ",
         "ukphone": "həˈləʊ",
         "trans": [
-            "你好(用于打招呼)"
+            "こんにちは"
         ]
     },
     {
@@ -844,13 +862,13 @@
         "usphone": "hər",
         "ukphone": "hə(r)",
         "trans": [
-            "她的"
+            "<ruby>彼女<rt>かのじょ</rt></ruby>の"
         ]
     },
     {
         "name": "United States (of America)",
         "trans": [
-            "美国, 美利坚合众国"
+            "アメリカ<ruby>合衆国<rt>がっしゅうこく</rt></ruby>"
         ]
     },
     {
@@ -858,7 +876,7 @@
         "usphone": "ˈkʌntri",
         "ukphone": "ˈkʌntri",
         "trans": [
-            "国家"
+            "<ruby>国<rt>くに</rt></ruby>"
         ]
     },
     {
@@ -866,7 +884,7 @@
         "usphone": "frentʃ",
         "ukphone": "frentʃ",
         "trans": [
-            "法国的、法国人的、法语的"
+            "フランスの"
         ]
     },
     {
@@ -874,7 +892,7 @@
         "usphone": "əˈmerɪkən",
         "ukphone": "əˈmerɪkən",
         "trans": [
-            "美洲的;(尤指)美国的"
+            "アメリカの"
         ]
     },
     {
@@ -882,7 +900,8 @@
         "usphone": "ˈsɪti",
         "ukphone": "ˈsɪti",
         "trans": [
-            "城市"
+            "<ruby>町<rt>まち</rt></ruby>",
+            "<ruby>都市<rt>とし</rt></ruby>"
         ]
     },
     {
@@ -890,7 +909,7 @@
         "usphone": "ɪkˈsaɪtɪŋ",
         "ukphone": "ɪkˈsaɪtɪŋ",
         "trans": [
-            "令人兴奋的"
+            "わくわくする"
         ]
     },
     {
@@ -898,7 +917,7 @@
         "usphone": "pɑːrk",
         "ukphone": "pɑːk",
         "trans": [
-            "公园"
+            "<ruby>公園<rt>こうえん</rt></ruby>"
         ]
     },
     {
@@ -906,7 +925,7 @@
         "usphone": "ˈrestrɑːnt",
         "ukphone": "ˈrestrɒnt",
         "trans": [
-            "餐馆, 餐厅"
+            "レストラン"
         ]
     },
     {
@@ -914,7 +933,7 @@
         "usphone": "hɪz",
         "ukphone": "hɪz",
         "trans": [
-            "他的(所有格)"
+            "<ruby>彼<rt>かれ</rt></ruby>の"
         ]
     },
     {
@@ -922,7 +941,8 @@
         "usphone": "haʊ",
         "ukphone": "haʊ",
         "trans": [
-            "怎么样, 如何"
+            "どのくらい",
+            "どう"
         ]
     },
     {
@@ -930,7 +950,7 @@
         "usphone": "aɪ",
         "ukphone": "aɪ",
         "trans": [
-            "我"
+            "わたし"
         ]
     },
     {
@@ -938,7 +958,7 @@
         "usphone": "ɪt",
         "ukphone": "ɪt",
         "trans": [
-            "它(代词)"
+            "それ"
         ]
     },
     {
@@ -946,7 +966,7 @@
         "usphone": "laɪk",
         "ukphone": "laɪk",
         "trans": [
-            "喜欢"
+            "<ruby>好<rt>す</rt></ruby>き"
         ]
     },
     {
@@ -954,7 +974,7 @@
         "usphone": "lɪv",
         "ukphone": "lɪv",
         "trans": [
-            "住, 居住"
+            "<ruby>住<rt>す</rt></ruby>む"
         ]
     },
     {
@@ -962,7 +982,7 @@
         "usphone": "ɑːr",
         "ukphone": "ɑː(r)",
         "trans": [
-            "我们的"
+            "わたしたちの"
         ]
     },
     {
@@ -970,7 +990,7 @@
         "usphone": "ʃi",
         "ukphone": "ʃi",
         "trans": [
-            "她"
+            "<ruby>彼女<rt>かのじょ</rt></ruby>"
         ]
     },
     {
@@ -978,7 +998,7 @@
         "usphone": "ðer",
         "ukphone": "ðeə(r)",
         "trans": [
-            "他们的"
+            "かれらの"
         ]
     },
     {
@@ -986,7 +1006,8 @@
         "usphone": "ðeɪ",
         "ukphone": "ðeɪ",
         "trans": [
-            "他们, 它们"
+            "<ruby>彼<rt>かれ</rt></ruby>ら",
+            "<ruby>彼女<rt>かのじょ</rt></ruby>たち"
         ]
     },
     {
@@ -994,7 +1015,7 @@
         "usphone": "ˌjuːˈkeɪ",
         "ukphone": "ˌjuːˈkeɪ",
         "trans": [
-            "英国"
+            "イギリス"
         ]
     },
     {
@@ -1002,7 +1023,7 @@
         "usphone": "ˌjuːˈes",
         "ukphone": "ˌjuːˈes",
         "trans": [
-            "美国,美国的"
+            "アメリカ"
         ]
     },
     {
@@ -1010,7 +1031,7 @@
         "usphone": "wi",
         "ukphone": "wi",
         "trans": [
-            "我们"
+            "わたしたち"
         ]
     },
     {
@@ -1018,7 +1039,7 @@
         "usphone": "wer",
         "ukphone": "weə(r)",
         "trans": [
-            "在哪里, 到哪里, 在 位 置"
+            "どこ"
         ]
     },
     {
@@ -1026,7 +1047,8 @@
         "usphone": "jə",
         "ukphone": "ju",
         "trans": [
-            "你, 你们"
+            "あなた",
+            "あなたたち"
         ]
     },
     {
@@ -1034,13 +1056,13 @@
         "usphone": "meɪl",
         "ukphone": "meɪl",
         "trans": [
-            "男性的, 男子的, 雄的, 公的"
+            "<ruby>男性<rt>だんせい</rt></ruby>の"
         ]
     },
     {
         "name": "only child",
         "trans": [
-            "独子,独女"
+            "<ruby>一人<rt>ひとり</rt></ruby>っ<ruby>子<rt>こ</rt></ruby>"
         ]
     },
     {
@@ -1048,7 +1070,7 @@
         "usphone": "ˈpiːpl",
         "ukphone": "ˈpiːpl",
         "trans": [
-            "人, 人类, 人民"
+            "<ruby>人々<rt>ひとびと</rt></ruby>"
         ]
     },
     {
@@ -1056,7 +1078,9 @@
         "usphone": "ˈsɪstər",
         "ukphone": "ˈsɪstə(r)",
         "trans": [
-            "姐妹"
+            "<ruby>姉妹<rt>しまい</rt></ruby>",
+            "<ruby>姉<rt>あね</rt></ruby>",
+            "<ruby>妹<rt>いもうと</rt></ruby>"
         ]
     },
     {
@@ -1064,7 +1088,7 @@
         "usphone": "smɔːl",
         "ukphone": "smɔːl",
         "trans": [
-            "(尺寸等)小的"
+            "<ruby>小<rt>ちい</rt></ruby>さい"
         ]
     },
     {
@@ -1072,7 +1096,7 @@
         "usphone": "sʌn",
         "ukphone": "sʌn",
         "trans": [
-            "儿子, 孩子"
+            "<ruby>息子<rt>むすこ</rt></ruby>"
         ]
     },
     {
@@ -1080,7 +1104,7 @@
         "usphone": "ˈʌŋkl",
         "ukphone": "ˈʌŋkl",
         "trans": [
-            "伯父, 姨丈, 叔父, 舅舅"
+            "おじさん"
         ]
     },
     {
@@ -1088,7 +1112,7 @@
         "usphone": "ɪr",
         "ukphone": "ɪə(r)",
         "trans": [
-            "耳朵"
+            "<ruby>耳<rt>みみ</rt></ruby>"
         ]
     },
     {
@@ -1096,7 +1120,7 @@
         "usphone": "aɪ",
         "ukphone": "aɪ",
         "trans": [
-            "眼睛, 眼珠"
+            "<ruby>目<rt>め</rt></ruby>"
         ]
     },
     {
@@ -1104,7 +1128,7 @@
         "usphone": "hed",
         "ukphone": "hed",
         "trans": [
-            "头部"
+            "<ruby>頭<rt>あたま</rt></ruby>"
         ]
     },
     {
@@ -1112,7 +1136,7 @@
         "usphone": "maʊθ",
         "ukphone": "maʊθ",
         "trans": [
-            "口"
+            "<ruby>口<rt>くち</rt></ruby>"
         ]
     },
     {
@@ -1120,7 +1144,7 @@
         "usphone": "noʊz",
         "ukphone": "nəʊz",
         "trans": [
-            "鼻子"
+            "<ruby>鼻<rt>はな</rt></ruby>"
         ]
     },
     {
@@ -1128,7 +1152,8 @@
         "usphone": "red",
         "ukphone": "red",
         "trans": [
-            "红色的"
+            "<ruby>赤<rt>あか</rt></ruby>",
+            "<ruby>赤<rt>あか</rt></ruby>い"
         ]
     },
     {
@@ -1136,7 +1161,7 @@
         "usphone": "ʌnˈhæpi",
         "ukphone": "ʌnˈhæpi",
         "trans": [
-            "不快乐的, 不高兴的, 不幸福的, 不满的"
+            "かなしい"
         ]
     },
     {
@@ -1144,7 +1169,7 @@
         "usphone": "ˈɑːrkɪtekt",
         "ukphone": "ˈɑːkɪtekt",
         "trans": [
-            "建筑师"
+            "<ruby>建築家<rt>けんちくか</rt></ruby>"
         ]
     },
     {
@@ -1152,7 +1177,7 @@
         "usphone": "ˈdɑːktər",
         "ukphone": "ˈdɒktə(r)",
         "trans": [
-            "医生"
+            "<ruby>医者<rt>いしゃ</rt></ruby>／<ruby>博士<rt>はかせ</rt></ruby>"
         ]
     },
     {
@@ -1160,7 +1185,7 @@
         "usphone": "ˌendʒɪˈnɪr",
         "ukphone": "ˌendʒɪˈnɪə(r)",
         "trans": [
-            "工程师"
+            "エンジニア"
         ]
     },
     {
@@ -1168,7 +1193,7 @@
         "usphone": "ˈhʌzbənd",
         "ukphone": "ˈhʌzbənd",
         "trans": [
-            "丈夫"
+            "<ruby>夫<rt>おっと</rt></ruby>"
         ]
     },
     {
@@ -1176,7 +1201,7 @@
         "usphone": "ˈfæməli",
         "ukphone": "ˈfæməli",
         "trans": [
-            "家庭"
+            "<ruby>家族<rt>かぞく</rt></ruby>"
         ]
     },
     {
@@ -1184,7 +1209,8 @@
         "usphone": "ˈmʌðər",
         "ukphone": "ˈmʌðə(r)",
         "trans": [
-            "母亲, 妈妈"
+            "お<ruby>母<rt>かあ</rt></ruby>さん",
+            "<ruby>母<rt>はは</rt></ruby>"
         ]
     },
     {
@@ -1192,7 +1218,7 @@
         "usphone": "ˈtiːtʃər",
         "ukphone": "ˈtiːtʃə(r)",
         "trans": [
-            "教师, 老师"
+            "<ruby>先生<rt>せんせい</rt></ruby>"
         ]
     },
     {
@@ -1200,7 +1226,7 @@
         "usphone": "waɪf",
         "ukphone": "waɪf",
         "trans": [
-            "妻子, 太太"
+            "<ruby>妻<rt>つま</rt></ruby>"
         ]
     },
     {
@@ -1208,7 +1234,8 @@
         "usphone": "ɡriːn",
         "ukphone": "ɡriːn",
         "trans": [
-            "绿的, 绿色的"
+            "<ruby>緑<rt>みどり</rt></ruby>",
+            "<ruby>緑色<rt>みどりいろ</rt></ruby>の"
         ]
     },
     {
@@ -1216,7 +1243,8 @@
         "usphone": "bluː",
         "ukphone": "bluː",
         "trans": [
-            "天蓝色的"
+            "<ruby>青<rt>あお</rt></ruby>",
+            "<ruby>青<rt>あお</rt></ruby>い"
         ]
     },
     {
@@ -1224,7 +1252,8 @@
         "usphone": "braʊn",
         "ukphone": "braʊn",
         "trans": [
-            "棕色的, 褐色的"
+            "<ruby>茶色<rt>ちゃいろ</rt></ruby>",
+            "<ruby>茶色<rt>ちゃいろ</rt></ruby>い"
         ]
     },
     {
@@ -1232,7 +1261,7 @@
         "usphone": "ˈɡrænfɑːðər",
         "ukphone": "ˈɡrænfɑːðə(r)",
         "trans": [
-            "爷爷, 外公"
+            "おじいさん"
         ]
     },
     {
@@ -1240,7 +1269,7 @@
         "usphone": "ˈɡrænmʌðər",
         "ukphone": "ˈɡrænmʌðə(r)",
         "trans": [
-            "奶奶, 外婆"
+            "おばあさん"
         ]
     },
     {
@@ -1248,7 +1277,8 @@
         "usphone": "blæk",
         "ukphone": "blæk",
         "trans": [
-            "黑色的"
+            "<ruby>黒<rt>くろ</rt></ruby>",
+            "<ruby>黒<rt>くろ</rt></ruby>い"
         ]
     },
     {
@@ -1256,7 +1286,7 @@
         "usphone": "feɪs",
         "ukphone": "feɪs",
         "trans": [
-            "脸, 脸庞"
+            "<ruby>顔<rt>かお</rt></ruby>"
         ]
     },
     {
@@ -1264,7 +1294,7 @@
         "usphone": "her",
         "ukphone": "heə(r)",
         "trans": [
-            "头发, 毛发"
+            "<ruby>髪<rt>かみ</rt></ruby>"
         ]
     },
     {
@@ -1272,7 +1302,7 @@
         "usphone": "smaɪl",
         "ukphone": "smaɪl",
         "trans": [
-            "微笑, 笑容"
+            "にっこりする"
         ]
     },
     {
@@ -1280,7 +1310,7 @@
         "usphone": "bɔːs",
         "ukphone": "bɒs",
         "trans": [
-            "老板, 领导"
+            "<ruby>上司<rt>じょうし</rt></ruby>"
         ]
     },
     {
@@ -1288,7 +1318,8 @@
         "usphone": "ˈmænɪdʒər",
         "ukphone": "ˈmænɪdʒə(r)",
         "trans": [
-            "主管, 经理, 负责人"
+            "マネージャー",
+            "<ruby>管理者<rt>かんりしゃ</rt></ruby>"
         ]
     },
     {
@@ -1296,7 +1327,8 @@
         "usphone": "ˈɑːrtɪst",
         "ukphone": "ˈɑːtɪst",
         "trans": [
-            "艺术家"
+            "<ruby>芸術家<rt>げいじゅつか</rt></ruby>",
+            "アーティスト"
         ]
     },
     {
@@ -1304,7 +1336,7 @@
         "usphone": "kloʊðz",
         "ukphone": "kləʊðz",
         "trans": [
-            "衣服"
+            "<ruby>服<rt>ふく</rt></ruby>"
         ]
     },
     {
@@ -1312,7 +1344,7 @@
         "usphone": "ˈfaɪərfaɪtər",
         "ukphone": "ˈfaɪəfaɪtə(r)",
         "trans": [
-            "消防队员"
+            "<ruby>消防士<rt>しょうぼうし</rt></ruby>"
         ]
     },
     {
@@ -1320,7 +1352,7 @@
         "usphone": "ˈsekrəteri",
         "ukphone": "ˈsekrətri",
         "trans": [
-            "秘书"
+            "<ruby>秘書<rt>ひしょ</rt></ruby>"
         ]
     },
     {
@@ -1328,7 +1360,7 @@
         "usphone": "ænt",
         "ukphone": "ɑːnt",
         "trans": [
-            "阿姨, 婶婶"
+            "おばさん"
         ]
     },
     {
@@ -1336,7 +1368,7 @@
         "usphone": "bɪɡ",
         "ukphone": "bɪɡ",
         "trans": [
-            "(体积)大, (量)大, (程度)深"
+            "<ruby>大<rt>おお</rt></ruby>きい"
         ]
     },
     {
@@ -1344,7 +1376,9 @@
         "usphone": "ˈbrʌðər",
         "ukphone": "ˈbrʌðə(r)",
         "trans": [
-            "兄弟"
+            "<ruby>兄弟<rt>きょうだい</rt></ruby>",
+            "<ruby>兄<rt>あに</rt></ruby>",
+            "<ruby>弟<rt>おとうと</rt></ruby>"
         ]
     },
     {
@@ -1352,7 +1386,8 @@
         "usphone": "ˈbɪznəsmæn",
         "ukphone": "ˈbɪznəsmæn",
         "trans": [
-            "商人"
+            "ビジネスマン",
+            "<ruby>会社員<rt>かいしゃいん</rt></ruby>"
         ]
     },
     {
@@ -1360,7 +1395,7 @@
         "usphone": "ˈdɔːtər",
         "ukphone": "ˈdɔːtə(r)",
         "trans": [
-            "女儿"
+            "<ruby>娘<rt>むすめ</rt></ruby>"
         ]
     },
     {
@@ -1368,7 +1403,7 @@
         "usphone": "ˈfæməli",
         "ukphone": "ˈfæməli",
         "trans": [
-            "家庭"
+            "<ruby>家族<rt>かぞく</rt></ruby>"
         ]
     },
     {
@@ -1376,7 +1411,8 @@
         "usphone": "ˈfɑːðər",
         "ukphone": "ˈfɑːðə(r)",
         "trans": [
-            "父亲"
+            "お<ruby>父<rt>とう</rt></ruby>さん",
+            "<ruby>父<rt>ちち</rt></ruby>"
         ]
     },
     {
@@ -1384,7 +1420,7 @@
         "usphone": "ˈfiːmeɪl",
         "ukphone": "ˈfiːmeɪl",
         "trans": [
-            "女性的"
+            "<ruby>女性<rt>じょせい</rt></ruby>の"
         ]
     },
     {
@@ -1392,7 +1428,7 @@
         "usphone": "ˈɡrænperənt",
         "ukphone": "ˈɡrænpeərənt",
         "trans": [
-            "爷爷奶奶, 外公外婆"
+            "おじいさん・おばあさん"
         ]
     },
     {
@@ -1400,7 +1436,8 @@
         "usphone": "həv",
         "ukphone": "həv",
         "trans": [
-            "拥有"
+            "<ruby>持<rt>も</rt></ruby>っている",
+            "ある"
         ]
     },
     {
@@ -1408,7 +1445,7 @@
         "usphone": "ˈæktər",
         "ukphone": "ˈæktə(r)",
         "trans": [
-            "男演员"
+            "<ruby>俳優<rt>はいゆう</rt></ruby>"
         ]
     },
     {
@@ -1416,7 +1453,7 @@
         "usphone": "əˈdres",
         "ukphone": "əˈdres",
         "trans": [
-            "地址"
+            "<ruby>住所<rt>じゅうしょ</rt></ruby>"
         ]
     },
     {
@@ -1424,7 +1461,7 @@
         "usphone": "ˈɑːrkɪtekt",
         "ukphone": "ˈɑːkɪtekt",
         "trans": [
-            "建筑师"
+            "<ruby>建築家<rt>けんちくか</rt></ruby>"
         ]
     },
     {
@@ -1432,7 +1469,8 @@
         "usphone": "ˈɑːrtɪst",
         "ukphone": "ˈɑːtɪst",
         "trans": [
-            "艺术家"
+            "<ruby>芸術家<rt>げいじゅつか</rt></ruby>",
+            "アーティスト"
         ]
     },
     {
@@ -1440,13 +1478,13 @@
         "usphone": "bɔːs",
         "ukphone": "bɒs",
         "trans": [
-            "老板, 领导"
+            "<ruby>上司<rt>じょうし</rt></ruby>"
         ]
     },
     {
         "name": "business card",
         "trans": [
-            "名片"
+            "<ruby>名刺<rt>めいし</rt></ruby>"
         ]
     },
     {
@@ -1454,7 +1492,7 @@
         "usphone": "ˈdɑːktər",
         "ukphone": "ˈdɒktə(r)",
         "trans": [
-            "医生"
+            "<ruby>医者<rt>いしゃ</rt></ruby>／<ruby>博士<rt>はかせ</rt></ruby>"
         ]
     },
     {
@@ -1462,7 +1500,7 @@
         "usphone": "draɪv",
         "ukphone": "draɪv",
         "trans": [
-            "驾驶, 开车"
+            "<ruby>運転<rt>うんてん</rt></ruby>する"
         ]
     },
     {
@@ -1470,7 +1508,7 @@
         "usphone": "ˈiːmeɪl",
         "ukphone": "ˈiːmeɪl",
         "trans": [
-            "电子邮件"
+            "メール"
         ]
     },
     {
@@ -1478,7 +1516,7 @@
         "usphone": "ˌendʒɪˈnɪr",
         "ukphone": "ˌendʒɪˈnɪə(r)",
         "trans": [
-            "工程师"
+            "エンジニア"
         ]
     },
     {
@@ -1486,7 +1524,7 @@
         "usphone": "ˈfaɪərfaɪtər",
         "ukphone": "ˈfaɪəfaɪtə(r)",
         "trans": [
-            "消防队员"
+            "<ruby>消防士<rt>しょうぼうし</rt></ruby>"
         ]
     },
     {
@@ -1494,7 +1532,7 @@
         "usphone": "ˈhɑːspɪtl",
         "ukphone": "ˈhɒspɪtl",
         "trans": [
-            "医院"
+            "<ruby>病院<rt>びょういん</rt></ruby>"
         ]
     },
     {
@@ -1502,7 +1540,7 @@
         "usphone": "ˈɪntrəstɪŋ",
         "ukphone": "ˈɪntrəstɪŋ",
         "trans": [
-            "有趣的, 引人关注的"
+            "おもしろい"
         ]
     },
     {
@@ -1510,7 +1548,8 @@
         "usphone": "ˈmænɪdʒər",
         "ukphone": "ˈmænɪdʒə(r)",
         "trans": [
-            "主管, 经理, 负责人"
+            "マネージャー",
+            "<ruby>管理者<rt>かんりしゃ</rt></ruby>"
         ]
     },
     {
@@ -1518,7 +1557,7 @@
         "usphone": "nɜːrs",
         "ukphone": "nɜːs",
         "trans": [
-            "护士, 保姆"
+            "<ruby>看護師<rt>かんごし</rt></ruby>"
         ]
     },
     {
@@ -1526,13 +1565,14 @@
         "usphone": "ˈɔːfɪs",
         "ukphone": "ˈɒfɪs",
         "trans": [
-            "办公室"
+            "<ruby>事務所<rt>じむしょ</rt></ruby>",
+            "オフィス"
         ]
     },
     {
         "name": "police officer",
         "trans": [
-            "警官"
+            "<ruby>警察官<rt>けいさつかん</rt></ruby>"
         ]
     },
     {
@@ -1540,7 +1580,7 @@
         "usphone": "ˈriːəli",
         "ukphone": "ˈriːəli",
         "trans": [
-            "真实地, 真正地, 实际上"
+            "ほんとうに"
         ]
     },
     {
@@ -1548,7 +1588,7 @@
         "usphone": "ˈrestrɑːnt",
         "ukphone": "ˈrestrɒnt",
         "trans": [
-            "餐馆, 餐厅"
+            "レストラン"
         ]
     },
     {
@@ -1556,7 +1596,7 @@
         "usphone": "ˈsæləri",
         "ukphone": "ˈsæləri",
         "trans": [
-            "薪水, 工资, 报酬"
+            "<ruby>給料<rt>きゅうりょう</rt></ruby>"
         ]
     },
     {
@@ -1564,7 +1604,7 @@
         "usphone": "skuːl",
         "ukphone": "skuːl",
         "trans": [
-            "学校"
+            "<ruby>学校<rt>がっこう</rt></ruby>"
         ]
     },
     {
@@ -1572,7 +1612,7 @@
         "usphone": "ˈsekrəteri",
         "ukphone": "ˈsekrətri",
         "trans": [
-            "秘书"
+            "<ruby>秘書<rt>ひしょ</rt></ruby>"
         ]
     },
     {
@@ -1580,7 +1620,7 @@
         "usphone": "ʃɑːp",
         "ukphone": "ʃɒp",
         "trans": [
-            "商店"
+            "お<ruby>店<rt>みせ</rt></ruby>"
         ]
     },
     {
@@ -1588,7 +1628,7 @@
         "usphone": "tiːtʃ",
         "ukphone": "tiːtʃ",
         "trans": [
-            "教, 教授"
+            "<ruby>教<rt>おし</rt></ruby>える"
         ]
     },
     {
@@ -1596,7 +1636,7 @@
         "usphone": "ˈtiːtʃər",
         "ukphone": "ˈtiːtʃə(r)",
         "trans": [
-            "教师, 老师"
+            "<ruby>先生<rt>せんせい</rt></ruby>"
         ]
     },
     {
@@ -1604,7 +1644,7 @@
         "usphone": "ˈθiːətər",
         "ukphone": "ˈθɪətə(r)",
         "trans": [
-            "剧院, 剧场"
+            "<ruby>劇場<rt>げきじょう</rt></ruby>"
         ]
     },
     {
@@ -1612,7 +1652,7 @@
         "usphone": "ˈweɪtər",
         "ukphone": "ˈweɪtə(r)",
         "trans": [
-            "服务员, 侍者"
+            "ウェイター"
         ]
     },
     {
@@ -1620,7 +1660,7 @@
         "usphone": "ˈweɪtrəs",
         "ukphone": "ˈweɪtrəs",
         "trans": [
-            "女服务生"
+            "ウェイトレス"
         ]
     },
     {
@@ -1628,7 +1668,7 @@
         "usphone": "dres",
         "ukphone": "dres",
         "trans": [
-            "裙子, 连衣裙"
+            "ワンピース"
         ]
     },
     {
@@ -1636,7 +1676,7 @@
         "usphone": "ˈdʒækɪt",
         "ukphone": "ˈdʒækɪt",
         "trans": [
-            "短上衣, 夹克"
+            "ジャケット"
         ]
     },
     {
@@ -1644,7 +1684,7 @@
         "usphone": "dʒiːnz",
         "ukphone": "dʒiːnz",
         "trans": [
-            "牛仔裤, 粗斜纹棉布裤, 工装裤"
+            "ジーンズ／ジーパン"
         ]
     },
     {
@@ -1652,7 +1692,7 @@
         "usphone": "pænts",
         "ukphone": "pænts",
         "trans": [
-            "裤子"
+            "ズボン"
         ]
     },
     {
@@ -1660,7 +1700,7 @@
         "usphone": "ʃɜːrt",
         "ukphone": "ʃɜːt",
         "trans": [
-            "衬衫"
+            "シャツ"
         ]
     },
     {
@@ -1668,7 +1708,7 @@
         "usphone": "ˈpɜːrpl",
         "ukphone": "ˈpɜːpl",
         "trans": [
-            "紫色的"
+            "<ruby>紫<rt>むらさき</rt></ruby>"
         ]
     },
     {
@@ -1676,7 +1716,8 @@
         "usphone": "ˈjeloʊ",
         "ukphone": "ˈjeləʊ",
         "trans": [
-            "黄色的"
+            "<ruby>黄色<rt>きいろ</rt></ruby>",
+            "<ruby>黄色<rt>きいろ</rt></ruby>い"
         ]
     },
     {
@@ -1684,7 +1725,7 @@
         "usphone": "ˈbeɪbi",
         "ukphone": "ˈbeɪbi",
         "trans": [
-            "婴儿"
+            "<ruby>赤<rt>あか</rt></ruby>ちゃん"
         ]
     },
     {
@@ -1692,7 +1733,7 @@
         "usphone": "ˈswetər",
         "ukphone": "ˈswetə(r)",
         "trans": [
-            "毛衣, 毛绒衫, 運動衫"
+            "セーター"
         ]
     },
     {
@@ -1700,7 +1741,7 @@
         "usphone": "tʃiːp",
         "ukphone": "tʃiːp",
         "trans": [
-            "便宜的"
+            "<ruby>安<rt>やす</rt></ruby>い"
         ]
     },
     {
@@ -1708,7 +1749,8 @@
         "usphone": "wɑːnt",
         "ukphone": "wɒnt",
         "trans": [
-            "必要, 想要, 希望"
+            "ほしい",
+            "〜したい"
         ]
     },
     {
@@ -1716,13 +1758,13 @@
         "usphone": "wɜːrk",
         "ukphone": "wɜːk",
         "trans": [
-            "仕事, 做仕事, 从事体力劳动或脑力劳动"
+            "<ruby>仕事<rt>しごと</rt></ruby>"
         ]
     },
     {
         "name": "zip code",
         "trans": [
-            "邮码, 邮政区码"
+            "<ruby>郵便番号<rt>ゆうびんばんごう</rt></ruby>"
         ]
     },
     {
@@ -1730,7 +1772,7 @@
         "usphone": "ʃuː",
         "ukphone": "ʃuː",
         "trans": [
-            "鞋子"
+            "くつ"
         ]
     },
     {
@@ -1738,7 +1780,7 @@
         "usphone": "skɜːrt",
         "ukphone": "skɜːt",
         "trans": [
-            "裙子"
+            "スカート"
         ]
     },
     {
@@ -1746,13 +1788,13 @@
         "usphone": "sɑːk",
         "ukphone": "sɒk",
         "trans": [
-            "短袜, 袜子"
+            "くつ<ruby>下<rt>した</rt></ruby>"
         ]
     },
     {
         "name": "T-shirt",
         "trans": [
-            "短袖圆领衫"
+            "Tシャツ"
         ],
         "usphone": "'ti,ʃɝt",
         "ukphone": "'ti, ʃɜ:t"
@@ -1762,7 +1804,7 @@
         "usphone": "ɡoʊ",
         "ukphone": "ɡəʊ",
         "trans": [
-            "走"
+            "<ruby>行<rt>い</rt></ruby>く"
         ]
     },
     {
@@ -1770,7 +1812,7 @@
         "usphone": "pɪŋk",
         "ukphone": "pɪŋk",
         "trans": [
-            "粉红色的, 淡红色的"
+            "ピンク"
         ]
     },
     {
@@ -1778,7 +1820,8 @@
         "usphone": "waɪt",
         "ukphone": "waɪt",
         "trans": [
-            "白色的"
+            "<ruby>白<rt>しろ</rt></ruby>",
+            "<ruby>白<rt>しろ</rt></ruby>い"
         ]
     },
     {
@@ -1786,7 +1829,7 @@
         "usphone": "ˈkɑːtn",
         "ukphone": "ˈkɒtn",
         "trans": [
-            "棉花"
+            "<ruby>綿<rt>めん</rt></ruby>"
         ]
     },
     {
@@ -1794,7 +1837,7 @@
         "usphone": "ˈdɑːlər",
         "ukphone": "ˈdɒlə(r)",
         "trans": [
-            "美元"
+            "ドル"
         ]
     },
     {
@@ -1802,7 +1845,7 @@
         "usphone": "fɜːrst",
         "ukphone": "fɜːst",
         "trans": [
-            "第一"
+            "<ruby>第一<rt>だいいち</rt></ruby>の"
         ]
     },
     {
@@ -1810,7 +1853,7 @@
         "usphone": "hoʊm",
         "ukphone": "həʊm",
         "trans": [
-            "家"
+            "<ruby>家<rt>いえ</rt></ruby>"
         ]
     },
     {
@@ -1818,7 +1861,7 @@
         "usphone": "ˈsekənd",
         "ukphone": "ˈsekənd",
         "trans": [
-            "第二的"
+            "<ruby>第二<rt>だいに</rt></ruby>の"
         ]
     },
     {
@@ -1826,7 +1869,7 @@
         "usphone": "θɜːrd",
         "ukphone": "θɜːd",
         "trans": [
-            "第三"
+            "<ruby>第三<rt>だいさん</rt></ruby>の"
         ]
     },
     {
@@ -1834,7 +1877,7 @@
         "usphone": "ˈwʊmən",
         "ukphone": "ˈwʊmən",
         "trans": [
-            "女人, 妇女, 女性"
+            "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>"
         ]
     },
     {
@@ -1842,7 +1885,7 @@
         "usphone": "ɑːrm",
         "ukphone": "ɑːm",
         "trans": [
-            "手臂, 胳膊"
+            "<ruby>腕<rt>うで</rt></ruby>"
         ]
     },
     {
@@ -1850,7 +1893,7 @@
         "usphone": "blɑːnd",
         "ukphone": "blɒnd",
         "trans": [
-            "亚麻色的、金色的、白皙的"
+            "<ruby>金髪<rt>きんぱつ</rt></ruby>の"
         ]
     },
     {
@@ -1858,7 +1901,7 @@
         "usphone": "ˈbɑːdi",
         "ukphone": "ˈbɒdi",
         "trans": [
-            "身体, 躯体"
+            "<ruby>体<rt>からだ</rt></ruby>"
         ]
     },
     {
@@ -1866,7 +1909,7 @@
         "usphone": "ɪr",
         "ukphone": "ɪə(r)",
         "trans": [
-            "耳朵"
+            "<ruby>耳<rt>みみ</rt></ruby>"
         ]
     },
     {
@@ -1874,7 +1917,7 @@
         "usphone": "aɪ",
         "ukphone": "aɪ",
         "trans": [
-            "眼睛, 眼珠"
+            "<ruby>目<rt>め</rt></ruby>"
         ]
     },
     {
@@ -1882,7 +1925,7 @@
         "usphone": "feɪs",
         "ukphone": "feɪs",
         "trans": [
-            "脸, 脸庞"
+            "<ruby>顔<rt>かお</rt></ruby>"
         ]
     },
     {
@@ -1890,7 +1933,7 @@
         "usphone": "fæt",
         "ukphone": "fæt",
         "trans": [
-            "胖的, 肥胖的"
+            "<ruby>太<rt>ふと</rt></ruby>った"
         ]
     },
     {
@@ -1898,7 +1941,7 @@
         "usphone": "ˈfɪŋɡər",
         "ukphone": "ˈfɪŋɡə(r)",
         "trans": [
-            "手指"
+            "<ruby>指<rt>ゆび</rt></ruby>"
         ]
     },
     {
@@ -1906,7 +1949,7 @@
         "usphone": "fʊt",
         "ukphone": "fʊt",
         "trans": [
-            "脚"
+            "<ruby>足<rt>あし</rt></ruby>"
         ]
     },
     {
@@ -1914,7 +1957,7 @@
         "usphone": "ɡreɪ",
         "ukphone": "ɡreɪ",
         "trans": [
-            "灰的, 灰色的"
+            "<ruby>灰色<rt>はいいろ</rt></ruby>"
         ]
     },
     {
@@ -1922,7 +1965,7 @@
         "usphone": "her",
         "ukphone": "heə(r)",
         "trans": [
-            "头发, 毛发"
+            "<ruby>髪<rt>かみ</rt></ruby>"
         ]
     },
     {
@@ -1930,7 +1973,7 @@
         "usphone": "hænd",
         "ukphone": "hænd",
         "trans": [
-            "手"
+            "<ruby>手<rt>て</rt></ruby>"
         ]
     },
     {
@@ -1938,7 +1981,8 @@
         "usphone": "ˈhæpi",
         "ukphone": "ˈhæpi",
         "trans": [
-            "快乐的"
+            "うれしい",
+            "<ruby>幸<rt>しあわ</rt></ruby>せな"
         ]
     },
     {
@@ -1946,7 +1990,7 @@
         "usphone": "hed",
         "ukphone": "hed",
         "trans": [
-            "头部"
+            "<ruby>頭<rt>あたま</rt></ruby>"
         ]
     },
     {
@@ -1954,7 +1998,7 @@
         "usphone": "noʊ",
         "ukphone": "nəʊ",
         "trans": [
-            "知道, 了解"
+            "<ruby>知<rt>し</rt></ruby>っている"
         ]
     },
     {
@@ -1962,7 +2006,7 @@
         "usphone": "leɡ",
         "ukphone": "leɡ",
         "trans": [
-            "腿, 足, 小腿"
+            "<ruby>脚<rt>あし</rt></ruby>"
         ]
     },
     {
@@ -1970,7 +2014,7 @@
         "usphone": "lɔːŋ",
         "ukphone": "lɒŋ",
         "trans": [
-            "长的, 远的"
+            "<ruby>長<rt>なが</rt></ruby>い"
         ]
     },
     {
@@ -1978,7 +2022,7 @@
         "usphone": "lʊk",
         "ukphone": "lʊk",
         "trans": [
-            "看, 注意"
+            "<ruby>見<rt>み</rt></ruby>る"
         ]
     },
     {
@@ -1986,7 +2030,7 @@
         "usphone": "maʊθ",
         "ukphone": "maʊθ",
         "trans": [
-            "口"
+            "<ruby>口<rt>くち</rt></ruby>"
         ]
     },
     {
@@ -1994,7 +2038,7 @@
         "usphone": "noʊz",
         "ukphone": "nəʊz",
         "trans": [
-            "鼻子"
+            "<ruby>鼻<rt>はな</rt></ruby>"
         ]
     },
     {
@@ -2002,7 +2046,8 @@
         "usphone": "oʊld",
         "ukphone": "əʊld",
         "trans": [
-            "老的, 上了年纪的"
+            "〜<ruby>歳<rt>さい</rt></ruby>の",
+            "<ruby>年<rt>とし</rt></ruby>をとった"
         ]
     },
     {
@@ -2010,7 +2055,7 @@
         "usphone": "sæd",
         "ukphone": "sæd",
         "trans": [
-            "伤心"
+            "かなしい"
         ]
     },
     {
@@ -2018,7 +2063,8 @@
         "usphone": "ʃɔːrt",
         "ukphone": "ʃɔːt",
         "trans": [
-            "矮的"
+            "<ruby>短<rt>みじか</rt></ruby>い",
+            "<ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い"
         ]
     },
     {
@@ -2026,7 +2072,7 @@
         "usphone": "ˈʃoʊldər",
         "ukphone": "ˈʃəʊldə(r)",
         "trans": [
-            "肩膀, 肩部"
+            "<ruby>肩<rt>かた</rt></ruby>"
         ]
     },
     {
@@ -2034,7 +2080,7 @@
         "usphone": "saɪz",
         "ukphone": "saɪz",
         "trans": [
-            "大小, 规模, 尺寸"
+            "サイズ"
         ]
     },
     {
@@ -2042,7 +2088,7 @@
         "usphone": "slɪm",
         "ukphone": "slɪm",
         "trans": [
-            "细长的,狭长的,苗条的"
+            "ほっそりした"
         ]
     },
     {
@@ -2050,7 +2096,7 @@
         "usphone": "tɔːl",
         "ukphone": "tɔːl",
         "trans": [
-            "高的"
+            "<ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い"
         ]
     },
     {
@@ -2058,7 +2104,7 @@
         "usphone": "tæˈtuː",
         "ukphone": "təˈtuː",
         "trans": [
-            "纹身"
+            "タトゥー"
         ]
     },
     {
@@ -2066,7 +2112,8 @@
         "usphone": "θɪn",
         "ukphone": "θɪn",
         "trans": [
-            "瘦的, 肉少的"
+            "やせた",
+            "<ruby>細<rt>ほそ</rt></ruby>い"
         ]
     },
     {
@@ -2074,7 +2121,7 @@
         "usphone": "ˈtaɪərd",
         "ukphone": "ˈtaɪəd",
         "trans": [
-            "疲劳的"
+            "つかれた"
         ]
     },
     {
@@ -2082,7 +2129,7 @@
         "usphone": "toʊ",
         "ukphone": "təʊ",
         "trans": [
-            "脚趾"
+            "<ruby>足<rt>あし</rt></ruby>の<ruby>指<rt>ゆび</rt></ruby>"
         ]
     },
     {
@@ -2090,7 +2137,7 @@
         "usphone": "ʌnˈhæpi",
         "ukphone": "ʌnˈhæpi",
         "trans": [
-            "不快乐的, 不高兴的, 不幸福的, 不满的"
+            "かなしい"
         ]
     },
     {
@@ -2098,7 +2145,7 @@
         "usphone": "jʌŋ",
         "ukphone": "jʌŋ",
         "trans": [
-            "年轻的, 幼小的, 新诞生的, 新成立的"
+            "<ruby>若<rt>わか</rt></ruby>い"
         ]
     },
     {
@@ -2106,7 +2153,7 @@
         "usphone": "bəˈnænə",
         "ukphone": "bəˈnɑːnə",
         "trans": [
-            "香蕉"
+            "バナナ"
         ]
     },
     {
@@ -2114,7 +2161,7 @@
         "usphone": "ˈkærət",
         "ukphone": "ˈkærət",
         "trans": [
-            "胡萝卜"
+            "にんじん"
         ]
     },
     {
@@ -2122,7 +2169,7 @@
         "usphone": "eɡ",
         "ukphone": "eɡ",
         "trans": [
-            "蛋, 卵"
+            "たまご"
         ]
     },
     {
@@ -2130,7 +2177,8 @@
         "usphone": "fɪʃ",
         "ukphone": "fɪʃ",
         "trans": [
-            "鱼"
+            "<ruby>魚<rt>さかな</rt></ruby>",
+            "<ruby>魚肉<rt>ぎょにく</rt></ruby>"
         ]
     },
     {
@@ -2138,7 +2186,7 @@
         "usphone": "fruːt",
         "ukphone": "fruːt",
         "trans": [
-            "水果"
+            "くだもの"
         ]
     },
     {
@@ -2146,7 +2194,7 @@
         "usphone": "naɪf",
         "ukphone": "naɪf",
         "trans": [
-            "刀, 小刀, 菜刀, 手术刀, 匕首"
+            "ナイフ"
         ]
     },
     {
@@ -2154,7 +2202,7 @@
         "usphone": "miːt",
         "ukphone": "miːt",
         "trans": [
-            "肉"
+            "<ruby>肉<rt>にく</rt></ruby>"
         ]
     },
     {
@@ -2162,7 +2210,7 @@
         "usphone": "ˈnuːdl",
         "ukphone": "ˈnuːdl",
         "trans": [
-            "面条"
+            "<ruby>麺<rt>めん</rt></ruby>／めん<ruby>類<rt>るい</rt></ruby>"
         ]
     },
     {
@@ -2170,7 +2218,7 @@
         "usphone": "ˈvedʒtəbl",
         "ukphone": "ˈvedʒtəbl",
         "trans": [
-            "蔬菜, 植物"
+            "<ruby>野菜<rt>やさい</rt></ruby>"
         ]
     },
     {
@@ -2178,7 +2226,7 @@
         "usphone": "ˈɔːfl",
         "ukphone": "ˈɔːfl",
         "trans": [
-            "恐ろしい, 糟糕的"
+            "ひどい"
         ]
     },
     {
@@ -2186,7 +2234,7 @@
         "usphone": "keɪk",
         "ukphone": "keɪk",
         "trans": [
-            "蛋糕, 糕饼"
+            "ケーキ"
         ]
     },
     {
@@ -2194,7 +2242,7 @@
         "usphone": "drɪŋk",
         "ukphone": "drɪŋk",
         "trans": [
-            "饮料"
+            "<ruby>飲<rt>の</rt></ruby>む"
         ]
     },
     {
@@ -2202,7 +2250,7 @@
         "usphone": "ˈhʌŋɡri",
         "ukphone": "ˈhʌŋɡri",
         "trans": [
-            "饥饿的, 饿的"
+            "おなかがすいた"
         ]
     },
     {
@@ -2210,7 +2258,7 @@
         "usphone": "ˈsɔːlti",
         "ukphone": "ˈsɔːlti",
         "trans": [
-            "咸的, 咸味的"
+            "しょっぱい"
         ]
     },
     {
@@ -2218,7 +2266,7 @@
         "usphone": "suːp",
         "ukphone": "suːp",
         "trans": [
-            "汤"
+            "スープ"
         ]
     },
     {
@@ -2226,7 +2274,7 @@
         "usphone": "bæɡ",
         "ukphone": "bæɡ",
         "trans": [
-            "袋子, 包, 书包"
+            "かばん"
         ]
     },
     {
@@ -2234,7 +2282,7 @@
         "usphone": "ˈkɔːfi",
         "ukphone": "ˈkɒfi",
         "trans": [
-            "咖啡"
+            "コーヒー"
         ]
     },
     {
@@ -2242,7 +2290,7 @@
         "usphone": "tiː",
         "ukphone": "tiː",
         "trans": [
-            "茶, 茶叶"
+            "お<ruby>茶<rt>ちゃ</rt></ruby>"
         ]
     },
     {
@@ -2250,7 +2298,7 @@
         "usphone": "bred",
         "ukphone": "bred",
         "trans": [
-            "面包"
+            "パン"
         ]
     },
     {
@@ -2258,7 +2306,8 @@
         "usphone": "ˈtʃɪkɪn",
         "ukphone": "ˈtʃɪkɪn",
         "trans": [
-            "鸡"
+            "<ruby>鶏肉<rt>とりにく</rt></ruby>",
+            "にわとり"
         ]
     },
     {
@@ -2266,7 +2315,7 @@
         "usphone": "tʃiːz",
         "ukphone": "tʃiːz",
         "trans": [
-            "奶酪"
+            "チーズ"
         ]
     },
     {
@@ -2274,13 +2323,13 @@
         "usphone": "dɪˈzɜːrt",
         "ukphone": "dɪˈzɜːt",
         "trans": [
-            "甜点"
+            "デザート"
         ]
     },
     {
         "name": "ice cream",
         "trans": [
-            "冰激凌"
+            "アイスクリーム"
         ],
         "usphone": "aɪs krim",
         "ukphone": "aɪs kri:m"
@@ -2290,7 +2339,7 @@
         "usphone": "ˈpiːtsə",
         "ukphone": "ˈpiːtsə",
         "trans": [
-            "披萨"
+            "ピザ"
         ]
     },
     {
@@ -2298,7 +2347,8 @@
         "usphone": "raɪs",
         "ukphone": "raɪs",
         "trans": [
-            "稻, 米"
+            "ごはん",
+            "<ruby>米<rt>こめ</rt></ruby>"
         ]
     },
     {
@@ -2306,7 +2356,7 @@
         "usphone": "ˈsæləd",
         "ukphone": "ˈsæləd",
         "trans": [
-            "沙拉, 色拉"
+            "サラダ"
         ]
     },
     {
@@ -2314,7 +2364,7 @@
         "usphone": "ˈæpl",
         "ukphone": "ˈæpl",
         "trans": [
-            "苹果"
+            "りんご"
         ]
     },
     {
@@ -2322,7 +2372,7 @@
         "usphone": "mɪlk",
         "ukphone": "mɪlk",
         "trans": [
-            "乳, 牛奶"
+            "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>"
         ]
     },
     {
@@ -2330,7 +2380,7 @@
         "usphone": "təˈmeɪtoʊ",
         "ukphone": "təˈmɑːtəʊ",
         "trans": [
-            "番茄, 西红柿"
+            "トマト"
         ]
     },
     {
@@ -2338,7 +2388,7 @@
         "usphone": "ˈtʃɑːklət",
         "ukphone": "ˈtʃɒklət",
         "trans": [
-            "巧克力"
+            "チョコレート"
         ]
     },
     {
@@ -2346,7 +2396,7 @@
         "usphone": "ˈpɑːstə",
         "ukphone": "ˈpæstə",
         "trans": [
-            "意大利面,通心粉"
+            "パスタ"
         ]
     },
     {
@@ -2354,7 +2404,7 @@
         "usphone": "ˈsænwɪtʃ",
         "ukphone": "ˈsænwɪtʃ",
         "trans": [
-            "三明治"
+            "サンドイッチ"
         ]
     },
     {
@@ -2362,7 +2412,7 @@
         "usphone": "ˈspaɪsi",
         "ukphone": "ˈspaɪsi",
         "trans": [
-            "辛辣的, 香的"
+            "からい"
         ]
     }
 ]

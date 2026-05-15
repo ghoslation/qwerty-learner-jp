@@ -1,434 +1,449 @@
 [
-{
-    "name": "father",
-    "trans": [
-        "父亲 ; 爸爸"
-    ],
-    "usphone": "ˈfɑðər",
-    "ukphone": "ˈfɑːðə"
-},
-{
-    "name": "mother",
-    "trans": [
-        "母亲 ; 妈妈"
-    ],
-    "usphone": "ˈmʌðər",
-    "ukphone": "ˈmʌðə"
-},
-{
-    "name": "brother",
-    "trans": [
-        "兄 ; 弟"
-    ],
-    "usphone": "ˈbrʌðər",
-    "ukphone": "ˈbrʌðə"
-},
-{
-    "name": "sister",
-    "trans": [
-        "姐 ; 妹"
-    ],
-    "usphone": "ˈsɪstər",
-    "ukphone": "ˈsɪstə"
-},
-{
-    "name": "grandmother",
-    "trans": [
-        "外祖母"
-    ],
-    "usphone": "ˈɡrændˌmʌðər",
-    "ukphone": "ˈɡrænˌmʌðə"
-},
-{
-    "name": "grandfather",
-    "trans": [
-        "外祖父"
-    ],
-    "usphone": "ˈɡrændˌfɑðər",
-    "ukphone": "ˈɡrænˌfɑːðə"
-},
-{
-    "name": "who",
-    "trans": [
-        "谁"
-    ],
-    "usphone": "huː",
-    "ukphone": "huː"
-},
-{
-    "name": "he",
-    "trans": [
-        "他"
-    ],
-    "usphone": "hiː",
-    "ukphone": "hiː"
-},
-{
-    "name": "she",
-    "trans": [
-        "她"
-    ],
-    "usphone": "ʃiː",
-    "ukphone": "ʃiː"
-},
-{
-    "name": "classmate",
-    "trans": [
-        "同班同学"
-    ],
-    "usphone": "ˈklæsˌmeɪt",
-    "ukphone": "ˈklɑːsmeɪt"
-},
-{
-    "name": "friend",
-    "trans": [
-        "朋友"
-    ],
-    "usphone": "frɛnd",
-    "ukphone": "frɛnd"
-},
-{
-    "name": "woman",
-    "trans": [
-        "女人"
-    ],
-    "usphone": "ˈwʊmən",
-    "ukphone": "ˈwʊmən"
-},
-{
-    "name": "girl",
-    "trans": [
-        "女孩"
-    ],
-    "usphone": "ɡɜrl",
-    "ukphone": "ɡɜːl"
-},
-{
-    "name": "man",
-    "trans": [
-        "男人"
-    ],
-    "usphone": "mæn",
-    "ukphone": "mæn"
-},
-{
-    "name": "boy",
-    "trans": [
-        "男孩"
-    ],
-    "usphone": "bɔɪ",
-    "ukphone": "bɔɪ"
-},
-{
-    "name": "look",
-    "trans": [
-        "看 ; 瞧"
-    ],
-    "usphone": "lʊk",
-    "ukphone": "lʊk"
-},
-{
-    "name": "his",
-    "trans": [
-        "他的"
-    ],
-    "usphone": "hɪz",
-    "ukphone": "hɪz"
-},
-{
-    "name": "name",
-    "trans": [
-        "名字"
-    ],
-    "usphone": "neɪm",
-    "ukphone": "neɪm"
-},
-{
-    "name": "her",
-    "trans": [
-        "她的"
-    ],
-    "usphone": "hɜr",
-    "ukphone": "hɜːr"
-},
-{
-    "name": "or",
-    "trans": [
-        "还是"
-    ],
-    "usphone": "ɔr",
-    "ukphone": "ɔr"
-},
-{
-    "name": "big",
-    "trans": [
-        "大的"
-    ],
-    "usphone": "bɪɡ",
-    "ukphone": "bɪɡ"
-},
-{
-    "name": "tall",
-    "trans": [
-        "高的"
-    ],
-    "usphone": "tɔl",
-    "ukphone": "tɔːl"
-},
-{
-    "name": "pretty",
-    "trans": [
-        "漂亮的、可爱的"
-    ],
-    "usphone": "ˈprɪti",
-    "ukphone": "ˈprɪti"
-},
-{
-    "name": "thin",
-    "trans": [
-        "瘦的"
-    ],
-    "usphone": "θɪn",
-    "ukphone": "θɪn"
-},
-{
-    "name": "short",
-    "trans": [
-        "矮的"
-    ],
-    "usphone": "ʃɔrt",
-    "ukphone": "ʃɔrt"
-},
-{
-    "name": "handsome",
-    "trans": [
-        "漂亮的、英俊的"
-    ],
-    "usphone": "ˈhænsəm",
-    "ukphone": "ˈhænsəm"
-},
-{
-    "name": "new",
-    "trans": [
-        "新的"
-    ],
-    "usphone": "nu",
-    "ukphone": "njuː"
-},
-{
-    "name": "does",
-    "trans": [
-        "（助动词）"
-    ],
-    "usphone": "dʌz",
-    "ukphone": "dʌz"
-},
-{
-    "name": "bookshop",
-    "trans": [
-        "书店"
-    ],
-    "usphone": "ˈbʊkˌʃɑp",
-    "ukphone": "ˈbʊkˌʃɒp"
-},
-{
-    "name": "zoo",
-    "trans": [
-        "动物园"
-    ],
-    "usphone": "zu",
-    "ukphone": "zuː"
-},
-{
-    "name": "school",
-    "trans": [
-        "学校"
-    ],
-    "usphone": "skuːl",
-    "ukphone": "skuːl"
-},
-{
-    "name": "supermarket",
-    "trans": [
-        "超市"
-    ],
-    "usphone": "ˈsupərˌmɑrkɪt",
-    "ukphone": "ˈsuːpərˌmɑːrkɪt"
-},
-{
-    "name": "park",
-    "trans": [
-        "公园"
-    ],
-    "usphone": "pɑrk",
-    "ukphone": "pɑːrk"
-},
-{
-    "name": "hospital",
-    "trans": [
-        "医院"
-    ],
-    "usphone": "ˈhɑːspətəl",
-    "ukphone": "ˈhɒspɪtl̩"
-},
-{
-    "name": "go",
-    "trans": [
-        "去"
-    ],
-    "usphone": "ɡoʊ",
-    "ukphone": "ɡəʊ"
-},
-{
-    "name": "to",
-    "trans": [
-        "向、朝"
-    ],
-    "usphone": "tuː",
-    "ukphone": "tuː"
-},
-{
-    "name": "grass",
-    "trans": [
-        "草"
-    ],
-    "usphone": "ɡræs",
-    "ukphone": "ɡrɑːs"
-},
-{
-    "name": "tree",
-    "trans": [
-        "树"
-    ],
-    "usphone": "triː",
-    "ukphone": "triː"
-},
-{
-    "name": "flower",
-    "trans": [
-        "花 ; 花朵"
-    ],
-    "usphone": "ˈflaʊər",
-    "ukphone": "ˈflaʊər"
-},
-{
-    "name": "boat",
-    "trans": [
-        "小船"
-    ],
-    "usphone": "boʊt",
-    "ukphone": "bəʊt"
-},
-{
-    "name": "lake",
-    "trans": [
-        "湖"
-    ],
-    "usphone": "leɪk",
-    "ukphone": "leɪk"
-},
-{
-    "name": "hill",
-    "trans": [
-        "小山"
-    ],
-    "usphone": "hɪl",
-    "ukphone": "hɪl"
-},
-{
-    "name": "Christmas",
-    "trans": [
-        "圣诞节"
-    ],
-    "usphone": "ˈkrɪsməs",
-    "ukphone": "ˈkrɪsməs"
-},
-{
-    "name": "Father Christmas",
-    "trans": [
-        "圣诞老人"
-    ],
-    "usphone": "ˈfɑðər ˈkrɪsməs",
-    "ukphone": "ˈfɑːðər ˈkrɪsməs"
-},
-{
-    "name": "Christmas tree",
-    "trans": [
-        "圣诞树"
-    ],
-    "usphone": "ˈkrɪsməs triː",
-    "ukphone": "ˈkrɪsməs triː"
-},
-{
-    "name": "card",
-    "trans": [
-        "贺卡 ; 明信片"
-    ],
-    "usphone": "kɑrd",
-    "ukphone": "kɑːd"
-},
-{
-    "name": "present",
-    "trans": [
-        "礼物"
-    ],
-    "usphone": "ˈprɛzənt",
-    "ukphone": "ˈprɛznt"
-},
-{
-    "name": "New Year",
-    "trans": [
-        "新年"
-    ],
-    "usphone": "nu jɪr",
-    "ukphone": "njuː jɪər"
-},
-{
-    "name": "merry",
-    "trans": [
-        "高兴的 ; 愉快的"
-    ],
-    "usphone": "ˈmɛri",
-    "ukphone": "ˈmɛri"
-},
-{
-    "name": "too",
-    "trans": [
-        "也 ; 又"
-    ],
-    "usphone": "tuː",
-    "ukphone": "tuː"
-},
-{
-    "name": "here",
-    "trans": [
-        "这儿"
-    ],
-    "usphone": "hɪr",
-    "ukphone": "hɪər"
-},
-{
-    "name": "for",
-    "trans": [
-        "（表す接受某事物或从某事物中获益的人）"
-    ],
-    "usphone": "fɔr",
-    "ukphone": "fɔːr"
-},
-{
-    "name": "thank",
-    "trans": [
-        "谢谢"
-    ],
-    "usphone": "θæŋk",
-    "ukphone": "θæŋk"
-},
-{
-    "name": "happy",
-    "trans": [
-        "快乐的 ; 幸福的"
-    ],
-    "usphone": "ˈhæpi",
-    "ukphone": "ˈhæpi"
-}
+    {
+        "name": "father",
+        "trans": [
+            "お<ruby>父<rt>とう</rt></ruby>さん",
+            "<ruby>父<rt>ちち</rt></ruby>"
+        ],
+        "usphone": "ˈfɑðər",
+        "ukphone": "ˈfɑːðə"
+    },
+    {
+        "name": "mother",
+        "trans": [
+            "お<ruby>母<rt>かあ</rt></ruby>さん",
+            "<ruby>母<rt>はは</rt></ruby>"
+        ],
+        "usphone": "ˈmʌðər",
+        "ukphone": "ˈmʌðə"
+    },
+    {
+        "name": "brother",
+        "trans": [
+            "<ruby>兄弟<rt>きょうだい</rt></ruby>",
+            "<ruby>兄<rt>あに</rt></ruby>",
+            "<ruby>弟<rt>おとうと</rt></ruby>"
+        ],
+        "usphone": "ˈbrʌðər",
+        "ukphone": "ˈbrʌðə"
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "<ruby>姉妹<rt>しまい</rt></ruby>",
+            "<ruby>姉<rt>あね</rt></ruby>",
+            "<ruby>妹<rt>いもうと</rt></ruby>"
+        ],
+        "usphone": "ˈsɪstər",
+        "ukphone": "ˈsɪstə"
+    },
+    {
+        "name": "grandmother",
+        "trans": [
+            "おばあさん"
+        ],
+        "usphone": "ˈɡrændˌmʌðər",
+        "ukphone": "ˈɡrænˌmʌðə"
+    },
+    {
+        "name": "grandfather",
+        "trans": [
+            "おじいさん"
+        ],
+        "usphone": "ˈɡrændˌfɑðər",
+        "ukphone": "ˈɡrænˌfɑːðə"
+    },
+    {
+        "name": "who",
+        "trans": [
+            "だれ"
+        ],
+        "usphone": "huː",
+        "ukphone": "huː"
+    },
+    {
+        "name": "he",
+        "trans": [
+            "<ruby>彼<rt>かれ</rt></ruby>"
+        ],
+        "usphone": "hiː",
+        "ukphone": "hiː"
+    },
+    {
+        "name": "she",
+        "trans": [
+            "<ruby>彼女<rt>かのじょ</rt></ruby>"
+        ],
+        "usphone": "ʃiː",
+        "ukphone": "ʃiː"
+    },
+    {
+        "name": "classmate",
+        "trans": [
+            "<ruby>同級生<rt>どうきゅうせい</rt></ruby>"
+        ],
+        "usphone": "ˈklæsˌmeɪt",
+        "ukphone": "ˈklɑːsmeɪt"
+    },
+    {
+        "name": "friend",
+        "trans": [
+            "<ruby>友<rt>とも</rt></ruby>だち"
+        ],
+        "usphone": "frɛnd",
+        "ukphone": "frɛnd"
+    },
+    {
+        "name": "woman",
+        "trans": [
+            "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>"
+        ],
+        "usphone": "ˈwʊmən",
+        "ukphone": "ˈwʊmən"
+    },
+    {
+        "name": "girl",
+        "trans": [
+            "<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>"
+        ],
+        "usphone": "ɡɜrl",
+        "ukphone": "ɡɜːl"
+    },
+    {
+        "name": "man",
+        "trans": [
+            "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>"
+        ],
+        "usphone": "mæn",
+        "ukphone": "mæn"
+    },
+    {
+        "name": "boy",
+        "trans": [
+            "<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>"
+        ],
+        "usphone": "bɔɪ",
+        "ukphone": "bɔɪ"
+    },
+    {
+        "name": "look",
+        "trans": [
+            "<ruby>見<rt>み</rt></ruby>る"
+        ],
+        "usphone": "lʊk",
+        "ukphone": "lʊk"
+    },
+    {
+        "name": "his",
+        "trans": [
+            "<ruby>彼<rt>かれ</rt></ruby>の"
+        ],
+        "usphone": "hɪz",
+        "ukphone": "hɪz"
+    },
+    {
+        "name": "name",
+        "trans": [
+            "<ruby>名前<rt>なまえ</rt></ruby>"
+        ],
+        "usphone": "neɪm",
+        "ukphone": "neɪm"
+    },
+    {
+        "name": "her",
+        "trans": [
+            "<ruby>彼女<rt>かのじょ</rt></ruby>の"
+        ],
+        "usphone": "hɜr",
+        "ukphone": "hɜːr"
+    },
+    {
+        "name": "or",
+        "trans": [
+            "または"
+        ],
+        "usphone": "ɔr",
+        "ukphone": "ɔr"
+    },
+    {
+        "name": "big",
+        "trans": [
+            "<ruby>大<rt>おお</rt></ruby>きい"
+        ],
+        "usphone": "bɪɡ",
+        "ukphone": "bɪɡ"
+    },
+    {
+        "name": "tall",
+        "trans": [
+            "<ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い"
+        ],
+        "usphone": "tɔl",
+        "ukphone": "tɔːl"
+    },
+    {
+        "name": "pretty",
+        "trans": [
+            "かわいい",
+            "きれいな"
+        ],
+        "usphone": "ˈprɪti",
+        "ukphone": "ˈprɪti"
+    },
+    {
+        "name": "thin",
+        "trans": [
+            "やせた",
+            "<ruby>細<rt>ほそ</rt></ruby>い"
+        ],
+        "usphone": "θɪn",
+        "ukphone": "θɪn"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "<ruby>短<rt>みじか</rt></ruby>い",
+            "<ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い"
+        ],
+        "usphone": "ʃɔrt",
+        "ukphone": "ʃɔrt"
+    },
+    {
+        "name": "handsome",
+        "trans": [
+            "かっこいい"
+        ],
+        "usphone": "ˈhænsəm",
+        "ukphone": "ˈhænsəm"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "<ruby>新<rt>あたら</rt></ruby>しい"
+        ],
+        "usphone": "nu",
+        "ukphone": "njuː"
+    },
+    {
+        "name": "does",
+        "trans": [
+            "する",
+            "<ruby>助動詞<rt>じょどうし</rt></ruby>の does"
+        ],
+        "usphone": "dʌz",
+        "ukphone": "dʌz"
+    },
+    {
+        "name": "bookshop",
+        "trans": [
+            "<ruby>本屋<rt>ほんや</rt></ruby>"
+        ],
+        "usphone": "ˈbʊkˌʃɑp",
+        "ukphone": "ˈbʊkˌʃɒp"
+    },
+    {
+        "name": "zoo",
+        "trans": [
+            "<ruby>動物園<rt>どうぶつえん</rt></ruby>"
+        ],
+        "usphone": "zu",
+        "ukphone": "zuː"
+    },
+    {
+        "name": "school",
+        "trans": [
+            "<ruby>学校<rt>がっこう</rt></ruby>"
+        ],
+        "usphone": "skuːl",
+        "ukphone": "skuːl"
+    },
+    {
+        "name": "supermarket",
+        "trans": [
+            "スーパー"
+        ],
+        "usphone": "ˈsupərˌmɑrkɪt",
+        "ukphone": "ˈsuːpərˌmɑːrkɪt"
+    },
+    {
+        "name": "park",
+        "trans": [
+            "<ruby>公園<rt>こうえん</rt></ruby>"
+        ],
+        "usphone": "pɑrk",
+        "ukphone": "pɑːrk"
+    },
+    {
+        "name": "hospital",
+        "trans": [
+            "<ruby>病院<rt>びょういん</rt></ruby>"
+        ],
+        "usphone": "ˈhɑːspətəl",
+        "ukphone": "ˈhɒspɪtl̩"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "<ruby>行<rt>い</rt></ruby>く"
+        ],
+        "usphone": "ɡoʊ",
+        "ukphone": "ɡəʊ"
+    },
+    {
+        "name": "to",
+        "trans": [
+            "〜へ",
+            "〜に"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː"
+    },
+    {
+        "name": "grass",
+        "trans": [
+            "<ruby>草<rt>くさ</rt></ruby>"
+        ],
+        "usphone": "ɡræs",
+        "ukphone": "ɡrɑːs"
+    },
+    {
+        "name": "tree",
+        "trans": [
+            "<ruby>木<rt>き</rt></ruby>"
+        ],
+        "usphone": "triː",
+        "ukphone": "triː"
+    },
+    {
+        "name": "flower",
+        "trans": [
+            "<ruby>花<rt>はな</rt></ruby>"
+        ],
+        "usphone": "ˈflaʊər",
+        "ukphone": "ˈflaʊər"
+    },
+    {
+        "name": "boat",
+        "trans": [
+            "<ruby>小舟<rt>こぶね</rt></ruby>",
+            "ボート"
+        ],
+        "usphone": "boʊt",
+        "ukphone": "bəʊt"
+    },
+    {
+        "name": "lake",
+        "trans": [
+            "<ruby>湖<rt>みずうみ</rt></ruby>"
+        ],
+        "usphone": "leɪk",
+        "ukphone": "leɪk"
+    },
+    {
+        "name": "hill",
+        "trans": [
+            "<ruby>丘<rt>おか</rt></ruby>"
+        ],
+        "usphone": "hɪl",
+        "ukphone": "hɪl"
+    },
+    {
+        "name": "Christmas",
+        "trans": [
+            "クリスマス"
+        ],
+        "usphone": "ˈkrɪsməs",
+        "ukphone": "ˈkrɪsməs"
+    },
+    {
+        "name": "Father Christmas",
+        "trans": [
+            "サンタクロース"
+        ],
+        "usphone": "ˈfɑðər ˈkrɪsməs",
+        "ukphone": "ˈfɑːðər ˈkrɪsməs"
+    },
+    {
+        "name": "Christmas tree",
+        "trans": [
+            "クリスマスツリー"
+        ],
+        "usphone": "ˈkrɪsməs triː",
+        "ukphone": "ˈkrɪsməs triː"
+    },
+    {
+        "name": "card",
+        "trans": [
+            "カード"
+        ],
+        "usphone": "kɑrd",
+        "ukphone": "kɑːd"
+    },
+    {
+        "name": "present",
+        "trans": [
+            "プレゼント"
+        ],
+        "usphone": "ˈprɛzənt",
+        "ukphone": "ˈprɛznt"
+    },
+    {
+        "name": "New Year",
+        "trans": [
+            "<ruby>新年<rt>しんねん</rt></ruby>"
+        ],
+        "usphone": "nu jɪr",
+        "ukphone": "njuː jɪər"
+    },
+    {
+        "name": "merry",
+        "trans": [
+            "<ruby>楽<rt>たの</rt></ruby>しい"
+        ],
+        "usphone": "ˈmɛri",
+        "ukphone": "ˈmɛri"
+    },
+    {
+        "name": "too",
+        "trans": [
+            "〜も",
+            "〜すぎる"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː"
+    },
+    {
+        "name": "here",
+        "trans": [
+            "ここ"
+        ],
+        "usphone": "hɪr",
+        "ukphone": "hɪər"
+    },
+    {
+        "name": "for",
+        "trans": [
+            "〜のために",
+            "〜として"
+        ],
+        "usphone": "fɔr",
+        "ukphone": "fɔːr"
+    },
+    {
+        "name": "thank",
+        "trans": [
+            "<ruby>感謝<rt>かんしゃ</rt></ruby>する"
+        ],
+        "usphone": "θæŋk",
+        "ukphone": "θæŋk"
+    },
+    {
+        "name": "happy",
+        "trans": [
+            "うれしい",
+            "<ruby>幸<rt>しあわ</rt></ruby>せな"
+        ],
+        "usphone": "ˈhæpi",
+        "ukphone": "ˈhæpi"
+    }
 ]

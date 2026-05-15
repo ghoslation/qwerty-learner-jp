@@ -1,620 +1,839 @@
 [
-{
-  "name": "my",
-  "trans": ["我的"],
-  "usphone": "maɪ",
-  "ukphone": "maɪ"
-},
-{
-  "name": "your",
-  "trans": ["你的"],
-  "usphone": "jʊr",
-  "ukphone": "jɔː"
-},
-{
-  "name": "name",
-  "trans": ["名字", "姓名"],
-  "usphone": "neɪm",
-  "ukphone": "neɪm"
-},
-{
-  "name": "new",
-  "trans": ["新的", "新来的"],
-  "usphone": "nuː",
-  "ukphone": "njuː"
-},
-{
-  "name": "year",
-  "trans": ["年", "岁数"],
-  "usphone": "jɪr",
-  "ukphone": "jɪər"
-},
-{
-  "name": "old",
-  "trans": ["……岁的", "年老的"],
-  "usphone": "oʊld",
-  "ukphone": "əʊld"
-},
-{
-  "name": "how old",
-  "trans": ["（年龄）多大"],
-  "usphone": "haʊ oʊld",
-  "ukphone": "haʊ əʊld"
-},
-{
-  "name": "class",
-  "trans": ["班级"],
-  "usphone": "klæs",
-  "ukphone": "klɑːs"
-},
-{
-  "name": "grade",
-  "trans": ["年级"],
-  "usphone": "ɡreɪd",
-  "ukphone": "ɡreɪd"
-},
-{
-  "name": "age",
-  "trans": ["年龄"],
-  "usphone": "eɪdʒ",
-  "ukphone": "eɪdʒ"
-},
-{
-  "name": "dear",
-  "trans": ["亲爱的（用于书信中、表す客气）"],
-  "usphone": "dɪr",
-  "ukphone": "dɪər"
-},
-{
-  "name": "body",
-  "trans": ["身体"],
-  "usphone": "ˈbɑːdi",
-  "ukphone": "ˈbɒdi"
-},
-{
-  "name": "head",
-  "trans": ["头"],
-  "usphone": "hɛd",
-  "ukphone": "hɛd"
-},
-{
-  "name": "hair",
-  "trans": ["头发"],
-  "usphone": "hɛr",
-  "ukphone": "hɛər"
-},
-{
-  "name": "arm",
-  "trans": ["胳膊"],
-  "usphone": "ɑːrm",
-  "ukphone": "ɑːrm"
-},
-{
-  "name": "hand",
-  "trans": ["手"],
-  "usphone": "hænd",
-  "ukphone": "hænd"
-},
-{
-  "name": "leg",
-  "trans": ["腿"],
-  "usphone": "lɛɡ",
-  "ukphone": "lɛɡ"
-},
-{
-  "name": "foot (feet)",
-  "trans": ["脚"],
-  "usphone": "fʊt (fiːt)",
-  "ukphone": "fʊt (fiːt)"
-},
-{
-  "name": "the matter",
-  "trans": ["麻烦事", "困难", "毛病"],
-  "usphone": "ðə ˈmætər",
-  "ukphone": "ðə ˈmætər"
-},
-{
-  "name": "hurt",
-  "trans": ["疼痛", "弄疼"],
-  "usphone": "hɜrt",
-  "ukphone": "hɜːrt"
-},
-{
-  "name": "help",
-  "trans": ["助ける"],
-  "usphone": "hɛlp",
-  "ukphone": "hɛlp"
-},
-{
-  "name": "bad",
-  "trans": ["坏的", "糟糕"],
-  "usphone": "bæd",
-  "ukphone": "bæd"
-},
-{
-  "name": "bite",
-  "trans": ["咬"],
-  "usphone": "baɪt",
-  "ukphone": "baɪt"
-},
-{
-  "name": "tongue",
-  "trans": ["舌头"],
-  "usphone": "tʌŋ",
-  "ukphone": "tʌŋ"
-},
-{
-  "name": "kick",
-  "trans": ["踢"],
-  "usphone": "kɪk",
-  "ukphone": "kɪk"
-},
-{
-  "name": "morning",
-  "trans": ["早晨"],
-  "usphone": "ˈmɔrnɪŋ",
-  "ukphone": "ˈmɔːrnɪŋ"
-},
-{
-  "name": "afternoon",
-  "trans": ["下午"],
-  "usphone": "ˌæftərˈnuːn",
-  "ukphone": "ˌɑːftəˈnuːn"
-},
-{
-  "name": "summary",
-  "trans": ["总结", "摘要"],
-  "usphone": "ˈsʌməri",
-  "ukphone": "ˈsʌməri"
-},
-{
-  "name": "face",
-  "trans": ["脸"],
-  "usphone": "feɪs",
-  "ukphone": "feɪs"
-},
-{
-  "name": "eye",
-  "trans": ["眼睛"],
-  "usphone": "aɪ",
-  "ukphone": "aɪ"
-},
-{
-  "name": "nose",
-  "trans": ["鼻子"],
-  "usphone": "noʊz",
-  "ukphone": "nəʊz"
-},
-{
-  "name": "mouth",
-  "trans": ["嘴巴"],
-  "usphone": "maʊθ",
-  "ukphone": "maʊθ"
-},
-{
-  "name": "ear",
-  "trans": ["耳朵"],
-  "usphone": "ɪr",
-  "ukphone": "ɪər"
-},
-{
-  "name": "bread",
-  "trans": ["面包"],
-  "usphone": "brɛd",
-  "ukphone": "brɛd"
-},
-{
-  "name": "cake",
-  "trans": ["蛋糕"],
-  "usphone": "keɪk",
-  "ukphone": "keɪk"
-},
-{
-  "name": "fruit",
-  "trans": ["水果"],
-  "usphone": "frut",
-  "ukphone": "fruːt"
-},
-{
-  "name": "ice cream",
-  "trans": ["冰淇淋"],
-  "usphone": "aɪs krim",
-  "ukphone": "aɪs kriːm"
-},
-{
-  "name": "potato",
-  "trans": ["土豆"],
-  "usphone": "pəˈteɪtoʊ",
-  "ukphone": "pəˈteɪtəʊ"
-},
-{
-  "name": "tomato",
-  "trans": ["西红柿"],
-  "usphone": "təˈmeɪtoʊ",
-  "ukphone": "təˈmeɪtəʊ"
-},
-{
-  "name": "meat",
-  "trans": ["肉"],
-  "usphone": "mit",
-  "ukphone": "miːt"
-},
-{
-  "name": "for",
-  "trans": ["当作", "作为"],
-  "usphone": "fɔr",
-  "ukphone": "fɔːr"
-},
-{
-  "name": "shopping list",
-  "trans": ["购物单"],
-  "usphone": "ˈʃɑpɪŋ lɪst",
-  "ukphone": "ˈʃɒpɪŋ lɪst"
-},
-{
-  "name": "cola",
-  "trans": ["可乐"],
-  "usphone": "ˈkoʊlə",
-  "ukphone": "ˈkoʊlə"
-},
-{
-  "name": "buy",
-  "trans": ["买"],
-  "usphone": "baɪ",
-  "ukphone": "baɪ"
-},
-{
-  "name": "rice",
-  "trans": ["米饭", "米"],
-  "usphone": "raɪs",
-  "ukphone": "raɪs"
-},
-{
-  "name": "noodles",
-  "trans": ["面条"],
-  "usphone": "ˈnuːdəlz",
-  "ukphone": "ˈnuːdlz"
-},
-{
-  "name": "vegetables",
-  "trans": ["蔬菜"],
-  "usphone": "ˈvɛdʒtəbəlz",
-  "ukphone": "ˈvɛdʒtəbəlz"
-},
-{
-  "name": "fish",
-  "trans": ["鱼肉"],
-  "usphone": "fɪʃ",
-  "ukphone": "fɪʃ"
-},
-{
-  "name": "chicken",
-  "trans": ["鸡肉"],
-  "usphone": "ˈtʃɪkɪn",
-  "ukphone": "ˈtʃɪkɪn"
-},
-{
-  "name": "egg",
-  "trans": ["鸡蛋"],
-  "usphone": "ɛɡ",
-  "ukphone": "ɛɡ"
-},
-{
-  "name": "duck",
-  "trans": ["鸭子"],
-  "usphone": "dʌk",
-  "ukphone": "dʌk"
-},
-{
-  "name": "chicken",
-  "trans": ["小鸡"],
-  "usphone": "ˈtʃɪkɪn",
-  "ukphone": "ˈtʃɪkɪn"
-},
-{
-  "name": "rabbit",
-  "trans": ["兔子"],
-  "usphone": "ˈræbɪt",
-  "ukphone": "ˈræbɪt"
-},
-{
-  "name": "pet",
-  "trans": ["宠物"],
-  "usphone": "pɛt",
-  "ukphone": "pɛt"
-},
-{
-  "name": "snake",
-  "trans": ["蛇"],
-  "usphone": "sneɪk",
-  "ukphone": "sneɪk"
-},
-{
-  "name": "turtle",
-  "trans": ["海龟"],
-  "usphone": "ˈtɜːrtl",
-  "ukphone": "ˈtɜːrtl"
-},
-{
-  "name": "small",
-  "trans": ["小的"],
-  "usphone": "smɔːl",
-  "ukphone": "smɔːl"
-},
-{
-  "name": "long",
-  "trans": ["长的"],
-  "usphone": "lɔːŋ",
-  "ukphone": "lɒŋ"
-},
-{
-  "name": "look for",
-  "trans": ["寻找"],
-  "usphone": "lʊk fɔr",
-  "ukphone": "lʊk fɔːr"
-},
-{
-  "name": "tail",
-  "trans": ["尾巴"],
-  "usphone": "teɪl",
-  "ukphone": "teɪl"
-},
-{
-  "name": "dance",
-  "trans": ["跳舞"],
-  "usphone": "dæns",
-  "ukphone": "dɑːns"
-},
-{
-  "name": "cat",
-  "trans": ["猫"],
-  "usphone": "kæt",
-  "ukphone": "kæt"
-},
-{
-  "name": "dog",
-  "trans": ["狗"],
-  "usphone": "dɔːɡ",
-  "ukphone": "dɒɡ"
-},
-{
-  "name": "bird",
-  "trans": ["鸟"],
-  "usphone": "bɜːrd",
-  "ukphone": "bɜːrd"
-},
-{
-  "name": "fish",
-  "trans": ["鱼"],
-  "usphone": "fɪʃ",
-  "ukphone": "fɪʃ"
-},
-{
-  "name": "monkey",
-  "trans": ["猴子"],
-  "usphone": "ˈmʌŋki",
-  "ukphone": "ˈmʌŋki"
-},
-{
-  "name": "tiger",
-  "trans": ["老虎"],
-  "usphone": "ˈtaɪɡər",
-  "ukphone": "ˈtaɪɡər"
-},
-{
-  "name": "big",
-  "trans": ["大", "大的"],
-  "usphone": "bɪɡ",
-  "ukphone": "bɪɡ"
-},
-{
-  "name": "short",
-  "trans": ["短", "短的"],
-  "usphone": "ʃɔːrt",
-  "ukphone": "ʃɔːrt"
-},
-{
-  "name": "cap",
-  "trans": ["帽子"],
-  "usphone": "kæp",
-  "ukphone": "kæp"
-},
-{
-  "name": "coat",
-  "trans": ["大衣"],
-  "usphone": "koʊt",
-  "ukphone": "kəʊt"
-},
-{
-  "name": "shoes",
-  "trans": ["鞋"],
-  "usphone": "ʃuz",
-  "ukphone": "ʃuz"
-},
-{
-  "name": "sweater",
-  "trans": ["毛衣"],
-  "usphone": "ˈswɛtər",
-  "ukphone": "ˈswɛtər"
-},
-{
-  "name": "jacket",
-  "trans": ["夹克衫"],
-  "usphone": "ˈdʒækɪt",
-  "ukphone": "ˈdʒækɪt"
-},
-{
-  "name": "gloves",
-  "trans": ["手套"],
-  "usphone": "ɡlʌvz",
-  "ukphone": "ɡlʌvz"
-},
-{
-  "name": "trousers",
-  "trans": ["裤子"],
-  "usphone": "ˈtraʊzərz",
-  "ukphone": "ˈtraʊzərz"
-},
-{
-  "name": "should",
-  "trans": ["应该"],
-  "usphone": "ʃʊd",
-  "ukphone": "ʃʊd"
-},
-{
-  "name": "wear",
-  "trans": ["穿"],
-  "usphone": "wɛr",
-  "ukphone": "wɛər"
-},
-{
-  "name": "week",
-  "trans": ["星期"],
-  "usphone": "wik",
-  "ukphone": "wiːk"
-},
-{
-  "name": "soon",
-  "trans": ["不久", "很快"],
-  "usphone": "sun",
-  "ukphone": "suːn"
-},
-{
-  "name": "look forward to",
-  "trans": ["盼望", "期待"],
-  "usphone": "lʊk ˈfɔr.wərd tuː",
-  "ukphone": "lʊk ˈfɔːwəd tuː"
-},
-{
-  "name": "T-shirt",
-  "trans": ["T恤衫", "短袖圆领汗衫"],
-  "usphone": "ˈtiːˌʃɜrt",
-  "ukphone": "ˈtiːˌʃɜːt"
-},
-{
-  "name": "shorts",
-  "trans": ["短裤"],
-  "usphone": "ʃɔrts",
-  "ukphone": "ʃɔːtz"
-},
-{
-  "name": "socks",
-  "trans": ["短袜"],
-  "usphone": "sɑks",
-  "ukphone": "sɒks"
-},
-{
-  "name": "skirt",
-  "trans": ["裙子"],
-  "usphone": "skɜrt",
-  "ukphone": "skɜːrt"
-},
-{
-  "name": "dress",
-  "trans": ["连衣裙", "套裙"],
-  "usphone": "drɛs",
-  "ukphone": "drɛs"
-},
-{
-  "name": "shirt",
-  "trans": ["衬衫"],
-  "usphone": "ʃɜrt",
-  "ukphone": "ʃɜːt"
-},
-{
-  "name": "January",
-  "trans": ["一月"],
-  "usphone": "ˈdʒæn(j)uˌɛri",
-  "ukphone": "ˈdʒan.jʊˌɛri"
-},
-{
-  "name": "February",
-  "trans": ["二月"],
-  "usphone": "ˈfɛb(j)uˌɛri",
-  "ukphone": "ˈfɛbruːˌɛri"
-},
-{
-  "name": "March",
-  "trans": ["三月"],
-  "usphone": "mɑrtʃ",
-  "ukphone": "mɑːrtʃ"
-},
-{
-  "name": "April",
-  "trans": ["四月"],
-  "usphone": "ˈeɪprəl",
-  "ukphone": "ˈeɪprəl"
-},
-{
-  "name": "May",
-  "trans": ["五月"],
-  "usphone": "meɪ",
-  "ukphone": "meɪ"
-},
-{
-  "name": "June",
-  "trans": ["六月"],
-  "usphone": "dʒun",
-  "ukphone": "dʒuːn"
-},
-{
-  "name": "July",
-  "trans": ["七月"],
-  "usphone": "dʒʊˈlaɪ",
-  "ukphone": "dʒʊˈlaɪ"
-},
-{
-  "name": "August",
-  "trans": ["八月"],
-  "usphone": "ɔːˈɡʌst",
-  "ukphone": "ɔːˈɡʌst"
-},
-{
-  "name": "September",
-  "trans": ["九月"],
-  "usphone": "sɛpˈtɛmbər",
-  "ukphone": "sɛpˈtɛmbər"
-},
-{
-  "name": "October",
-  "trans": ["十月"],
-  "usphone": "ɑkˈtoʊbər",
-  "ukphone": "ɒkˈtoʊbər"
-},
-{
-  "name": "November",
-  "trans": ["十一月"],
-  "usphone": "noʊˈvɛmbər",
-  "ukphone": "noʊˈvɛmbər"
-},
-{
-  "name": "December",
-  "trans": ["十二月"],
-  "usphone": "dɪˈsɛmbər",
-  "ukphone": "dɪˈsɛmbər"
-},
-{
-  "name": "birthday",
-  "trans": ["生日"],
-  "usphone": "ˈbɜrθˌdeɪ",
-  "ukphone": "ˈbɜːθˌdeɪ"
-},
-{
-  "name": "first",
-  "trans": ["第一"],
-  "usphone": "fɜrst",
-  "ukphone": "fɜːst"
-},
-{
-  "name": "party",
-  "trans": ["聚会"],
-  "usphone": "ˈpɑr.t̬i",
-  "ukphone": "ˈpɑː.ti"
-},
-{
-  "name": "delicious",
-  "trans": ["美味的"],
-  "usphone": "dɪˈlɪʃəs",
-  "ukphone": "dɪˈlɪʃəs"
-}
+    {
+        "name": "my",
+        "trans": [
+            "わたしの"
+        ],
+        "usphone": "maɪ",
+        "ukphone": "maɪ"
+    },
+    {
+        "name": "your",
+        "trans": [
+            "あなたの",
+            "あなたたちの"
+        ],
+        "usphone": "jʊr",
+        "ukphone": "jɔː"
+    },
+    {
+        "name": "name",
+        "trans": [
+            "<ruby>名前<rt>なまえ</rt></ruby>"
+        ],
+        "usphone": "neɪm",
+        "ukphone": "neɪm"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "<ruby>新<rt>あたら</rt></ruby>しい"
+        ],
+        "usphone": "nuː",
+        "ukphone": "njuː"
+    },
+    {
+        "name": "year",
+        "trans": [
+            "<ruby>年<rt>とし</rt></ruby>",
+            "<ruby>年<rt>ねん</rt></ruby>"
+        ],
+        "usphone": "jɪr",
+        "ukphone": "jɪər"
+    },
+    {
+        "name": "old",
+        "trans": [
+            "〜<ruby>歳<rt>さい</rt></ruby>の",
+            "<ruby>年<rt>とし</rt></ruby>をとった"
+        ],
+        "usphone": "oʊld",
+        "ukphone": "əʊld"
+    },
+    {
+        "name": "how old",
+        "trans": [
+            "<ruby>何歳<rt>なんさい</rt></ruby>"
+        ],
+        "usphone": "haʊ oʊld",
+        "ukphone": "haʊ əʊld"
+    },
+    {
+        "name": "class",
+        "trans": [
+            "クラス"
+        ],
+        "usphone": "klæs",
+        "ukphone": "klɑːs"
+    },
+    {
+        "name": "grade",
+        "trans": [
+            "<ruby>学年<rt>がくねん</rt></ruby>"
+        ],
+        "usphone": "ɡreɪd",
+        "ukphone": "ɡreɪd"
+    },
+    {
+        "name": "age",
+        "trans": [
+            "<ruby>年齢<rt>ねんれい</rt></ruby>"
+        ],
+        "usphone": "eɪdʒ",
+        "ukphone": "eɪdʒ"
+    },
+    {
+        "name": "dear",
+        "trans": [
+            "<ruby>親愛<rt>しんあい</rt></ruby>なる"
+        ],
+        "usphone": "dɪr",
+        "ukphone": "dɪər"
+    },
+    {
+        "name": "body",
+        "trans": [
+            "<ruby>体<rt>からだ</rt></ruby>"
+        ],
+        "usphone": "ˈbɑːdi",
+        "ukphone": "ˈbɒdi"
+    },
+    {
+        "name": "head",
+        "trans": [
+            "<ruby>頭<rt>あたま</rt></ruby>"
+        ],
+        "usphone": "hɛd",
+        "ukphone": "hɛd"
+    },
+    {
+        "name": "hair",
+        "trans": [
+            "<ruby>髪<rt>かみ</rt></ruby>"
+        ],
+        "usphone": "hɛr",
+        "ukphone": "hɛər"
+    },
+    {
+        "name": "arm",
+        "trans": [
+            "<ruby>腕<rt>うで</rt></ruby>"
+        ],
+        "usphone": "ɑːrm",
+        "ukphone": "ɑːrm"
+    },
+    {
+        "name": "hand",
+        "trans": [
+            "<ruby>手<rt>て</rt></ruby>"
+        ],
+        "usphone": "hænd",
+        "ukphone": "hænd"
+    },
+    {
+        "name": "leg",
+        "trans": [
+            "<ruby>脚<rt>あし</rt></ruby>"
+        ],
+        "usphone": "lɛɡ",
+        "ukphone": "lɛɡ"
+    },
+    {
+        "name": "foot (feet)",
+        "trans": [
+            "<ruby>足<rt>あし</rt></ruby>"
+        ],
+        "usphone": "fʊt (fiːt)",
+        "ukphone": "fʊt (fiːt)"
+    },
+    {
+        "name": "the matter",
+        "trans": [
+            "<ruby>困<rt>こま</rt></ruby>ったこと",
+            "<ruby>問題<rt>もんだい</rt></ruby>"
+        ],
+        "usphone": "ðə ˈmætər",
+        "ukphone": "ðə ˈmætər"
+    },
+    {
+        "name": "hurt",
+        "trans": [
+            "<ruby>痛<rt>いた</rt></ruby>い",
+            "<ruby>痛<rt>いた</rt></ruby>める"
+        ],
+        "usphone": "hɜrt",
+        "ukphone": "hɜːrt"
+    },
+    {
+        "name": "help",
+        "trans": [
+            "<ruby>助<rt>たす</rt></ruby>ける"
+        ],
+        "usphone": "hɛlp",
+        "ukphone": "hɛlp"
+    },
+    {
+        "name": "bad",
+        "trans": [
+            "<ruby>悪<rt>わる</rt></ruby>い"
+        ],
+        "usphone": "bæd",
+        "ukphone": "bæd"
+    },
+    {
+        "name": "bite",
+        "trans": [
+            "かむ"
+        ],
+        "usphone": "baɪt",
+        "ukphone": "baɪt"
+    },
+    {
+        "name": "tongue",
+        "trans": [
+            "<ruby>舌<rt>した</rt></ruby>"
+        ],
+        "usphone": "tʌŋ",
+        "ukphone": "tʌŋ"
+    },
+    {
+        "name": "kick",
+        "trans": [
+            "ける"
+        ],
+        "usphone": "kɪk",
+        "ukphone": "kɪk"
+    },
+    {
+        "name": "morning",
+        "trans": [
+            "<ruby>朝<rt>あさ</rt></ruby>"
+        ],
+        "usphone": "ˈmɔrnɪŋ",
+        "ukphone": "ˈmɔːrnɪŋ"
+    },
+    {
+        "name": "afternoon",
+        "trans": [
+            "<ruby>午後<rt>ごご</rt></ruby>"
+        ],
+        "usphone": "ˌæftərˈnuːn",
+        "ukphone": "ˌɑːftəˈnuːn"
+    },
+    {
+        "name": "summary",
+        "trans": [
+            "まとめ"
+        ],
+        "usphone": "ˈsʌməri",
+        "ukphone": "ˈsʌməri"
+    },
+    {
+        "name": "face",
+        "trans": [
+            "<ruby>顔<rt>かお</rt></ruby>"
+        ],
+        "usphone": "feɪs",
+        "ukphone": "feɪs"
+    },
+    {
+        "name": "eye",
+        "trans": [
+            "<ruby>目<rt>め</rt></ruby>"
+        ],
+        "usphone": "aɪ",
+        "ukphone": "aɪ"
+    },
+    {
+        "name": "nose",
+        "trans": [
+            "<ruby>鼻<rt>はな</rt></ruby>"
+        ],
+        "usphone": "noʊz",
+        "ukphone": "nəʊz"
+    },
+    {
+        "name": "mouth",
+        "trans": [
+            "<ruby>口<rt>くち</rt></ruby>"
+        ],
+        "usphone": "maʊθ",
+        "ukphone": "maʊθ"
+    },
+    {
+        "name": "ear",
+        "trans": [
+            "<ruby>耳<rt>みみ</rt></ruby>"
+        ],
+        "usphone": "ɪr",
+        "ukphone": "ɪər"
+    },
+    {
+        "name": "bread",
+        "trans": [
+            "パン"
+        ],
+        "usphone": "brɛd",
+        "ukphone": "brɛd"
+    },
+    {
+        "name": "cake",
+        "trans": [
+            "ケーキ"
+        ],
+        "usphone": "keɪk",
+        "ukphone": "keɪk"
+    },
+    {
+        "name": "fruit",
+        "trans": [
+            "くだもの"
+        ],
+        "usphone": "frut",
+        "ukphone": "fruːt"
+    },
+    {
+        "name": "ice cream",
+        "trans": [
+            "アイスクリーム"
+        ],
+        "usphone": "aɪs krim",
+        "ukphone": "aɪs kriːm"
+    },
+    {
+        "name": "potato",
+        "trans": [
+            "じゃがいも"
+        ],
+        "usphone": "pəˈteɪtoʊ",
+        "ukphone": "pəˈteɪtəʊ"
+    },
+    {
+        "name": "tomato",
+        "trans": [
+            "トマト"
+        ],
+        "usphone": "təˈmeɪtoʊ",
+        "ukphone": "təˈmeɪtəʊ"
+    },
+    {
+        "name": "meat",
+        "trans": [
+            "<ruby>肉<rt>にく</rt></ruby>"
+        ],
+        "usphone": "mit",
+        "ukphone": "miːt"
+    },
+    {
+        "name": "for",
+        "trans": [
+            "〜のために",
+            "〜として"
+        ],
+        "usphone": "fɔr",
+        "ukphone": "fɔːr"
+    },
+    {
+        "name": "shopping list",
+        "trans": [
+            "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>リスト"
+        ],
+        "usphone": "ˈʃɑpɪŋ lɪst",
+        "ukphone": "ˈʃɒpɪŋ lɪst"
+    },
+    {
+        "name": "cola",
+        "trans": [
+            "コーラ"
+        ],
+        "usphone": "ˈkoʊlə",
+        "ukphone": "ˈkoʊlə"
+    },
+    {
+        "name": "buy",
+        "trans": [
+            "<ruby>買<rt>か</rt></ruby>う"
+        ],
+        "usphone": "baɪ",
+        "ukphone": "baɪ"
+    },
+    {
+        "name": "rice",
+        "trans": [
+            "ごはん",
+            "<ruby>米<rt>こめ</rt></ruby>"
+        ],
+        "usphone": "raɪs",
+        "ukphone": "raɪs"
+    },
+    {
+        "name": "noodles",
+        "trans": [
+            "めん"
+        ],
+        "usphone": "ˈnuːdəlz",
+        "ukphone": "ˈnuːdlz"
+    },
+    {
+        "name": "vegetables",
+        "trans": [
+            "<ruby>野菜<rt>やさい</rt></ruby>"
+        ],
+        "usphone": "ˈvɛdʒtəbəlz",
+        "ukphone": "ˈvɛdʒtəbəlz"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "<ruby>魚<rt>さかな</rt></ruby>",
+            "<ruby>魚肉<rt>ぎょにく</rt></ruby>"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ"
+    },
+    {
+        "name": "chicken",
+        "trans": [
+            "<ruby>鶏肉<rt>とりにく</rt></ruby>",
+            "にわとり"
+        ],
+        "usphone": "ˈtʃɪkɪn",
+        "ukphone": "ˈtʃɪkɪn"
+    },
+    {
+        "name": "egg",
+        "trans": [
+            "たまご"
+        ],
+        "usphone": "ɛɡ",
+        "ukphone": "ɛɡ"
+    },
+    {
+        "name": "duck",
+        "trans": [
+            "あひる"
+        ],
+        "usphone": "dʌk",
+        "ukphone": "dʌk"
+    },
+    {
+        "name": "chicken",
+        "trans": [
+            "<ruby>鶏肉<rt>とりにく</rt></ruby>",
+            "にわとり"
+        ],
+        "usphone": "ˈtʃɪkɪn",
+        "ukphone": "ˈtʃɪkɪn"
+    },
+    {
+        "name": "rabbit",
+        "trans": [
+            "うさぎ"
+        ],
+        "usphone": "ˈræbɪt",
+        "ukphone": "ˈræbɪt"
+    },
+    {
+        "name": "pet",
+        "trans": [
+            "ペット"
+        ],
+        "usphone": "pɛt",
+        "ukphone": "pɛt"
+    },
+    {
+        "name": "snake",
+        "trans": [
+            "へび"
+        ],
+        "usphone": "sneɪk",
+        "ukphone": "sneɪk"
+    },
+    {
+        "name": "turtle",
+        "trans": [
+            "かめ"
+        ],
+        "usphone": "ˈtɜːrtl",
+        "ukphone": "ˈtɜːrtl"
+    },
+    {
+        "name": "small",
+        "trans": [
+            "<ruby>小<rt>ちい</rt></ruby>さい"
+        ],
+        "usphone": "smɔːl",
+        "ukphone": "smɔːl"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "<ruby>長<rt>なが</rt></ruby>い"
+        ],
+        "usphone": "lɔːŋ",
+        "ukphone": "lɒŋ"
+    },
+    {
+        "name": "look for",
+        "trans": [
+            "<ruby>探<rt>さが</rt></ruby>す"
+        ],
+        "usphone": "lʊk fɔr",
+        "ukphone": "lʊk fɔːr"
+    },
+    {
+        "name": "tail",
+        "trans": [
+            "しっぽ"
+        ],
+        "usphone": "teɪl",
+        "ukphone": "teɪl"
+    },
+    {
+        "name": "dance",
+        "trans": [
+            "おどる"
+        ],
+        "usphone": "dæns",
+        "ukphone": "dɑːns"
+    },
+    {
+        "name": "cat",
+        "trans": [
+            "ねこ"
+        ],
+        "usphone": "kæt",
+        "ukphone": "kæt"
+    },
+    {
+        "name": "dog",
+        "trans": [
+            "<ruby>犬<rt>いぬ</rt></ruby>"
+        ],
+        "usphone": "dɔːɡ",
+        "ukphone": "dɒɡ"
+    },
+    {
+        "name": "bird",
+        "trans": [
+            "<ruby>鳥<rt>とり</rt></ruby>"
+        ],
+        "usphone": "bɜːrd",
+        "ukphone": "bɜːrd"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "<ruby>魚<rt>さかな</rt></ruby>",
+            "<ruby>魚肉<rt>ぎょにく</rt></ruby>"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ"
+    },
+    {
+        "name": "monkey",
+        "trans": [
+            "さる"
+        ],
+        "usphone": "ˈmʌŋki",
+        "ukphone": "ˈmʌŋki"
+    },
+    {
+        "name": "tiger",
+        "trans": [
+            "とら"
+        ],
+        "usphone": "ˈtaɪɡər",
+        "ukphone": "ˈtaɪɡər"
+    },
+    {
+        "name": "big",
+        "trans": [
+            "<ruby>大<rt>おお</rt></ruby>きい"
+        ],
+        "usphone": "bɪɡ",
+        "ukphone": "bɪɡ"
+    },
+    {
+        "name": "short",
+        "trans": [
+            "<ruby>短<rt>みじか</rt></ruby>い",
+            "<ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い"
+        ],
+        "usphone": "ʃɔːrt",
+        "ukphone": "ʃɔːrt"
+    },
+    {
+        "name": "cap",
+        "trans": [
+            "ぼうし"
+        ],
+        "usphone": "kæp",
+        "ukphone": "kæp"
+    },
+    {
+        "name": "coat",
+        "trans": [
+            "コート"
+        ],
+        "usphone": "koʊt",
+        "ukphone": "kəʊt"
+    },
+    {
+        "name": "shoes",
+        "trans": [
+            "くつ"
+        ],
+        "usphone": "ʃuz",
+        "ukphone": "ʃuz"
+    },
+    {
+        "name": "sweater",
+        "trans": [
+            "セーター"
+        ],
+        "usphone": "ˈswɛtər",
+        "ukphone": "ˈswɛtər"
+    },
+    {
+        "name": "jacket",
+        "trans": [
+            "ジャケット"
+        ],
+        "usphone": "ˈdʒækɪt",
+        "ukphone": "ˈdʒækɪt"
+    },
+    {
+        "name": "gloves",
+        "trans": [
+            "<ruby>手袋<rt>てぶくろ</rt></ruby>"
+        ],
+        "usphone": "ɡlʌvz",
+        "ukphone": "ɡlʌvz"
+    },
+    {
+        "name": "trousers",
+        "trans": [
+            "ズボン"
+        ],
+        "usphone": "ˈtraʊzərz",
+        "ukphone": "ˈtraʊzərz"
+    },
+    {
+        "name": "should",
+        "trans": [
+            "〜したほうがよい"
+        ],
+        "usphone": "ʃʊd",
+        "ukphone": "ʃʊd"
+    },
+    {
+        "name": "wear",
+        "trans": [
+            "<ruby>着<rt>き</rt></ruby>る",
+            "<ruby>身<rt>み</rt></ruby>につける"
+        ],
+        "usphone": "wɛr",
+        "ukphone": "wɛər"
+    },
+    {
+        "name": "week",
+        "trans": [
+            "<ruby>週<rt>しゅう</rt></ruby>"
+        ],
+        "usphone": "wik",
+        "ukphone": "wiːk"
+    },
+    {
+        "name": "soon",
+        "trans": [
+            "すぐに"
+        ],
+        "usphone": "sun",
+        "ukphone": "suːn"
+    },
+    {
+        "name": "look forward to",
+        "trans": [
+            "<ruby>楽<rt>たの</rt></ruby>しみにする"
+        ],
+        "usphone": "lʊk ˈfɔr.wərd tuː",
+        "ukphone": "lʊk ˈfɔːwəd tuː"
+    },
+    {
+        "name": "T-shirt",
+        "trans": [
+            "Tシャツ"
+        ],
+        "usphone": "ˈtiːˌʃɜrt",
+        "ukphone": "ˈtiːˌʃɜːt"
+    },
+    {
+        "name": "shorts",
+        "trans": [
+            "<ruby>短<rt>たん</rt></ruby>パン"
+        ],
+        "usphone": "ʃɔrts",
+        "ukphone": "ʃɔːtz"
+    },
+    {
+        "name": "socks",
+        "trans": [
+            "くつ<ruby>下<rt>した</rt></ruby>"
+        ],
+        "usphone": "sɑks",
+        "ukphone": "sɒks"
+    },
+    {
+        "name": "skirt",
+        "trans": [
+            "スカート"
+        ],
+        "usphone": "skɜrt",
+        "ukphone": "skɜːrt"
+    },
+    {
+        "name": "dress",
+        "trans": [
+            "ワンピース"
+        ],
+        "usphone": "drɛs",
+        "ukphone": "drɛs"
+    },
+    {
+        "name": "shirt",
+        "trans": [
+            "シャツ"
+        ],
+        "usphone": "ʃɜrt",
+        "ukphone": "ʃɜːt"
+    },
+    {
+        "name": "January",
+        "trans": [
+            "<ruby>一月<rt>いちがつ</rt></ruby>"
+        ],
+        "usphone": "ˈdʒæn(j)uˌɛri",
+        "ukphone": "ˈdʒan.jʊˌɛri"
+    },
+    {
+        "name": "February",
+        "trans": [
+            "<ruby>二月<rt>にがつ</rt></ruby>"
+        ],
+        "usphone": "ˈfɛb(j)uˌɛri",
+        "ukphone": "ˈfɛbruːˌɛri"
+    },
+    {
+        "name": "March",
+        "trans": [
+            "<ruby>三月<rt>さんがつ</rt></ruby>"
+        ],
+        "usphone": "mɑrtʃ",
+        "ukphone": "mɑːrtʃ"
+    },
+    {
+        "name": "April",
+        "trans": [
+            "<ruby>四月<rt>しがつ</rt></ruby>"
+        ],
+        "usphone": "ˈeɪprəl",
+        "ukphone": "ˈeɪprəl"
+    },
+    {
+        "name": "May",
+        "trans": [
+            "<ruby>五月<rt>ごがつ</rt></ruby>"
+        ],
+        "usphone": "meɪ",
+        "ukphone": "meɪ"
+    },
+    {
+        "name": "June",
+        "trans": [
+            "<ruby>六月<rt>ろくがつ</rt></ruby>"
+        ],
+        "usphone": "dʒun",
+        "ukphone": "dʒuːn"
+    },
+    {
+        "name": "July",
+        "trans": [
+            "<ruby>七月<rt>しちがつ</rt></ruby>"
+        ],
+        "usphone": "dʒʊˈlaɪ",
+        "ukphone": "dʒʊˈlaɪ"
+    },
+    {
+        "name": "August",
+        "trans": [
+            "<ruby>八月<rt>はちがつ</rt></ruby>"
+        ],
+        "usphone": "ɔːˈɡʌst",
+        "ukphone": "ɔːˈɡʌst"
+    },
+    {
+        "name": "September",
+        "trans": [
+            "<ruby>九月<rt>くがつ</rt></ruby>"
+        ],
+        "usphone": "sɛpˈtɛmbər",
+        "ukphone": "sɛpˈtɛmbər"
+    },
+    {
+        "name": "October",
+        "trans": [
+            "<ruby>十月<rt>じゅうがつ</rt></ruby>"
+        ],
+        "usphone": "ɑkˈtoʊbər",
+        "ukphone": "ɒkˈtoʊbər"
+    },
+    {
+        "name": "November",
+        "trans": [
+            "<ruby>十一月<rt>じゅういちがつ</rt></ruby>"
+        ],
+        "usphone": "noʊˈvɛmbər",
+        "ukphone": "noʊˈvɛmbər"
+    },
+    {
+        "name": "December",
+        "trans": [
+            "<ruby>十二月<rt>じゅうにがつ</rt></ruby>"
+        ],
+        "usphone": "dɪˈsɛmbər",
+        "ukphone": "dɪˈsɛmbər"
+    },
+    {
+        "name": "birthday",
+        "trans": [
+            "<ruby>誕生日<rt>たんじょうび</rt></ruby>"
+        ],
+        "usphone": "ˈbɜrθˌdeɪ",
+        "ukphone": "ˈbɜːθˌdeɪ"
+    },
+    {
+        "name": "first",
+        "trans": [
+            "<ruby>第一<rt>だいいち</rt></ruby>の"
+        ],
+        "usphone": "fɜrst",
+        "ukphone": "fɜːst"
+    },
+    {
+        "name": "party",
+        "trans": [
+            "パーティー"
+        ],
+        "usphone": "ˈpɑr.t̬i",
+        "ukphone": "ˈpɑː.ti"
+    },
+    {
+        "name": "delicious",
+        "trans": [
+            "おいしい"
+        ],
+        "usphone": "dɪˈlɪʃəs",
+        "ukphone": "dɪˈlɪʃəs"
+    }
 ]

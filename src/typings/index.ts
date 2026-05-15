@@ -4,6 +4,8 @@ export type PronunciationType = 'us' | 'uk' | 'romaji' | 'zh' | 'ja' | 'de' | 'h
 export type PhoneticType = 'us' | 'uk' | 'romaji' | 'zh' | 'ja' | 'de' | 'hapin' | 'kk' | 'id'
 export type LanguageType = 'en' | 'romaji' | 'zh' | 'ja' | 'code' | 'de' | 'kk' | 'hapin' | 'id'
 export type LanguageCategoryType = 'en' | 'ja' | 'de' | 'code' | 'kk' | 'id'
+export type EnglishLevelType = 'elementaryLower' | 'elementaryUpper' | 'junior' | 'high' | 'college'
+export type CodeLevelType = 'kids' | 'other'
 
 type Pronunciation2PhoneticMap = Record<PronunciationType, PhoneticType>
 

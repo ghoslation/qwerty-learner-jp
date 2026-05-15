@@ -2,9 +2,7 @@
     {
         "name": "use",
         "trans": [
-            "n. 使用; 用途; 发挥",
-            "vt. 利用; 耗费",
-            "vi. 使用、运用"
+            "<ruby>使<rt>つか</rt></ruby>う"
         ],
         "usphone": "[juːz]",
         "ukphone": "[juːz]"
@@ -12,7 +10,7 @@
     {
         "name": "chopsticks",
         "trans": [
-            "n. 筷子"
+            "はし"
         ],
         "usphone": "[ˈtʃɑːpstɪks]",
         "ukphone": "[ˈtʃɒpstɪks]"
@@ -20,9 +18,8 @@
     {
         "name": "want",
         "trans": [
-            "n. 必要; 欠如; 贫困; 必需品",
-            "vt. 必要; 希望; 应该; 缺少",
-            "vi. 必要; 缺少"
+            "ほしい",
+            "〜したい"
         ],
         "usphone": "[wɑːnt]",
         "ukphone": "[wɒnt]"
@@ -30,7 +27,7 @@
     {
         "name": "hungry",
         "trans": [
-            "adj. 饥饿的; 切望的; 荒年的; 不毛的"
+            "おなかがすいた"
         ],
         "usphone": "[ˈhʌŋɡri]",
         "ukphone": "[ˈhʌŋɡri]"
@@ -38,9 +35,7 @@
     {
         "name": "mess",
         "trans": [
-            "n. 混乱; 食堂、伙食团; 困境; 脏乱的东西",
-            "vt. 弄乱、弄脏; 毁坏; 使就餐",
-            "vi. 把事情弄糟; 制造脏乱; 玩弄"
+            "ちらかったもの"
         ],
         "usphone": "[mes]",
         "ukphone": "[mes]"
@@ -48,8 +43,7 @@
     {
         "name": "hard",
         "trans": [
-            "adj. 努力的; 硬的; 困难的; 辛苦的; 确实的; 严厉的; 猛烈的; 冷酷无情的",
-            "adv. 努力地; 困难地; 辛苦地; 近づく地; 猛烈地; 牢固地"
+            "むずかしい"
         ],
         "usphone": "[hɑːrd]",
         "ukphone": "[hɑːd]"
@@ -57,9 +51,7 @@
     {
         "name": "knife",
         "trans": [
-            "n. 刀; 匕首",
-            "vt. 用刀切; （口）傷つける",
-            "vi. 劈开; 划过"
+            "ナイフ"
         ],
         "usphone": "[naɪf]",
         "ukphone": "[naɪf]"
@@ -67,9 +59,7 @@
     {
         "name": "fork",
         "trans": [
-            "n. 叉; 餐叉; 耙",
-            "vt. 叉起; 使成叉状",
-            "vi. 分叉; 分歧"
+            "フォーク"
         ],
         "usphone": "[fɔːrk]",
         "ukphone": "[fɔːk]"
@@ -77,16 +67,13 @@
     {
         "name": "a knife and fork",
         "trans": [
-            "na. 一副刀叉; (吃西餐用的)一副刀叉"
+            "ナイフとフォーク"
         ]
     },
     {
         "name": "easy",
         "trans": [
-            "adj. 容易的; 舒适的",
-            "vt. 发出停划命令",
-            "adv. 不费力地、从容地",
-            "vi. 止める划桨"
+            "かんたんな"
         ],
         "usphone": "[ˈiːzi]",
         "ukphone": "[ˈiːzi]"
@@ -94,7 +81,7 @@
     {
         "name": "hamburger",
         "trans": [
-            "n. 汉堡包、火腿汉堡; 牛肉饼、肉饼; 碎牛肉"
+            "ハンバーガー"
         ],
         "usphone": "[ˈhæmbɜːrɡər]",
         "ukphone": "[ˈhæmbɜːɡə(r)]"
@@ -102,7 +89,7 @@
     {
         "name": "chips",
         "trans": [
-            "n. [食品] 炸土豆条; 小木片; （作赌注用的）圆形筹码; 缺口（chipの複数形形式）"
+            "ポテトチップス"
         ],
         "usphone": "[tʃɪps]",
         "ukphone": "[tʃɪps]"
@@ -110,9 +97,7 @@
     {
         "name": "grass",
         "trans": [
-            "n. 草; 草地、草坪",
-            "vt. 放牧; 使……长满草; 使……吃草",
-            "vi. 长草"
+            "<ruby>草<rt>くさ</rt></ruby>"
         ],
         "usphone": "[ɡræs]",
         "ukphone": "[ɡrɑːs]"
@@ -120,7 +105,7 @@
     {
         "name": "food",
         "trans": [
-            "n. 食物; 养料"
+            "<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>"
         ],
         "usphone": "[fuːd]",
         "ukphone": "[fuːd]"
@@ -128,15 +113,13 @@
     {
         "name": "fast food",
         "trans": [
-            "n. 快餐; 速食"
+            "ファストフード"
         ]
     },
     {
         "name": "make",
         "trans": [
-            "vt. 使得; 进行; 布置、准备、整理; 制造; 考える; 得る; 形成; 手配; 引き起こす; 構成",
-            "vi. 始める; 前進; 增大; 被制造",
-            "n. 制造; 构造; 性情"
+            "<ruby>作<rt>つく</rt></ruby>る"
         ],
         "usphone": "[meɪk]",
         "ukphone": "[meɪk]"
@@ -144,9 +127,7 @@
     {
         "name": "cake",
         "trans": [
-            "n. 蛋糕; 块状物; 利益总额",
-            "vt. 使结块",
-            "vi. 结成块状"
+            "ケーキ"
         ],
         "usphone": "[keɪk]",
         "ukphone": "[keɪk]"
@@ -154,10 +135,7 @@
     {
         "name": "mum",
         "trans": [
-            "adj. 沉默的",
-            "n. 妈妈（口语）; 沉默; 菊花",
-            "vi. 演哑剧",
-            "int. 别说话"
+            "お<ruby>母<rt>かあ</rt></ruby>さん"
         ],
         "usphone": "[mʌm]",
         "ukphone": "[mʌm]"
@@ -165,7 +143,7 @@
     {
         "name": "dad",
         "trans": [
-            "n. 爸爸; 爹爹"
+            "お<ruby>父<rt>とう</rt></ruby>さん"
         ],
         "usphone": "[dæd]",
         "ukphone": "[dæd]"
@@ -173,10 +151,7 @@
     {
         "name": "quiet",
         "trans": [
-            "n. 安静; 和平",
-            "adj. 安静的; 安定的; 不动的; 温顺的",
-            "vt. 使平息; 安慰",
-            "vi. 平静下来"
+            "<ruby>静<rt>しず</rt></ruby>かな"
         ],
         "usphone": "[ˈkwaɪət]",
         "ukphone": "[ˈkwaɪət]"
@@ -184,9 +159,7 @@
     {
         "name": "water",
         "trans": [
-            "n. 水; 海水; 雨水; 海域、大片的水",
-            "vt. 使湿; 供以水; 给…浇水",
-            "vi. 加水; 流泪; 流口水"
+            "<ruby>水<rt>みず</rt></ruby>"
         ],
         "usphone": "[ˈwɔːtər]",
         "ukphone": "[ˈwɔːtə(r)]"
@@ -194,8 +167,7 @@
     {
         "name": "lovely",
         "trans": [
-            "adj. 可爱的; 令人愉快的; 爱恋的; 秀丽的、优美的",
-            "n. 美女; 可爱的东西"
+            "かわいい"
         ],
         "usphone": "[ˈlʌvli]",
         "ukphone": "[ˈlʌvli]"
@@ -203,7 +175,7 @@
     {
         "name": "naughty",
         "trans": [
-            "adj. 顽皮的、淘气的; 不听话的; 没规矩的; 不适当的; 下流的"
+            "いたずらな"
         ],
         "usphone": "[ˈnɔːti]",
         "ukphone": "[ˈnɔːti]"
@@ -211,10 +183,7 @@
     {
         "name": "paper",
         "trans": [
-            "n. 纸; 论文; 文件; 报纸",
-            "adj. 纸做的",
-            "vt. 用纸糊; 用纸包装",
-            "vi. 贴糊墙纸; 发交通违章传票"
+            "<ruby>紙<rt>かみ</rt></ruby>"
         ],
         "usphone": "[ˈpeɪpər]",
         "ukphone": "[ˈpeɪpə(r)]"
@@ -222,8 +191,8 @@
     {
         "name": "boat",
         "trans": [
-            "n. 小船; 轮船",
-            "vi. 划船"
+            "<ruby>小舟<rt>こぶね</rt></ruby>",
+            "ボート"
         ],
         "usphone": "[boʊt]",
         "ukphone": "[bəʊt]"
@@ -231,14 +200,13 @@
     {
         "name": "dragon boat",
         "trans": [
-            "n. 龙舟; 龙船"
+            "ドラゴンボート"
         ]
     },
     {
         "name": "people",
         "trans": [
-            "n. 人; 人类; 民族; 公民",
-            "vt. 居住于; 使住满人"
+            "<ruby>人々<rt>ひとびと</rt></ruby>"
         ],
         "usphone": "[ˈpiːpl]",
         "ukphone": "[ˈpiːp(ə)l]"
@@ -246,9 +214,8 @@
     {
         "name": "row",
         "trans": [
-            "n. 行、排; 划船; 街道; 吵闹",
-            "vt. 划船; 使……成排",
-            "vi. 划船; 争吵"
+            "<ruby>列<rt>れつ</rt></ruby>",
+            "<ruby>船<rt>ふね</rt></ruby>をこぐ"
         ],
         "usphone": "[roʊ; raʊ]",
         "ukphone": "[rəʊ; raʊ]"
@@ -256,9 +223,7 @@
     {
         "name": "lake",
         "trans": [
-            "n. 湖; 深红色颜料; 胭脂红",
-            "vt. （使）血球溶解",
-            "vi. （使）血球溶解"
+            "<ruby>湖<rt>みずうみ</rt></ruby>"
         ],
         "usphone": "[leɪk]",
         "ukphone": "[leɪk]"
@@ -266,9 +231,7 @@
     {
         "name": "feed",
         "trans": [
-            "n. 饲料; 饲养; （动物或婴儿的）一餐",
-            "vt. 喂养; 供给; 放牧; 抚养（家庭等）; 靠…为生",
-            "vi. 吃东西; 流入"
+            "えさをあげる"
         ],
         "usphone": "[fiːd]",
         "ukphone": "[fiːd]"
@@ -276,8 +239,7 @@
     {
         "name": "bread",
         "trans": [
-            "n. 面包; 生计",
-            "vt. 在…上洒面包屑"
+            "パン"
         ],
         "usphone": "[bred]",
         "ukphone": "[bred]"
@@ -285,7 +247,7 @@
     {
         "name": "get out",
         "trans": [
-            "na. 摆脱; 走出; 〔命令语气〕出去!"
+            "<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>る"
         ],
         "usphone": "[ɡet aʊt]",
         "ukphone": "[ˈɡet aʊt]"
@@ -293,9 +255,7 @@
     {
         "name": "far",
         "trans": [
-            "n. 远方",
-            "adj. 远的; 久远的",
-            "adv. 很; 遥远地; 久远地; 到很远的距离; 到很深的程度"
+            "<ruby>遠<rt>とお</rt></ruby>い"
         ],
         "usphone": "[fɑːr]",
         "ukphone": "[fɑː(r)]"
@@ -303,10 +263,7 @@
     {
         "name": "fast",
         "trans": [
-            "n. 斋戒; 绝食",
-            "adj. 快速的、迅速的; 紧的、稳固的",
-            "adv. 迅速地; 紧紧地; 彻底地",
-            "vi. 禁食、斋戒"
+            "<ruby>速<rt>はや</rt></ruby>い"
         ],
         "usphone": "[fæst]",
         "ukphone": "[fɑːst]"
@@ -314,7 +271,7 @@
     {
         "name": "winner",
         "trans": [
-            "n. 胜利者"
+            "<ruby>勝<rt>か</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>"
         ],
         "usphone": "[ˈwɪnər]",
         "ukphone": "[ˈwɪnə(r)]"
@@ -322,13 +279,13 @@
     {
         "name": "can't",
         "trans": [
-            "abbr. 不能（can not）"
+            "〜できない"
         ]
     },
     {
         "name": "cannot",
         "trans": [
-            "v. 不能; 无法"
+            "〜できない"
         ],
         "usphone": "[ˈkænɑːt]",
         "ukphone": "[ˈkænɒt]"
@@ -336,10 +293,7 @@
     {
         "name": "slow",
         "trans": [
-            "adj. 慢的; 减速的; 迟钝的",
-            "vt. 放慢; 妨害",
-            "vi. 变慢; 变萧条",
-            "adv. 慢慢地; 迟缓地"
+            "おそい"
         ],
         "usphone": "[sloʊ]",
         "ukphone": "[sləʊ]"
@@ -347,10 +301,7 @@
     {
         "name": "fly",
         "trans": [
-            "n. 飞行; 苍蝇; 两翼昆虫",
-            "adj. 敏捷的",
-            "vi. 飞; 驾驶飞机; 飘扬",
-            "vt. 飞行; 飞越; 使飘扬"
+            "<ruby>飛<rt>と</rt></ruby>ぶ"
         ],
         "usphone": "[flaɪ]",
         "ukphone": "[flaɪ]"
@@ -358,7 +309,7 @@
     {
         "name": "koala",
         "trans": [
-            "n. 树袋熊、无尾熊（产于澳大利亚、又名考拉）"
+            "コアラ"
         ],
         "usphone": "[koʊˈɑːlə]",
         "ukphone": "[kəʊˈɑːlə]"
@@ -366,9 +317,7 @@
     {
         "name": "climb",
         "trans": [
-            "n. 爬; 攀登",
-            "vi. 爬; 攀登; 上昇",
-            "vt. 爬; 攀登; 上昇"
+            "のぼる"
         ],
         "usphone": "[klaɪm]",
         "ukphone": "[klaɪm]"
@@ -376,9 +325,7 @@
     {
         "name": "cry",
         "trans": [
-            "n. 叫喊; 叫声; 口号; 呼叫",
-            "vi. 哭; 叫; 喊",
-            "vt. 叫喊; 哭出; 大声说"
+            "<ruby>泣<rt>な</rt></ruby>く"
         ],
         "usphone": "[kraɪ]",
         "ukphone": "[kraɪ]"
@@ -386,9 +333,7 @@
     {
         "name": "drink",
         "trans": [
-            "n. 酒、饮料; 喝酒",
-            "vt. 喝、饮; 吸收; 举杯庆贺",
-            "vi. 喝酒; 饮水; 干杯"
+            "<ruby>飲<rt>の</rt></ruby>む"
         ],
         "usphone": "[drɪŋk]",
         "ukphone": "[drɪŋk]"
@@ -396,9 +341,7 @@
     {
         "name": "shop",
         "trans": [
-            "n. 商店; 店铺",
-            "vt. 购物",
-            "vi. 购物; 买东西"
+            "お<ruby>店<rt>みせ</rt></ruby>"
         ],
         "usphone": "[ʃɑːp]",
         "ukphone": "[ʃɒp]"
@@ -406,14 +349,13 @@
     {
         "name": "go out",
         "trans": [
-            "na. 出去; 灭; 辞职; 下台"
+            "<ruby>外出<rt>がいしゅつ</rt></ruby>する"
         ]
     },
     {
         "name": "thanks",
         "trans": [
-            "n. 谢谢（只用复数）",
-            "int. 谢谢"
+            "ありがとう"
         ],
         "usphone": "[θæŋks]",
         "ukphone": "[θæŋks]"
@@ -421,7 +363,7 @@
     {
         "name": "library",
         "trans": [
-            "n. 图书馆、藏书室; 文库"
+            "<ruby>図書館<rt>としょかん</rt></ruby>"
         ],
         "usphone": "[ˈlaɪbreri]",
         "ukphone": "[ˈlaɪbrəri; ˈlaɪbri]"
@@ -429,9 +371,7 @@
     {
         "name": "worry",
         "trans": [
-            "n. 担心; 烦恼; 撕咬",
-            "vi. 担心; 烦恼; 撕咬",
-            "vt. 担心; 发愁; 苦しめる"
+            "<ruby>心配<rt>しんぱい</rt></ruby>する"
         ],
         "usphone": "[ˈwɜːri]",
         "ukphone": "[ˈwʌri]"
@@ -439,13 +379,14 @@
     {
         "name": "have got",
         "trans": [
-            " 有; 拥有; 的第三人称单数形式"
+            "<ruby>持<rt>も</rt></ruby>っている"
         ]
     },
     {
         "name": "careful",
         "trans": [
-            "adj. 仔细的、小心的"
+            "<ruby>気<rt>き</rt></ruby>をつけて",
+            "<ruby>注意深<rt>ちゅういぶか</rt></ruby>い"
         ],
         "usphone": "[ˈkerfl]",
         "ukphone": "[ˈkeəf(ə)l]"
@@ -453,9 +394,7 @@
     {
         "name": "wash",
         "trans": [
-            "n. 洗涤; 洗的衣服; 化妆水; 冲积物",
-            "vt. 洗涤; 洗刷; 冲走; 拍打",
-            "vi. 洗澡; 被冲蚀"
+            "<ruby>洗<rt>あら</rt></ruby>う"
         ],
         "usphone": "[wɑːʃ]",
         "ukphone": "[wɒʃ]"
@@ -463,13 +402,13 @@
     {
         "name": "has got",
         "trans": [
-            " 有; 拥有; 过去完了时"
+            "<ruby>持<rt>も</rt></ruby>っている"
         ]
     },
     {
         "name": "pear",
         "trans": [
-            "n. [园艺] 梨树; 梨子"
+            "なし"
         ],
         "usphone": "[per]",
         "ukphone": "[peə(r)]"
@@ -477,10 +416,7 @@
     {
         "name": "peach",
         "trans": [
-            "n. 桃子; 桃树; 桃红色; 受人喜欢的人（或物）",
-            "adj. 桃色的; 用桃子制成的",
-            "vt. 告发",
-            "vi. 告密"
+            "もも"
         ],
         "usphone": "[piːtʃ]",
         "ukphone": "[piːtʃ]"
@@ -488,7 +424,7 @@
     {
         "name": "headache",
         "trans": [
-            "n. 头痛; 麻烦; 令人头痛之事"
+            "<ruby>頭痛<rt>ずつう</rt></ruby>"
         ],
         "usphone": "[ˈhedeɪk]",
         "ukphone": "[ˈhedeɪk]"
@@ -496,7 +432,7 @@
     {
         "name": "stomach ache",
         "trans": [
-            "n. 胃痛; 腹痛"
+            "おなかの<ruby>痛<rt>いた</rt></ruby>み"
         ],
         "usphone": "[ˈstʌmək eɪk]",
         "ukphone": "[ˈstʌmək eɪk]"
@@ -504,9 +440,7 @@
     {
         "name": "test",
         "trans": [
-            "n. 試験; 检验",
-            "vt. 試験; 测试",
-            "vi. 試験; 测试"
+            "テスト"
         ],
         "usphone": "[test]",
         "ukphone": "[test]"
@@ -514,7 +448,7 @@
     {
         "name": "Friday",
         "trans": [
-            "n. 星期五"
+            "<ruby>金曜日<rt>きんようび</rt></ruby>"
         ],
         "usphone": "[ˈfraɪdeɪ]",
         "ukphone": "[ˈfraɪdeɪ]"
@@ -522,8 +456,7 @@
     {
         "name": "clever",
         "trans": [
-            "adj. 聪明的; 机灵的; 熟练的",
-            "[ 比較級cleverer 最高级 cleverest ]"
+            "かしこい"
         ],
         "usphone": "[ˈklevər]",
         "ukphone": "[ˈklevə(r)]"
@@ -531,9 +464,8 @@
     {
         "name": "cold",
         "trans": [
-            "n. 寒冷; 感冒",
-            "adj. 寒冷的; 冷淡的、不热情的; 失去知觉的",
-            "adv. 完全に"
+            "<ruby>寒<rt>さむ</rt></ruby>い",
+            "<ruby>冷<rt>つめ</rt></ruby>たい"
         ],
         "usphone": "[kəʊld]",
         "ukphone": "[kəʊld]"
@@ -541,10 +473,7 @@
     {
         "name": "class",
         "trans": [
-            "n. 阶级; 班级; 種類; 班; 等级",
-            "adj. 素晴らしい; 很好的、优秀的、出色的",
-            "vt. 分类; 把…分等级; 把…归入某等级、把…看作（或分类、归类）; 把…编入某一班级",
-            "vi. 属于…类（或等级）、被列为某类（或某级）"
+            "クラス"
         ],
         "usphone": "[klæs]",
         "ukphone": "[klɑːs]"
@@ -552,8 +481,7 @@
     {
         "name": "begin",
         "trans": [
-            "vi. 始める; 首先",
-            "vt. 始める"
+            "はじめる"
         ],
         "usphone": "[bɪˈɡɪn]",
         "ukphone": "[bɪˈɡɪn]"
@@ -561,9 +489,7 @@
     {
         "name": "cough",
         "trans": [
-            "n. 咳嗽、咳嗽声; 咳嗽病",
-            "vt. 咳出",
-            "vi. 咳嗽"
+            "せき"
         ],
         "usphone": "[kɔːf]",
         "ukphone": "[kɒf]"
@@ -571,7 +497,7 @@
     {
         "name": "bring",
         "trans": [
-            "vt. 带来; 促使; 引き起こす; 使誰か处于某种情况或境地"
+            "<ruby>持<rt>も</rt></ruby>ってくる"
         ],
         "usphone": "[brɪŋ]",
         "ukphone": "[brɪŋ]"
@@ -579,7 +505,7 @@
     {
         "name": "umbrella",
         "trans": [
-            "n. 雨伞; 保護伞; 庇护; 伞形结构"
+            "かさ"
         ],
         "usphone": "[ʌmˈbrelə]",
         "ukphone": "[ʌmˈbrelə]"
@@ -587,9 +513,7 @@
     {
         "name": "get",
         "trans": [
-            "n. 生殖; 幼兽",
-            "vi. 成为; 变得; 到达",
-            "vt. 使得; 得る; 受到; 变成"
+            "<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる"
         ],
         "usphone": "[ɡet]",
         "ukphone": "[ɡet]"
@@ -597,8 +521,7 @@
     {
         "name": "which",
         "trans": [
-            "adj. 哪一个; 哪一些",
-            "pron. 哪/那一个; 哪/那一些"
+            "どれ／どの"
         ],
         "usphone": "[wɪtʃ]",
         "ukphone": "[wɪtʃ]"
@@ -606,8 +529,7 @@
     {
         "name": "broken",
         "trans": [
-            "v. 折断; 打碎; 损坏（breakの過去分詞）",
-            "adj. 破碎的; 坏掉的"
+            "こわれた"
         ],
         "usphone": "[ˈbroʊkən]",
         "ukphone": "[ˈbrəʊkən]"
@@ -615,27 +537,25 @@
     {
         "name": "long jump",
         "trans": [
-            "n. 跳远"
+            "<ruby>走<rt>はし</rt></ruby>り<ruby>幅跳<rt>はばと</rt></ruby>び"
         ]
     },
     {
         "name": "make friends",
         "trans": [
-            " 交朋友; 交友; 结交朋友"
+            "<ruby>友<rt>とも</rt></ruby>だちを<ruby>作<rt>つく</rt></ruby>る"
         ]
     },
     {
         "name": "sports day",
         "trans": [
-            "n. （学校的）運動会"
+            "<ruby>運動会<rt>うんどうかい</rt></ruby>"
         ]
     },
     {
         "name": "high",
         "trans": [
-            "n. 高水平; 天空; 由麻醉品引き起こす的快感; 高压地带",
-            "adj. 高的; 高级的; 崇高的; 高音调的",
-            "adv. 高; 奢侈地"
+            "<ruby>高<rt>たか</rt></ruby>い"
         ],
         "usphone": "[haɪ]",
         "ukphone": "[haɪ]"
@@ -643,15 +563,13 @@
     {
         "name": "high jump",
         "trans": [
-            "n. 跳高"
+            "<ruby>走<rt>はし</rt></ruby>り<ruby>高跳<rt>たかと</rt></ruby>び"
         ]
     },
     {
         "name": "race",
         "trans": [
-            "n. 属、种; 种族、人种; 家庭、门第",
-            "vt. 使参加試合; 和…竞赛; 使急走、使全速行进",
-            "vi. 比速度、参加竞赛; 全速行进"
+            "<ruby>競争<rt>きょうそう</rt></ruby>"
         ],
         "usphone": "[reɪs]",
         "ukphone": "[reɪs]"
@@ -659,16 +577,13 @@
     {
         "name": "run a race",
         "trans": [
-            "na. 赛跑"
+            "かけっこをする"
         ]
     },
     {
         "name": "star",
         "trans": [
-            "n. 星、恒星; 明星; 星形物",
-            "adj. 明星的、主角的; 星形的",
-            "vt. 用星号标于; 由…主演、由…担任主角",
-            "vi. 担任主角"
+            "<ruby>星<rt>ほし</rt></ruby>"
         ],
         "usphone": "[stɑːr]",
         "ukphone": "[stɑː(r)]"
@@ -676,7 +591,7 @@
     {
         "name": "uncle",
         "trans": [
-            "n. 叔叔; 伯父; 伯伯; 舅父; 姨丈; 姑父"
+            "おじさん"
         ],
         "usphone": "[ˈʌŋkl]",
         "ukphone": "[ˈʌŋk(ə)l]"
@@ -684,7 +599,7 @@
     {
         "name": "airport",
         "trans": [
-            "n. 机场; 航空站"
+            "<ruby>空港<rt>くうこう</rt></ruby>"
         ],
         "usphone": "[ˈerpɔːrt]",
         "ukphone": "[ˈeəpɔːt]"
@@ -692,7 +607,7 @@
     {
         "name": "sea",
         "trans": [
-            "n. 海; 海洋; 许多; 大量"
+            "<ruby>海<rt>うみ</rt></ruby>"
         ],
         "usphone": "[siː]",
         "ukphone": "[siː]"
@@ -700,9 +615,7 @@
     {
         "name": "visit",
         "trans": [
-            "n. 访问; 参观; 逗留",
-            "vt. 访问; 参观; 视察",
-            "vi. 访问; 暂住; 闲谈"
+            "<ruby>訪<rt>たず</rt></ruby>ねる"
         ],
         "usphone": "[ˈvɪzɪt]",
         "ukphone": "[ˈvɪzɪt]"
@@ -710,7 +623,7 @@
     {
         "name": "Saturday",
         "trans": [
-            "n. 星期六"
+            "<ruby>土曜日<rt>どようび</rt></ruby>"
         ],
         "usphone": "[ˈsætərdeɪ]",
         "ukphone": "[ˈsætədeɪ]"
@@ -718,9 +631,7 @@
     {
         "name": "film",
         "trans": [
-            "n. 电影; 薄膜; 胶卷; 轻烟",
-            "vt. 在…上覆以薄膜; 把…拍成电影",
-            "vi. 摄制电影; 生薄膜; 变得朦胧"
+            "<ruby>映画<rt>えいが</rt></ruby>"
         ],
         "usphone": "[fɪlm]",
         "ukphone": "[fɪlm]"

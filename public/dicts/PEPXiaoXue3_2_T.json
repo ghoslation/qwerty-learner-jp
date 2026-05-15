@@ -2,7 +2,7 @@
     {
         "name": "UK",
         "trans": [
-            "英国"
+            "イギリス"
         ],
         "usphone": "",
         "ukphone": ""
@@ -10,7 +10,7 @@
     {
         "name": "Canada",
         "trans": [
-            "加拿大"
+            "カナダ"
         ],
         "usphone": "'kænədə",
         "ukphone": "'kænədə"
@@ -18,7 +18,7 @@
     {
         "name": "USA",
         "trans": [
-            "美国"
+            "アメリカ"
         ],
         "usphone": "",
         "ukphone": ""
@@ -26,7 +26,7 @@
     {
         "name": "China",
         "trans": [
-            "中国"
+            "<ruby>中国<rt>ちゅうごく</rt></ruby>"
         ],
         "usphone": "",
         "ukphone": "ˈtʃaɪnə"
@@ -34,7 +34,7 @@
     {
         "name": "she",
         "trans": [
-            "她; （指雌性动物）它"
+            "<ruby>彼女<rt>かのじょ</rt></ruby>"
         ],
         "usphone": "ʃi",
         "ukphone": "ʃiː"
@@ -42,7 +42,8 @@
     {
         "name": "student",
         "trans": [
-            "学生, 学者"
+            "<ruby>生徒<rt>せいと</rt></ruby>",
+            "<ruby>学生<rt>がくせい</rt></ruby>"
         ],
         "usphone": "'studnt",
         "ukphone": "'stjuːd(ə)nt"
@@ -50,7 +51,7 @@
     {
         "name": "pupil",
         "trans": [
-            "小学生"
+            "<ruby>小学生<rt>しょうがくせい</rt></ruby>"
         ],
         "usphone": "pjupl",
         "ukphone": "'pjuːpɪl; -p(ə)l"
@@ -58,7 +59,7 @@
     {
         "name": "he",
         "trans": [
-            "他; 它（指雄性动物）"
+            "<ruby>彼<rt>かれ</rt></ruby>"
         ],
         "usphone": "hi",
         "ukphone": "hiː"
@@ -66,7 +67,7 @@
     {
         "name": "teacher",
         "trans": [
-            "教师, 老师, 导师"
+            "<ruby>先生<rt>せんせい</rt></ruby>"
         ],
         "usphone": "'titʃɚ",
         "ukphone": "'tiːtʃə"
@@ -74,7 +75,7 @@
     {
         "name": "boy",
         "trans": [
-            "男孩, 儿子, 孩子气的人, 男仆"
+            "<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>"
         ],
         "usphone": "bɔɪ",
         "ukphone": "bɒɪ"
@@ -82,7 +83,8 @@
     {
         "name": "and",
         "trans": [
-            "和"
+            "そして",
+            "〜と"
         ],
         "usphone": "ənd, ən,ænd",
         "ukphone": "ənd; (ə)n; ænd"
@@ -90,7 +92,7 @@
     {
         "name": "girl",
         "trans": [
-            "女孩, 少女, 女仆, (商店等的)女仕事人员"
+            "<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>"
         ],
         "usphone": "ɡɝl",
         "ukphone": "gɜːl"
@@ -98,7 +100,7 @@
     {
         "name": "new",
         "trans": [
-            "新的、新近的; 新来的; 不熟悉的"
+            "<ruby>新<rt>あたら</rt></ruby>しい"
         ],
         "usphone": "nu",
         "ukphone": "njuː"
@@ -106,7 +108,7 @@
     {
         "name": "friend",
         "trans": [
-            "朋友、友人; 支援者、同情者"
+            "<ruby>友<rt>とも</rt></ruby>だち"
         ],
         "usphone": "frɛnd",
         "ukphone": "frend"
@@ -114,7 +116,7 @@
     {
         "name": "today",
         "trans": [
-            "今天; 现在、目前"
+            "<ruby>今日<rt>きょう</rt></ruby>"
         ],
         "usphone": "tə'de",
         "ukphone": "tə'deɪ"
@@ -122,7 +124,8 @@
     {
         "name": "father",
         "trans": [
-            "父亲; 爸爸"
+            "お<ruby>父<rt>とう</rt></ruby>さん",
+            "<ruby>父<rt>ちち</rt></ruby>"
         ],
         "usphone": "'fɑðɚ",
         "ukphone": "'fɑːðə"
@@ -130,7 +133,7 @@
     {
         "name": "dad",
         "trans": [
-            "（口语）爸爸; 爹爹"
+            "お<ruby>父<rt>とう</rt></ruby>さん"
         ],
         "usphone": "dæd",
         "ukphone": "dæd"
@@ -138,7 +141,7 @@
     {
         "name": "man",
         "trans": [
-            "男人"
+            "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>"
         ],
         "usphone": "mæn",
         "ukphone": "mæn"
@@ -146,7 +149,7 @@
     {
         "name": "woman",
         "trans": [
-            "女人"
+            "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>"
         ],
         "usphone": "'wʊmən",
         "ukphone": "'wʊmən"
@@ -154,7 +157,8 @@
     {
         "name": "mother",
         "trans": [
-            "母亲; 妈妈"
+            "お<ruby>母<rt>かあ</rt></ruby>さん",
+            "<ruby>母<rt>はは</rt></ruby>"
         ],
         "usphone": "'mʌðɚ",
         "ukphone": "'mʌðə"
@@ -162,7 +166,9 @@
     {
         "name": "sister",
         "trans": [
-            "姐; 妹"
+            "<ruby>姉妹<rt>しまい</rt></ruby>",
+            "<ruby>姉<rt>あね</rt></ruby>",
+            "<ruby>妹<rt>いもうと</rt></ruby>"
         ],
         "usphone": "'sɪstɚ",
         "ukphone": "'sɪstə"
@@ -170,7 +176,9 @@
     {
         "name": "brother",
         "trans": [
-            "兄; 弟"
+            "<ruby>兄弟<rt>きょうだい</rt></ruby>",
+            "<ruby>兄<rt>あに</rt></ruby>",
+            "<ruby>弟<rt>おとうと</rt></ruby>"
         ],
         "usphone": "'brʌðɚ",
         "ukphone": "'brʌðə"
@@ -178,7 +186,7 @@
     {
         "name": "grandmother",
         "trans": [
-            "（外）祖母"
+            "おばあさん"
         ],
         "usphone": "'ɡrænmʌðɚ",
         "ukphone": "'græn(d)mʌðə"
@@ -186,7 +194,7 @@
     {
         "name": "grandma",
         "trans": [
-            "（口语）（外）祖母"
+            "おばあちゃん"
         ],
         "usphone": "ɡrænmɑ",
         "ukphone": "'græn(d)mɑː"
@@ -194,7 +202,7 @@
     {
         "name": "grandfather",
         "trans": [
-            "（外）祖父"
+            "おじいさん"
         ],
         "usphone": "'græn'fɑðɚ",
         "ukphone": "'græn(d)fɑːðə"
@@ -202,7 +210,7 @@
     {
         "name": "grandpa",
         "trans": [
-            "（口语）（外）祖父"
+            "おじいちゃん"
         ],
         "usphone": "grandpa",
         "ukphone": "ˈgrænpɑ:"
@@ -210,7 +218,7 @@
     {
         "name": "family",
         "trans": [
-            "家; 家庭"
+            "<ruby>家族<rt>かぞく</rt></ruby>"
         ],
         "usphone": "ˈfæməlɪ",
         "ukphone": "ˈfæməlɪ"
@@ -218,7 +226,8 @@
     {
         "name": "thin",
         "trans": [
-            "瘦的"
+            "やせた",
+            "<ruby>細<rt>ほそ</rt></ruby>い"
         ],
         "usphone": "θɪn",
         "ukphone": "θɪn"
@@ -226,7 +235,7 @@
     {
         "name": "fat",
         "trans": [
-            "胖的; 肥的"
+            "<ruby>太<rt>ふと</rt></ruby>った"
         ],
         "usphone": "fæt",
         "ukphone": "fæt"
@@ -234,7 +243,7 @@
     {
         "name": "tall",
         "trans": [
-            "高的"
+            "<ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い"
         ],
         "usphone": "tɔl",
         "ukphone": "tɔːl"
@@ -242,7 +251,8 @@
     {
         "name": "short",
         "trans": [
-            "矮的; 短的"
+            "<ruby>短<rt>みじか</rt></ruby>い",
+            "<ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い"
         ],
         "usphone": "ʃɔrt",
         "ukphone": "ʃɔːt"
@@ -250,7 +260,7 @@
     {
         "name": "long",
         "trans": [
-            "长的"
+            "<ruby>長<rt>なが</rt></ruby>い"
         ],
         "usphone": "lɔŋ",
         "ukphone": "lɒŋ"
@@ -258,7 +268,7 @@
     {
         "name": "small",
         "trans": [
-            "小的"
+            "<ruby>小<rt>ちい</rt></ruby>さい"
         ],
         "usphone": "smɔl",
         "ukphone": "smɔːl"
@@ -266,7 +276,7 @@
     {
         "name": "big",
         "trans": [
-            "大的"
+            "<ruby>大<rt>おお</rt></ruby>きい"
         ],
         "usphone": "bɪɡ",
         "ukphone": "bɪg"
@@ -274,7 +284,7 @@
     {
         "name": "giraffe",
         "trans": [
-            "长颈鹿"
+            "きりん"
         ],
         "usphone": "dʒəˈræf; dʒəˈræf",
         "ukphone": "dʒɪˈrɑ:f"
@@ -282,7 +292,8 @@
     {
         "name": "so",
         "trans": [
-            "这么; 那么"
+            "とても",
+            "そんなに"
         ],
         "usphone": "so",
         "ukphone": "səʊ"
@@ -290,7 +301,7 @@
     {
         "name": "children",
         "trans": [
-            "儿童"
+            "<ruby>子供<rt>こども</rt></ruby>たち"
         ],
         "usphone": "'tʃɪldrən",
         "ukphone": "'tʃɪldrən"
@@ -298,7 +309,7 @@
     {
         "name": "child",
         "trans": [
-            "儿童"
+            "<ruby>子供<rt>こども</rt></ruby>"
         ],
         "usphone": "tʃaɪld",
         "ukphone": "tʃaɪld"
@@ -306,7 +317,7 @@
     {
         "name": "tail",
         "trans": [
-            "尾巴"
+            "しっぽ"
         ],
         "usphone": "tel",
         "ukphone": "teɪl"
@@ -314,7 +325,7 @@
     {
         "name": "on",
         "trans": [
-            "在⋯⋯上"
+            "〜の<ruby>上<rt>うえ</rt></ruby>に"
         ],
         "usphone": "ɑn",
         "ukphone": "ɒn"
@@ -322,7 +333,7 @@
     {
         "name": "in",
         "trans": [
-            "在⋯⋯里"
+            "〜の<ruby>中<rt>なか</rt></ruby>に"
         ],
         "usphone": "ɪn",
         "ukphone": "ɪn"
@@ -330,7 +341,7 @@
     {
         "name": "under",
         "trans": [
-            "在⋯⋯下面"
+            "〜の<ruby>下<rt>した</rt></ruby>に"
         ],
         "usphone": "'ʌndɚ",
         "ukphone": "'ʌndə"
@@ -338,7 +349,7 @@
     {
         "name": "chair",
         "trans": [
-            "椅子"
+            "<ruby>椅子<rt>いす</rt></ruby>"
         ],
         "usphone": "tʃɛr",
         "ukphone": "tʃeə"
@@ -346,7 +357,7 @@
     {
         "name": "desk",
         "trans": [
-            "书桌"
+            "<ruby>机<rt>つくえ</rt></ruby>"
         ],
         "usphone": "dɛsk",
         "ukphone": "desk"
@@ -354,7 +365,7 @@
     {
         "name": "cap",
         "trans": [
-            "帽子"
+            "ぼうし"
         ],
         "usphone": "kæp",
         "ukphone": "kæp"
@@ -362,7 +373,7 @@
     {
         "name": "ball",
         "trans": [
-            "球"
+            "ボール"
         ],
         "usphone": "bɔl",
         "ukphone": "bɔːl"
@@ -370,7 +381,7 @@
     {
         "name": "car",
         "trans": [
-            "小汽车"
+            "<ruby>車<rt>くるま</rt></ruby>"
         ],
         "usphone": "kɑr",
         "ukphone": "kɑː"
@@ -378,7 +389,8 @@
     {
         "name": "boat",
         "trans": [
-            "小船"
+            "<ruby>小舟<rt>こぶね</rt></ruby>",
+            "ボート"
         ],
         "usphone": "bot",
         "ukphone": "bəʊt"
@@ -386,7 +398,7 @@
     {
         "name": "map",
         "trans": [
-            "地图"
+            "<ruby>地図<rt>ちず</rt></ruby>"
         ],
         "usphone": "mæp",
         "ukphone": "mæp"
@@ -394,7 +406,7 @@
     {
         "name": "toy",
         "trans": [
-            "玩具"
+            "おもちゃ"
         ],
         "usphone": "tɔɪ",
         "ukphone": "tɒɪ"
@@ -402,7 +414,7 @@
     {
         "name": "box",
         "trans": [
-            "盒; 箱"
+            "<ruby>箱<rt>はこ</rt></ruby>"
         ],
         "usphone": "bɑks",
         "ukphone": "bɒks"
@@ -410,7 +422,7 @@
     {
         "name": "pear",
         "trans": [
-            "梨"
+            "なし"
         ],
         "usphone": "pɛr",
         "ukphone": "peə"
@@ -418,7 +430,7 @@
     {
         "name": "apple",
         "trans": [
-            "苹果"
+            "りんご"
         ],
         "usphone": "'æpl",
         "ukphone": "'æp(ə)l"
@@ -426,7 +438,8 @@
     {
         "name": "orange",
         "trans": [
-            "橙子"
+            "オレンジ",
+            "オレンジ<ruby>色<rt>いろ</rt></ruby>"
         ],
         "usphone": "'ɔrɪndʒ",
         "ukphone": "'ɒrɪn(d)ʒ"
@@ -434,7 +447,7 @@
     {
         "name": "banana",
         "trans": [
-            "香蕉"
+            "バナナ"
         ],
         "usphone": "bə'nænə",
         "ukphone": "bə'nɑːnə"
@@ -442,7 +455,7 @@
     {
         "name": "watermelon",
         "trans": [
-            "西瓜"
+            "すいか"
         ],
         "usphone": "'wɔtɚmɛlən",
         "ukphone": "'wɔːtəmelən"
@@ -450,7 +463,7 @@
     {
         "name": "strawberry",
         "trans": [
-            "草莓"
+            "いちご"
         ],
         "usphone": "'strɔbɛri",
         "ukphone": "'strɔːb(ə)rɪ"
@@ -458,7 +471,7 @@
     {
         "name": "grape",
         "trans": [
-            "葡萄"
+            "ぶどう"
         ],
         "usphone": "ɡrep",
         "ukphone": "greɪp"
@@ -466,7 +479,7 @@
     {
         "name": "buy",
         "trans": [
-            "买"
+            "<ruby>買<rt>か</rt></ruby>う"
         ],
         "usphone": "baɪ",
         "ukphone": "baɪ"
@@ -474,7 +487,7 @@
     {
         "name": "fruit",
         "trans": [
-            "水果"
+            "くだもの"
         ],
         "usphone": "frut",
         "ukphone": "fruːt"
@@ -482,7 +495,7 @@
     {
         "name": "eleven",
         "trans": [
-            "十一"
+            "<ruby>十一<rt>じゅういち</rt></ruby>"
         ],
         "usphone": "ɪ'lɛvn",
         "ukphone": "ɪ'lev(ə)n"
@@ -490,7 +503,7 @@
     {
         "name": "twelve",
         "trans": [
-            "十二"
+            "<ruby>十二<rt>じゅうに</rt></ruby>"
         ],
         "usphone": "twɛlv",
         "ukphone": "twelv"
@@ -498,7 +511,7 @@
     {
         "name": "thirteen",
         "trans": [
-            "十三"
+            "<ruby>十三<rt>じゅうさん</rt></ruby>"
         ],
         "usphone": "'θɝ'tin",
         "ukphone": "θɜː'tiːn; 'θɜːtiːn"
@@ -506,7 +519,7 @@
     {
         "name": "fourteen",
         "trans": [
-            "十四"
+            "<ruby>十四<rt>じゅうよん</rt></ruby>"
         ],
         "usphone": ",fɔr'tin",
         "ukphone": "fɔː'tiːn; 'fɔːtiːn"
@@ -514,7 +527,7 @@
     {
         "name": "fifteen",
         "trans": [
-            "十五"
+            "<ruby>十五<rt>じゅうご</rt></ruby>"
         ],
         "usphone": ",fɪf'tin",
         "ukphone": "fɪf'tiːn; 'fɪftiːn"
@@ -522,7 +535,7 @@
     {
         "name": "sixteen",
         "trans": [
-            "十六"
+            "<ruby>十六<rt>じゅうろく</rt></ruby>"
         ],
         "usphone": ",sɪks'tin",
         "ukphone": "sɪks'tiːn; 'sɪkstiːn"
@@ -530,7 +543,7 @@
     {
         "name": "seventeen",
         "trans": [
-            "十七"
+            "<ruby>十七<rt>じゅうなな</rt></ruby>"
         ],
         "usphone": ",sɛvn'tin",
         "ukphone": "sev(ə)n'tiːn; 'sev(ə)ntiːn"
@@ -538,7 +551,7 @@
     {
         "name": "eighteen",
         "trans": [
-            "十八"
+            "<ruby>十八<rt>じゅうはち</rt></ruby>"
         ],
         "usphone": ",e'tin",
         "ukphone": "eɪ'tiːn; 'eɪtiːn"
@@ -546,7 +559,7 @@
     {
         "name": "nineteen",
         "trans": [
-            "十九"
+            "<ruby>十九<rt>じゅうきゅう</rt></ruby>"
         ],
         "usphone": ",naɪn'tin",
         "ukphone": "naɪn'tiːn; 'naɪntiːn"
@@ -554,7 +567,7 @@
     {
         "name": "twenty",
         "trans": [
-            "二十"
+            "<ruby>二十<rt>にじゅう</rt></ruby>"
         ],
         "usphone": "'twɛnti",
         "ukphone": "'twentɪ"
@@ -562,7 +575,7 @@
     {
         "name": "kite",
         "trans": [
-            "风筝"
+            "たこ"
         ],
         "usphone": "kaɪt",
         "ukphone": "kaɪt"
@@ -570,7 +583,7 @@
     {
         "name": "beautiful",
         "trans": [
-            "美丽的"
+            "<ruby>美<rt>うつく</rt></ruby>しい"
         ],
         "usphone": "'bjʊtəfəl",
         "ukphone": "ˈbju:tɪfl"

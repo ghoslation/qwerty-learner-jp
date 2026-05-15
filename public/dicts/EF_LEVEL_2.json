@@ -4,7 +4,7 @@
         "usphone": "sɪŋ",
         "ukphone": "sɪŋ",
         "trans": [
-            "唱歌"
+            "<ruby>歌<rt>うた</rt></ruby>う"
         ]
     },
     {
@@ -12,7 +12,7 @@
         "usphone": "tʃek",
         "ukphone": "tʃek",
         "trans": [
-            "検査、核对"
+            "チェックする"
         ]
     },
     {
@@ -20,13 +20,13 @@
         "usphone": "ˈiːvnɪŋ",
         "ukphone": "ˈiːvnɪŋ",
         "trans": [
-            "晚上"
+            "<ruby>夕方<rt>ゆうがた</rt></ruby>"
         ]
     },
     {
         "name": "excuse me",
         "trans": [
-            "used when you did not hear what sb said and you want them to repeat it"
+            "すみません"
         ]
     },
     {
@@ -34,7 +34,7 @@
         "usphone": "leɪt",
         "ukphone": "leɪt",
         "trans": [
-            "晚的, 迟到"
+            "おそい"
         ]
     },
     {
@@ -42,7 +42,7 @@
         "usphone": "ˈmiːtɪŋ",
         "ukphone": "ˈmiːtɪŋ",
         "trans": [
-            "会议, 集会, 会"
+            "<ruby>会議<rt>かいぎ</rt></ruby>"
         ]
     },
     {
@@ -50,7 +50,7 @@
         "usphone": "ˈmɪdnaɪt",
         "ukphone": "ˈmɪdnaɪt",
         "trans": [
-            "半夜十二点钟, 午夜, 子夜"
+            "<ruby>真夜中<rt>まよなか</rt></ruby>"
         ]
     },
     {
@@ -58,7 +58,7 @@
         "usphone": "ˈmɔːrnɪŋ",
         "ukphone": "ˈmɔːnɪŋ",
         "trans": [
-            "早晨, 上午"
+            "<ruby>朝<rt>あさ</rt></ruby>"
         ]
     },
     {
@@ -66,7 +66,7 @@
         "usphone": "nuːn",
         "ukphone": "nuːn",
         "trans": [
-            "正午, 中午"
+            "<ruby>正午<rt>しょうご</rt></ruby>"
         ]
     },
     {
@@ -74,7 +74,7 @@
         "usphone": "əˈklɑːk",
         "ukphone": "əˈklɒk",
         "trans": [
-            ". 点钟"
+            "〜<ruby>時<rt>じ</rt></ruby>"
         ]
     },
     {
@@ -82,7 +82,7 @@
         "usphone": "ˌpiːˈem",
         "ukphone": "ˌpiːˈem",
         "trans": [
-            "下午"
+            "<ruby>午後<rt>ごご</rt></ruby>"
         ]
     },
     {
@@ -90,7 +90,8 @@
         "usphone": "ˈstʌdi",
         "ukphone": "ˈstʌdi",
         "trans": [
-            "学习"
+            "<ruby>書斎<rt>しょさい</rt></ruby>",
+            "<ruby>勉強<rt>べんきょう</rt></ruby>する"
         ]
     },
     {
@@ -98,7 +99,7 @@
         "usphone": "taɪm",
         "ukphone": "taɪm",
         "trans": [
-            "時間"
+            "<ruby>時間<rt>じかん</rt></ruby>"
         ]
     },
     {
@@ -106,7 +107,7 @@
         "usphone": "wɜːrk",
         "ukphone": "wɜːk",
         "trans": [
-            "仕事"
+            "<ruby>仕事<rt>しごと</rt></ruby>"
         ]
     },
     {
@@ -114,7 +115,7 @@
         "usphone": "ˈɪntərnet",
         "ukphone": "ˈɪntənet",
         "trans": [
-            "因特网"
+            "インターネット"
         ]
     },
     {
@@ -122,7 +123,7 @@
         "usphone": "raɪd",
         "ukphone": "raɪd",
         "trans": [
-            "骑"
+            "<ruby>乗<rt>の</rt></ruby>る"
         ]
     },
     {
@@ -130,7 +131,7 @@
         "usphone": "sliːp",
         "ukphone": "sliːp",
         "trans": [
-            "睡觉"
+            "<ruby>寝<rt>ね</rt></ruby>る"
         ]
     },
     {
@@ -138,7 +139,7 @@
         "usphone": "sɜːrf",
         "ukphone": "sɜːf",
         "trans": [
-            "作冲浪運動"
+            "サーフィンをする"
         ]
     },
     {
@@ -146,7 +147,7 @@
         "usphone": "ˈtenɪs",
         "ukphone": "ˈtenɪs",
         "trans": [
-            "网球"
+            "テニス"
         ]
     },
     {
@@ -154,7 +155,7 @@
         "usphone": "ˈθɜːrzdeɪ",
         "ukphone": "ˈθɜːzdeɪ",
         "trans": [
-            "星期四, 周四"
+            "<ruby>木曜日<rt>もくようび</rt></ruby>"
         ]
     },
     {
@@ -162,13 +163,13 @@
         "usphone": "ˈwiːkend",
         "ukphone": "ˌwiːkˈend",
         "trans": [
-            "周末"
+            "<ruby>週末<rt>しゅうまつ</rt></ruby>"
         ]
     },
     {
         "name": "coffee break",
         "trans": [
-            "工间喝咖啡的休息時間"
+            "コーヒー<ruby>休憩<rt>きゅうけい</rt></ruby>"
         ]
     },
     {
@@ -176,7 +177,7 @@
         "usphone": "ˈkʌmpəni",
         "ukphone": "ˈkʌmpəni",
         "trans": [
-            "公司, 企业"
+            "<ruby>会社<rt>かいしゃ</rt></ruby>"
         ]
     },
     {
@@ -184,7 +185,7 @@
         "usphone": "riːd",
         "ukphone": "riːd",
         "trans": [
-            "阅读、读书（能力）"
+            "<ruby>読<rt>よ</rt></ruby>む"
         ]
     },
     {
@@ -192,7 +193,7 @@
         "usphone": "ˈeɪprəl",
         "ukphone": "ˈeɪprəl",
         "trans": [
-            "四月"
+            "<ruby>四月<rt>しがつ</rt></ruby>"
         ]
     },
     {
@@ -200,7 +201,7 @@
         "usphone": "ˈɔːɡəst",
         "ukphone": "ˈɔːɡəst",
         "trans": [
-            "八月"
+            "<ruby>八月<rt>はちがつ</rt></ruby>"
         ]
     },
     {
@@ -208,13 +209,13 @@
         "usphone": "ˈbɜːrθdeɪ",
         "ukphone": "ˈbɜːθdeɪ",
         "trans": [
-            "生日"
+            "<ruby>誕生日<rt>たんじょうび</rt></ruby>"
         ]
     },
     {
         "name": "computer game",
         "trans": [
-            "电脑玩具,电脑游戏"
+            "コンピューターゲーム"
         ]
     },
     {
@@ -222,7 +223,7 @@
         "usphone": "dæns",
         "ukphone": "dɑːns",
         "trans": [
-            "跳舞, 舞蹈"
+            "おどる"
         ]
     },
     {
@@ -230,7 +231,7 @@
         "usphone": "dɪˈsembər",
         "ukphone": "dɪˈsembə(r)",
         "trans": [
-            "十二月"
+            "<ruby>十二月<rt>じゅうにがつ</rt></ruby>"
         ]
     },
     {
@@ -238,13 +239,13 @@
         "usphone": "ˈfebrueri",
         "ukphone": "ˈfebruəri",
         "trans": [
-            "二月"
+            "<ruby>二月<rt>にがつ</rt></ruby>"
         ]
     },
     {
         "name": "go out",
         "trans": [
-            "外出"
+            "<ruby>外出<rt>がいしゅつ</rt></ruby>する"
         ]
     },
     {
@@ -252,7 +253,7 @@
         "usphone": "ˈdʒænjueri",
         "ukphone": "ˈdʒænjuəri",
         "trans": [
-            "一月份"
+            "<ruby>一月<rt>いちがつ</rt></ruby>"
         ]
     },
     {
@@ -260,7 +261,7 @@
         "usphone": "dʒuˈlaɪ",
         "ukphone": "dʒuˈlaɪ",
         "trans": [
-            "七月份"
+            "<ruby>七月<rt>しちがつ</rt></ruby>"
         ]
     },
     {
@@ -268,7 +269,7 @@
         "usphone": "dʒuːn",
         "ukphone": "dʒuːn",
         "trans": [
-            "六月份"
+            "<ruby>六月<rt>ろくがつ</rt></ruby>"
         ]
     },
     {
@@ -276,7 +277,7 @@
         "usphone": "mɑːrtʃ",
         "ukphone": "mɑːtʃ",
         "trans": [
-            "三月"
+            "<ruby>三月<rt>さんがつ</rt></ruby>"
         ]
     },
     {
@@ -284,7 +285,7 @@
         "usphone": "meɪ",
         "ukphone": "meɪ",
         "trans": [
-            "五月"
+            "<ruby>五月<rt>ごがつ</rt></ruby>"
         ]
     },
     {
@@ -292,7 +293,7 @@
         "usphone": "ˈmuːvi",
         "ukphone": "ˈmuːvi",
         "trans": [
-            "电影, 影片"
+            "<ruby>映画<rt>えいが</rt></ruby>"
         ]
     },
     {
@@ -300,7 +301,7 @@
         "usphone": "noʊˈvembər",
         "ukphone": "nəʊˈvembə(r)",
         "trans": [
-            "十一月份"
+            "<ruby>十一月<rt>じゅういちがつ</rt></ruby>"
         ]
     },
     {
@@ -308,7 +309,7 @@
         "usphone": "ɑːkˈtoʊbər",
         "ukphone": "ɒkˈtəʊbə(r)",
         "trans": [
-            "十月"
+            "<ruby>十月<rt>じゅうがつ</rt></ruby>"
         ]
     },
     {
@@ -316,7 +317,7 @@
         "usphone": "sepˈtembər",
         "ukphone": "sepˈtembə(r)",
         "trans": [
-            "九月"
+            "<ruby>九月<rt>くがつ</rt></ruby>"
         ]
     },
     {
@@ -324,7 +325,7 @@
         "usphone": "ˈfeɪvərɪt",
         "ukphone": "ˈfeɪvərɪt",
         "trans": [
-            "偏爱的人或事物"
+            "いちばん<ruby>好<rt>す</rt></ruby>きな"
         ]
     },
     {
@@ -332,7 +333,7 @@
         "usphone": "ˈhɑːspɪtl",
         "ukphone": "ˈhɒspɪtl",
         "trans": [
-            "医院"
+            "<ruby>病院<rt>びょういん</rt></ruby>"
         ]
     },
     {
@@ -340,13 +341,13 @@
         "usphone": "ˈhaʊswaɪf",
         "ukphone": "ˈhaʊswaɪf",
         "trans": [
-            "家庭主妇"
+            "<ruby>主婦<rt>しゅふ</rt></ruby>"
         ]
     },
     {
         "name": "in the morning",
         "trans": [
-            "during the morning of the next day; tomorrow morning"
+            "<ruby>朝<rt>あさ</rt></ruby>に"
         ]
     },
     {
@@ -354,7 +355,7 @@
         "usphone": "ˈmʌndeɪ",
         "ukphone": "ˈmʌndeɪ",
         "trans": [
-            "星期一"
+            "<ruby>月曜日<rt>げつようび</rt></ruby>"
         ]
     },
     {
@@ -362,7 +363,7 @@
         "usphone": "skuːl",
         "ukphone": "skuːl",
         "trans": [
-            "学校"
+            "<ruby>学校<rt>がっこう</rt></ruby>"
         ]
     },
     {
@@ -370,19 +371,19 @@
         "usphone": "ˈsʌndeɪ",
         "ukphone": "ˈsʌndeɪ",
         "trans": [
-            "星期日, 周日, 礼拜天"
+            "<ruby>日曜日<rt>にちようび</rt></ruby>"
         ]
     },
     {
         "name": "police officer",
         "trans": [
-            "警官"
+            "<ruby>警察官<rt>けいさつかん</rt></ruby>"
         ]
     },
     {
         "name": "police station",
         "trans": [
-            "派出所,警察局"
+            "<ruby>警察署<rt>けいさつしょ</rt></ruby>"
         ],
         "usphone": "pə'lis 'steʃən",
         "ukphone": "pə'liːs 'steɪʃən"
@@ -392,7 +393,7 @@
         "usphone": "ˈsætərdeɪ",
         "ukphone": "ˈsætədeɪ",
         "trans": [
-            "星期六, 周六"
+            "<ruby>土曜日<rt>どようび</rt></ruby>"
         ]
     },
     {
@@ -400,7 +401,7 @@
         "usphone": "ˈtuːzdeɪ",
         "ukphone": "ˈtjuːzdeɪ",
         "trans": [
-            "星期二, 周二"
+            "<ruby>火曜日<rt>かようび</rt></ruby>"
         ]
     },
     {
@@ -408,7 +409,7 @@
         "usphone": "ˈwenzdeɪ",
         "ukphone": "ˈwenzdeɪ",
         "trans": [
-            "星期三, 周三"
+            "<ruby>水曜日<rt>すいようび</rt></ruby>"
         ]
     },
     {
@@ -416,13 +417,13 @@
         "usphone": "ˈfraɪdeɪ",
         "ukphone": "ˈfraɪdeɪ",
         "trans": [
-            "星期五"
+            "<ruby>金曜日<rt>きんようび</rt></ruby>"
         ]
     },
     {
         "name": "get up",
         "trans": [
-            "站起;  起来"
+            "<ruby>起<rt>お</rt></ruby>きる"
         ]
     },
     {
@@ -430,7 +431,7 @@
         "usphone": "ˌeɪˈem",
         "ukphone": "ˌeɪˈem",
         "trans": [
-            "午前, 上午"
+            "<ruby>午前<rt>ごぜん</rt></ruby>"
         ]
     },
     {
@@ -438,7 +439,7 @@
         "usphone": "ˌæftərˈnuːn",
         "ukphone": "ˌɑːftəˈnuːn",
         "trans": [
-            "下午"
+            "<ruby>午後<rt>ごご</rt></ruby>"
         ]
     },
     {
@@ -446,7 +447,7 @@
         "usphone": "əˈpɑːrtmənt",
         "ukphone": "əˈpɑːtmənt",
         "trans": [
-            "公寓"
+            "アパート"
         ]
     },
     {
@@ -454,7 +455,7 @@
         "usphone": "ænt",
         "ukphone": "ɑːnt",
         "trans": [
-            "阿姨, 婶婶"
+            "おばさん"
         ]
     },
     {
@@ -462,7 +463,7 @@
         "usphone": "ˈbɜːrθdeɪ",
         "ukphone": "ˈbɜːθdeɪ",
         "trans": [
-            "生日"
+            "<ruby>誕生日<rt>たんじょうび</rt></ruby>"
         ]
     },
     {
@@ -470,7 +471,9 @@
         "usphone": "ˈbrʌðər",
         "ukphone": "ˈbrʌðə(r)",
         "trans": [
-            "兄弟"
+            "<ruby>兄弟<rt>きょうだい</rt></ruby>",
+            "<ruby>兄<rt>あに</rt></ruby>",
+            "<ruby>弟<rt>おとうと</rt></ruby>"
         ]
     },
     {
@@ -478,7 +481,7 @@
         "usphone": "ˈselɪbreɪt",
         "ukphone": "ˈselɪbreɪt",
         "trans": [
-            "庆祝, 祝贺"
+            "お<ruby>祝<rt>いわ</rt></ruby>いする"
         ]
     },
     {
@@ -486,7 +489,7 @@
         "usphone": "ˈtʃɑːklət",
         "ukphone": "ˈtʃɒklət",
         "trans": [
-            "巧克力"
+            "チョコレート"
         ]
     },
     {
@@ -494,7 +497,7 @@
         "usphone": "dæns",
         "ukphone": "dɑːns",
         "trans": [
-            "跳舞, 舞蹈"
+            "おどる"
         ]
     },
     {
@@ -502,7 +505,7 @@
         "usphone": "ɪnˈvaɪt",
         "ukphone": "ɪnˈvaɪt",
         "trans": [
-            "邀请, 要求"
+            "<ruby>招待<rt>しょうたい</rt></ruby>する"
         ]
     },
     {
@@ -510,7 +513,7 @@
         "usphone": "mɑːrtʃ",
         "ukphone": "mɑːtʃ",
         "trans": [
-            "三月"
+            "<ruby>三月<rt>さんがつ</rt></ruby>"
         ]
     },
     {
@@ -518,7 +521,7 @@
         "usphone": "meɪ",
         "ukphone": "meɪ",
         "trans": [
-            "五月"
+            "<ruby>五月<rt>ごがつ</rt></ruby>"
         ]
     },
     {
@@ -526,7 +529,7 @@
         "usphone": "ˈnevər",
         "ukphone": "ˈnevə(r)",
         "trans": [
-            "从未, 永不, 决不"
+            "けっして〜ない"
         ]
     },
     {
@@ -534,7 +537,7 @@
         "usphone": "noʊˈvembər",
         "ukphone": "nəʊˈvembə(r)",
         "trans": [
-            "十一月份"
+            "<ruby>十一月<rt>じゅういちがつ</rt></ruby>"
         ]
     },
     {
@@ -542,7 +545,7 @@
         "usphone": "ɑːkˈtoʊbər",
         "ukphone": "ɒkˈtəʊbə(r)",
         "trans": [
-            "十月"
+            "<ruby>十月<rt>じゅうがつ</rt></ruby>"
         ]
     },
     {
@@ -550,7 +553,7 @@
         "usphone": "ˈpreznt",
         "ukphone": "ˈpreznt",
         "trans": [
-            "礼物"
+            "プレゼント"
         ]
     },
     {
@@ -558,7 +561,7 @@
         "usphone": "sepˈtembər",
         "ukphone": "sepˈtembə(r)",
         "trans": [
-            "九月"
+            "<ruby>九月<rt>くがつ</rt></ruby>"
         ]
     },
     {
@@ -566,7 +569,7 @@
         "usphone": "sɪŋ",
         "ukphone": "sɪŋ",
         "trans": [
-            "唱歌"
+            "<ruby>歌<rt>うた</rt></ruby>う"
         ]
     },
     {
@@ -574,7 +577,7 @@
         "usphone": "ˈɔːlweɪz",
         "ukphone": "ˈɔːlweɪz",
         "trans": [
-            "总是, 永远"
+            "いつも"
         ]
     },
     {
@@ -582,7 +585,7 @@
         "usphone": "ˈeɪprəl",
         "ukphone": "ˈeɪprəl",
         "trans": [
-            "四月"
+            "<ruby>四月<rt>しがつ</rt></ruby>"
         ]
     },
     {
@@ -590,7 +593,7 @@
         "usphone": "ˈɔːɡəst",
         "ukphone": "ˈɔːɡəst",
         "trans": [
-            "八月"
+            "<ruby>八月<rt>はちがつ</rt></ruby>"
         ]
     },
     {
@@ -598,7 +601,7 @@
         "usphone": "bʊk",
         "ukphone": "bʊk",
         "trans": [
-            "书, 书籍"
+            "<ruby>本<rt>ほん</rt></ruby>"
         ]
     },
     {
@@ -606,7 +609,7 @@
         "usphone": "ˈkæmərə",
         "ukphone": "ˈkæmərə",
         "trans": [
-            "照相机"
+            "カメラ"
         ]
     },
     {
@@ -614,7 +617,7 @@
         "usphone": "kɑːrd",
         "ukphone": "kɑːd",
         "trans": [
-            "明信片"
+            "カード"
         ]
     },
     {
@@ -622,7 +625,7 @@
         "usphone": "dɪˈsembər",
         "ukphone": "dɪˈsembə(r)",
         "trans": [
-            "十二月"
+            "<ruby>十二月<rt>じゅうにがつ</rt></ruby>"
         ]
     },
     {
@@ -630,13 +633,13 @@
         "usphone": "ˈfebrueri",
         "ukphone": "ˈfebruəri",
         "trans": [
-            "二月"
+            "<ruby>二月<rt>にがつ</rt></ruby>"
         ]
     },
     {
         "name": "go out",
         "trans": [
-            "外出"
+            "<ruby>外出<rt>がいしゅつ</rt></ruby>する"
         ]
     },
     {
@@ -644,7 +647,7 @@
         "usphone": "ˈdʒænjueri",
         "ukphone": "ˈdʒænjuəri",
         "trans": [
-            "一月份"
+            "<ruby>一月<rt>いちがつ</rt></ruby>"
         ]
     },
     {
@@ -652,7 +655,7 @@
         "usphone": "dʒuˈlaɪ",
         "ukphone": "dʒuˈlaɪ",
         "trans": [
-            "七月份"
+            "<ruby>七月<rt>しちがつ</rt></ruby>"
         ]
     },
     {
@@ -660,7 +663,7 @@
         "usphone": "dʒuːn",
         "ukphone": "dʒuːn",
         "trans": [
-            "六月份"
+            "<ruby>六月<rt>ろくがつ</rt></ruby>"
         ]
     },
     {
@@ -668,7 +671,7 @@
         "usphone": "ˈpɑːrti",
         "ukphone": "ˈpɑːti",
         "trans": [
-            "政党"
+            "パーティー"
         ]
     },
     {
@@ -676,7 +679,7 @@
         "usphone": "pərˈfjuːm",
         "ukphone": "ˈpɜːfjuːm",
         "trans": [
-            "香水"
+            "<ruby>香水<rt>こうすい</rt></ruby>"
         ]
     },
     {
@@ -684,7 +687,9 @@
         "usphone": "ˈsɪstər",
         "ukphone": "ˈsɪstə(r)",
         "trans": [
-            "姐妹"
+            "<ruby>姉妹<rt>しまい</rt></ruby>",
+            "<ruby>姉<rt>あね</rt></ruby>",
+            "<ruby>妹<rt>いもうと</rt></ruby>"
         ]
     },
     {
@@ -692,7 +697,7 @@
         "usphone": "ˈʌŋkl",
         "ukphone": "ˈʌŋkl",
         "trans": [
-            "伯父, 姨丈, 叔父, 舅舅"
+            "おじさん"
         ]
     },
     {
@@ -700,7 +705,7 @@
         "usphone": "ˈjuːʒuəli",
         "ukphone": "ˈjuːʒuəli",
         "trans": [
-            "经常, 通常"
+            "ふつうは"
         ]
     },
     {
@@ -708,7 +713,7 @@
         "usphone": "klaʊd",
         "ukphone": "klaʊd",
         "trans": [
-            "云"
+            "<ruby>雲<rt>くも</rt></ruby>"
         ]
     },
     {
@@ -716,7 +721,7 @@
         "usphone": "ˈklaʊdi",
         "ukphone": "ˈklaʊdi",
         "trans": [
-            "多云的,阴天的,愁容满面的"
+            "くもりの"
         ]
     },
     {
@@ -724,7 +729,8 @@
         "usphone": "koʊld",
         "ukphone": "kəʊld",
         "trans": [
-            "寒冷的, 冷的"
+            "<ruby>寒<rt>さむ</rt></ruby>い",
+            "<ruby>冷<rt>つめ</rt></ruby>たい"
         ]
     },
     {
@@ -732,7 +738,7 @@
         "usphone": "kuːl",
         "ukphone": "kuːl",
         "trans": [
-            "清凉的, 凉爽的, 凉快的"
+            "すずしい"
         ]
     },
     {
@@ -740,7 +746,7 @@
         "usphone": "dɪˈɡriː",
         "ukphone": "dɪˈɡriː",
         "trans": [
-            "度"
+            "<ruby>度<rt>ど</rt></ruby>"
         ]
     },
     {
@@ -748,7 +754,7 @@
         "usphone": "fɔɡ",
         "ukphone": "fɒɡ",
         "trans": [
-            "雾"
+            "<ruby>霧<rt>きり</rt></ruby>"
         ]
     },
     {
@@ -756,7 +762,7 @@
         "usphone": "ˈfɔːɡi",
         "ukphone": "ˈfɒɡi",
         "trans": [
-            "模糊的、有雾的"
+            "<ruby>霧<rt>きり</rt></ruby>の"
         ]
     },
     {
@@ -764,7 +770,7 @@
         "usphone": "hɑːt",
         "ukphone": "hɒt",
         "trans": [
-            "热的"
+            "<ruby>暑<rt>あつ</rt></ruby>い"
         ]
     },
     {
@@ -772,7 +778,7 @@
         "usphone": "ˈmaɪnəs",
         "ukphone": "ˈmaɪnəs",
         "trans": [
-            "减,减去"
+            "<ruby>引<rt>ひ</rt></ruby>く"
         ]
     },
     {
@@ -780,7 +786,7 @@
         "usphone": "reɪn",
         "ukphone": "reɪn",
         "trans": [
-            "雨"
+            "<ruby>雨<rt>あめ</rt></ruby>"
         ]
     },
     {
@@ -788,7 +794,7 @@
         "usphone": "ˈreɪni",
         "ukphone": "ˈreɪni",
         "trans": [
-            "下雨的, 含雨的, 带雨的, 多雨的"
+            "<ruby>雨<rt>あめ</rt></ruby>の"
         ]
     },
     {
@@ -796,7 +802,7 @@
         "usphone": "snoʊ",
         "ukphone": "snəʊ",
         "trans": [
-            "雪"
+            "<ruby>雪<rt>ゆき</rt></ruby>"
         ]
     },
     {
@@ -804,7 +810,7 @@
         "usphone": "ˈsnoʊi",
         "ukphone": "ˈsnəʊi",
         "trans": [
-            "被大雪覆盖的"
+            "<ruby>雪<rt>ゆき</rt></ruby>の"
         ]
     },
     {
@@ -812,7 +818,7 @@
         "usphone": "sʌn",
         "ukphone": "sʌn",
         "trans": [
-            "太阳"
+            "<ruby>太陽<rt>たいよう</rt></ruby>"
         ]
     },
     {
@@ -820,7 +826,7 @@
         "usphone": "ˈsʌni",
         "ukphone": "ˈsʌni",
         "trans": [
-            "阳光充足的, 睛朗的, 明媚的"
+            "<ruby>晴<rt>は</rt></ruby>れの"
         ]
     },
     {
@@ -828,7 +834,7 @@
         "usphone": "wɔːrm",
         "ukphone": "wɔːm",
         "trans": [
-            "暖和的, 温暖的, 暖的"
+            "<ruby>暖<rt>あたた</rt></ruby>かい"
         ]
     },
     {
@@ -836,7 +842,7 @@
         "usphone": "ˈweðər",
         "ukphone": "ˈweðə(r)",
         "trans": [
-            "天气, 气候, 气象"
+            "<ruby>天気<rt>てんき</rt></ruby>"
         ]
     },
     {
@@ -844,7 +850,7 @@
         "usphone": "wɪnd",
         "ukphone": "wɪnd",
         "trans": [
-            "风, 气流"
+            "<ruby>風<rt>かぜ</rt></ruby>"
         ]
     },
     {
@@ -852,7 +858,7 @@
         "usphone": "ˈwɪndi",
         "ukphone": "ˈwɪndi",
         "trans": [
-            "多风的, 坏天气的, 风强的"
+            "<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>い"
         ]
     },
     {
@@ -860,7 +866,7 @@
         "usphone": "dɪsˈlaɪk",
         "ukphone": "dɪsˈlaɪk",
         "trans": [
-            "不喜欢, 讨厌"
+            "<ruby>好<rt>す</rt></ruby>きではない"
         ]
     },
     {
@@ -868,7 +874,7 @@
         "usphone": "fɔːl",
         "ukphone": "fɔːl",
         "trans": [
-            "秋天, 秋季"
+            "<ruby>秋<rt>あき</rt></ruby>"
         ]
     },
     {
@@ -876,7 +882,7 @@
         "usphone": "heɪt",
         "ukphone": "heɪt",
         "trans": [
-            "讨厌"
+            "きらい"
         ]
     },
     {
@@ -884,7 +890,7 @@
         "usphone": "sprɪŋ",
         "ukphone": "sprɪŋ",
         "trans": [
-            "春天, 春季"
+            "<ruby>春<rt>はる</rt></ruby>"
         ]
     },
     {
@@ -892,7 +898,7 @@
         "usphone": "ˈsʌmər",
         "ukphone": "ˈsʌmə(r)",
         "trans": [
-            "夏天, 夏季"
+            "<ruby>夏<rt>なつ</rt></ruby>"
         ]
     },
     {
@@ -900,13 +906,13 @@
         "usphone": "ˈwɪntər",
         "ukphone": "ˈwɪntə(r)",
         "trans": [
-            "冬季, 冬天"
+            "<ruby>冬<rt>ふゆ</rt></ruby>"
         ]
     },
     {
         "name": "eat out",
         "trans": [
-            "在饭馆等处吃饭（不在家中吃）"
+            "<ruby>外食<rt>がいしょく</rt></ruby>する"
         ]
     },
     {
@@ -914,7 +920,7 @@
         "usphone": "ˌtiːˈviː",
         "ukphone": "ˌtiːˈviː",
         "trans": [
-            "电视机, 电视"
+            "テレビ"
         ]
     },
     {
@@ -922,7 +928,8 @@
         "usphone": "wɑːtʃ",
         "ukphone": "wɒtʃ",
         "trans": [
-            "观看, 注视"
+            "<ruby>見<rt>み</rt></ruby>る",
+            "<ruby>腕時計<rt>うでどけい</rt></ruby>"
         ]
     },
     {
@@ -930,7 +937,8 @@
         "usphone": "ˈhɑːlədeɪ",
         "ukphone": "ˈhɒlədeɪ",
         "trans": [
-            "假期"
+            "<ruby>休<rt>やす</rt></ruby>み",
+            "<ruby>休日<rt>きゅうじつ</rt></ruby>"
         ]
     },
     {
@@ -938,7 +946,7 @@
         "usphone": "ʃəd",
         "ukphone": "ʃəd",
         "trans": [
-            "应该, 应当"
+            "〜したほうがよい"
         ]
     },
     {
@@ -946,7 +954,7 @@
         "usphone": "vəˈkeɪʃn",
         "ukphone": "vəˈkeɪʃn",
         "trans": [
-            "假期, 休假"
+            "<ruby>休暇<rt>きゅうか</rt></ruby>"
         ]
     },
     {
@@ -954,7 +962,7 @@
         "usphone": "ˈsʌmtaɪmz",
         "ukphone": "ˈsʌmtaɪmz",
         "trans": [
-            "有时, 往往, 时常"
+            "ときどき"
         ]
     },
     {
@@ -962,7 +970,7 @@
         "usphone": "ˈbædmɪntən",
         "ukphone": "ˈbædmɪntən",
         "trans": [
-            "羽毛球"
+            "バドミントン"
         ]
     },
     {
@@ -970,7 +978,7 @@
         "usphone": "ˈbeɪsbɔːl",
         "ukphone": "ˈbeɪsbɔːl",
         "trans": [
-            "棒球"
+            "<ruby>野球<rt>やきゅう</rt></ruby>"
         ]
     },
     {
@@ -978,7 +986,7 @@
         "usphone": "ˈkʊkɪŋ",
         "ukphone": "ˈkʊkɪŋ",
         "trans": [
-            "烹调"
+            "<ruby>料理<rt>りょうり</rt></ruby>"
         ]
     },
     {
@@ -986,7 +994,7 @@
         "usphone": "ˈdænsɪŋ",
         "ukphone": "ˈdɑːnsɪŋ",
         "trans": [
-            "跳舞"
+            "ダンス"
         ]
     },
     {
@@ -994,7 +1002,7 @@
         "usphone": "ɪnˈdʒɔɪ",
         "ukphone": "ɪnˈdʒɔɪ",
         "trans": [
-            "喜欢, 享受"
+            "<ruby>楽<rt>たの</rt></ruby>しむ"
         ]
     },
     {
@@ -1002,13 +1010,13 @@
         "usphone": "ˈfʊtbɔːl",
         "ukphone": "ˈfʊtbɔːl",
         "trans": [
-            "足球"
+            "サッカー／フットボール"
         ]
     },
     {
         "name": "ice hockey",
         "trans": [
-            "冰球"
+            "アイスホッケー"
         ]
     },
     {
@@ -1016,7 +1024,7 @@
         "usphone": "kəˈrɑːti",
         "ukphone": "kəˈrɑːti",
         "trans": [
-            "空手道"
+            "<ruby>空手<rt>からて</rt></ruby>"
         ]
     },
     {
@@ -1024,7 +1032,7 @@
         "usphone": "ˈpeɪntɪŋ",
         "ukphone": "ˈpeɪntɪŋ",
         "trans": [
-            "油画"
+            "<ruby>絵<rt>え</rt></ruby>"
         ]
     },
     {
@@ -1032,7 +1040,7 @@
         "usphone": "ˈrʌnɪŋ",
         "ukphone": "ˈrʌnɪŋ",
         "trans": [
-            "赛跑"
+            "<ruby>走<rt>はし</rt></ruby>ること"
         ]
     },
     {
@@ -1040,7 +1048,7 @@
         "usphone": "ˈsɑːkər",
         "ukphone": "ˈsɒkə(r)",
         "trans": [
-            "足球"
+            "サッカー"
         ]
     },
     {
@@ -1048,7 +1056,7 @@
         "usphone": "ˈsɜːrfɪŋ",
         "ukphone": "ˈsɜːfɪŋ",
         "trans": [
-            "冲浪"
+            "サーフィン"
         ]
     },
     {
@@ -1056,13 +1064,13 @@
         "usphone": "ˈswɪmɪŋ",
         "ukphone": "ˈswɪmɪŋ",
         "trans": [
-            "游泳"
+            "<ruby>水泳<rt>すいえい</rt></ruby>"
         ]
     },
     {
         "name": "table tennis",
         "trans": [
-            "乒乓球"
+            "<ruby>卓球<rt>たっきゅう</rt></ruby>"
         ]
     },
     {
@@ -1070,7 +1078,7 @@
         "usphone": "ˈvɑːlibɔːl",
         "ukphone": "ˈvɒlibɔːl",
         "trans": [
-            "排球"
+            "バレーボール"
         ]
     },
     {
@@ -1078,13 +1086,13 @@
         "usphone": "ˈjoʊɡə",
         "ukphone": "ˈjəʊɡə",
         "trans": [
-            "瑜伽"
+            "ヨガ"
         ]
     },
     {
         "name": "falling",
         "trans": [
-            "掉落, 落下"
+            "<ruby>落<rt>お</rt></ruby>ちている"
         ]
     },
     {
@@ -1092,7 +1100,7 @@
         "usphone": "raɪz",
         "ukphone": "raɪz",
         "trans": [
-            "上昇"
+            "<ruby>上<rt>あ</rt></ruby>がる"
         ]
     },
     {
@@ -1100,7 +1108,7 @@
         "usphone": "fjuː",
         "ukphone": "fjuː",
         "trans": [
-            "少数的"
+            "<ruby>少<rt>すこ</rt></ruby>しの"
         ]
     },
     {
@@ -1108,7 +1116,7 @@
         "usphone": "ˈhaɪkɪŋ",
         "ukphone": "ˈhaɪkɪŋ",
         "trans": [
-            "徒步旅行"
+            "ハイキング"
         ]
     },
     {
@@ -1116,7 +1124,7 @@
         "usphone": "ˈmeni",
         "ukphone": "ˈmeni",
         "trans": [
-            "许多"
+            "たくさんの"
         ]
     },
     {
@@ -1124,7 +1132,7 @@
         "usphone": "moʊst",
         "ukphone": "məʊst",
         "trans": [
-            "最大量, 最多数, 最高额"
+            "もっとも"
         ]
     },
     {
@@ -1132,7 +1140,7 @@
         "usphone": "ˈpɪknɪk",
         "ukphone": "ˈpɪknɪk",
         "trans": [
-            "野餐"
+            "ピクニック"
         ]
     },
     {
@@ -1140,7 +1148,7 @@
         "usphone": "ˈsiːzn",
         "ukphone": "ˈsiːzn",
         "trans": [
-            "季节"
+            "<ruby>季節<rt>きせつ</rt></ruby>"
         ]
     },
     {
@@ -1148,7 +1156,7 @@
         "usphone": "ˈsʌmər",
         "ukphone": "ˈsʌmə(r)",
         "trans": [
-            "夏天, 夏季"
+            "<ruby>夏<rt>なつ</rt></ruby>"
         ]
     },
     {
@@ -1156,7 +1164,8 @@
         "usphone": "wer",
         "ukphone": "weə(r)",
         "trans": [
-            "穿, 穿戴, 佩戴"
+            "<ruby>着<rt>き</rt></ruby>る",
+            "<ruby>身<rt>み</rt></ruby>につける"
         ]
     },
     {
@@ -1164,7 +1173,7 @@
         "usphone": "wer",
         "ukphone": "weə(r)",
         "trans": [
-            "在哪里, 到哪里, 在 位置"
+            "どこ"
         ]
     },
     {
@@ -1172,13 +1181,13 @@
         "usphone": "kuːl",
         "ukphone": "kuːl",
         "trans": [
-            "清凉的, 凉爽的, 凉快的"
+            "すずしい"
         ]
     },
     {
         "name": "eat out",
         "trans": [
-            "在饭馆等处吃饭（不在家中吃）"
+            "<ruby>外食<rt>がいしょく</rt></ruby>する"
         ]
     },
     {
@@ -1186,7 +1195,7 @@
         "usphone": "hæt",
         "ukphone": "hæt",
         "trans": [
-            "帽子"
+            "ぼうし"
         ]
     },
     {
@@ -1194,7 +1203,7 @@
         "usphone": "hɑːt",
         "ukphone": "hɒt",
         "trans": [
-            "热的"
+            "<ruby>暑<rt>あつ</rt></ruby>い"
         ]
     },
     {
@@ -1202,7 +1211,7 @@
         "usphone": "laɪk",
         "ukphone": "laɪk",
         "trans": [
-            "像, 如"
+            "<ruby>好<rt>す</rt></ruby>き"
         ]
     },
     {
@@ -1210,7 +1219,7 @@
         "usphone": "reɪn",
         "ukphone": "reɪn",
         "trans": [
-            "雨"
+            "<ruby>雨<rt>あめ</rt></ruby>"
         ]
     },
     {
@@ -1218,7 +1227,7 @@
         "usphone": "ʃɔːrts",
         "ukphone": "ʃɔːts",
         "trans": [
-            "短裤"
+            "<ruby>短<rt>たん</rt></ruby>パン"
         ]
     },
     {
@@ -1226,7 +1235,7 @@
         "usphone": "ˈskiːɪŋ",
         "ukphone": "ˈskiːɪŋ",
         "trans": [
-            "滑雪"
+            "スキー"
         ]
     },
     {
@@ -1234,7 +1243,7 @@
         "usphone": "snoʊ",
         "ukphone": "snəʊ",
         "trans": [
-            "雪"
+            "<ruby>雪<rt>ゆき</rt></ruby>"
         ]
     },
     {
@@ -1242,7 +1251,7 @@
         "usphone": "sprɪŋ",
         "ukphone": "sprɪŋ",
         "trans": [
-            "春天, 春季"
+            "<ruby>春<rt>はる</rt></ruby>"
         ]
     },
     {
@@ -1250,7 +1259,7 @@
         "usphone": "sʌn",
         "ukphone": "sʌn",
         "trans": [
-            "太阳"
+            "<ruby>太陽<rt>たいよう</rt></ruby>"
         ]
     },
     {
@@ -1258,7 +1267,7 @@
         "usphone": "wɔːrm",
         "ukphone": "wɔːm",
         "trans": [
-            "暖和的, 温暖的, 暖的"
+            "<ruby>暖<rt>あたた</rt></ruby>かい"
         ]
     },
     {
@@ -1266,7 +1275,7 @@
         "usphone": "wɑːt",
         "ukphone": "wɒt",
         "trans": [
-            "什么, 怎么"
+            "<ruby>何<rt>なに</rt></ruby>"
         ]
     },
     {
@@ -1274,7 +1283,7 @@
         "usphone": "waɪ",
         "ukphone": "waɪ",
         "trans": [
-            "为什么, 为何"
+            "なぜ／どうして"
         ]
     },
     {
@@ -1282,7 +1291,7 @@
         "usphone": "wɪnd",
         "ukphone": "wɪnd",
         "trans": [
-            "风, 气流"
+            "<ruby>風<rt>かぜ</rt></ruby>"
         ]
     },
     {
@@ -1290,7 +1299,7 @@
         "usphone": "ˈwɪntər",
         "ukphone": "ˈwɪntə(r)",
         "trans": [
-            "冬季, 冬天"
+            "<ruby>冬<rt>ふゆ</rt></ruby>"
         ]
     },
     {
@@ -1298,7 +1307,7 @@
         "usphone": "tʃes",
         "ukphone": "tʃes",
         "trans": [
-            "国际象棋"
+            "チェス"
         ]
     },
     {
@@ -1306,7 +1315,7 @@
         "usphone": "dʒɪmˈnæstɪks",
         "ukphone": "dʒɪmˈnæstɪks",
         "trans": [
-            "体操"
+            "<ruby>体操<rt>たいそう</rt></ruby>"
         ]
     },
     {
@@ -1314,7 +1323,7 @@
         "usphone": "ˈɔːtəm",
         "ukphone": "ˈɔːtəm",
         "trans": [
-            "秋天"
+            "<ruby>秋<rt>あき</rt></ruby>"
         ]
     },
     {
@@ -1322,7 +1331,7 @@
         "usphone": "bɪˈkɔːz",
         "ukphone": "bɪˈkɒz",
         "trans": [
-            "因为, 由于"
+            "なぜなら／〜だから"
         ]
     },
     {
@@ -1330,7 +1339,7 @@
         "usphone": "klaʊd",
         "ukphone": "klaʊd",
         "trans": [
-            "云"
+            "<ruby>雲<rt>くも</rt></ruby>"
         ]
     },
     {
@@ -1338,7 +1347,8 @@
         "usphone": "koʊld",
         "ukphone": "kəʊld",
         "trans": [
-            "寒冷的, 冷的"
+            "<ruby>寒<rt>さむ</rt></ruby>い",
+            "<ruby>冷<rt>つめ</rt></ruby>たい"
         ]
     },
     {
@@ -1346,7 +1356,7 @@
         "usphone": "dɪˈɡriː",
         "ukphone": "dɪˈɡriː",
         "trans": [
-            "度"
+            "<ruby>度<rt>ど</rt></ruby>"
         ]
     },
     {
@@ -1354,7 +1364,7 @@
         "usphone": "ɡlʌv",
         "ukphone": "ɡlʌv",
         "trans": [
-            "手套"
+            "<ruby>手袋<rt>てぶくろ</rt></ruby>"
         ]
     },
     {
@@ -1362,7 +1372,8 @@
         "usphone": "skɑːrf",
         "ukphone": "skɑːf",
         "trans": [
-            "围巾; 头巾; 披肩"
+            "マフラー",
+            "スカーフ"
         ]
     },
     {
@@ -1370,7 +1381,7 @@
         "usphone": "bɔːrd",
         "ukphone": "bɔːd",
         "trans": [
-            "烦人的, 不耐烦的"
+            "たいくつした"
         ]
     },
     {
@@ -1378,7 +1389,7 @@
         "usphone": "ˈsɪɡəret",
         "ukphone": "ˌsɪɡəˈret",
         "trans": [
-            "香烟"
+            "たばこ"
         ]
     },
     {
@@ -1386,7 +1397,8 @@
         "usphone": "ˈeksərsaɪz",
         "ukphone": "ˈeksəsaɪz",
         "trans": [
-            "锻炼"
+            "<ruby>運動<rt>うんどう</rt></ruby>",
+            "<ruby>練習<rt>れんしゅう</rt></ruby>"
         ]
     },
     {
@@ -1394,7 +1406,7 @@
         "usphone": "fiːl",
         "ukphone": "fiːl",
         "trans": [
-            "感覚"
+            "<ruby>感<rt>かん</rt></ruby>じる"
         ]
     },
     {
@@ -1402,7 +1414,7 @@
         "usphone": "fluː",
         "ukphone": "fluː",
         "trans": [
-            "流感"
+            "インフルエンザ"
         ]
     },
     {
@@ -1410,7 +1422,7 @@
         "usphone": "ˈhelθi",
         "ukphone": "ˈhelθi",
         "trans": [
-            "健康的"
+            "<ruby>健康<rt>けんこう</rt></ruby>な"
         ]
     },
     {
@@ -1418,7 +1430,7 @@
         "usphone": "rɪˈlæks",
         "ukphone": "rɪˈlæks",
         "trans": [
-            "放松, 休息"
+            "リラックスする"
         ]
     },
     {
@@ -1426,7 +1438,7 @@
         "usphone": "sɪk",
         "ukphone": "sɪk",
         "trans": [
-            "病的"
+            "<ruby>病気<rt>びょうき</rt></ruby>の"
         ]
     },
     {
@@ -1434,7 +1446,7 @@
         "usphone": "smel",
         "ukphone": "smel",
         "trans": [
-            "闻起来"
+            "においがする"
         ]
     },
     {
@@ -1442,7 +1454,8 @@
         "usphone": "smoʊk",
         "ukphone": "sməʊk",
         "trans": [
-            "抽烟, 吸烟"
+            "たばこを<ruby>吸<rt>す</rt></ruby>う",
+            "<ruby>煙<rt>けむり</rt></ruby>"
         ]
     },
     {
@@ -1450,7 +1463,7 @@
         "usphone": "saʊnd",
         "ukphone": "saʊnd",
         "trans": [
-            "听起来"
+            "<ruby>音<rt>おと</rt></ruby>"
         ]
     },
     {
@@ -1458,7 +1471,7 @@
         "usphone": "teɪst",
         "ukphone": "teɪst",
         "trans": [
-            "尝起来"
+            "<ruby>味<rt>あじ</rt></ruby>がする"
         ]
     },
     {
@@ -1466,7 +1479,8 @@
         "usphone": "əˈbaʊt",
         "ukphone": "əˈbaʊt",
         "trans": [
-            "大约, 左右"
+            "〜について",
+            "だいたい"
         ]
     },
     {
@@ -1474,7 +1488,7 @@
         "usphone": "deɪ",
         "ukphone": "deɪ",
         "trans": [
-            "一天, 一日"
+            "<ruby>日<rt>ひ</rt></ruby>"
         ]
     },
     {
@@ -1482,7 +1496,7 @@
         "usphone": "ˈevri",
         "ukphone": "ˈevri",
         "trans": [
-            "每一个"
+            "<ruby>毎<rt>まい</rt></ruby>〜"
         ]
     },
     {
@@ -1490,7 +1504,8 @@
         "usphone": "mʌnθ",
         "ukphone": "mʌnθ",
         "trans": [
-            "月份"
+            "<ruby>月<rt>つき</rt></ruby>",
+            "ひと<ruby>月<rt>つき</rt></ruby>"
         ]
     },
     {
@@ -1498,7 +1513,7 @@
         "usphone": "wʌns",
         "ukphone": "wʌns",
         "trans": [
-            "一次, 一回"
+            "<ruby>一度<rt>いちど</rt></ruby>"
         ]
     },
     {
@@ -1506,7 +1521,7 @@
         "usphone": "ʃeɪp",
         "ukphone": "ʃeɪp",
         "trans": [
-            "形状"
+            "<ruby>形<rt>かたち</rt></ruby>"
         ]
     },
     {
@@ -1514,7 +1529,7 @@
         "usphone": "taɪm",
         "ukphone": "taɪm",
         "trans": [
-            "次"
+            "<ruby>時間<rt>じかん</rt></ruby>"
         ]
     },
     {
@@ -1522,7 +1537,8 @@
         "usphone": "twaɪs",
         "ukphone": "twaɪs",
         "trans": [
-            "2倍"
+            "<ruby>二回<rt>にかい</rt></ruby>",
+            "<ruby>二倍<rt>にばい</rt></ruby>"
         ]
     },
     {
@@ -1530,7 +1546,7 @@
         "usphone": "wiːk",
         "ukphone": "wiːk",
         "trans": [
-            "周, 星期"
+            "<ruby>週<rt>しゅう</rt></ruby>"
         ]
     },
     {
@@ -1538,7 +1554,8 @@
         "usphone": "jɪr",
         "ukphone": "jɪə(r)",
         "trans": [
-            "年, 一年"
+            "<ruby>年<rt>とし</rt></ruby>",
+            "<ruby>年<rt>ねん</rt></ruby>"
         ]
     },
     {
@@ -1546,7 +1563,7 @@
         "usphone": "ˈæsprɪn",
         "ukphone": "ˈæsprɪn",
         "trans": [
-            "阿司匹林"
+            "アスピリン"
         ]
     },
     {
@@ -1554,7 +1571,7 @@
         "usphone": "kɔːf",
         "ukphone": "kɒf",
         "trans": [
-            "咳嗽"
+            "せき"
         ]
     },
     {
@@ -1562,7 +1579,7 @@
         "usphone": "drɪŋk",
         "ukphone": "drɪŋk",
         "trans": [
-            "喝"
+            "<ruby>飲<rt>の</rt></ruby>む"
         ]
     },
     {
@@ -1570,7 +1587,7 @@
         "usphone": "ˈfiːvər",
         "ukphone": "ˈfiːvə(r)",
         "trans": [
-            "发烧"
+            "<ruby>熱<rt>ねつ</rt></ruby>"
         ]
     },
     {
@@ -1578,7 +1595,7 @@
         "usphone": "ɡet",
         "ukphone": "ɡet",
         "trans": [
-            "得到"
+            "<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる"
         ]
     },
     {
@@ -1586,7 +1603,7 @@
         "usphone": "ˈhedeɪk",
         "ukphone": "ˈhedeɪk",
         "trans": [
-            "头痛, 头疼"
+            "<ruby>頭痛<rt>ずつう</rt></ruby>"
         ]
     },
     {
@@ -1594,7 +1611,8 @@
         "usphone": "hɜːrt",
         "ukphone": "hɜːt",
         "trans": [
-            "受伤"
+            "<ruby>痛<rt>いた</rt></ruby>い",
+            "<ruby>痛<rt>いた</rt></ruby>める"
         ]
     },
     {
@@ -1602,7 +1620,7 @@
         "usphone": "ˈlɪkwɪd",
         "ukphone": "ˈlɪkwɪd",
         "trans": [
-            "液体"
+            "<ruby>液体<rt>えきたい</rt></ruby>"
         ]
     },
     {
@@ -1610,7 +1628,7 @@
         "usphone": "sɔːr",
         "ukphone": "sɔː(r)",
         "trans": [
-            "疼痛的"
+            "<ruby>痛<rt>いた</rt></ruby>い"
         ]
     },
     {
@@ -1618,7 +1636,7 @@
         "usphone": "ˈsɪmptəm",
         "ukphone": "ˈsɪmptəm",
         "trans": [
-            "征候,征兆"
+            "<ruby>症状<rt>しょうじょう</rt></ruby>"
         ]
     },
     {
@@ -1626,7 +1644,7 @@
         "usphone": "teɪk",
         "ukphone": "teɪk",
         "trans": [
-            "放"
+            "<ruby>取<rt>と</rt></ruby>る"
         ]
     },
     {
@@ -1634,7 +1652,7 @@
         "usphone": "ˈtaɪərd",
         "ukphone": "ˈtaɪəd",
         "trans": [
-            "疲劳的"
+            "つかれた"
         ]
     },
     {
@@ -1642,13 +1660,13 @@
         "usphone": "rɔːŋ",
         "ukphone": "rɒŋ",
         "trans": [
-            "有问题的, 出错的"
+            "まちがった"
         ]
     },
     {
         "name": "no problem",
         "trans": [
-            "used after sb has thanked you or said they are sorry for sth"
+            "だいじょうぶ"
         ]
     },
     {
@@ -1656,7 +1674,7 @@
         "usphone": "belt",
         "ukphone": "belt",
         "trans": [
-            "腰带, 皮带"
+            "ベルト"
         ]
     },
     {
@@ -1664,7 +1682,7 @@
         "usphone": "bɪɡ",
         "ukphone": "bɪɡ",
         "trans": [
-            "(体积)大, (量)大, (程度)深"
+            "<ruby>大<rt>おお</rt></ruby>きい"
         ]
     },
     {
@@ -1672,7 +1690,7 @@
         "usphone": "ɪkˈspensɪv",
         "ukphone": "ɪkˈspensɪv",
         "trans": [
-            "贵的"
+            "<ruby>高<rt>たか</rt></ruby>い"
         ]
     },
     {
@@ -1680,7 +1698,7 @@
         "usphone": "paʊnd",
         "ukphone": "paʊnd",
         "trans": [
-            "英镑"
+            "ポンド"
         ]
     },
     {
@@ -1688,13 +1706,13 @@
         "usphone": "rɪˈtɜːrn",
         "ukphone": "rɪˈtɜːn",
         "trans": [
-            "退还, 返还, 归还"
+            "<ruby>戻<rt>もど</rt></ruby>る"
         ]
     },
     {
         "name": "ruble",
         "trans": [
-            "卢布(俄罗斯货币单位)"
+            "ルーブル"
         ]
     },
     {
@@ -1702,7 +1720,7 @@
         "usphone": "ˌjuːˈkeɪ",
         "ukphone": "ˌjuːˈkeɪ",
         "trans": [
-            "英国"
+            "イギリス"
         ]
     },
     {
@@ -1710,7 +1728,8 @@
         "usphone": "wɑːtʃ",
         "ukphone": "wɒtʃ",
         "trans": [
-            "手表"
+            "<ruby>見<rt>み</rt></ruby>る",
+            "<ruby>腕時計<rt>うでどけい</rt></ruby>"
         ]
     },
     {
@@ -1718,7 +1737,7 @@
         "usphone": "buːt",
         "ukphone": "buːt",
         "trans": [
-            "靴, 长靴"
+            "ブーツ"
         ]
     },
     {
@@ -1726,13 +1745,13 @@
         "usphone": "ˈjʊroʊ",
         "ukphone": "ˈjʊərəʊ",
         "trans": [
-            "欧元"
+            "ユーロ"
         ]
     },
     {
         "name": "on sale",
         "trans": [
-            "being offered at a reduced price"
+            "セール<ruby>中<rt>ちゅう</rt></ruby>"
         ]
     },
     {
@@ -1740,7 +1759,7 @@
         "usphone": "ˈpeɪsoʊ",
         "ukphone": "ˈpeɪsəʊ",
         "trans": [
-            "比索(拉丁美洲国家和菲律宾的货币单位)"
+            "ペソ"
         ]
     },
     {
@@ -1748,7 +1767,7 @@
         "usphone": "rɪˈsiːt",
         "ukphone": "rɪˈsiːt",
         "trans": [
-            "收据"
+            "レシート"
         ]
     },
     {
@@ -1756,7 +1775,7 @@
         "usphone": "smɔːl",
         "ukphone": "smɔːl",
         "trans": [
-            "(尺寸等)小的"
+            "<ruby>小<rt>ちい</rt></ruby>さい"
         ]
     },
     {
@@ -1764,7 +1783,7 @@
         "usphone": "ˈsniːkər",
         "ukphone": "ˈsniːkə(r)",
         "trans": [
-            "運動鞋"
+            "スニーカー"
         ]
     },
     {
@@ -1772,7 +1791,7 @@
         "usphone": "ˈsʌnɡlæsɪz",
         "ukphone": "ˈsʌnɡlɑːsɪz",
         "trans": [
-            "墨镜,太阳镜"
+            "サングラス"
         ]
     },
     {
@@ -1780,7 +1799,7 @@
         "usphone": "ˌjuːˈes",
         "ukphone": "ˌjuːˈes",
         "trans": [
-            "美国,美国的"
+            "アメリカ"
         ]
     },
     {
@@ -1788,7 +1807,7 @@
         "usphone": "ˈwɑːlɪt",
         "ukphone": "ˈwɒlɪt",
         "trans": [
-            "钱包, 钱夹"
+            "さいふ"
         ]
     },
     {
@@ -1796,7 +1815,7 @@
         "usphone": "jen",
         "ukphone": "jen",
         "trans": [
-            "圆(日本的货币单位)"
+            "<ruby>円<rt>えん</rt></ruby>"
         ]
     },
     {
@@ -1804,7 +1823,7 @@
         "usphone": "bæŋk",
         "ukphone": "bæŋk",
         "trans": [
-            "银行"
+            "<ruby>銀行<rt>ぎんこう</rt></ruby>"
         ]
     },
     {
@@ -1812,7 +1831,7 @@
         "usphone": "ˈhɑːspɪtl",
         "ukphone": "ˈhɒspɪtl",
         "trans": [
-            "医院"
+            "<ruby>病院<rt>びょういん</rt></ruby>"
         ]
     },
     {
@@ -1820,7 +1839,7 @@
         "usphone": "noʊp",
         "ukphone": "nəʊp",
         "trans": [
-            "不,不是,没有"
+            "ううん"
         ]
     },
     {
@@ -1828,7 +1847,7 @@
         "usphone": "ˈerpɔːrt",
         "ukphone": "ˈeəpɔːt",
         "trans": [
-            "机场"
+            "<ruby>空港<rt>くうこう</rt></ruby>"
         ]
     },
     {
@@ -1836,7 +1855,7 @@
         "usphone": "bɪˈtwiːn",
         "ukphone": "bɪˈtwiːn",
         "trans": [
-            "在......中间, 在 之间"
+            "〜の<ruby>間<rt>あいだ</rt></ruby>に"
         ]
     },
     {
@@ -1844,7 +1863,7 @@
         "usphone": "baɪk",
         "ukphone": "baɪk",
         "trans": [
-            "自行车, 单车"
+            "<ruby>自転車<rt>じてんしゃ</rt></ruby>"
         ]
     },
     {
@@ -1852,13 +1871,13 @@
         "usphone": "bʌs",
         "ukphone": "bʌs",
         "trans": [
-            "公共汽车"
+            "バス"
         ]
     },
     {
         "name": "bus station",
         "trans": [
-            "公交站,巴士站"
+            "バス<ruby>停<rt>てい</rt></ruby>"
         ]
     },
     {
@@ -1866,7 +1885,8 @@
         "usphone": "oʊˈkeɪ",
         "ukphone": "əʊˈkeɪ",
         "trans": [
-            "好, 行"
+            "いいよ",
+            "オーケー"
         ]
     },
     {
@@ -1874,7 +1894,7 @@
         "usphone": "puːl",
         "ukphone": "puːl",
         "trans": [
-            "游泳池"
+            "プール"
         ]
     },
     {
@@ -1882,7 +1902,8 @@
         "usphone": "soʊ",
         "ukphone": "səʊ",
         "trans": [
-            "这么, 那么, 就那样, 像这样, 多么, 非常に, 如此"
+            "とても",
+            "そんなに"
         ]
     },
     {
@@ -1890,7 +1911,7 @@
         "usphone": "ʃʊr",
         "ukphone": "ʃʊə(r)",
         "trans": [
-            "确信的, 有把握的, 确实的, 一定的, 必定的, 可靠的"
+            "もちろん"
         ]
     },
     {
@@ -1898,7 +1919,7 @@
         "usphone": "jeə",
         "ukphone": "jeə",
         "trans": [
-            "是, 好的"
+            "うん／はい（カジュアル）"
         ]
     },
     {
@@ -1906,7 +1927,8 @@
         "usphone": "ət",
         "ukphone": "ət",
         "trans": [
-            "在......"
+            "〜に",
+            "〜で"
         ]
     },
     {
@@ -1914,7 +1936,8 @@
         "usphone": "boʊt",
         "ukphone": "bəʊt",
         "trans": [
-            "船, 小船"
+            "<ruby>小舟<rt>こぶね</rt></ruby>",
+            "ボート"
         ]
     },
     {
@@ -1922,7 +1945,7 @@
         "usphone": "baɪ",
         "ukphone": "baɪ",
         "trans": [
-            "在附近, 在身旁, 靠近"
+            "〜によって／〜のそばに"
         ]
     },
     {
@@ -1930,7 +1953,7 @@
         "usphone": "kɑːr",
         "ukphone": "kɑː(r)",
         "trans": [
-            "车, 汽车"
+            "<ruby>車<rt>くるま</rt></ruby>"
         ]
     },
     {
@@ -1938,7 +1961,7 @@
         "usphone": "tʃeɪndʒ",
         "ukphone": "tʃeɪndʒ",
         "trans": [
-            "换车"
+            "<ruby>変<rt>か</rt></ruby>える"
         ]
     },
     {
@@ -1946,7 +1969,7 @@
         "usphone": "fɑːr",
         "ukphone": "fɑː(r)",
         "trans": [
-            "很远地"
+            "<ruby>遠<rt>とお</rt></ruby>い"
         ]
     },
     {
@@ -1954,7 +1977,8 @@
         "usphone": "laɪn",
         "ukphone": "laɪn",
         "trans": [
-            "线路"
+            "<ruby>線<rt>せん</rt></ruby>",
+            "<ruby>列<rt>れつ</rt></ruby>"
         ]
     },
     {
@@ -1962,7 +1986,7 @@
         "usphone": "nɪr",
         "ukphone": "nɪə(r)",
         "trans": [
-            "近的"
+            "<ruby>近<rt>ちか</rt></ruby>くに"
         ]
     },
     {
@@ -1970,7 +1994,7 @@
         "usphone": "nekst",
         "ukphone": "nekst",
         "trans": [
-            "接下去, 然后"
+            "<ruby>次<rt>つぎ</rt></ruby>の"
         ]
     },
     {
@@ -1978,13 +2002,15 @@
         "usphone": "ˈnʌmbər",
         "ukphone": "ˈnʌmbə(r)",
         "trans": [
-            "(排名)第...号"
+            "<ruby>数<rt>かず</rt></ruby>",
+            "<ruby>番号<rt>ばんごう</rt></ruby>"
         ]
     },
     {
         "name": "pardon me",
         "trans": [
-            "used by some people to say 'sorry' when they have accidentally made a rude noise or done sth wrong"
+            "すみません",
+            "もう<ruby>一度<rt>いちど</rt></ruby><ruby>言<rt>い</rt></ruby>ってください"
         ]
     },
     {
@@ -1992,7 +2018,7 @@
         "usphone": "pleɪn",
         "ukphone": "pleɪn",
         "trans": [
-            "飞机"
+            "<ruby>飛行機<rt>ひこうき</rt></ruby>"
         ]
     },
     {
@@ -2000,7 +2026,7 @@
         "usphone": "stɑːp",
         "ukphone": "stɒp",
         "trans": [
-            "车站"
+            "<ruby>止<rt>と</rt></ruby>まる"
         ]
     },
     {
@@ -2008,7 +2034,7 @@
         "usphone": "teɪk",
         "ukphone": "teɪk",
         "trans": [
-            "乘坐"
+            "<ruby>取<rt>と</rt></ruby>る"
         ]
     },
     {
@@ -2016,7 +2042,7 @@
         "usphone": "ˈtæksi",
         "ukphone": "ˈtæksi",
         "trans": [
-            "出租车"
+            "タクシー"
         ]
     },
     {
@@ -2024,7 +2050,7 @@
         "usphone": "ðen",
         "ukphone": "ðen",
         "trans": [
-            "当时, 在那时"
+            "それから"
         ]
     },
     {
@@ -2032,7 +2058,8 @@
         "usphone": "treɪn",
         "ukphone": "treɪn",
         "trans": [
-            "火车, 轨道交通"
+            "<ruby>電車<rt>でんしゃ</rt></ruby>",
+            "<ruby>列車<rt>れっしゃ</rt></ruby>"
         ]
     },
     {
@@ -2040,7 +2067,7 @@
         "usphone": "ˈbeɪkəri",
         "ukphone": "ˈbeɪkəri",
         "trans": [
-            "面包店"
+            "パン<ruby>屋<rt>や</rt></ruby>"
         ]
     },
     {
@@ -2048,13 +2075,13 @@
         "usphone": "bɪˈhaɪnd",
         "ukphone": "bɪˈhaɪnd",
         "trans": [
-            "在 后面"
+            "〜の<ruby>後<rt>うし</rt></ruby>ろに"
         ]
     },
     {
         "name": "bookshop",
         "trans": [
-            "书店"
+            "<ruby>本屋<rt>ほんや</rt></ruby>"
         ],
         "usphone": "'bʊkʃɑp",
         "ukphone": "'bʊkʃɒp"
@@ -2064,19 +2091,19 @@
         "usphone": "boʊθ",
         "ukphone": "bəʊθ",
         "trans": [
-            "(两者)都"
+            "<ruby>両方<rt>りょうほう</rt></ruby>"
         ]
     },
     {
         "name": "bus stop",
         "trans": [
-            "公交站,巴士站"
+            "バス<ruby>停<rt>てい</rt></ruby>"
         ]
     },
     {
         "name": "coffee shop",
         "trans": [
-            "供应甜食和简便速食的咖啡馆"
+            "カフェ"
         ]
     },
     {
@@ -2084,13 +2111,13 @@
         "usphone": "ˈeksələnt",
         "ukphone": "ˈeksələnt",
         "trans": [
-            "出色地"
+            "すばらしい"
         ]
     },
     {
         "name": "in front of",
         "trans": [
-            "in a position that is further forward than sb/sth but not very far away"
+            "〜の<ruby>前<rt>まえ</rt></ruby>に"
         ],
         "usphone": "ɪn frʌnt ʌv",
         "ukphone": "ɪn frʌnt əv"
@@ -2098,19 +2125,19 @@
     {
         "name": "movie theater",
         "trans": [
-            "电影院"
+            "<ruby>映画館<rt>えいがかん</rt></ruby>"
         ]
     },
     {
         "name": "next to",
         "trans": [
-            "靠近, 贴近"
+            "〜のとなりに"
         ]
     },
     {
         "name": "parking lot",
         "trans": [
-            "停车场"
+            "<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>"
         ]
     },
     {
@@ -2118,7 +2145,7 @@
         "usphone": "pleɪs",
         "ukphone": "pleɪs",
         "trans": [
-            "城﹑ 镇﹑ 建筑"
+            "<ruby>場所<rt>ばしょ</rt></ruby>"
         ]
     },
     {
@@ -2126,13 +2153,13 @@
         "usphone": "ˈpleɪɡraʊnd",
         "ukphone": "ˈpleɪɡraʊnd",
         "trans": [
-            "操场,運動场,游乐场"
+            "<ruby>運動場<rt>うんどうじょう</rt></ruby>"
         ]
     },
     {
         "name": "post office",
         "trans": [
-            "邮局"
+            "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>"
         ],
         "usphone": "ˈpost ɔfɪs",
         "ukphone": "ˈpəust ɔfis"
@@ -2142,7 +2169,7 @@
         "usphone": "ˈsuːpərmɑːrkət",
         "ukphone": "ˈsuːpəmɑːkɪt",
         "trans": [
-            "超市"
+            "スーパー"
         ]
     },
     {
@@ -2150,7 +2177,7 @@
         "usphone": "kəˈrekt",
         "ukphone": "kəˈrekt",
         "trans": [
-            "正确的, 准确的"
+            "<ruby>正<rt>ただ</rt></ruby>しい"
         ]
     },
     {
@@ -2158,7 +2185,7 @@
         "usphone": "left",
         "ukphone": "left",
         "trans": [
-            "左方的, 左侧的"
+            "<ruby>左<rt>ひだり</rt></ruby>"
         ]
     },
     {
@@ -2166,7 +2193,7 @@
         "usphone": "raɪt",
         "ukphone": "raɪt",
         "trans": [
-            "右边的, 右的, 右侧的"
+            "<ruby>右<rt>みぎ</rt></ruby>"
         ]
     },
     {
@@ -2174,13 +2201,13 @@
         "usphone": "roʊd",
         "ukphone": "rəʊd",
         "trans": [
-            "路, 道路, 公路"
+            "<ruby>道<rt>みち</rt></ruby>"
         ]
     },
     {
         "name": "department store",
         "trans": [
-            "百货商店"
+            "デパート"
         ]
     },
     {
@@ -2188,7 +2215,7 @@
         "usphone": "ˈhɑːrbər",
         "ukphone": "ˈhɑːbə(r)",
         "trans": [
-            "海港"
+            "<ruby>港<rt>みなと</rt></ruby>"
         ]
     },
     {
@@ -2196,7 +2223,7 @@
         "usphone": "ˈlaɪbreri",
         "ukphone": "ˈlaɪbrəri",
         "trans": [
-            "图书馆, 藏书室, 图书室"
+            "<ruby>図書館<rt>としょかん</rt></ruby>"
         ]
     },
     {
@@ -2204,7 +2231,7 @@
         "usphone": "ˈmɑːrkɪt",
         "ukphone": "ˈmɑːkɪt",
         "trans": [
-            "市场, 集市"
+            "<ruby>市場<rt>いちば</rt></ruby>"
         ]
     },
     {
@@ -2212,7 +2239,7 @@
         "usphone": "ɑːn",
         "ukphone": "ɒn",
         "trans": [
-            "在 之上"
+            "〜の<ruby>上<rt>うえ</rt></ruby>に"
         ]
     },
     {
@@ -2220,13 +2247,13 @@
         "usphone": "ˈɑːpəzət",
         "ukphone": "ˈɒpəzɪt",
         "trans": [
-            "反面的, 相反的"
+            "〜の<ruby>向<rt>む</rt></ruby>かいに"
         ]
     },
     {
         "name": "swimming pool",
         "trans": [
-            "游泳池"
+            "プール"
         ]
     },
     {
@@ -2234,7 +2261,8 @@
         "usphone": "ðer",
         "ukphone": "ðeə(r)",
         "trans": [
-            "表す存在"
+            "そこ",
+            "そこに"
         ]
     },
     {
@@ -2242,7 +2270,7 @@
         "usphone": "ˈsteɪʃn",
         "ukphone": "ˈsteɪʃn",
         "trans": [
-            "车站"
+            "<ruby>駅<rt>えき</rt></ruby>"
         ]
     },
     {
@@ -2250,7 +2278,7 @@
         "usphone": "stɔːr",
         "ukphone": "stɔː(r)",
         "trans": [
-            "商店"
+            "<ruby>店<rt>みせ</rt></ruby>"
         ]
     },
     {
@@ -2258,7 +2286,7 @@
         "usphone": "ˈsʌbweɪ",
         "ukphone": "ˈsʌbweɪ",
         "trans": [
-            "地铁"
+            "<ruby>地下鉄<rt>ちかてつ</rt></ruby>"
         ]
     },
     {
@@ -2266,7 +2294,7 @@
         "usphone": "ˌjuːnɪˈvɜːrsəti",
         "ukphone": "ˌjuːnɪˈvɜːsəti",
         "trans": [
-            "大学"
+            "<ruby>大学<rt>だいがく</rt></ruby>"
         ]
     },
     {
@@ -2274,7 +2302,7 @@
         "usphone": "ˈɑːrmtʃer",
         "ukphone": "ˈɑːmtʃeə(r)",
         "trans": [
-            "扶手椅"
+            "ひじかけ<ruby>椅子<rt>いす</rt></ruby>"
         ]
     },
     {
@@ -2282,7 +2310,8 @@
         "usphone": "ət",
         "ukphone": "ət",
         "trans": [
-            "在......"
+            "〜に",
+            "〜で"
         ]
     },
     {
@@ -2290,7 +2319,8 @@
         "usphone": "ˈbælkəni",
         "ukphone": "ˈbælkəni",
         "trans": [
-            "阳台,露台"
+            "ベランダ",
+            "バルコニー"
         ]
     },
     {
@@ -2298,7 +2328,7 @@
         "usphone": "bæθ",
         "ukphone": "bɑːθ",
         "trans": [
-            "浴盆, 浴缸"
+            "おふろ"
         ]
     },
     {
@@ -2306,7 +2336,7 @@
         "usphone": "bɪˈhaɪnd",
         "ukphone": "bɪˈhaɪnd",
         "trans": [
-            "在 后面"
+            "〜の<ruby>後<rt>うし</rt></ruby>ろに"
         ]
     },
     {
@@ -2314,7 +2344,7 @@
         "usphone": "rɪˈfrɪdʒəreɪtər",
         "ukphone": "rɪˈfrɪdʒəreɪtə(r)",
         "trans": [
-            "冰箱"
+            "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>"
         ]
     },
     {
@@ -2322,7 +2352,7 @@
         "usphone": "ˈʃaʊər",
         "ukphone": "ˈʃaʊə(r)",
         "trans": [
-            "淋浴"
+            "シャワー"
         ]
     },
     {
@@ -2330,7 +2360,7 @@
         "usphone": "stoʊv",
         "ukphone": "stəʊv",
         "trans": [
-            "炉子"
+            "ストーブ"
         ]
     },
     {
@@ -2338,7 +2368,7 @@
         "usphone": "huːz",
         "ukphone": "huːz",
         "trans": [
-            "谁的"
+            "だれの"
         ]
     },
     {
@@ -2346,13 +2376,13 @@
         "usphone": "jɑːrd",
         "ukphone": "jɑːd",
         "trans": [
-            "院子"
+            "<ruby>庭<rt>にわ</rt></ruby>"
         ]
     },
     {
         "name": "neighborhood",
         "trans": [
-            "居住区"
+            "<ruby>近所<rt>きんじょ</rt></ruby>"
         ],
         "usphone": "'nebɚ,hʊd",
         "ukphone": "'neɪbə,hʊd"
@@ -2360,7 +2390,7 @@
     {
         "name": "public transportation",
         "trans": [
-            "公共交通事业,公共交通, 公共交通工具"
+            "<ruby>公共交通<rt>こうきょうこうつう</rt></ruby>"
         ]
     },
     {
@@ -2368,7 +2398,7 @@
         "usphone": "bæθtʌb",
         "ukphone": "ˈbɑːθtʌb",
         "trans": [
-            "浴缸"
+            "<ruby>浴槽<rt>よくそう</rt></ruby>"
         ]
     },
     {
@@ -2376,7 +2406,7 @@
         "usphone": "ˈbʊkʃelf",
         "ukphone": "ˈbʊkʃelf",
         "trans": [
-            "书架"
+            "<ruby>本棚<rt>ほんだな</rt></ruby>"
         ]
     },
     {
@@ -2384,7 +2414,7 @@
         "usphone": "ˈfaɪərpleɪs",
         "ukphone": "ˈfaɪəpleɪs",
         "trans": [
-            "壁炉"
+            "<ruby>暖炉<rt>だんろ</rt></ruby>"
         ]
     },
     {
@@ -2392,7 +2422,7 @@
         "usphone": "frɪdʒ",
         "ukphone": "frɪdʒ",
         "trans": [
-            "电冰箱"
+            "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>"
         ]
     },
     {
@@ -2400,7 +2430,8 @@
         "usphone": "laɪt",
         "ukphone": "laɪt",
         "trans": [
-            "光, 光线, 光亮"
+            "<ruby>明<rt>あ</rt></ruby>かり",
+            "<ruby>電灯<rt>でんとう</rt></ruby>"
         ]
     },
     {
@@ -2408,7 +2439,8 @@
         "usphone": "ˈmeɪlbɑːks",
         "ukphone": "ˈmeɪlbɒks",
         "trans": [
-            "邮箱,信箱"
+            "ポスト",
+            "<ruby>郵便受<rt>ゆうびんう</rt></ruby>け"
         ]
     },
     {
@@ -2416,7 +2448,7 @@
         "usphone": "ˈmaɪkrəweɪv",
         "ukphone": "ˈmaɪkrəweɪv",
         "trans": [
-            "微波"
+            "<ruby>電子<rt>でんし</rt></ruby>レンジ"
         ]
     },
     {
@@ -2424,7 +2456,7 @@
         "usphone": "pʊt",
         "ukphone": "pʊt",
         "trans": [
-            "放, 放置"
+            "<ruby>置<rt>お</rt></ruby>く"
         ]
     },
     {
@@ -2432,7 +2464,7 @@
         "usphone": "ˈsterweɪ",
         "ukphone": "ˈsteəweɪ",
         "trans": [
-            "扶梯,楼梯"
+            "<ruby>階段<rt>かいだん</rt></ruby>"
         ]
     },
     {
@@ -2440,7 +2472,7 @@
         "usphone": "ˈbetər",
         "ukphone": "ˈbetə(r)",
         "trans": [
-            "较好的, 更好的"
+            "よりよい"
         ]
     },
     {
@@ -2448,7 +2480,7 @@
         "usphone": "kliːn",
         "ukphone": "kliːn",
         "trans": [
-            "干净的"
+            "きれいな"
         ]
     },
     {
@@ -2456,7 +2488,7 @@
         "usphone": "ˈdeɪndʒərəs",
         "ukphone": "ˈdeɪndʒərəs",
         "trans": [
-            "危险的"
+            "あぶない"
         ]
     },
     {
@@ -2464,7 +2496,7 @@
         "usphone": "ˈdɜːrti",
         "ukphone": "ˈdɜːti",
         "trans": [
-            "脏的"
+            "<ruby>汚<rt>きたな</rt></ruby>い"
         ]
     },
     {
@@ -2472,7 +2504,7 @@
         "usphone": "ˈlʌvli",
         "ukphone": "ˈlʌvli",
         "trans": [
-            "秀美动人的, 可爱的"
+            "かわいい"
         ]
     },
     {
@@ -2480,7 +2512,7 @@
         "usphone": "ˈmɑːdərn",
         "ukphone": "ˈmɒdn",
         "trans": [
-            "现代的, 近代的"
+            "<ruby>現代的<rt>げんだいてき</rt></ruby>な"
         ]
     },
     {
@@ -2488,7 +2520,7 @@
         "usphone": "ˈnɔɪzi",
         "ukphone": "ˈnɔɪzi",
         "trans": [
-            "喧闹的, 嘈杂的"
+            "うるさい"
         ]
     },
     {
@@ -2496,7 +2528,8 @@
         "usphone": "oʊld",
         "ukphone": "əʊld",
         "trans": [
-            "多年的, 长時間的, 旧交的"
+            "〜<ruby>歳<rt>さい</rt></ruby>の",
+            "<ruby>年<rt>とし</rt></ruby>をとった"
         ]
     },
     {
@@ -2504,7 +2537,7 @@
         "usphone": "ˈruːmmeɪt",
         "ukphone": "ˈruːmmeɪt",
         "trans": [
-            "同屋,室友"
+            "ルームメイト"
         ]
     },
     {
@@ -2512,7 +2545,7 @@
         "usphone": "seɪf",
         "ukphone": "seɪf",
         "trans": [
-            "安全的"
+            "<ruby>安全<rt>あんぜん</rt></ruby>な"
         ]
     },
     {
@@ -2520,7 +2553,7 @@
         "usphone": "ʃer",
         "ukphone": "ʃeə(r)",
         "trans": [
-            "分担"
+            "わける"
         ]
     },
     {
@@ -2528,7 +2561,7 @@
         "usphone": "ˈsoʊfə",
         "ukphone": "ˈsəʊfə",
         "trans": [
-            "沙发"
+            "ソファー"
         ]
     },
     {
@@ -2536,7 +2569,7 @@
         "usphone": "ˈtɔɪlət",
         "ukphone": "ˈtɔɪlət",
         "trans": [
-            "厕所"
+            "トイレ"
         ]
     },
     {
@@ -2544,7 +2577,7 @@
         "usphone": "ˈʌndər",
         "ukphone": "ˈʌndə(r)",
         "trans": [
-            "在 之下, 低于"
+            "〜の<ruby>下<rt>した</rt></ruby>に"
         ]
     },
     {
@@ -2552,7 +2585,7 @@
         "usphone": "ˈwɔːrdroʊb",
         "ukphone": "ˈwɔːdrəʊb",
         "trans": [
-            "衣柜"
+            "<ruby>洋服<rt>ようふく</rt></ruby>だんす"
         ]
     },
     {
@@ -2560,7 +2593,7 @@
         "usphone": "ˈklɑːzət",
         "ukphone": "ˈklɒzɪt",
         "trans": [
-            "小房间, 储藏室"
+            "クローゼット"
         ]
     },
     {
@@ -2568,7 +2601,7 @@
         "usphone": "ˈdɪʃwɔːʃər",
         "ukphone": "ˈdɪʃwɒʃə(r)",
         "trans": [
-            "洗碗机"
+            "<ruby>食器洗<rt>しょっきあら</rt></ruby>い<ruby>機<rt>き</rt></ruby>"
         ]
     },
     {
@@ -2576,7 +2609,7 @@
         "usphone": "ɡəˈrɑːʒ",
         "ukphone": "ˈɡærɑːʒ",
         "trans": [
-            "车库"
+            "ガレージ"
         ]
     },
     {
@@ -2584,7 +2617,7 @@
         "usphone": "haʊs",
         "ukphone": "haʊs",
         "trans": [
-            "房子, 住宅"
+            "<ruby>家<rt>いえ</rt></ruby>"
         ]
     },
     {
@@ -2592,13 +2625,14 @@
         "usphone": "peɪnt",
         "ukphone": "peɪnt",
         "trans": [
-            "油漆, 粉刷"
+            "<ruby>絵<rt>え</rt></ruby>のぐでかく"
         ]
     },
     {
         "name": "dining room",
         "trans": [
-            "饭厅"
+            "<ruby>食堂<rt>しょくどう</rt></ruby>",
+            "ダイニングルーム"
         ]
     },
     {
@@ -2606,7 +2640,7 @@
         "usphone": "drɔːr",
         "ukphone": "drɔː(r)",
         "trans": [
-            "抽屉"
+            "ひきだし"
         ]
     },
     {
@@ -2614,7 +2648,7 @@
         "usphone": "ˈduːveɪ",
         "ukphone": "ˈduːveɪ",
         "trans": [
-            "羽绒被"
+            "<ruby>羽毛<rt>うもう</rt></ruby>ぶとん"
         ]
     },
     {
@@ -2622,7 +2656,7 @@
         "usphone": "ˈɡɑːrdn",
         "ukphone": "ˈɡɑːdn",
         "trans": [
-            "花园, 庭园"
+            "<ruby>庭<rt>にわ</rt></ruby>"
         ]
     },
     {
@@ -2630,13 +2664,13 @@
         "usphone": "hɔːl",
         "ukphone": "hɔːl",
         "trans": [
-            "走廊, 大厅"
+            "ホール"
         ]
     },
     {
         "name": "in front of",
         "trans": [
-            "in a position that is further forward than sb/sth but not very far away"
+            "〜の<ruby>前<rt>まえ</rt></ruby>に"
         ],
         "usphone": "ɪn frʌnt ʌv",
         "ukphone": "ɪn frʌnt əv"
@@ -2646,7 +2680,7 @@
         "usphone": "rʌɡ",
         "ukphone": "rʌɡ",
         "trans": [
-            "厚地毯"
+            "じゅうたん"
         ]
     },
     {
@@ -2654,7 +2688,7 @@
         "usphone": "ˈteɪbl",
         "ukphone": "ˈteɪbl",
         "trans": [
-            "桌子"
+            "テーブル"
         ]
     },
     {
@@ -2662,7 +2696,7 @@
         "usphone": "ˈwɑːʃɪŋ",
         "ukphone": "ˈwɒʃɪŋ",
         "trans": [
-            "洗, 清洗, 洗涤"
+            "<ruby>洗<rt>あら</rt></ruby>うこと"
         ]
     },
     {
@@ -2670,7 +2704,8 @@
         "usphone": "ˈbæθruːm",
         "ukphone": "ˈbɑːθruːm",
         "trans": [
-            "浴室, 盥洗室"
+            "おふろば",
+            "<ruby>浴室<rt>よくしつ</rt></ruby>"
         ]
     },
     {
@@ -2678,7 +2713,7 @@
         "usphone": "bed",
         "ukphone": "bed",
         "trans": [
-            "床"
+            "ベッド"
         ]
     },
     {
@@ -2686,7 +2721,7 @@
         "usphone": "ˈbedruːm",
         "ukphone": "ˈbedruːm",
         "trans": [
-            "卧室"
+            "<ruby>寝室<rt>しんしつ</rt></ruby>"
         ]
     },
     {
@@ -2694,13 +2729,13 @@
         "usphone": "ˈkliːnɪŋ",
         "ukphone": "ˈkliːnɪŋ",
         "trans": [
-            "清洗,清除,清洁,去污"
+            "そうじ"
         ]
     },
     {
         "name": "coffee table",
         "trans": [
-            "咖啡茶几;放咖啡及摆杂志的小而长的矮桌"
+            "ローテーブル"
         ]
     },
     {
@@ -2708,7 +2743,7 @@
         "usphone": "ˈdekəreɪt",
         "ukphone": "ˈdekəreɪt",
         "trans": [
-            "装飾"
+            "かざる"
         ]
     },
     {
@@ -2716,7 +2751,7 @@
         "usphone": "ɪn",
         "ukphone": "ɪn",
         "trans": [
-            "在 内"
+            "〜の<ruby>中<rt>なか</rt></ruby>に"
         ]
     },
     {
@@ -2724,13 +2759,14 @@
         "usphone": "læmp",
         "ukphone": "læmp",
         "trans": [
-            "灯, 油灯, 灯火"
+            "ランプ"
         ]
     },
     {
         "name": "living room",
         "trans": [
-            "客厅,起居室"
+            "リビング",
+            "<ruby>居間<rt>いま</rt></ruby>"
         ],
         "usphone": "'lɪvɪŋ rum",
         "ukphone": "'lɪvɪŋ ru:m"
@@ -2740,7 +2776,8 @@
         "usphone": "ˈpɪktʃər",
         "ukphone": "ˈpɪktʃə(r)",
         "trans": [
-            "图画"
+            "<ruby>絵<rt>え</rt></ruby>",
+            "<ruby>写真<rt>しゃしん</rt></ruby>"
         ]
     },
     {
@@ -2748,7 +2785,7 @@
         "usphone": "ˈpɪloʊ",
         "ukphone": "ˈpɪləʊ",
         "trans": [
-            "枕头"
+            "まくら"
         ]
     },
     {
@@ -2756,7 +2793,7 @@
         "usphone": "plænt",
         "ukphone": "plɑːnt",
         "trans": [
-            "植物"
+            "<ruby>植物<rt>しょくぶつ</rt></ruby>"
         ]
     },
     {
@@ -2764,7 +2801,7 @@
         "usphone": "sɪŋk",
         "ukphone": "sɪŋk",
         "trans": [
-            "洗涤槽, 水槽"
+            "シンク"
         ]
     }
 ]

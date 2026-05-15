@@ -17,9 +17,12 @@ export default function DictionaryGroup({ groupedDictsByTag }: { groupedDictsByT
 
   useEffect(() => {
     const commonTags = findCommonValues(tagList, currentDictInfo.tags)
-    if (commonTags.length > 0) {
-      setCurrentTag(commonTags[0])
-    }
+    const nextTag = commonTags[0] ?? tagList[0] ?? ''
+
+    setCurrentTag((tag) => {
+      if (tagList.includes(tag)) return tag
+      return nextTag
+    })
   }, [currentDictInfo.tags, tagList])
 
   return (
