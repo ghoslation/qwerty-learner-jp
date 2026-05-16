@@ -2,10 +2,9 @@ import { KEY_SOUND_URL_PREFIX, SOUND_URL_PREFIX, keySoundResources } from '@/res
 import { hintSoundsConfigAtom, keySoundsConfigAtom } from '@/store'
 import noop from '@/utils/noop'
 import { useAtomValue, useSetAtom } from 'jotai'
-import { useEffect, useState } from 'react'
-import useSound from 'use-sound'
+import { useCallback, useEffect, useRef, useState } from 'react'
 
-export type PlayFunction = ReturnType<typeof useSound>[0]
+export type PlayFunction = () => void
 
 export default function useKeySound(): [PlayFunction, PlayFunction, PlayFunction] {
   const { isOpen: isKeyOpen, isOpenClickSound, volume: keyVolume, resource: keyResource } = useAtomValue(keySoundsConfigAtom)
@@ -19,6 +18,7 @@ export default function useKeySound(): [PlayFunction, PlayFunction, PlayFunction
     correctResource,
   } = useAtomValue(hintSoundsConfigAtom)
   const [keySoundUrl, setKeySoundUrl] = useState(`${KEY_SOUND_URL_PREFIX}${keyResource.filename}`)
+  const activeAudioRef = useRef<HTMLAudioElement[]>([])
 
   useEffect(() => {
     if (!keySoundResources.some((item) => item.filename === keyResource.filename && item.key === keyResource.key)) {
@@ -29,18 +29,50 @@ export default function useKeySound(): [PlayFunction, PlayFunction, PlayFunction
     }
   }, [keyResource, setKeySoundsConfig])
 
-  const [playClickSound] = useSound(keySoundUrl, {
-    volume: keyVolume,
-    interrupt: true,
-  })
-  const [playWrongSound] = useSound(`${SOUND_URL_PREFIX}${wrongResource.filename}`, {
-    volume: hintVolume,
-    interrupt: true,
-  })
-  const [playCorrectSound] = useSound(`${SOUND_URL_PREFIX}${correctResource.filename}`, {
-    volume: hintVolume,
-    interrupt: true,
-  })
+  useEffect(() => {
+    return () => {
+      activeAudioRef.current.forEach((audio) => {
+        audio.pause()
+        audio.src = ''
+      })
+      activeAudioRef.current = []
+    }
+  }, [])
+
+  const playAudio = useCallback((src: string, volume: number) => {
+    if (typeof Audio === 'undefined') return
+
+    const audio = new Audio(src)
+    audio.volume = volume
+    audio.preload = 'auto'
+    audio.currentTime = 0
+
+    const cleanup = () => {
+      audio.onended = null
+      audio.onerror = null
+      activeAudioRef.current = activeAudioRef.current.filter((item) => item !== audio)
+      audio.src = ''
+    }
+
+    audio.onended = cleanup
+    audio.onerror = cleanup
+    activeAudioRef.current.push(audio)
+
+    const playResult = audio.play()
+    if (playResult) {
+      playResult.catch(cleanup)
+    }
+  }, [])
+
+  const playClickSound = useCallback(() => {
+    playAudio(keySoundUrl, keyVolume)
+  }, [keySoundUrl, keyVolume, playAudio])
+  const playWrongSound = useCallback(() => {
+    playAudio(`${SOUND_URL_PREFIX}${wrongResource.filename}`, hintVolume)
+  }, [hintVolume, playAudio, wrongResource.filename])
+  const playCorrectSound = useCallback(() => {
+    playAudio(`${SOUND_URL_PREFIX}${correctResource.filename}`, hintVolume)
+  }, [hintVolume, playAudio, correctResource.filename])
 
   return [
     isKeyOpen && isOpenClickSound ? playClickSound : noop,

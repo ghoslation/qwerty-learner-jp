@@ -15,6 +15,7 @@ import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import {
   currentChapterAtom,
   currentDictInfoAtom,
+  isContinueOnWrongInputAtom,
   isIgnoreCaseAtom,
   isShowAnswerOnHoverAtom,
   isTextSelectableAtom,
@@ -39,6 +40,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   const wordDictationConfig = useAtomValue(wordDictationConfigAtom)
   const isTextSelectable = useAtomValue(isTextSelectableAtom)
   const isIgnoreCase = useAtomValue(isIgnoreCaseAtom)
+  const isContinueOnWrongInput = useAtomValue(isContinueOnWrongInputAtom)
   const isShowAnswerOnHover = useAtomValue(isShowAnswerOnHoverAtom)
   const saveWordRecord = useSaveWordRecord()
   // const wordLogUploader = useMixPanelWordLogUploader(state)
@@ -75,17 +77,82 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
     (updateAction: WordUpdateAction) => {
       switch (updateAction.type) {
         case 'add':
-          if (wordState.hasWrong) return
+          if (wordState.isFinished || wordState.displayWord.length === 0) return
 
-          if (updateAction.value === ' ') {
-            updateAction.event.preventDefault()
+          {
+            const inputChar = updateAction.value === ' ' ? EXPLICIT_SPACE : updateAction.value
+            if (updateAction.value === ' ') {
+              updateAction.event.preventDefault()
+            }
+
+            let shouldDispatchCorrect = false
+            let shouldDispatchWrong = false
+            const nextWrongCount = wordState.wrongCount + 1
+
             setWordState((state) => {
-              state.inputWord = state.inputWord + EXPLICIT_SPACE
+              const currentIndex = state.inputCount
+              const correctChar = state.displayWord[currentIndex]
+
+              if (correctChar == null) {
+                return
+              }
+
+              const isEqual = isIgnoreCase ? inputChar.toLowerCase() === correctChar.toLowerCase() : inputChar === correctChar
+
+              if (isEqual) {
+                state.inputWord = state.inputWord + inputChar
+                state.inputCount += 1
+                state.correctCount += 1
+                state.letterTimeArray.push(Date.now())
+                state.letterStates[currentIndex] = 'correct'
+                state.soundTrigger += 1
+                state.soundType = state.inputCount >= state.displayWord.length ? 'finish' : 'key'
+                shouldDispatchCorrect = true
+
+                if (state.inputCount >= state.displayWord.length) {
+                  state.isFinished = true
+                  state.endTime = getUtcStringForMixpanel()
+                }
+              } else {
+                state.hasWrong = true
+                state.hasMadeInputWrong = true
+                state.wrongCount += 1
+                state.letterStates[currentIndex] = 'wrong'
+                state.letterTimeArray = []
+                state.soundTrigger += 1
+                state.soundType = 'wrong'
+                shouldDispatchWrong = true
+
+                if (state.letterMistake[currentIndex]) {
+                  state.letterMistake[currentIndex].push(inputChar)
+                } else {
+                  state.letterMistake[currentIndex] = [inputChar]
+                }
+
+                if (isContinueOnWrongInput) {
+                  state.inputWord = state.inputWord + inputChar
+                  state.inputCount += 1
+
+                  if (state.inputCount >= state.displayWord.length) {
+                    state.isFinished = true
+                    state.endTime = getUtcStringForMixpanel()
+                    state.soundType = 'finish'
+                  }
+                }
+              }
+
+              const currentState = JSON.parse(JSON.stringify(state))
+              if (shouldDispatchCorrect) {
+                dispatch({ type: TypingStateActionType.REPORT_CORRECT_WORD })
+              }
+              if (shouldDispatchWrong) {
+                dispatch({ type: TypingStateActionType.REPORT_WRONG_WORD, payload: { letterMistake: currentState.letterMistake } })
+              }
             })
-          } else {
-            setWordState((state) => {
-              state.inputWord = state.inputWord + updateAction.value
-            })
+
+            if (currentChapter === 0 && state.chapterData.index === 0 && nextWrongCount >= 3) {
+              setShowTipAlert(true)
+            }
           }
           break
 
@@ -93,7 +160,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
           console.warn('unknown update type', updateAction)
       }
     },
-    [wordState.hasWrong, setWordState],
+    [dispatch, isContinueOnWrongInput, isIgnoreCase, playBeepSound, playHintSound, playKeySound, setWordState, wordState.displayWord.length, wordState.isFinished],
   )
 
   const handleHoverWord = useCallback((checked: boolean) => {
@@ -129,10 +196,22 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   )
 
   useEffect(() => {
-    if (wordState.inputWord.length === 0 && state.isTyping) {
+    if (wordState.correctCount + wordState.wrongCount === 0 && state.isTyping) {
       wordPronunciationIconRef.current?.play && wordPronunciationIconRef.current?.play()
     }
-  }, [state.isTyping, wordState.inputWord.length, wordPronunciationIconRef.current?.play])
+  }, [state.isTyping, wordState.correctCount, wordState.wrongCount, wordPronunciationIconRef.current?.play])
+
+  useEffect(() => {
+    if (wordState.soundTrigger === 0) return
+
+    if (wordState.soundType === 'wrong') {
+      playBeepSound()
+    } else if (wordState.soundType === 'finish') {
+      playHintSound()
+    } else {
+      playKeySound()
+    }
+  }, [playBeepSound, playHintSound, playKeySound, wordState.soundTrigger, wordState.soundType])
 
   const getLetterVisible = useCallback(
     (index: number) => {
@@ -166,80 +245,9 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   )
 
   useEffect(() => {
-    const inputLength = wordState.inputWord.length
-    /**
-     * TODO: 当用户输入错误时，会报错
-     * Cannot update a component (`App`) while rendering a different component (`WordComponent`). To locate the bad setState() call inside `WordComponent`, follow the stack trace as described in https://reactjs.org/link/setstate-in-render
-     * 目前不影响生产环境，猜测是因为开发环境下 react 会两次调用 useEffect 从而展示了这个 warning
-     * 但这终究是一个 bug，需要修复
-     */
-    if (wordState.hasWrong || inputLength === 0 || wordState.displayWord.length === 0) {
-      return
-    }
-
-    const inputChar = wordState.inputWord[inputLength - 1]
-    const correctChar = wordState.displayWord[inputLength - 1]
-    let isEqual = false
-    if (inputChar != undefined && correctChar != undefined) {
-      isEqual = isIgnoreCase ? inputChar.toLowerCase() === correctChar.toLowerCase() : inputChar === correctChar
-    }
-
-    if (isEqual) {
-      // 输入正确时
-      setWordState((state) => {
-        state.letterTimeArray.push(Date.now())
-        state.correctCount += 1
-      })
-
-      if (inputLength >= wordState.displayWord.length) {
-        // 完成输入时
-        setWordState((state) => {
-          state.letterStates[inputLength - 1] = 'correct'
-          state.isFinished = true
-          state.endTime = getUtcStringForMixpanel()
-        })
-        playHintSound()
-      } else {
-        setWordState((state) => {
-          state.letterStates[inputLength - 1] = 'correct'
-        })
-        playKeySound()
-      }
-
-      dispatch({ type: TypingStateActionType.REPORT_CORRECT_WORD })
-    } else {
-      // 出错时
-      playBeepSound()
-      setWordState((state) => {
-        state.letterStates[inputLength - 1] = 'wrong'
-        state.hasWrong = true
-        state.hasMadeInputWrong = true
-        state.wrongCount += 1
-        state.letterTimeArray = []
-
-        if (state.letterMistake[inputLength - 1]) {
-          state.letterMistake[inputLength - 1].push(inputChar)
-        } else {
-          state.letterMistake[inputLength - 1] = [inputChar]
-        }
-
-        const currentState = JSON.parse(JSON.stringify(state))
-        dispatch({ type: TypingStateActionType.REPORT_WRONG_WORD, payload: { letterMistake: currentState.letterMistake } })
-      })
-
-      if (currentChapter === 0 && state.chapterData.index === 0 && wordState.wrongCount >= 3) {
-        setShowTipAlert(true)
-      }
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [wordState.inputWord])
-
-  useEffect(() => {
     if (wordState.hasWrong) {
       const timer = setTimeout(() => {
         setWordState((state) => {
-          state.inputWord = ''
-          state.letterStates = new Array(state.letterStates.length).fill('normal')
           state.hasWrong = false
         })
       }, 300)

@@ -1,7 +1,15 @@
 import styles from './index.module.css'
-import { isIgnoreCaseAtom, isShowAnswerOnHoverAtom, isShowPrevAndNextWordAtom, isTextSelectableAtom, randomConfigAtom } from '@/store'
+import {
+  isContinueOnWrongInputAtom,
+  isIgnoreCaseAtom,
+  isShowAnswerOnHoverAtom,
+  isShowPrevAndNextWordAtom,
+  isTextSelectableAtom,
+  randomConfigAtom,
+} from '@/store'
 import { Switch } from '@headlessui/react'
 import * as ScrollArea from '@radix-ui/react-scroll-area'
+import classNames from 'classnames'
 import { useAtom } from 'jotai'
 import { useCallback } from 'react'
 
@@ -11,6 +19,7 @@ export default function AdvancedSetting() {
   const [isIgnoreCase, setIsIgnoreCase] = useAtom(isIgnoreCaseAtom)
   const [isTextSelectable, setIsTextSelectable] = useAtom(isTextSelectableAtom)
   const [isShowAnswerOnHover, setIsShowAnswerOnHover] = useAtom(isShowAnswerOnHoverAtom)
+  const [isContinueOnWrongInput, setIsContinueOnWrongInput] = useAtom(isContinueOnWrongInputAtom)
 
   const onToggleRandom = useCallback(
     (checked: boolean) => {
@@ -47,6 +56,13 @@ export default function AdvancedSetting() {
       setIsShowAnswerOnHover(checked)
     },
     [setIsShowAnswerOnHover],
+  )
+
+  const onToggleContinueOnWrongInput = useCallback(
+    (checked: boolean) => {
+      setIsContinueOnWrongInput(checked)
+    },
+    [setIsContinueOnWrongInput],
   )
 
   return (
@@ -115,6 +131,46 @@ export default function AdvancedSetting() {
               <span className="text-right text-xs font-normal leading-tight text-gray-600">{`ヒント表示${
                 isShowAnswerOnHover ? 'オン' : 'オフ'
               }`}</span>
+            </div>
+          </div>
+          <div className={styles.section}>
+            <span className={styles.sectionLabel}>ミス時の入力方法</span>
+            <span className={styles.sectionDescription}>
+              ミスした文字を次の文字として進めるか、正解するまで同じ位置で止めるかを選べます。
+            </span>
+            <div className="grid w-full grid-cols-2 gap-2 rounded-xl bg-gray-100 p-1 dark:bg-gray-700">
+              <button
+                type="button"
+                onClick={() => onToggleContinueOnWrongInput(true)}
+                className={classNames(
+                  'flex min-h-20 flex-col rounded-lg px-3 py-2 text-left transition-colors',
+                  isContinueOnWrongInput
+                    ? 'bg-white shadow-sm dark:bg-gray-800'
+                    : 'text-gray-500 hover:bg-white/70 dark:text-gray-300 dark:hover:bg-gray-800/60',
+                )}
+                aria-pressed={isContinueOnWrongInput}
+              >
+                <span className="text-sm font-medium text-gray-700 dark:text-gray-100">ミスしても進める</span>
+                <span className="mt-1 text-xs leading-tight text-gray-500 dark:text-gray-400">
+                  間違えた文字も1文字として扱い、そのまま次へ進みます。
+                </span>
+              </button>
+              <button
+                type="button"
+                onClick={() => onToggleContinueOnWrongInput(false)}
+                className={classNames(
+                  'flex min-h-20 flex-col rounded-lg px-3 py-2 text-left transition-colors',
+                  !isContinueOnWrongInput
+                    ? 'bg-white shadow-sm dark:bg-gray-800'
+                    : 'text-gray-500 hover:bg-white/70 dark:text-gray-300 dark:hover:bg-gray-800/60',
+                )}
+                aria-pressed={!isContinueOnWrongInput}
+              >
+                <span className="text-sm font-medium text-gray-700 dark:text-gray-100">正解まで止める</span>
+                <span className="mt-1 text-xs leading-tight text-gray-500 dark:text-gray-400">
+                  正しい文字を入れるまで、同じ位置で入力を続けます。
+                </span>
+              </button>
             </div>
           </div>
         </div>

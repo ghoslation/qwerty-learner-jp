@@ -14,12 +14,15 @@ export type WordState = {
   wrongCount: number
   startTime: string
   endTime: string
+  // 現在の判定位置
   inputCount: number
   correctCount: number
   letterTimeArray: number[]
   letterMistake: LetterMistakes
   // 用于随机隐藏字母功能
   randomLetterVisible: boolean[]
+  soundTrigger: number
+  soundType: 'key' | 'wrong' | 'finish'
 }
 
 export const initialWordState: WordState = {
@@ -37,4 +40,6 @@ export const initialWordState: WordState = {
   letterTimeArray: [],
   letterMistake: {},
   randomLetterVisible: [],
+  soundTrigger: 0,
+  soundType: 'key',
 }

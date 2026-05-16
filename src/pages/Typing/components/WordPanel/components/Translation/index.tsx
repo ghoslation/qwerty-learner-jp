@@ -12,12 +12,21 @@ export type TranslationProps = {
   onMouseLeave?: () => void
 }
 
+function getSpeechText(trans: string) {
+  return trans
+    .replace(/<rt>[\s\S]*?<\/rt>/g, '')
+    .replace(/<ruby>([\s\S]*?)<\/ruby>/g, '$1')
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 export default function Translation({ trans, showTrans = true, onMouseEnter, onMouseLeave }: TranslationProps) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
   const fontSizeConfig = useAtomValue(fontSizeConfigAtom)
   const isShowTransRead = window.speechSynthesis && pronunciationConfig.isTransRead
   const speechOptions = useMemo(() => ({ volume: pronunciationConfig.transVolume }), [pronunciationConfig.transVolume])
-  const plainTrans = useMemo(() => trans.replace(/<[^>]+>/g, ''), [trans])
+  const plainTrans = useMemo(() => getSpeechText(trans), [trans])
   const { speak, speaking } = useSpeech(plainTrans, speechOptions)
 
   const handleClickSoundIcon = useCallback(() => {
