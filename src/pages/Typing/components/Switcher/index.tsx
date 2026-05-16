@@ -42,18 +42,18 @@ export default function Switcher() {
 
   return (
     <div className="flex items-center justify-center gap-2">
-      <Tooltip content="サウンド設定">
+      <Tooltip content="サウンド設定" placement="bottom">
         <SoundSwitcher />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content="リピート設定">
+      <Tooltip className="h-7 w-7" content="リピート設定" placement="bottom">
         <LoopWordSwitcher />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content={`書き取りモード切替（${CTRL} + V）`}>
+      <Tooltip className="h-7 w-7" content={`書き取りモード切替（${CTRL} + V）`} placement="bottom">
         <WordDictationSwitcher />
       </Tooltip>
-      <Tooltip className="h-7 w-7" content={`翻訳表示（${CTRL} + Shift + V）`}>
+      <Tooltip className="h-7 w-7" content={`翻訳表示（${CTRL} + Shift + V）`} placement="bottom">
         <button
           className={`p-[2px] ${state?.isTransVisible ? 'text-indigo-500' : 'text-gray-500'} text-lg focus:outline-none`}
           type="button"
@@ -67,15 +67,15 @@ export default function Switcher() {
         </button>
       </Tooltip>
 
-      <Tooltip content="復習ノート">
+      <Tooltip content="復習ノート" placement="bottom">
         <ErrorBookButton />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content="統計">
+      <Tooltip className="h-7 w-7" content="統計" placement="bottom">
         <AnalysisButton />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content="ダークモードを切り替え">
+      <Tooltip className="h-7 w-7" content="ダークモードを切り替え" placement="bottom">
         <button
           className={`p-[2px] text-lg text-indigo-500 focus:outline-none`}
           type="button"
@@ -88,10 +88,10 @@ export default function Switcher() {
           {isOpenDarkMode ? <IconMoon className="icon" /> : <IconSun className="icon" />}
         </button>
       </Tooltip>
-      <Tooltip className="h-7 w-7" content="おすすめの指使い">
+      <Tooltip className="h-7 w-7" content="おすすめの指使い" placement="bottom">
         <HandPositionIllustration></HandPositionIllustration>
       </Tooltip>
-      <Tooltip content="設定">
+      <Tooltip content="設定" placement="bottom">
         <Setting />
       </Tooltip>
     </div>

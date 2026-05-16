@@ -91,7 +91,7 @@ body,
   }
 
   .tooltip {
-    @apply whitespace-nowrap rounded-lg bg-white px-2 py-1 text-xs text-gray-500 shadow-md dark:bg-gray-700 dark:text-gray-300;
+    @apply whitespace-nowrap rounded-lg bg-white px-2 py-1 text-center text-xs text-gray-500 shadow-md dark:bg-gray-700 dark:text-gray-300;
   }
 
   .switch-root {
