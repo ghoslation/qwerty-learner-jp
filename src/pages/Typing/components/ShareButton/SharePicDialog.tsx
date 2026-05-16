@@ -14,6 +14,7 @@ import { recordShareAction } from '@/utils'
 import { Dialog, Transition } from '@headlessui/react'
 import { useAtomValue } from 'jotai'
 import { Fragment, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react'
+import dayjs from 'dayjs'
 import IconXMark from '~icons/heroicons/x-mark-solid'
 
 const PIC_RATIO = 3
@@ -72,7 +73,7 @@ export default function SharePicDialog({ showState, setShowState, randomChoose }
     const { saveAs } = await import('file-saver')
 
     if (imageURL) {
-      saveAs(imageURL, 'Qwerty-learner.png')
+      saveAs(imageURL, `Qwerty-learner-JP-${dayjs().format('YYYYMMDD_HHmm')}.png`)
       recordShareAction('download')
     }
   }, [imageURL])
@@ -169,7 +170,6 @@ export default function SharePicDialog({ showState, setShowState, randomChoose }
               <div className="ml-5 mt-2 self-start text-xs text-gray-600">{`第 ${currentChapter + 1} 章`}</div>
             </div>
             <div className="mb-3 ml-5 mt-auto">
-              <div className="text-xs">Qwerty.kaiyi.cool</div>
               <div className="mt-1 text-xs font-normal text-gray-400">キーボードで学ぶ単語・タイピング練習アプリ</div>
             </div>
             <div className="absolute -right-9 bottom-10 ">
