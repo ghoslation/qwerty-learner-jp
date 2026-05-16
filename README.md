@@ -7,6 +7,9 @@
 Qwerty Learner JP は、[Qwerty Learner](https://github.com/RealKai42/qwerty-learner) から
 <ruby>分<rt>わ</rt></ruby>かれたフォークです。
 
+<img width="1698" height="817" alt="スクリーンショット 2026-05-16 22 23 17" src="https://github.com/user-attachments/assets/11cbefaa-3dbf-4515-842a-095ad4bdf9f1" />
+
+
 このフォークでは、アプリの<ruby>画面<rt>がめん</rt></ruby>を
 <ruby>日本語<rt>にほんご</rt></ruby>で<ruby>使<rt>つか</rt></ruby>いやすくすることを
 <ruby>大切<rt>たいせつ</rt></ruby>にしています。
@@ -21,7 +24,7 @@ Qwerty Learner JP は、[Qwerty Learner](https://github.com/RealKai42/qwerty-lea
 - <ruby>漢字<rt>かんじ</rt></ruby>にふりがなをつけやすくする
 - `<ruby>` タグをそのまま<ruby>文字<rt>もじ</rt></ruby>として出さず、ふりがなとして<ruby>表示<rt>ひょうじ</rt></ruby>する
 - <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>学習<rt>がくしゅう</rt></ruby>に合うように、<ruby>画面<rt>がめん</rt></ruby>の文を<ruby>調整<rt>ちょうせい</rt></ruby>する
-
+- <ruby>複数<rt>ふくすう</rt></ruby>ユーザの<ruby>間<rt>あいだ</rt></ruby>で<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えができるようになった。
 ## もとのプロジェクト
 
 もとのプロジェクトはこちらです。
