@@ -1,7 +1,9 @@
 import type { Dictionary, Word } from '@/typings'
+import { currentUserIdAtom } from '@/store'
 import { db } from '@/utils/db'
 import type { WordRecord } from '@/utils/db/record'
 import { wordListFetcher } from '@/utils/wordListFetcher'
+import { useAtomValue } from 'jotai'
 import { useEffect, useState } from 'react'
 import useSWR from 'swr'
 
@@ -21,6 +23,7 @@ export type TErrorWordData = {
 
 export default function useErrorWordData(dict: Dictionary, reload: boolean) {
   const { data: wordList, error, isLoading } = useSWR(dict?.url, wordListFetcher)
+  const userId = useAtomValue(currentUserIdAtom)
 
   const [errorWordData, setErrorData] = useState<TErrorWordData[]>([])
 
@@ -28,9 +31,9 @@ export default function useErrorWordData(dict: Dictionary, reload: boolean) {
     if (!wordList) return
 
     db.wordRecords
-      .where('wrongCount')
-      .above(0)
-      .filter((record) => record.dict === dict.id)
+      .where('userId')
+      .equals(userId)
+      .filter((record) => record.wrongCount > 0 && record.dict === dict.id)
       .toArray()
       .then((records) => {
         const groupRecords: groupRecord[] = []
@@ -82,7 +85,7 @@ export default function useErrorWordData(dict: Dictionary, reload: boolean) {
 
         setErrorData(res)
       })
-  }, [dict.id, wordList, reload])
+  }, [dict.id, wordList, reload, userId])
 
   return { errorWordData, isLoading, error }
 }

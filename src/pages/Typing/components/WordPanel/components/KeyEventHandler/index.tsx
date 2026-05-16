@@ -1,7 +1,13 @@
 import type { WordUpdateAction } from '../InputHandler'
 import { TypingContext } from '@/pages/Typing/store'
+import { isTypingInputSuspended } from '@/pages/Typing/utils/inputSuspension'
 import { isChineseSymbol, isLegal } from '@/utils'
 import { useCallback, useContext, useEffect } from 'react'
+
+function isTypingTarget(target: EventTarget | null) {
+  if (!(target instanceof HTMLElement)) return false
+  return Boolean(target.closest('input, textarea, select, [contenteditable="true"]'))
+}
 
 export default function KeyEventHandler({ updateInput }: { updateInput: (updateObj: WordUpdateAction) => void }) {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
@@ -10,6 +16,9 @@ export default function KeyEventHandler({ updateInput }: { updateInput: (updateO
   const onKeydown = useCallback(
     (e: KeyboardEvent) => {
       const char = e.key
+
+      if (isTypingInputSuspended()) return
+      if (isTypingTarget(e.target)) return
 
       if (isChineseSymbol(char)) {
         alert('IMEが有効になっています。IMEをオフにしてから入力してください。')

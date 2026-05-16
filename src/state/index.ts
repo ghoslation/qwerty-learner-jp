@@ -1,6 +1,7 @@
 import atomForConfig from './atomForConfig'
 import { reviewInfoAtom } from './reviewInfoAtom'
-import { DISMISS_START_CARD_DATE_KEY, defaultFontSizeConfig } from '@/constants'
+import { createUserScopedAtom, currentUserIdAtom, getStoredActiveUserId, userProfilesAtom } from './userProfiles'
+import { defaultFontSizeConfig } from '@/constants'
 import { idDictionaryMap } from '@/resources/dictionary'
 import { correctSoundResources, keySoundResources, wrongSoundResources } from '@/resources/soundResource'
 import type {
@@ -14,20 +15,21 @@ import type {
 } from '@/typings'
 import type { ReviewRecord } from '@/utils/db/record'
 import { atom } from 'jotai'
-import { atomWithStorage } from 'jotai/utils'
 
-export const currentDictIdAtom = atomWithStorage('currentDict', 'cet4')
+export { currentUserIdAtom, getStoredActiveUserId, userProfilesAtom }
+
+export const currentDictIdAtom = createUserScopedAtom('currentDictId', 'cet4')
+
 export const currentDictInfoAtom = atom<Dictionary>((get) => {
   const id = get(currentDictIdAtom)
   let dict = idDictionaryMap[id]
-  // dict が存在しない場合、cet4 を返す。Typing で DictId の存在をチェックし、存在しない場合は cet4 にリセット
   if (!dict) {
     dict = idDictionaryMap.cet4
   }
   return dict
 })
 
-export const currentChapterAtom = atomWithStorage('currentChapter', 0)
+export const currentChapterAtom = createUserScopedAtom('currentChapter', 0)
 
 export const loopWordConfigAtom = atomForConfig<{ times: LoopWordTimesOption }>('loopWordConfig', {
   times: 1,
@@ -70,20 +72,21 @@ export const randomConfigAtom = atomForConfig('randomConfig', {
   isOpen: false,
 })
 
-export const isShowPrevAndNextWordAtom = atomWithStorage('isShowPrevAndNextWord', true)
+export const isShowPrevAndNextWordAtom = createUserScopedAtom('isShowPrevAndNextWord', true)
 
-export const isIgnoreCaseAtom = atomWithStorage('isIgnoreCase', true)
+export const isIgnoreCaseAtom = createUserScopedAtom('isIgnoreCase', true)
 
-export const isShowAnswerOnHoverAtom = atomWithStorage('isShowAnswerOnHover', true)
+export const isShowAnswerOnHoverAtom = createUserScopedAtom('isShowAnswerOnHover', true)
 
-export const isTextSelectableAtom = atomWithStorage('isTextSelectable', false)
+export const isTextSelectableAtom = createUserScopedAtom('isTextSelectable', false)
 
-export const isContinueOnWrongInputAtom = atomWithStorage('isContinueOnWrongInput', false)
+export const isContinueOnWrongInputAtom = createUserScopedAtom('isContinueOnWrongInput', false)
 
 export const reviewModeInfoAtom = reviewInfoAtom({
   isReviewMode: false,
   reviewRecord: undefined as ReviewRecord | undefined,
 })
+
 export const isReviewModeAtom = atom((get) => get(reviewModeInfoAtom).isReviewMode)
 
 export const phoneticConfigAtom = atomForConfig('phoneticConfig', {
@@ -91,7 +94,10 @@ export const phoneticConfigAtom = atomForConfig('phoneticConfig', {
   type: 'us' as PhoneticType,
 })
 
-export const isOpenDarkModeAtom = atomWithStorage('isOpenDarkModeAtom', window.matchMedia('(prefers-color-scheme: dark)').matches)
+export const isOpenDarkModeAtom = createUserScopedAtom(
+  'isOpenDarkMode',
+  typeof window !== 'undefined' ? window.matchMedia('(prefers-color-scheme: dark)').matches : false,
+)
 
 export const isShowSkipAtom = atom(false)
 
@@ -110,10 +116,6 @@ export const wordDictationConfigAtom = atomForConfig('wordDictationConfig', {
   openBy: 'auto' as WordDictationOpenBy,
 })
 
-export const dismissStartCardDateAtom = atomWithStorage<Date | null>(DISMISS_START_CARD_DATE_KEY, null)
+export const dismissStartCardDateAtom = createUserScopedAtom<string | null>('dismissStartCardDate', null)
 
-// Enhanced version promotion popup state
-export const hasSeenEnhancedPromotionAtom = atomWithStorage('hasSeenEnhancedPromotion', false)
-
-// for dev test
-//   dismissStartCardDateAtom = atom<Date | null>(new Date())
+export const hasSeenEnhancedPromotionAtom = createUserScopedAtom('hasSeenEnhancedPromotion', false)

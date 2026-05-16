@@ -4,6 +4,7 @@ import type { Word } from '@/typings'
 export interface IWordRecord {
   word: string
   timeStamp: number
+  userId: string
   // 正常章节为 dictKey, 其他功能则为对应的类型
   dict: string
   // 用户可能是在 错题/其他类似组件中 进行的练习则为 null, start from 0
@@ -24,15 +25,25 @@ export interface LetterMistakes {
 export class WordRecord implements IWordRecord {
   word: string
   timeStamp: number
+  userId: string
   dict: string
   chapter: number | null
   timing: number[]
   wrongCount: number
   mistakes: LetterMistakes
 
-  constructor(word: string, dict: string, chapter: number | null, timing: number[], wrongCount: number, mistakes: LetterMistakes) {
+  constructor(
+    word: string,
+    dict: string,
+    chapter: number | null,
+    timing: number[],
+    wrongCount: number,
+    mistakes: LetterMistakes,
+    userId = 'user-1',
+  ) {
     this.word = word
     this.timeStamp = getUTCUnixTimestamp()
+    this.userId = userId
     this.dict = dict
     this.chapter = chapter
     this.timing = timing
@@ -46,6 +57,7 @@ export class WordRecord implements IWordRecord {
 }
 
 export interface IChapterRecord {
+  userId: string
   // 正常章节为 dictKey, 其他功能则为对应的类型
   dict: string
   // 在错题场景中为 -1
@@ -68,6 +80,7 @@ export interface IChapterRecord {
 }
 
 export class ChapterRecord implements IChapterRecord {
+  userId: string
   dict: string
   chapter: number | null
   timeStamp: number
@@ -89,7 +102,9 @@ export class ChapterRecord implements IChapterRecord {
     correctWordIndexes: number[],
     wordNumber: number,
     wordRecordIds: number[],
+    userId = 'user-1',
   ) {
+    this.userId = userId
     this.dict = dict
     this.chapter = chapter
     this.timeStamp = getUTCUnixTimestamp()
@@ -107,7 +122,11 @@ export class ChapterRecord implements IChapterRecord {
   }
 
   get inputAccuracy() {
-    return Math.round((this.correctCount / this.correctCount + this.wrongCount) * 100)
+    const totalCount = this.correctCount + this.wrongCount
+    if (totalCount === 0) {
+      return 0
+    }
+    return Math.round((this.correctCount / totalCount) * 100)
   }
 
   get wordAccuracy() {
@@ -117,6 +136,7 @@ export class ChapterRecord implements IChapterRecord {
 
 export interface IReviewRecord {
   id?: number
+  userId: string
   dict: string
   // 当前练习进度
   index: number
@@ -130,13 +150,15 @@ export interface IReviewRecord {
 
 export class ReviewRecord implements IReviewRecord {
   id?: number
+  userId: string
   dict: string
   index: number
   createTime: number
   isFinished: boolean
   words: Word[]
 
-  constructor(dict: string, words: Word[]) {
+  constructor(dict: string, words: Word[], userId = 'user-1') {
+    this.userId = userId
     this.dict = dict
     this.index = 0
     this.createTime = getUTCUnixTimestamp()

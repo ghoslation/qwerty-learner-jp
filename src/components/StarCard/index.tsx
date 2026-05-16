@@ -1,8 +1,7 @@
-import { DISMISS_START_CARD_DATE_KEY } from '@/constants'
 import { dismissStartCardDateAtom } from '@/store'
 import { IS_MAC_OS, recordStarAction } from '@/utils'
 import { Transition } from '@headlessui/react'
-import { useSetAtom } from 'jotai'
+import { useAtomValue, useSetAtom } from 'jotai'
 import { useCallback, useEffect, useLayoutEffect, useMemo, useState } from 'react'
 import IconStar from '~icons/material-symbols/star'
 import IconStarOutline from '~icons/material-symbols/star-outline'
@@ -12,19 +11,18 @@ export default function StarCard() {
   const [countdown, setCountdown] = useState(5)
   const [isCounting, setIsCounting] = useState(false)
   const setDismissStartCardDate = useSetAtom(dismissStartCardDateAtom)
+  const dismissStartCardDate = useAtomValue(dismissStartCardDateAtom)
   const [isShow, setIsShow] = useState(false)
 
   useLayoutEffect(() => {
-    // 直接使用 jotai 的 dismissStartCardDate 其值先是默认值，然后才是 localStorage 中的值
-    const value = window.localStorage.getItem(DISMISS_START_CARD_DATE_KEY) as Date | null
-    if (value === null) {
+    if (!dismissStartCardDate) {
       setIsShow(true)
     }
-  }, [])
+  }, [dismissStartCardDate])
 
   const onClickCloseStar = useCallback(() => {
     setIsShow(false)
-    setDismissStartCardDate(new Date())
+    setDismissStartCardDate(new Date().toISOString())
     if (!isCounting) {
       recordStarAction('dismiss')
     }
@@ -32,7 +30,7 @@ export default function StarCard() {
 
   const onClickWantStar = useCallback(() => {
     setIsCounting(true)
-    setDismissStartCardDate(new Date())
+    setDismissStartCardDate(new Date().toISOString())
     recordStarAction('star')
   }, [setDismissStartCardDate])
 

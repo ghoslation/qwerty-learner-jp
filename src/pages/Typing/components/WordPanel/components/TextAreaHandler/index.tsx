@@ -1,5 +1,6 @@
 import type { WordUpdateAction } from '../InputHandler'
 import { TypingContext } from '@/pages/Typing/store'
+import { isTypingInputSuspended } from '@/pages/Typing/utils/inputSuspension'
 import type { FormEvent } from 'react'
 import { useCallback, useContext, useEffect, useRef } from 'react'
 
@@ -10,6 +11,10 @@ export default function TextAreaHandler({ updateInput }: { updateInput: (updateO
 
   useEffect(() => {
     if (!textareaRef.current) return
+    if (isTypingInputSuspended()) {
+      textareaRef.current.blur()
+      return
+    }
 
     if (state.isTyping) {
       textareaRef.current.focus()
@@ -31,6 +36,7 @@ export default function TextAreaHandler({ updateInput }: { updateInput: (updateO
 
   const onBlur = useCallback(() => {
     if (!textareaRef.current) return
+    if (isTypingInputSuspended()) return
 
     if (state.isTyping) {
       textareaRef.current.focus()

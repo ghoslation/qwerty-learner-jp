@@ -1,7 +1,7 @@
 import type { ReviewRecord } from '@/utils/db/record'
 import { putWordReviewRecord } from '@/utils/db/review-record'
 import { atom } from 'jotai'
-import { atomWithStorage } from 'jotai/utils'
+import { createUserScopedAtom } from './userProfiles'
 
 type TReviewInfoAtomData = {
   isReviewMode: boolean
@@ -9,7 +9,7 @@ type TReviewInfoAtomData = {
 }
 
 export function reviewInfoAtom(initialValue: TReviewInfoAtomData) {
-  const storageAtom = atomWithStorage('reviewModeInfo', initialValue)
+  const storageAtom = createUserScopedAtom('reviewModeInfo', initialValue)
 
   return atom(
     (get) => {

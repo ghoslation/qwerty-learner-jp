@@ -2,7 +2,7 @@ import type { IChapterRecord, IReviewRecord, IRevisionDictRecord, IWordRecord, L
 import { ChapterRecord, ReviewRecord, WordRecord } from './record'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import type { TypingState } from '@/pages/Typing/store/type'
-import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom } from '@/store'
+import { currentChapterAtom, currentDictIdAtom, currentUserIdAtom, isReviewModeAtom } from '@/store'
 import type { Table } from 'dexie'
 import Dexie from 'dexie'
 import { useAtomValue } from 'jotai'
@@ -31,6 +31,23 @@ class RecordDB extends Dexie {
       chapterRecords: '++id,timeStamp,dict,chapter,time,[dict+chapter]',
       reviewRecords: '++id,dict,createTime,isFinished',
     })
+    this.version(4)
+      .stores({
+        wordRecords: '++id,userId,word,timeStamp,dict,chapter,wrongCount,[userId+dict+chapter]',
+        chapterRecords: '++id,userId,timeStamp,dict,chapter,time,[userId+dict+chapter]',
+        reviewRecords: '++id,userId,dict,createTime,isFinished,[userId+dict]',
+      })
+      .upgrade(async (trans) => {
+        await trans.table('wordRecords').toCollection().modify((record) => {
+          if (!record.userId) record.userId = 'user-1'
+        })
+        await trans.table('chapterRecords').toCollection().modify((record) => {
+          if (!record.userId) record.userId = 'user-1'
+        })
+        await trans.table('reviewRecords').toCollection().modify((record) => {
+          if (!record.userId) record.userId = 'user-1'
+        })
+      })
   }
 }
 
@@ -44,6 +61,7 @@ export function useSaveChapterRecord() {
   const currentChapter = useAtomValue(currentChapterAtom)
   const isRevision = useAtomValue(isReviewModeAtom)
   const dictID = useAtomValue(currentDictIdAtom)
+  const userId = useAtomValue(currentUserIdAtom)
 
   const saveChapterRecord = useCallback(
     (typingState: TypingState) => {
@@ -63,10 +81,11 @@ export function useSaveChapterRecord() {
         correctWordIndexes,
         words.length,
         wordRecordIds ?? [],
+        userId,
       )
       db.chapterRecords.add(chapterRecord)
     },
-    [currentChapter, dictID, isRevision],
+    [currentChapter, dictID, isRevision, userId],
   )
 
   return saveChapterRecord
@@ -81,6 +100,7 @@ export function useSaveWordRecord() {
   const isRevision = useAtomValue(isReviewModeAtom)
   const currentChapter = useAtomValue(currentChapterAtom)
   const dictID = useAtomValue(currentDictIdAtom)
+  const userId = useAtomValue(currentUserIdAtom)
 
   const { dispatch } = useContext(TypingContext) ?? {}
 
@@ -102,7 +122,7 @@ export function useSaveWordRecord() {
         timing.push(diff)
       }
 
-      const wordRecord = new WordRecord(word, dictID, isRevision ? -1 : currentChapter, timing, wrongCount, letterMistake)
+      const wordRecord = new WordRecord(word, dictID, isRevision ? -1 : currentChapter, timing, wrongCount, letterMistake, userId)
 
       let dbID = -1
       try {
@@ -115,21 +135,22 @@ export function useSaveWordRecord() {
         dispatch({ type: TypingStateActionType.SET_IS_SAVING_RECORD, payload: false })
       }
     },
-    [currentChapter, dictID, dispatch, isRevision],
+    [currentChapter, dictID, dispatch, isRevision, userId],
   )
 
   return saveWordRecord
 }
 
 export function useDeleteWordRecord() {
+  const userId = useAtomValue(currentUserIdAtom)
   const deleteWordRecord = useCallback(async (word: string, dict: string) => {
     try {
-      const deletedCount = await db.wordRecords.where({ word, dict }).delete()
+      const deletedCount = await db.wordRecords.where('userId').equals(userId).filter((record) => record.word === word && record.dict === dict).delete()
       return deletedCount
     } catch (error) {
       console.error(`删除单词记录时出错：`, error)
     }
-  }, [])
+  }, [userId])
 
   return { deleteWordRecord }
 }

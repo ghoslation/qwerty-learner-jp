@@ -14,7 +14,7 @@ import { DonateCard } from '@/components/DonateCard'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
-import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
+import { currentChapterAtom, currentDictIdAtom, currentUserIdAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
 import { IsDesktop, isLegal } from '@/utils'
 import { useSaveChapterRecord } from '@/utils/db'
 import { useMixPanelChapterLogUploader } from '@/utils/mixpanel'
@@ -22,6 +22,12 @@ import { useAtom, useAtomValue, useSetAtom } from 'jotai'
 import type React from 'react'
 import { useCallback, useEffect, useState } from 'react'
 import { useImmerReducer } from 'use-immer'
+import { isTypingInputSuspended } from './utils/inputSuspension'
+
+function isTypingTarget(target: EventTarget | null) {
+  if (!(target instanceof HTMLElement)) return false
+  return Boolean(target.closest('input, textarea, select, [contenteditable="true"]'))
+}
 
 const App: React.FC = () => {
   const [state, dispatch] = useImmerReducer(typingReducer, structuredClone(initialState))
@@ -30,6 +36,7 @@ const App: React.FC = () => {
 
   const [currentDictId, setCurrentDictId] = useAtom(currentDictIdAtom)
   const setCurrentChapter = useSetAtom(currentChapterAtom)
+  const currentUserId = useAtomValue(currentUserIdAtom)
   const randomConfig = useAtomValue(randomConfigAtom)
   const chapterLogUploader = useMixPanelChapterLogUploader(state)
   const saveChapterRecord = useSaveChapterRecord()
@@ -80,6 +87,9 @@ const App: React.FC = () => {
   useEffect(() => {
     if (!state.isTyping) {
       const onKeyDown = (e: KeyboardEvent) => {
+        if (isTypingInputSuspended()) return
+        if (isTypingTarget(e.target)) return
+
         if (!isLoading && e.key !== 'Enter' && (isLegal(e.key) || e.key === ' ') && !e.altKey && !e.ctrlKey && !e.metaKey) {
           e.preventDefault()
           dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })
@@ -101,7 +111,7 @@ const App: React.FC = () => {
       })
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [words])
+  }, [words, currentUserId])
 
   useEffect(() => {
     // ユーザーが章を完了し、単語レコードデータの保存が完了したら、章レコードデータを記録

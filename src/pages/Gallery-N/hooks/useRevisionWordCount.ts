@@ -1,12 +1,15 @@
+import { currentUserIdAtom } from '@/store'
 import { db } from '@/utils/db'
+import { useAtomValue } from 'jotai'
 import { useEffect, useState } from 'react'
 
 export function useRevisionWordCount(dictID: string) {
+  const userId = useAtomValue(currentUserIdAtom)
   const [wordCount, setWordCount] = useState<number>(0)
 
   useEffect(() => {
     const fetchWordCount = async () => {
-      const count = await getRevisionWordCount(dictID)
+      const count = await getRevisionWordCount(dictID, userId)
       setWordCount(count)
     }
 
@@ -14,16 +17,16 @@ export function useRevisionWordCount(dictID: string) {
       fetchWordCount()
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [dictID])
+  }, [dictID, userId])
 
   return wordCount
 }
 
-async function getRevisionWordCount(dict: string): Promise<number> {
+async function getRevisionWordCount(dict: string, userId: string): Promise<number> {
   const wordCount = await db.wordRecords
-    .where('dict')
-    .equals(dict)
-    .and((wordRecord) => wordRecord.wrongCount > 0)
+    .where('userId')
+    .equals(userId)
+    .filter((wordRecord) => wordRecord.dict === dict && wordRecord.wrongCount > 0)
     .toArray()
     .then((wordRecords) => {
       const res = new Map()

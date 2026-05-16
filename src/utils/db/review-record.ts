@@ -1,25 +1,28 @@
 import { db } from '.'
 import { ReviewRecord } from './record'
 import type { TErrorWordData } from '@/pages/Gallery-N/hooks/useErrorWords'
+import { currentUserIdAtom, getStoredActiveUserId } from '@/store'
 import type { Word } from '@/typings'
+import { useAtomValue } from 'jotai'
 import { useEffect, useState } from 'react'
 
 export function useGetLatestReviewRecord(dictID: string) {
   const [wordReviewRecord, setWordReviewRecord] = useState<ReviewRecord | undefined>(undefined)
+  const userId = useAtomValue(currentUserIdAtom)
   useEffect(() => {
     const fetchWordReviewRecords = async () => {
-      const record = await getReviewRecords(dictID)
+      const record = await getReviewRecords(dictID, userId)
       setWordReviewRecord(record)
     }
     if (dictID) {
       fetchWordReviewRecords()
     }
-  }, [dictID])
+  }, [dictID, userId])
   return wordReviewRecord
 }
 
-async function getReviewRecords(dictID: string): Promise<ReviewRecord | undefined> {
-  const records = await db.reviewRecords.where('dict').equals(dictID).toArray()
+async function getReviewRecords(dictID: string, userId: string): Promise<ReviewRecord | undefined> {
+  const records = await db.reviewRecords.where('[userId+dict]').equals([userId, dictID]).toArray()
 
   const latestRecord = records.sort((a, b) => a.createTime - b.createTime).pop()
 
@@ -32,6 +35,7 @@ type TRankedErrorWordData = TErrorWordData & {
 }
 
 export async function generateNewWordReviewRecord(dictID: string, errorData: TErrorWordData[]) {
+  const userId = getStoredActiveUserId()
   const errorCountRankings = [...errorData].sort((a, b) => a.errorCount - b.errorCount)
   const latestErrorTimeRankings = [...errorData].sort((a, b) => a.latestErrorTime - b.latestErrorTime)
 
@@ -57,12 +61,12 @@ export async function generateNewWordReviewRecord(dictID: string, errorData: TEr
     })
     .map((item) => item.originData)
 
-  const record = new ReviewRecord(dictID, sortedWords)
+  const record = new ReviewRecord(dictID, sortedWords, userId)
 
   await db.reviewRecords.put(record)
   return record
 }
 
 export async function putWordReviewRecord(record: ReviewRecord) {
-  db.reviewRecords.put(record)
+  await db.reviewRecords.put(record)
 }
